@@ -1,7 +1,8 @@
 #!/data/data/com.termux/files/usr/bin/bash
 set -e
 
-REPO="https://github.com/dang123456789/Ninja-Termux.git"
+REPO_ZIP="https://github.com/dang123456789/Ninja-Termux/archive/refs/heads/main.zip"
+TMP="$PREFIX/tmp/ninja-install"
 BASE="$HOME/Ninja-Termux"
 
 echo "======================================"
@@ -10,18 +11,18 @@ echo "======================================"
 
 echo "[1] Cài package..."
 pkg update -y
-pkg install -y git openjdk-21 mariadb php
+pkg install -y curl unzip openjdk-21 mariadb php
 
-echo "[2] Tải/cập nhật Ninja-Termux..."
+echo "[2] Tải Ninja từ GitHub..."
 
-if [ -d "$BASE/.git" ]; then
-    cd "$BASE"
-    git pull --ff-only
-else
-    rm -rf "$BASE"
-    git clone "$REPO" "$BASE"
-    cd "$BASE"
-fi
+rm -rf "$TMP"
+mkdir -p "$TMP"
+
+curl -L "$REPO_ZIP" -o "$TMP/ninja.zip"
+unzip -q "$TMP/ninja.zip" -d "$TMP"
+
+rm -rf "$BASE"
+mv "$TMP/Ninja-Termux-main" "$BASE"
 
 echo "[3] Khởi tạo MariaDB..."
 
@@ -72,20 +73,44 @@ echo "[9] Tạo lệnh ninja..."
 
 cat > "$PREFIX/bin/ninja" <<'NINJA'
 #!/data/data/com.termux/files/usr/bin/bash
-cd "$HOME/Ninja-Termux"
-bash start.sh
+
+if pgrep -f 'java.*server.Server' >/dev/null 2>&1; then
+    echo "Ninja Server đang chạy!"
+    exit 0
+fi
+
+if ! pgrep -x mariadbd >/dev/null 2>&1; then
+    mkdir -p "$PREFIX/var/run/mysqld"
+    mariadbd-safe \
+        --datadir="$PREFIX/var/lib/mysql" \
+        --socket="$PREFIX/var/run/mysqld/mysqld.sock" \
+        >/dev/null 2>&1 &
+    sleep 5
+fi
+
+mariadb -u root -e "USE nso; SELECT 1;" >/dev/null
+
+cd "$HOME/ninja"
+
+echo "======================================"
+echo "       NINJA SERVER START"
+echo "======================================"
+echo "Port: 14444"
+echo "======================================"
+
+exec java -cp "Ninja.jar:lib-old/*" server.Server
 NINJA
 
 chmod +x "$PREFIX/bin/ninja"
+
+rm -rf "$TMP"
 
 echo
 echo "======================================"
 echo "       CÀI ĐẶT HOÀN TẤT"
 echo "======================================"
 echo
-echo "Chạy server bằng:"
-echo
-echo "    ninja"
+echo "Chạy server:"
+echo "ninja"
 echo
 echo "Port: 14444"
-echo
