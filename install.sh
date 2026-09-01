@@ -1,9 +1,8 @@
 #!/data/data/com.termux/files/usr/bin/bash
 set -e
 
-REPO_ZIP="https://github.com/dang123456789/Ninja-Termux/archive/refs/heads/main.zip"
-TMP="$PREFIX/tmp/ninja-install"
-BASE="$HOME/Ninja-Termux"
+BASE="$(cd "$(dirname "$0")" && pwd)"
+SOCKET="$PREFIX/var/run/mysqld/mysqld.sock"
 
 echo "======================================"
 echo "       NINJA TERMUX INSTALL"
@@ -11,22 +10,11 @@ echo "======================================"
 
 echo "[1] Cài package..."
 pkg update -y
-pkg install -y curl unzip openjdk-21 mariadb php
+pkg install -y openjdk-21 mariadb php curl unzip
 
-echo "[2] Tải Ninja từ GitHub..."
-
-rm -rf "$TMP"
-mkdir -p "$TMP"
-
-curl -L "$REPO_ZIP" -o "$TMP/ninja.zip"
-unzip -q "$TMP/ninja.zip" -d "$TMP"
-
-rm -rf "$BASE"
-mv "$TMP/Ninja-Termux-main" "$BASE"
-
-echo "[3] Khởi tạo MariaDB..."
-
+echo "[2] Khởi tạo MariaDB..."
 mkdir -p "$PREFIX/var/run/mysqld"
+mkdir -p "$HOME/mariadb-log"
 
 if [ ! -d "$PREFIX/var/lib/mysql/mysql" ]; then
     mariadb-install-db \
@@ -35,82 +23,68 @@ if [ ! -d "$PREFIX/var/lib/mysql/mysql" ]; then
         --datadir="$PREFIX/var/lib/mysql"
 fi
 
-echo "[4] Khởi động MariaDB..."
+echo "[3] Khởi động MariaDB..."
 
 if ! pgrep -x mariadbd >/dev/null 2>&1; then
     mariadbd-safe \
         --datadir="$PREFIX/var/lib/mysql" \
-        --socket="$PREFIX/var/run/mysqld/mysqld.sock" \
+        --socket="$SOCKET" \
+        --log-error="$HOME/mariadb-log/error.log" \
         >/dev/null 2>&1 &
-    sleep 5
 fi
 
-echo "[5] Tạo database nso..."
+for i in $(seq 1 15); do
+    if [ -S "$SOCKET" ]; then
+        break
+    fi
+    sleep 1
+done
 
-mariadb -u root <<'SQL'
+if [ ! -S "$SOCKET" ]; then
+    echo "LỖI: MariaDB không khởi động được."
+    cat "$HOME/mariadb-log/error.log" 2>/dev/null || true
+    exit 1
+fi
+
+echo "[4] Tạo database nso..."
+
+mariadb --socket="$SOCKET" -u root <<'SQL'
 CREATE DATABASE IF NOT EXISTS nso
 CHARACTER SET utf8mb4
 COLLATE utf8mb4_general_ci;
 SQL
 
-echo "[6] Import database..."
+echo "[5] Import database nso..."
 
-mariadb -u root nso < "$BASE/database/nso.sql"
+mariadb --socket="$SOCKET" -u root nso < "$BASE/database/nso.sql"
 
-echo "[7] Cài Ninja..."
+echo "[6] Cài Ninja..."
 
 rm -rf "$HOME/ninja"
 mkdir -p "$HOME/ninja"
 cp -a "$BASE/ninja/dist/." "$HOME/ninja/"
 
-echo "[8] Cài Web..."
+echo "[7] Cài lệnh start..."
 
-rm -rf "$HOME/web"
-mkdir -p "$HOME/web"
-cp -a "$BASE/web/." "$HOME/web/"
+cp "$BASE/start.sh" "$HOME/start.sh"
+chmod +x "$HOME/start.sh"
 
-echo "[9] Tạo lệnh ninja..."
-
-cat > "$PREFIX/bin/ninja" <<'NINJA'
-#!/data/data/com.termux/files/usr/bin/bash
-
-if pgrep -f 'java.*server.Server' >/dev/null 2>&1; then
-    echo "Ninja Server đang chạy!"
-    exit 0
+if [ -f "$BASE/start-web.sh" ]; then
+    cp "$BASE/start-web.sh" "$HOME/start-web.sh"
+    chmod +x "$HOME/start-web.sh"
 fi
-
-if ! pgrep -x mariadbd >/dev/null 2>&1; then
-    mkdir -p "$PREFIX/var/run/mysqld"
-    mariadbd-safe \
-        --datadir="$PREFIX/var/lib/mysql" \
-        --socket="$PREFIX/var/run/mysqld/mysqld.sock" \
-        >/dev/null 2>&1 &
-    sleep 5
-fi
-
-mariadb -u root -e "USE nso; SELECT 1;" >/dev/null
-
-cd "$HOME/ninja"
-
-echo "======================================"
-echo "       NINJA SERVER START"
-echo "======================================"
-echo "Port: 14444"
-echo "======================================"
-
-exec java -cp "Ninja.jar:lib-old/*" server.Server
-NINJA
-
-chmod +x "$PREFIX/bin/ninja"
-
-rm -rf "$TMP"
 
 echo
 echo "======================================"
 echo "       CÀI ĐẶT HOÀN TẤT"
 echo "======================================"
 echo
-echo "Chạy server:"
-echo "ninja"
+echo "Ninja: $HOME/ninja"
+echo "Database: nso"
 echo
-echo "Port: 14444"
+echo "Chạy server:"
+echo "bash ~/start.sh"
+echo
+echo "Web:"
+echo "bash ~/start-web.sh"
+echo "======================================"
