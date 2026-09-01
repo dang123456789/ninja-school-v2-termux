@@ -2,24 +2,33 @@
 mysqli_report(MYSQLI_REPORT_OFF);
 
 $socket = getenv('PREFIX') . '/var/run/mysqld/mysqld.sock';
-$db = new mysqli('localhost', 'root', '', 'nso', 0, $socket);
+
+$db = new mysqli(
+    'localhost',
+    'root',
+    '',
+    'nso',
+    0,
+    $socket
+);
 
 if ($db->connect_error) {
-    die("❌ Không kết nối được MariaDB: " . htmlspecialchars($db->connect_error));
+    die('Không kết nối được MariaDB: ' . htmlspecialchars($db->connect_error));
 }
+
 $db->set_charset('utf8mb4');
 
-function esc($s) {
-    return htmlspecialchars((string)$s, ENT_QUOTES, 'UTF-8');
+function e($v) {
+    return htmlspecialchars((string)$v, ENT_QUOTES, 'UTF-8');
 }
 
-function ident($s) {
-    return '`' . str_replace('`', '``', $s) . '`';
+function ident($v) {
+    return '`' . str_replace('`', '``', $v) . '`';
 }
 
-/* Lấy danh sách bảng */
 $tables = [];
 $r = $db->query("SHOW TABLES");
+
 while ($r && ($row = $r->fetch_row())) {
     $tables[] = $row[0];
 }
@@ -30,155 +39,208 @@ if (!in_array($table, $tables, true)) {
     $table = $tables[0] ?? '';
 }
 
-$cols = [];
+$columns = [];
+
 if ($table) {
     $r = $db->query("SHOW COLUMNS FROM " . ident($table));
+
     while ($r && ($row = $r->fetch_assoc())) {
-        $cols[] = $row;
+        $columns[] = $row;
     }
 }
 
-/* Xác định khóa chính */
-$pk = null;
-foreach ($cols as $c) {
+$primary = null;
+
+foreach ($columns as $c) {
     if ($c['Key'] === 'PRI') {
-        $pk = $c['Field'];
+        $primary = $c['Field'];
         break;
     }
 }
 
-/* Xóa */
-if (isset($_GET['delete']) && $pk && isset($_GET['id'])) {
+$message = '';
+
+/* DELETE */
+if (
+    isset($_GET['delete']) &&
+    isset($_GET['id']) &&
+    $primary &&
+    $table
+) {
     $stmt = $db->prepare(
         "DELETE FROM " . ident($table) .
-        " WHERE " . ident($pk) . " = ?"
+        " WHERE " . ident($primary) . " = ?"
     );
 
     if ($stmt) {
-        $id = $_GET['id'];
+        $id = (string)$_GET['id'];
         $stmt->bind_param('s', $id);
         $stmt->execute();
         $stmt->close();
-    }
 
-    header("Location: ?table=" . urlencode($table));
-    exit;
+        header(
+            "Location: ?table=" .
+            urlencode($table) .
+            "&msg=deleted"
+        );
+        exit;
+    }
 }
 
-/* Thêm / sửa */
-$message = '';
-
+/* SAVE */
 if ($_SERVER['REQUEST_METHOD'] === 'POST') {
-    $action = $_POST['action'] ?? '';
 
-    if ($action === 'save') {
-        $values = $_POST['data'] ?? [];
-        $editId = $_POST['edit_id'] ?? '';
+    $values = $_POST['data'] ?? [];
+    $editId = $_POST['edit_id'] ?? '';
 
-        if ($editId !== '' && $pk) {
-            $sets = [];
-            $params = [];
-            $types = '';
+    if ($editId !== '' && $primary) {
 
-            foreach ($cols as $c) {
-                $field = $c['Field'];
+        $sets = [];
+        $params = [];
+        $types = '';
 
-                if ($field === $pk) continue;
-                if (!array_key_exists($field, $values)) continue;
+        foreach ($columns as $c) {
 
-                $sets[] = ident($field) . " = ?";
-                $params[] = $values[$field];
-                $types .= 's';
+            $field = $c['Field'];
+
+            if ($field === $primary) {
+                continue;
             }
 
-            if ($sets) {
-                $sql = "UPDATE " . ident($table) .
-                       " SET " . implode(',', $sets) .
-                       " WHERE " . ident($pk) . " = ?";
-
-                $params[] = $editId;
-                $types .= 's';
-
-                $stmt = $db->prepare($sql);
-
-                if ($stmt) {
-                    $stmt->bind_param($types, ...$params);
-                    $stmt->execute();
-                    $stmt->close();
-                    $message = 'Đã cập nhật dữ liệu';
-                }
-            }
-        } else {
-            $fields = [];
-            $marks = [];
-            $params = [];
-            $types = '';
-
-            foreach ($cols as $c) {
-                $field = $c['Field'];
-
-                if (!array_key_exists($field, $values)) continue;
-
-                $value = $values[$field];
-
-                if ($c['Extra'] === 'auto_increment' && $value === '') {
-                    continue;
-                }
-
-                $fields[] = ident($field);
-                $marks[] = '?';
-                $params[] = $value;
-                $types .= 's';
+            if (!array_key_exists($field, $values)) {
+                continue;
             }
 
-            if ($fields) {
-                $sql = "INSERT INTO " . ident($table) .
-                       " (" . implode(',', $fields) . ")" .
-                       " VALUES (" . implode(',', $marks) . ")";
+            $sets[] = ident($field) . " = ?";
+            $params[] = $values[$field];
+            $types .= 's';
+        }
 
-                $stmt = $db->prepare($sql);
+        if ($sets) {
 
-                if ($stmt) {
-                    $stmt->bind_param($types, ...$params);
-                    $stmt->execute();
-                    $stmt->close();
-                    $message = 'Đã thêm dữ liệu';
-                }
+            $sql =
+                "UPDATE " . ident($table) .
+                " SET " . implode(',', $sets) .
+                " WHERE " . ident($primary) . " = ?";
+
+            $params[] = $editId;
+            $types .= 's';
+
+            $stmt = $db->prepare($sql);
+
+            if ($stmt) {
+                $stmt->bind_param($types, ...$params);
+                $stmt->execute();
+                $stmt->close();
+
+                header(
+                    "Location: ?table=" .
+                    urlencode($table) .
+                    "&msg=updated"
+                );
+                exit;
+            }
+        }
+
+    } else {
+
+        $fields = [];
+        $marks = [];
+        $params = [];
+        $types = '';
+
+        foreach ($columns as $c) {
+
+            $field = $c['Field'];
+
+            if (!array_key_exists($field, $values)) {
+                continue;
+            }
+
+            if (
+                $c['Extra'] === 'auto_increment' &&
+                $values[$field] === ''
+            ) {
+                continue;
+            }
+
+            $fields[] = ident($field);
+            $marks[] = '?';
+            $params[] = $values[$field];
+            $types .= 's';
+        }
+
+        if ($fields) {
+
+            $sql =
+                "INSERT INTO " . ident($table) .
+                " (" . implode(',', $fields) . ")" .
+                " VALUES (" . implode(',', $marks) . ")";
+
+            $stmt = $db->prepare($sql);
+
+            if ($stmt) {
+                $stmt->bind_param($types, ...$params);
+                $stmt->execute();
+                $stmt->close();
+
+                header(
+                    "Location: ?table=" .
+                    urlencode($table) .
+                    "&msg=added"
+                );
+                exit;
             }
         }
     }
 }
 
-/* Dữ liệu cần sửa */
+/* EDIT */
 $edit = null;
 
-if (isset($_GET['edit']) && $pk) {
+if (isset($_GET['edit']) && $primary) {
+
     $stmt = $db->prepare(
         "SELECT * FROM " . ident($table) .
-        " WHERE " . ident($pk) . " = ? LIMIT 1"
+        " WHERE " . ident($primary) .
+        " = ? LIMIT 1"
     );
 
     if ($stmt) {
-        $id = $_GET['edit'];
+
+        $id = (string)$_GET['edit'];
+
         $stmt->bind_param('s', $id);
         $stmt->execute();
+
         $result = $stmt->get_result();
-        $edit = $result->fetch_assoc();
+
+        if ($result) {
+            $edit = $result->fetch_assoc();
+        }
+
         $stmt->close();
     }
 }
 
-/* Tìm kiếm */
-$search = trim($_GET['q'] ?? '');
+/* SEARCH */
+$q = trim($_GET['q'] ?? '');
 
 $sql = "SELECT * FROM " . ident($table);
 
-if ($search !== '' && $cols) {
-    $parts = [];
+if ($q !== '' && $columns) {
 
-    foreach ($cols as $c) {
-        $parts[] = "CAST(" . ident($c['Field']) . " AS CHAR) LIKE '%" .
-                   $db->real_escape_string($search) . "%'";
+    $parts = [];
+    $safeQ = $db->real_escape_string($q);
+
+    foreach ($columns as $c) {
+
+        $parts[] =
+            "CAST(" .
+            ident($c['Field']) .
+            " AS CHAR) LIKE '%" .
+            $safeQ .
+            "%'";
     }
 
     $sql .= " WHERE " . implode(" OR ", $parts);
@@ -189,239 +251,317 @@ $sql .= " LIMIT 100";
 $data = $table ? $db->query($sql) : false;
 
 $total = 0;
+
 if ($table) {
-    $count = $db->query("SELECT COUNT(*) AS c FROM " . ident($table));
-    if ($count) {
-        $total = (int)$count->fetch_assoc()['c'];
+
+    $r = $db->query(
+        "SELECT COUNT(*) AS total FROM " .
+        ident($table)
+    );
+
+    if ($r) {
+        $total = (int)$r->fetch_assoc()['total'];
     }
 }
+
+$msg = $_GET['msg'] ?? '';
 ?>
 <!DOCTYPE html>
+
 <html lang="vi">
+
 <head>
+
 <meta charset="UTF-8">
-<meta name="viewport" content="width=device-width,initial-scale=1">
-<title>NRO VIP Panel</title>
+
+<meta name="viewport"
+content="width=device-width,initial-scale=1">
+
+<title>NRO VIP PANEL</title>
 
 <style>
-*{box-sizing:border-box}
 
-body{
+* {
+    box-sizing:border-box;
+}
+
+body {
     margin:0;
-    background:#080812;
+    background:
+        radial-gradient(circle at top,#24104d,#090914 45%);
     color:#eee;
     font-family:Arial,sans-serif;
 }
 
-.top{
-    height:65px;
+.header {
+    height:70px;
     display:flex;
     align-items:center;
     padding:0 20px;
-    background:linear-gradient(90deg,#16102c,#11172d);
-    border-bottom:1px solid #30264d;
+    background:rgba(10,9,22,.95);
+    border-bottom:1px solid #3b2b62;
     position:sticky;
     top:0;
-    z-index:10;
+    z-index:20;
 }
 
-.logo{
-    font-size:21px;
+.logo {
+    font-size:22px;
     font-weight:bold;
 }
 
-.layout{
-    display:flex;
-    min-height:calc(100vh - 65px);
+.logo span {
+    color:#b56cff;
 }
 
-.side{
-    width:245px;
-    background:#0d0c17;
-    border-right:1px solid #28223d;
-    padding:15px;
+.layout {
+    display:flex;
+    min-height:calc(100vh - 70px);
+}
+
+.sidebar {
+    width:250px;
+    background:rgba(12,11,23,.96);
+    border-right:1px solid #2c2343;
+    padding:16px;
     overflow:auto;
 }
 
-.side-title{
-    color:#999;
+.title {
+    color:#8e83a7;
     font-size:12px;
-    margin:10px 8px;
     text-transform:uppercase;
+    margin:8px;
 }
 
-.side a{
+.sidebar a {
     display:block;
-    padding:11px 12px;
-    margin:4px 0;
+    padding:12px;
+    margin:5px 0;
+    border-radius:10px;
     color:#bbb;
     text-decoration:none;
-    border-radius:9px;
 }
 
-.side a:hover,
-.side a.active{
-    background:linear-gradient(90deg,#24174b,#181d3d);
+.sidebar a:hover,
+.sidebar a.active {
+    background:linear-gradient(90deg,#402075,#202454);
     color:#fff;
 }
 
-.main{
+.main {
     flex:1;
     padding:20px;
     min-width:0;
 }
 
-.stats{
+.stats {
     display:grid;
     grid-template-columns:repeat(3,1fr);
     gap:15px;
     margin-bottom:18px;
 }
 
-.stat,.box{
-    background:#11101e;
-    border:1px solid #29233f;
-    border-radius:13px;
+.card {
+    background:rgba(18,16,32,.92);
+    border:1px solid #332750;
+    border-radius:15px;
     padding:18px;
+    box-shadow:0 10px 30px rgba(0,0,0,.25);
 }
 
-.stat-title{
-    color:#999;
+.stat-name {
+    color:#9e96ad;
     font-size:13px;
 }
 
-.stat-value{
-    font-size:25px;
+.stat-value {
+    font-size:26px;
     font-weight:bold;
     margin-top:7px;
 }
 
-h2{
+h2 {
     margin-top:0;
 }
 
-.search{
+.search {
     display:flex;
     gap:8px;
-    margin-bottom:15px;
+    margin-bottom:18px;
 }
 
-input,textarea{
+input,
+textarea {
     width:100%;
-    background:#090914;
+    background:#090913;
+    border:1px solid #3a2d58;
     color:#fff;
-    border:1px solid #373050;
-    border-radius:8px;
-    padding:10px;
+    border-radius:9px;
+    padding:11px;
     outline:none;
 }
 
-button,.btn{
+input:focus,
+textarea:focus {
+    border-color:#a96cff;
+}
+
+button,
+.btn {
     border:0;
-    border-radius:8px;
     padding:10px 14px;
-    color:white;
-    background:#39217c;
+    border-radius:9px;
+    color:#fff;
+    background:#5426a5;
     text-decoration:none;
     cursor:pointer;
     display:inline-block;
 }
 
-.btn.edit{background:#284f82}
-.btn.delete{background:#752d3e}
+button:hover,
+.btn:hover {
+    filter:brightness(1.2);
+}
 
-.table-wrap{
+.edit {
+    background:#24558c;
+}
+
+.delete {
+    background:#842e45;
+}
+
+.cancel {
+    background:#44404f;
+}
+
+.notice {
+    padding:12px;
+    margin-bottom:15px;
+    border-radius:9px;
+    background:#17382f;
+    border:1px solid #286650;
+}
+
+.form-grid {
+    display:grid;
+    grid-template-columns:repeat(2,1fr);
+    gap:14px;
+}
+
+.field label {
+    display:block;
+    margin-bottom:6px;
+    color:#aaa;
+    font-size:13px;
+}
+
+.table-wrap {
     overflow:auto;
 }
 
-table{
+table {
     width:100%;
-    min-width:700px;
+    min-width:750px;
     border-collapse:collapse;
 }
 
-th,td{
-    padding:10px;
-    border-bottom:1px solid #29243a;
+th,
+td {
+    padding:11px;
+    border-bottom:1px solid #2b2639;
     text-align:left;
     vertical-align:top;
 }
 
-th{
-    background:#181628;
-    position:sticky;
-    top:0;
+th {
+    background:#19152a;
 }
 
-td{
-    max-width:300px;
+td {
+    max-width:350px;
     word-break:break-word;
 }
 
-.actions{
+.actions {
     white-space:nowrap;
 }
 
-.form-grid{
-    display:grid;
-    grid-template-columns:repeat(2,1fr);
-    gap:13px;
+.badge {
+    display:inline-block;
+    padding:5px 8px;
+    background:#28184a;
+    border-radius:7px;
+    margin:2px;
+    color:#cdb8ef;
 }
 
-.field label{
-    display:block;
-    color:#aaa;
-    font-size:13px;
-    margin-bottom:6px;
+hr {
+    border:0;
+    border-top:1px solid #2b2639;
+    margin:25px 0;
 }
 
-.notice{
-    padding:11px;
-    margin-bottom:15px;
-    background:#162c27;
-    border:1px solid #27584d;
-    border-radius:8px;
-}
+@media(max-width:800px) {
 
-@media(max-width:800px){
-    .layout{display:block}
-    .side{
+    .layout {
+        display:block;
+    }
+
+    .sidebar {
         width:100%;
-        border-right:0;
-        border-bottom:1px solid #28223d;
         max-height:220px;
+        border-right:0;
+        border-bottom:1px solid #2c2343;
     }
 
-    .main{padding:12px}
+    .main {
+        padding:12px;
+    }
 
-    .stats{
+    .stats {
         grid-template-columns:1fr;
     }
 
-    .form-grid{
+    .form-grid {
         grid-template-columns:1fr;
     }
+
 }
+
 </style>
+
 </head>
 
 <body>
 
-<div class="top">
-    <div class="logo">🐉 NRO VIP</div>
+<header class="header">
+
+<div class="logo">
+🐉 <span>NRO VIP</span> PANEL
 </div>
+
+</header>
 
 <div class="layout">
 
-<aside class="side">
+<aside class="sidebar">
 
-<div class="side-title">Database • nso</div>
+<div class="title">
+Database • nso
+</div>
 
 <?php foreach ($tables as $t): ?>
-<a class="<?= $t === $table ? 'active' : '' ?>"
-   href="?table=<?=urlencode($t)?>">
-   🗃️ <?=esc($t)?>
+
+<a
+class="<?= $t === $table ? 'active' : '' ?>"
+href="?table=<?=urlencode($t)?>">
+
+🗃️ <?=e($t)?>
+
 </a>
+
 <?php endforeach; ?>
 
 </aside>
@@ -430,80 +570,152 @@ td{
 
 <div class="stats">
 
-<div class="stat">
-<div class="stat-title">Database</div>
-<div class="stat-value">nso</div>
+<div class="card">
+
+<div class="stat-name">
+DATABASE
 </div>
 
-<div class="stat">
-<div class="stat-title">Số bảng</div>
-<div class="stat-value"><?=count($tables)?></div>
-</div>
-
-<div class="stat">
-<div class="stat-title">Số dòng bảng</div>
-<div class="stat-value"><?=number_format($total)?></div>
+<div class="stat-value">
+nso
 </div>
 
 </div>
 
-<?php if ($message): ?>
-<div class="notice">✅ <?=esc($message)?></div>
+<div class="card">
+
+<div class="stat-name">
+SỐ BẢNG
+</div>
+
+<div class="stat-value">
+<?=count($tables)?>
+</div>
+
+</div>
+
+<div class="card">
+
+<div class="stat-name">
+SỐ DÒNG
+</div>
+
+<div class="stat-value">
+<?=number_format($total)?>
+</div>
+
+</div>
+
+</div>
+
+<?php if ($msg): ?>
+
+<div class="notice">
+
+<?php if ($msg === 'added'): ?>
+✅ Đã thêm dữ liệu.
+
+<?php elseif ($msg === 'updated'): ?>
+✅ Đã lưu thay đổi.
+
+<?php elseif ($msg === 'deleted'): ?>
+🗑️ Đã xóa dữ liệu.
+
 <?php endif; ?>
 
-<div class="box">
+</div>
 
-<h2>🗃️ <?=esc($table)?></h2>
+<?php endif; ?>
 
-<form class="search" method="get">
-<input type="hidden" name="table" value="<?=esc($table)?>">
-<input name="q" value="<?=esc($search)?>" placeholder="🔍 Tìm kiếm trong bảng...">
-<button>🔎 Tìm</button>
-</form>
+<div class="card">
+
+<h2>
+🗃️ <?=e($table ?: 'Dashboard')?>
+</h2>
 
 <?php if ($table): ?>
 
-<h3><?= $edit ? '✏️ Sửa dữ liệu' : '➕ Thêm dữ liệu' ?></h3>
+<form class="search" method="get">
+
+<input
+type="hidden"
+name="table"
+value="<?=e($table)?>">
+
+<input
+name="q"
+value="<?=e($q)?>"
+placeholder="🔎 Tìm kiếm dữ liệu...">
+
+<button>
+Tìm
+</button>
+
+</form>
+
+<h3>
+<?= $edit ? '✏️ Chỉnh sửa' : '➕ Thêm dữ liệu' ?>
+</h3>
 
 <form method="post">
-<input type="hidden" name="action" value="save">
+
+<input
+type="hidden"
+name="action"
+value="save">
 
 <?php if ($edit): ?>
-<input type="hidden" name="edit_id" value="<?=esc($edit[$pk])?>">
+
+<input
+type="hidden"
+name="edit_id"
+value="<?=e($edit[$primary])?>">
+
 <?php endif; ?>
 
 <div class="form-grid">
 
-<?php foreach ($cols as $c): ?>
+<?php foreach ($columns as $c): ?>
 
 <?php
+
 $field = $c['Field'];
+
 $value = $edit[$field] ?? '';
-$readonly = ($edit && $field === $pk);
+
+$isPrimary =
+    $primary === $field;
+
 ?>
 
 <div class="field">
 
 <label>
-<?=esc($field)?>
-<?php if ($c['Key'] === 'PRI'): ?> 🔑<?php endif; ?>
+
+<?=e($field)?>
+
+<?php if ($isPrimary): ?>
+🔑
+<?php endif; ?>
+
 </label>
 
-<?php if (stripos($c['Type'],'text') !== false ||
-          stripos($c['Type'],'blob') !== false): ?>
+<?php if (
+    stripos($c['Type'],'text') !== false ||
+    stripos($c['Type'],'blob') !== false
+): ?>
 
 <textarea
-name="data[<?=esc($field)?>]"
-rows="3"
-<?= $readonly ? 'readonly' : '' ?>
-><?=esc($value)?></textarea>
+name="data[<?=e($field)?>]"
+rows="4"
+><?=e($value)?></textarea>
 
 <?php else: ?>
 
 <input
-name="data[<?=esc($field)?>]"
-value="<?=esc($value)?>"
-<?= $readonly ? 'readonly' : '' ?>
+name="data[<?=e($field)?>]"
+value="<?=e($value)?>"
+<?=($edit && $isPrimary) ? 'readonly' : ''?>
 >
 
 <?php endif; ?>
@@ -517,33 +729,53 @@ value="<?=esc($value)?>"
 <br>
 
 <button type="submit">
-<?= $edit ? '💾 Lưu thay đổi' : '➕ Thêm dữ liệu' ?>
+
+<?= $edit ? '💾 LƯU THAY ĐỔI' : '➕ THÊM DỮ LIỆU' ?>
+
 </button>
 
 <?php if ($edit): ?>
-<a class="btn" href="?table=<?=urlencode($table)?>">Hủy</a>
+
+<a
+class="btn cancel"
+href="?table=<?=urlencode($table)?>">
+
+Hủy
+
+</a>
+
 <?php endif; ?>
 
 </form>
 
-<hr style="border-color:#29243a;margin:25px 0">
+<hr>
 
-<h3>📊 Dữ liệu</h3>
+<h3>
+📊 Dữ liệu
+</h3>
 
 <div class="table-wrap">
 
 <table>
 
 <thead>
+
 <tr>
 
-<?php foreach ($cols as $c): ?>
-<th><?=esc($c['Field'])?></th>
+<?php foreach ($columns as $c): ?>
+
+<th>
+<?=e($c['Field'])?>
+</th>
+
 <?php endforeach; ?>
 
-<th>Thao tác</th>
+<th>
+THAO TÁC
+</th>
 
 </tr>
+
 </thead>
 
 <tbody>
@@ -554,28 +786,38 @@ value="<?=esc($value)?>"
 
 <tr>
 
-<?php foreach ($cols as $c): ?>
-<td><?=esc($row[$c['Field']] ?? '')?></td>
+<?php foreach ($columns as $c): ?>
+
+<td>
+<?=e($row[$c['Field']] ?? '')?>
+</td>
+
 <?php endforeach; ?>
 
 <td class="actions">
 
-<?php if ($pk): ?>
+<?php if ($primary): ?>
 
-<a class="btn edit"
-href="?table=<?=urlencode($table)?>&edit=<?=urlencode($row[$pk])?>">
+<a
+class="btn edit"
+href="?table=<?=urlencode($table)?>&edit=<?=urlencode($row[$primary])?>">
+
 ✏️ Sửa
+
 </a>
 
-<a class="btn delete"
-href="?table=<?=urlencode($table)?>&delete=1&id=<?=urlencode($row[$pk])?>"
+<a
+class="btn delete"
+href="?table=<?=urlencode($table)?>&delete=1&id=<?=urlencode($row[$primary])?>"
 onclick="return confirm('Bạn chắc chắn muốn xóa bản ghi này?')">
+
 🗑️ Xóa
+
 </a>
 
 <?php else: ?>
 
-<span style="color:#888">Không có khóa chính</span>
+Không có khóa chính
 
 <?php endif; ?>
 
@@ -588,9 +830,13 @@ onclick="return confirm('Bạn chắc chắn muốn xóa bản ghi này?')">
 <?php else: ?>
 
 <tr>
-<td colspan="<?=count($cols)+1?>">
+
+<td colspan="<?=count($columns)+1?>">
+
 Không có dữ liệu.
+
 </td>
+
 </tr>
 
 <?php endif; ?>
@@ -601,12 +847,20 @@ Không có dữ liệu.
 
 </div>
 
+<?php else: ?>
+
+<p>
+Chọn bảng ở menu bên trái.
+</p>
+
 <?php endif; ?>
 
 </div>
 
 </main>
+
 </div>
 
 </body>
+
 </html>
