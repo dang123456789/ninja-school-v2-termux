@@ -1,18 +1,22 @@
 #!/data/data/com.termux/files/usr/bin/bash
 
-WEB="$HOME/web"
+PANEL="$HOME/web"
 
-echo "======================================"
-echo "          NINJA WEB"
-echo "======================================"
+echo
+echo "=========================================="
+echo "              NRO PANEL"
+echo "=========================================="
+echo
 echo "Web: http://127.0.0.1:8080"
-echo "======================================"
+echo
+echo "Mở trình duyệt:"
+echo "http://127.0.0.1:8080"
+echo
 
-if [ ! -d "$WEB" ]; then
-    echo "LỖI: Không tìm thấy thư mục $WEB"
-    exit 1
-fi
+cd "$HOME" || exit 1
 
-cd "$WEB" || exit 1
-
-php -S 127.0.0.1:8080 -t "$WEB"
+exec php \
+    -d opcache.enable=0 \
+    -d opcache.enable_cli=0 \
+    -S 127.0.0.1:8080 \
+    -t "$PANEL"
