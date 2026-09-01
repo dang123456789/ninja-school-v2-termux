@@ -1,4 +1,3 @@
-Enter password: 
 /*M!999999\- enable the sandbox mode */ 
 -- MariaDB dump 10.19-12.3.2-MariaDB, for Android (aarch64)
 --
