@@ -1,3 +1,4 @@
+cat > install.sh <<'EOF'
 #!/data/data/com.termux/files/usr/bin/bash
 set -e
 
@@ -108,3 +109,6 @@ echo
 echo "Web:"
 echo "bash ~/start-web.sh"
 echo "======================================"
+EOF
+
+chmod +x install.sh
