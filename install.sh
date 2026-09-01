@@ -1,6 +1,3 @@
-cd /sdcard/Download/srcvip/Ninja-Termux-Backup
-
-cat > install.sh <<'INSTALL'
 #!/data/data/com.termux/files/usr/bin/bash
 
 set -u
@@ -325,10 +322,3 @@ echo "🌐 Panel:"
 echo "   http://127.0.0.1:8080"
 echo
 echo "=========================================="
-INSTALL
-
-chmod +x install.sh
-
-git add install.sh
-git commit -m "Complete Ninja Termux installer"
-git push origin main
