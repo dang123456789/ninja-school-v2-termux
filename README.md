@@ -1,7 +1,8 @@
-cd /sdcard/Download/srcvip/Ninja-Termux-Backup && cat > README.md <<'EOF'
-# Ninja-Termux
+# 🥷 Ninja Termux
 
-## Cài đặt nhanh
+## 📥 Cài đặt
+
+Copy lệnh dưới đây vào Termux:
 
 ```bash
-pkg update -y && pkg install -y git && git clone https://github.com/dang123456789/Ninja-Termux.git && cd Ninja-Termux && bash install.sh
+curl -fsSL https://raw.githubusercontent.com/dang123456789/Ninja-Termux/main/install.sh | bash
