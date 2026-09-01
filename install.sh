@@ -99,12 +99,10 @@ echo "======================================"
 echo "       CÀI ĐẶT HOÀN TẤT"
 echo "======================================"
 echo
-echo "Ninja: $HOME/ninja"
-echo "Database: nso"
-echo
 echo "Chạy server:"
-echo "bash ~/start.sh"
+echo "  bash ~/start.sh"
 echo
-echo "Web:"
-echo "bash ~/start-web.sh"
+echo "▶ Chạy web:"
+echo "  bash ~/start-web.sh"
+echo
 echo "======================================"
