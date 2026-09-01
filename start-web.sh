@@ -2,21 +2,21 @@
 
 PANEL="$HOME/web"
 
-echo
+clear
 echo "=========================================="
-echo "              NRO PANEL"
+echo "              NRO VIP PANEL"
 echo "=========================================="
 echo
-echo "Web: http://127.0.0.1:8080"
+echo "Panel: http://127.0.0.1:8080"
+echo "Database: nso"
 echo
-echo "Mở trình duyệt:"
-echo "http://127.0.0.1:8080"
+echo "Đang khởi động..."
 echo
 
 cd "$HOME" || exit 1
 
 exec php \
-    -d opcache.enable=0 \
-    -d opcache.enable_cli=0 \
-    -S 127.0.0.1:8080 \
-    -t "$PANEL"
+  -d opcache.enable=0 \
+  -d opcache.enable_cli=0 \
+  -S 127.0.0.1:8080 \
+  -t "$PANEL"
