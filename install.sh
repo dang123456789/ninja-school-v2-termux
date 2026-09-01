@@ -1,6 +1,3 @@
-cd /sdcard/Download/srcvip/Ninja-Termux-Backup
-
-cat > install.sh <<'EOF'
 #!/data/data/com.termux/files/usr/bin/bash
 set -e
 
@@ -92,10 +89,3 @@ echo "    ninja"
 echo
 echo "Port: 14444"
 echo
-EOF
-
-chmod +x install.sh
-
-git add install.sh
-git commit -m "Fix one command installer"
-git push
