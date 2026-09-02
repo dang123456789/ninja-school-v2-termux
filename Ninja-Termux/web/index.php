@@ -1,93 +1,1595 @@
 <?php
-/** Adminer - Compact database management
-* @link https://www.adminer.org/
-* @author Jakub Vrana, https://www.vrana.cz/
-* @copyright 2007 Jakub Vrana
-* @license https://www.apache.org/licenses/LICENSE-2.0 Apache License, Version 2.0
-* @license https://www.gnu.org/licenses/gpl-2.0.html GNU General Public License, version 2 (one or other)
-* @version 6.0.1
-*/namespace
-Adminer;const
-VERSION="6.0.1";error_reporting(24575);set_error_handler(function($ad,$cd){return!!preg_match('~^Undefined (array key|offset|index)~',$cd);},E_WARNING|E_NOTICE);$Fd=!preg_match('~^(unsafe_raw)?$~',ini_get("filter.default"));if($Fd||ini_get("filter.default_flags")){foreach(array('_GET','_POST','_COOKIE','_SERVER')as$X){$Hl=filter_input_array(constant("INPUT$X"),FILTER_UNSAFE_RAW);if($Hl)$$X=$Hl;}}$_COOKIE=array_filter($_COOKIE,'is_scalar');if(function_exists("mb_internal_encoding"))mb_internal_encoding("8bit");function
-connection($g=null){return($g?:Db::$instance);}function
-adminer(){return
-Adminer::$instance;}function
-driver(){return
-Driver::$instance;}function
-connect(){$Vb=adminer()->credentials();$I=Driver::connect($Vb[0],$Vb[1],$Vb[2]);return(is_object($I)?$I:null);}function
-idf_unescape($u){if(!preg_match('~^[`\'"[]~',$u))return$u;$Jf=substr($u,-1);return
-str_replace($Jf.$Jf,$Jf,substr($u,1,-1));}function
-q($Q){return
-connection()->quote($Q);}function
-idx($Ba,$x,$k=null){return($Ba&&array_key_exists($x,$Ba)?$Ba[$x]:$k);}function
-number($X){return
-preg_replace('~[^0-9]+~','',$X);}function
-int_type(){return'(tiny|small|medium|big)?int(eger|\d)?';}function
-number_type(){return'(^('.int_type().'|decimal|numeric|number|real|(binary_|half_|scaled_)?float\d?|(binary_)?double( precision)?|(small)?money)$)';}function
-text_type(){return'char|text'.(JUSH=="sql"?'|enum|set':'');}function
-is_searchable(array$m,array$X){if(!isset($m["privileges"]["where"]))return
-false;$U=$m["type"];$Dj=$X["val"];$Sa='binary$|bytea|raw|image|bfile|^vector$'.(JUSH=="mssql"?'|^timestamp$':'|^bit').(JUSH=="oracle"?'|^blob|^long|rowid':'');if(preg_match("~$Sa~",$U))return
-false;if(preg_match(number_type(),$U)){$ih='-?\d+(\.\d+)?';return(bool)preg_match('~^'.$ih.(preg_match('~IN$~',$X["op"])?"( *, *$ih)*":'').'$~',$Dj);}if(preg_match('~^(small)?date|^timestamp~',$U))return(bool)preg_match('~^\d+-\d+-\d+~',$Dj);if(preg_match('~^time~',$U))return(bool)preg_match('~^\d+:\d+~',$Dj);if(preg_match('~^bool~',$U)||(JUSH=="mssql"&&$U=="bit"))return(bool)preg_match('~^(t|f|true|false|[01])$~i',$Dj);return
-true;}function
-remove_slashes(array$em,$Fd=false){$I=array();foreach($em
-as$x=>$X)$I[stripslashes($x)]=(is_array($X)?remove_slashes($X,$Fd):($Fd?$X:stripslashes($X)));return$I;}function
-bracket_escape($u,$La=false){static$ol=array(':'=>':1',']'=>':2','['=>':3','"'=>':4','='=>':5');return
-strtr($u,($La?array_flip($ol):$ol));}function
-url_escape($Q){static$ol=array();if(!$ol){$ol=array(' '=>'+');foreach(str_split("\"'<>#%&+=?".ini_get("arg_separator.input"))as$eb)$ol[$eb]=sprintf('%%%02X',ord($eb));for($s=0;$s<256;$s++){if($s<32||$s>126)$ol[chr($s)]=sprintf('%%%02X',$s);}}return
-strtr((string)$Q,$ol);}function
-min_version($hm,$eg="",$g=null){$g=connection($g);$Sj=$g->server_info;if($eg&&preg_match('~([\d.]+)-MariaDB~',$Sj,$A)){$Sj=$A[1];$hm=$eg;}return$hm&&version_compare($Sj,$hm)>=0;}function
-charset(Db$f){return(min_version("5.5.3",0,$f)?"utf8mb4":"utf8");}function
-ini_set($Fh,$Y){return(function_exists('ini_set')?\ini_set($Fh,$Y):false);}function
-ini_bool($df){$X=ini_get($df);return(preg_match('~^(on|true|yes)$~i',$X)||(int)$X);}function
-ini_bytes($df){$X=ini_get($df);switch(strtolower(substr($X,-1))){case'g':$X=(int)$X*1024;case'm':$X=(int)$X*1024;case'k':$X=(int)$X*1024;}return$X;}function
-max_input_vars($J,$Uh){$ig=(int)ini_get("max_input_vars");return($ig?(int)floor(($ig-$Uh)/$J):0);}function
-max_input_vars_error(){$df="max_input_vars";return
-lang(0,"<b>$df = ".ini_get($df)."</b>");}function
-sid(){static$I;if($I===null)$I=(SID&&!($_COOKIE&&ini_bool("session.use_cookies")));return$I;}function
-set_password($gm,$N,$V,$E){$_SESSION["pwds"][$gm][$N][$V]=($_COOKIE["adminer_key"]&&is_string($E)?array(encrypt_string($E,$_COOKIE["adminer_key"])):$E);}function
-get_password(){$I=get_session("pwds");if(is_array($I))$I=($_COOKIE["adminer_key"]?decrypt_string($I[0],$_COOKIE["adminer_key"]):false);return$I;}function
-get_val($G,$m=0,$Gb=null){$Gb=connection($Gb);$H=$Gb->query($G);if(!is_object($H))return
-false;$J=$H->fetch_row();return($J?$J[$m]:false);}function
-get_vals($G,$d=0){$I=array();$H=connection()->query($G);if(is_object($H)){while($J=$H->fetch_row())$I[]=$J[$d];}return$I;}function
-get_key_vals($G,$g=null,$Vj=true){$g=connection($g);$I=array();$H=$g->query($G);if(is_object($H)){while($J=$H->fetch_row()){if($Vj)$I[$J[0]]=$J[1];else$I[]=$J[0];}}return$I;}function
-get_rows($G,$g=null,$l="<p class='error'>"){$Gb=connection($g);$I=array();$H=$Gb->query($G);if(is_object($H)){while($J=$H->fetch_assoc())$I[]=$J;}elseif(!$H&&!$g&&$l&&(defined('Adminer\PAGE_HEADER')||$l=="-- "))echo$l.adminer()->error()."\n";return$I;}function
-unique_array($J,array$w){foreach($w
-as$v){if(preg_match("~^(PRIMARY|UNIQUE)$~",$v["type"])&&!$v["partial"]){$I=array();foreach($v["columns"]as$x){if(!isset($J[$x]))continue
-2;$I[$x]=$J[$x];}return$I;}}}function
-escape_key($x){if(preg_match('(^([\w(]+)('.str_replace("_",".*",preg_quote(idf_escape("_"))).')([ \w)]+)$)',$x,$A))return$A[1].idf_escape(idf_unescape($A[2])).$A[3];return
-idf_escape($x);}function
-where(array$Z,array$n=array()){$I=array();foreach((array)$Z["where"]as$x=>$X){$x=bracket_escape($x,true);$d=escape_key($x);$m=idx($n,$x,array());$_d=$m["type"];$pf=$m&&(is_blob($m)||preg_match('~binary~',$_d));$I[]=$d.($pf&&!is_utf8($X)?" = ".driver()->quoteBinary($X):(JUSH=="sql"&&$_d=="json"?" = CAST(".q($X)." AS JSON)":(JUSH=="pgsql"&&preg_match('~^jsonb?$~',$m["full_type"])?"::jsonb = ".q($X)."::jsonb":(JUSH=="sql"&&is_numeric($X)&&preg_match('~\.~',$X)?" LIKE ".q($X):(JUSH=="mssql"&&strpos($_d,"datetime")===false?" LIKE ".q(preg_replace('~[_%[]~','[\0]',$X)):" = ".unconvert_field($m,q($X)))))));if(JUSH=="sql"&&preg_match('~char|text~',$_d)&&preg_match("~[^ -@]~",$X))$I[]="$d = ".q($X)." COLLATE ".charset(connection())."_bin";}foreach((array)$Z["null"]as$x)$I[]=escape_key($x)." IS NULL";return
-implode(" AND ",$I);}function
-where_columns(array$n){$I=array();foreach((array)$_GET["null"]as$x)$I[$x]=true;foreach((array)$_GET["where"]as$x=>$X){$x=bracket_escape($x,true);foreach($n
-as$C=>$m){if($x==$C||strpos($x,idf_escape($C))!==false)$I[$C]=true;}}return$I;}function
-where_check($X,array$n=array()){parse_str($X,$hb);remove_slashes(array(&$hb));return
-where($hb,$n);}function
-where_link($s,$d,$Y,$Ch="="){$_h=($Y!==null?$Ch:"IS NULL");return"&where[$s][col]=".url_escape($d).($_h!=first(adminer()->operators())?"&where[$s][op]=".url_escape($_h):"")."&where[$s][val]=".url_escape($Y);}function
-convert_fields(array$e,array$n,array$M=array()){$I="";foreach($e
-as$x=>$X){if($M&&!in_array(idf_escape($x),$M))continue;$Ca=convert_field($n[$x]);if($Ca)$I
-.=", $Ca AS ".idf_escape($x);}return$I;}function
-cookie_path(){return
-strtr(preg_replace('~\?.*~','',$_SERVER["REQUEST_URI"]),array(";"=>"%3B",","=>"%2C"));}function
-cookie($C,$Y,$Tf=2592000){header("Set-Cookie: $C=".rawurlencode($Y).($Tf?"; expires=".gmdate("D, d M Y H:i:s",time()+$Tf)." GMT":"")."; path=".cookie_path().(HTTPS?"; secure":"").($C=="adminer_import"?"":"; HttpOnly")."; SameSite=lax",false);}function
-get_url($Pl,$Nb){$http_response_header=null;$bd=array();set_error_handler(function($ad,$l)use(&$bd){$bd[]=preg_replace('~^file_get_contents\([^)]*\):\s*~','',$l);return
-true;});$I=file_get_contents($Pl,false,$Nb);restore_error_handler();$xe=(function_exists('http_get_last_response_headers')?http_get_last_response_headers():$http_response_header);return
-array($I,(preg_match('~^HTTP/[\d.]+ (\d+)~',idx($xe,0,''),$A)?$A[1]:''),(array)$xe,($I===false?implode("\n",$bd):''),);}function
-get_settings($Qb){parse_str($_COOKIE[$Qb],$Wj);return$Wj;}function
-get_setting($x,$Qb="adminer_settings",$k=null){return
-idx(get_settings($Qb),$x,$k);}function
-save_settings(array$Wj,$Qb="adminer_settings"){$Y=http_build_query($Wj+get_settings($Qb));cookie($Qb,$Y);$_COOKIE[$Qb]=$Y;}function
-restart_session(){if(!ini_bool("session.use_cookies")&&(!function_exists('session_status')||session_status()==PHP_SESSION_NONE))session_start();}function
-stop_session($Od=false){$Sl=ini_bool("session.use_cookies");if(!$Sl||$Od){session_write_close();if($Sl&&ini_set("session.use_cookies",'0')===false)session_start();}}function&get_session($x){return$_SESSION[$x][DRIVER][SERVER][$_GET["username"]];}function
-set_session($x,$X){$_SESSION[$x][DRIVER][SERVER][$_GET["username"]]=$X;}function
-auth_url($gm,$N,$V,$j=null){$Ol=remove_from_uri(implode("|",array_keys(SqlDriver::$drivers))."|username|ext|".($j!==null?"db|":"").($gm=='mssql'||$gm=='pgsql'?"":"ns|").session_name());preg_match('~([^?]*)\??(.*)~',$Ol,$A);return"$A[1]?".(sid()?SID."&":"").($_GET["ext"]?"ext=".url_escape($_GET["ext"])."&":"").($gm!="server"||$N!=""?url_escape($gm)."=".url_escape($N)."&":"")."username=".url_escape($V).($j!=""?"&db=".url_escape($j):"").($A[2]?"&$A[2]":"");}function
-is_ajax(){return($_SERVER["HTTP_X_REQUESTED_WITH"]=="XMLHttpRequest");}function
-redirect($ag,$B=null){if($B!==null){restart_session();$_SESSION["messages"][preg_replace('~^[^?]*~','',($ag!==null?$ag:$_SERVER["REQUEST_URI"]))][]=$B;}if($ag!==null){if($ag=="")$ag=".";header("Location: $ag");exit;}}function
-query_redirect($G,$ag,$B,$aj=true,$jd=true,$ud=false,$bl=""){if($jd){$qk=microtime(true);$ud=!connection()->query($G);$bl=format_time($qk);}$jk=($G?adminer()->messageQuery($G,$bl,$ud):"");if($ud){adminer()->error
-.=adminer()->error().$jk.script("messagesPrint();")."<br>";return
-false;}if($aj)redirect($ag,$B.$jk);return
-true;}class
-Queries{static$queries=array();static$start=0;}function
-queries($G){if(!Queries::$start)Queries::$start=microtime(true);Queries::$queries[]=(driver()->delimiter!=';'?$G:(preg_match('~;$~',$G)?"DELIMITER ;;\n$G;\nDELIMITER ":$G).";");return
+mysqli_report(MYSQLI_REPORT_OFF);
+
+$socket = getenv('PREFIX') . '/var/run/mysqld/mysqld.sock';
+$db = 'nso';
+$user = 'root';
+$pass = '';
+
+$conn = new mysqli('localhost', $user, $pass, $db, 0, $socket);
+
+if ($conn->connect_error) {
+    die('Không kết nối được MariaDB: ' . htmlspecialchars($conn->connect_error));
+}
+
+$conn->set_charset('utf8mb4');
+
+function e($v) {
+    return htmlspecialchars((string)$v, ENT_QUOTES, 'UTF-8');
+}
+
+function qi($v) {
+    return '`' . str_replace('`', '``', $v) . '`';
+}
+
+/* =========================
+   LẤY DANH SÁCH TABLE
+========================= */
+
+$tables = [];
+$result = $conn->query("SHOW TABLES");
+
+if ($result) {
+    while ($row = $result->fetch_array()) {
+        $tables[] = $row[0];
+    }
+}
+
+$table = $_GET['table'] ?? '';
+
+if (!$table || !in_array($table, $tables, true)) {
+    $table = $tables[0] ?? '';
+}
+
+/* =========================
+   CỘT + PRIMARY KEY
+========================= */
+
+$columns = [];
+$primary = null;
+
+if ($table) {
+    $result = $conn->query("SHOW COLUMNS FROM " . qi($table));
+
+    if ($result) {
+        while ($row = $result->fetch_assoc()) {
+            $columns[] = $row;
+
+            if ($row['Key'] === 'PRI') {
+                $primary = $row['Field'];
+            }
+        }
+    }
+}
+
+/* =========================
+   THÔNG BÁO
+========================= */
+
+$message = '';
+$error = '';
+
+/* =========================
+   XÓA
+========================= */
+
+if (
+    isset($_GET['delete']) &&
+    $table &&
+    $primary
+) {
+    $value = $_GET['delete'];
+
+    $stmt = $conn->prepare(
+        "DELETE FROM " . qi($table) .
+        " WHERE " . qi($primary) . " = ? LIMIT 1"
+    );
+
+    if ($stmt) {
+        $stmt->bind_param('s', $value);
+
+        if ($stmt->execute()) {
+            $message = 'Đã xóa dữ liệu thành công.';
+        } else {
+            $error = 'Không thể xóa dữ liệu.';
+        }
+
+        $stmt->close();
+    }
+
+    header(
+        "Location: ?table=" .
+        urlencode($table) .
+        "&msg=" .
+        urlencode($message ?: $error)
+    );
+
+    exit;
+}
+
+/* =========================
+   THÊM
+========================= */
+
+if (
+    $_SERVER['REQUEST_METHOD'] === 'POST' &&
+    ($_POST['action'] ?? '') === 'add' &&
+    $table
+) {
+    $fields = [];
+    $values = [];
+
+    foreach ($columns as $column) {
+
+        $name = $column['Field'];
+
+        if (
+            stripos($column['Extra'], 'auto_increment') !== false
+        ) {
+            continue;
+        }
+
+        if (array_key_exists($name, $_POST)) {
+            $fields[] = qi($name);
+            $values[] = $_POST[$name];
+        }
+    }
+
+    if ($fields) {
+
+        $marks = implode(
+            ',',
+            array_fill(0, count($fields), '?')
+        );
+
+        $sql =
+            "INSERT INTO " .
+            qi($table) .
+            " (" .
+            implode(',', $fields) .
+            ") VALUES (" .
+            $marks .
+            ")";
+
+        $stmt = $conn->prepare($sql);
+
+        if ($stmt) {
+
+            $types = str_repeat(
+                's',
+                count($values)
+            );
+
+            $stmt->bind_param(
+                $types,
+                ...$values
+            );
+
+            if ($stmt->execute()) {
+                $message = 'Đã thêm dữ liệu.';
+            } else {
+                $error = $stmt->error;
+            }
+
+            $stmt->close();
+
+        } else {
+            $error = $conn->error;
+        }
+    }
+
+    header(
+        "Location: ?table=" .
+        urlencode($table) .
+        "&msg=" .
+        urlencode($message ?: $error)
+    );
+
+    exit;
+}
+
+/* =========================
+   SỬA
+========================= */
+
+if (
+    $_SERVER['REQUEST_METHOD'] === 'POST' &&
+    ($_POST['action'] ?? '') === 'edit' &&
+    $table &&
+    $primary
+) {
+
+    $oldPrimary = $_POST['_old_primary'] ?? '';
+
+    $sets = [];
+    $values = [];
+
+    foreach ($columns as $column) {
+
+        $name = $column['Field'];
+
+        if (
+            $name === $primary ||
+            !array_key_exists($name, $_POST)
+        ) {
+            continue;
+        }
+
+        $sets[] = qi($name) . " = ?";
+        $values[] = $_POST[$name];
+    }
+
+    if ($sets) {
+
+        $values[] = $oldPrimary;
+
+        $sql =
+            "UPDATE " .
+            qi($table) .
+            " SET " .
+            implode(',', $sets) .
+            " WHERE " .
+            qi($primary) .
+            " = ? LIMIT 1";
+
+        $stmt = $conn->prepare($sql);
+
+        if ($stmt) {
+
+            $types = str_repeat(
+                's',
+                count($values)
+            );
+
+            $stmt->bind_param(
+                $types,
+                ...$values
+            );
+
+            if ($stmt->execute()) {
+                $message = 'Đã cập nhật dữ liệu.';
+            } else {
+                $error = $stmt->error;
+            }
+
+            $stmt->close();
+
+        } else {
+            $error = $conn->error;
+        }
+    }
+
+    header(
+        "Location: ?table=" .
+        urlencode($table) .
+        "&msg=" .
+        urlencode($message ?: $error)
+    );
+
+    exit;
+}
+
+/* =========================
+   DỮ LIỆU ĐANG SỬA
+========================= */
+
+$editRow = null;
+
+if (
+    isset($_GET['edit']) &&
+    $table &&
+    $primary
+) {
+
+    $value = $_GET['edit'];
+
+    $stmt = $conn->prepare(
+        "SELECT * FROM " .
+        qi($table) .
+        " WHERE " .
+        qi($primary) .
+        " = ? LIMIT 1"
+    );
+
+    if ($stmt) {
+
+        $stmt->bind_param(
+            's',
+            $value
+        );
+
+        $stmt->execute();
+
+        $result = $stmt->get_result();
+
+        if ($result) {
+            $editRow = $result->fetch_assoc();
+        }
+
+        $stmt->close();
+    }
+}
+
+/* =========================
+   TÌM KIẾM
+========================= */
+
+$search = $_GET['search'] ?? '';
+
+$rows = [];
+
+if ($table) {
+
+    $sql =
+        "SELECT * FROM " .
+        qi($table);
+
+    if (
+        $search !== '' &&
+        $columns
+    ) {
+
+        $safeSearch =
+            $conn->real_escape_string(
+                $search
+            );
+
+        $where = [];
+
+        foreach ($columns as $column) {
+
+            $where[] =
+                qi($column['Field']) .
+                " LIKE '%" .
+                $safeSearch .
+                "%'";
+        }
+
+        $sql .=
+            " WHERE " .
+            implode(
+                " OR ",
+                $where
+            );
+    }
+
+    $sql .= " LIMIT 100";
+
+    $result = $conn->query($sql);
+
+    if ($result) {
+
+        while ($row = $result->fetch_assoc()) {
+            $rows[] = $row;
+        }
+    }
+}
+
+/* =========================
+   THỐNG KÊ
+========================= */
+
+$totalRows = 0;
+
+foreach ($tables as $t) {
+
+    $result = $conn->query(
+        "SELECT COUNT(*) AS total FROM " .
+        qi($t)
+    );
+
+    if ($result) {
+
+        $data =
+            $result->fetch_assoc();
+
+        $totalRows +=
+            (int)$data['total'];
+    }
+}
+
+$totalTables = count($tables);
+
+$msg = $_GET['msg'] ?? '';
+
+?>
+<!DOCTYPE html>
+<html lang="vi">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta
+name="viewport"
+content="width=device-width, initial-scale=1"
+>
+
+<title>NRO VIP PANEL</title>
+
+<style>
+
+* {
+    box-sizing:border-box;
+}
+
+body {
+
+    margin:0;
+
+    font-family:
+        Arial,
+        Helvetica,
+        sans-serif;
+
+    background:
+        radial-gradient(
+            circle at top right,
+            #10263b 0,
+            #070a10 40%,
+            #05070b 100%
+        );
+
+    color:#eaf7ff;
+
+    min-height:100vh;
+}
+
+/* HEADER */
+
+.header {
+
+    height:70px;
+
+    display:flex;
+
+    align-items:center;
+
+    justify-content:space-between;
+
+    padding:0 25px;
+
+    background:
+        rgba(8,13,22,.94);
+
+    border-bottom:
+        1px solid #16364b;
+
+    box-shadow:
+        0 0 25px
+        rgba(0,220,255,.08);
+
+    position:sticky;
+
+    top:0;
+
+    z-index:20;
+}
+
+.logo {
+
+    font-size:22px;
+
+    font-weight:bold;
+
+    color:#00eaff;
+
+    text-shadow:
+        0 0 12px
+        rgba(0,234,255,.55);
+}
+
+.logo span {
+
+    color:#fff;
+
+    font-size:12px;
+
+    margin-left:8px;
+
+    opacity:.55;
+}
+
+.status {
+
+    color:#52ff9a;
+
+    font-size:13px;
+}
+
+/* LAYOUT */
+
+.layout {
+
+    display:flex;
+
+    min-height:
+        calc(100vh - 70px);
+}
+
+/* SIDEBAR */
+
+.sidebar {
+
+    width:240px;
+
+    background:
+        rgba(8,13,21,.92);
+
+    border-right:
+        1px solid #143044;
+
+    padding:20px 12px;
+
+    position:sticky;
+
+    top:70px;
+
+    height:
+        calc(100vh - 70px);
+
+    overflow-y:auto;
+}
+
+.side-title {
+
+    font-size:11px;
+
+    color:#5d7180;
+
+    margin:
+        8px 10px 12px;
+
+    letter-spacing:2px;
+}
+
+.side-link {
+
+    display:flex;
+
+    align-items:center;
+
+    gap:10px;
+
+    text-decoration:none;
+
+    color:#91a4b2;
+
+    padding:11px 13px;
+
+    margin-bottom:5px;
+
+    border-radius:9px;
+
+    transition:.2s;
+
+    font-size:14px;
+}
+
+.side-link:hover {
+
+    background:#0e2635;
+
+    color:#00eaff;
+}
+
+.side-link.active {
+
+    background:
+        linear-gradient(
+            90deg,
+            #0c3549,
+            #0b1d2a
+        );
+
+    color:#00eaff;
+
+    box-shadow:
+        inset 3px 0 0 #00eaff;
+}
+
+.icon {
+
+    width:20px;
+
+    text-align:center;
+}
+
+/* MAIN */
+
+.main {
+
+    flex:1;
+
+    padding:25px;
+
+    min-width:0;
+}
+
+/* DASHBOARD */
+
+.welcome {
+
+    margin-bottom:20px;
+}
+
+.welcome h1 {
+
+    margin:0 0 5px;
+
+    font-size:27px;
+}
+
+.welcome p {
+
+    margin:0;
+
+    color:#738897;
+}
+
+/* CARDS */
+
+.cards {
+
+    display:grid;
+
+    grid-template-columns:
+        repeat(4,1fr);
+
+    gap:15px;
+
+    margin-bottom:22px;
+}
+
+.card {
+
+    padding:20px;
+
+    border:
+        1px solid #17364a;
+
+    border-radius:14px;
+
+    background:
+        linear-gradient(
+            145deg,
+            rgba(16,28,40,.96),
+            rgba(8,13,21,.96)
+        );
+
+    box-shadow:
+        0 10px 30px
+        rgba(0,0,0,.18);
+
+    position:relative;
+
+    overflow:hidden;
+}
+
+.card:after {
+
+    content:"";
+
+    position:absolute;
+
+    width:80px;
+
+    height:80px;
+
+    right:-30px;
+
+    top:-30px;
+
+    border-radius:50%;
+
+    background:
+        rgba(0,234,255,.08);
+}
+
+.card-title {
+
+    color:#718895;
+
+    font-size:12px;
+
+    text-transform:uppercase;
+
+    letter-spacing:1px;
+}
+
+.card-value {
+
+    font-size:27px;
+
+    font-weight:bold;
+
+    margin-top:8px;
+
+    color:#00eaff;
+}
+
+/* PANEL */
+
+.panel {
+
+    background:
+        rgba(9,15,24,.94);
+
+    border:
+        1px solid #163448;
+
+    border-radius:15px;
+
+    overflow:hidden;
+
+    box-shadow:
+        0 12px 35px
+        rgba(0,0,0,.2);
+}
+
+.panel-head {
+
+    padding:18px 20px;
+
+    border-bottom:
+        1px solid #163448;
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    gap:15px;
+
+    flex-wrap:wrap;
+}
+
+.panel-title {
+
+    font-size:19px;
+
+    font-weight:bold;
+}
+
+.panel-title span {
+
+    color:#00eaff;
+}
+
+.toolbar {
+
+    display:flex;
+
+    gap:8px;
+
+    flex-wrap:wrap;
+}
+
+input,
+select,
+button {
+
+    font-family:inherit;
+}
+
+.search {
+
+    width:250px;
+
+    padding:10px 13px;
+
+    color:#fff;
+
+    background:#080e16;
+
+    border:
+        1px solid #21465d;
+
+    border-radius:8px;
+
+    outline:none;
+}
+
+.search:focus {
+
+    border-color:#00eaff;
+
+    box-shadow:
+        0 0 12px
+        rgba(0,234,255,.12);
+}
+
+.btn {
+
+    border:0;
+
+    border-radius:8px;
+
+    padding:10px 14px;
+
+    cursor:pointer;
+
+    color:#fff;
+
+    font-weight:bold;
+
+    text-decoration:none;
+
+    display:inline-flex;
+
+    align-items:center;
+
+    gap:6px;
+}
+
+.btn-blue {
+
+    background:#087f9c;
+}
+
+.btn-blue:hover {
+
+    background:#00a9ce;
+}
+
+.btn-green {
+
+    background:#087a4d;
+}
+
+.btn-red {
+
+    background:#8b2635;
+}
+
+.btn-yellow {
+
+    background:#876c13;
+}
+
+/* FORM */
+
+.form-box {
+
+    padding:20px;
+
+    border-bottom:
+        1px solid #163448;
+
+    background:
+        rgba(12,22,33,.7);
+}
+
+.form-title {
+
+    margin:
+        0 0 15px;
+
+    color:#00eaff;
+
+    font-size:16px;
+}
+
+.form-grid {
+
+    display:grid;
+
+    grid-template-columns:
+        repeat(3,1fr);
+
+    gap:10px;
+}
+
+.field {
+
+    display:flex;
+
+    flex-direction:column;
+
+    gap:5px;
+}
+
+.field label {
+
+    color:#718895;
+
+    font-size:11px;
+}
+
+.field input {
+
+    width:100%;
+
+    padding:10px;
+
+    border-radius:7px;
+
+    border:
+        1px solid #1d3b4e;
+
+    background:#080e16;
+
+    color:#fff;
+
+    outline:none;
+}
+
+.field input:focus {
+
+    border-color:#00eaff;
+}
+
+.form-actions {
+
+    margin-top:15px;
+
+    display:flex;
+
+    gap:8px;
+}
+
+/* TABLE */
+
+.table-wrap {
+
+    width:100%;
+
+    overflow:auto;
+}
+
+table {
+
+    width:100%;
+
+    border-collapse:collapse;
+
+    min-width:700px;
+}
+
+th {
+
+    padding:13px 12px;
+
+    background:#0d1925;
+
+    color:#00eaff;
+
+    font-size:12px;
+
+    text-align:left;
+
+    border-bottom:
+        1px solid #1b3d52;
+
+    position:sticky;
+
+    top:0;
+}
+
+td {
+
+    padding:12px;
+
+    border-bottom:
+        1px solid #122735;
+
+    color:#b9c9d2;
+
+    font-size:13px;
+
+    max-width:300px;
+
+    overflow:hidden;
+
+    text-overflow:ellipsis;
+
+    white-space:nowrap;
+}
+
+tr:hover td {
+
+    background:#0b1722;
+}
+
+.actions {
+
+    white-space:nowrap;
+}
+
+.action {
+
+    display:inline-block;
+
+    padding:6px 9px;
+
+    border-radius:6px;
+
+    text-decoration:none;
+
+    font-size:12px;
+
+    margin-right:4px;
+}
+
+.edit {
+
+    color:#ffd75a;
+
+    background:
+        rgba(255,215,90,.08);
+}
+
+.delete {
+
+    color:#ff6878;
+
+    background:
+        rgba(255,80,100,.08);
+}
+
+/* ALERT */
+
+.alert {
+
+    margin-bottom:15px;
+
+    padding:12px 15px;
+
+    border-radius:9px;
+
+    background:#0b2b20;
+
+    border:
+        1px solid #176a4c;
+
+    color:#65ffae;
+}
+
+.empty {
+
+    padding:40px;
+
+    text-align:center;
+
+    color:#637784;
+}
+
+/* MOBILE */
+
+@media(max-width:1000px) {
+
+    .cards {
+
+        grid-template-columns:
+            repeat(2,1fr);
+    }
+
+    .form-grid {
+
+        grid-template-columns:
+            repeat(2,1fr);
+    }
+
+}
+
+@media(max-width:700px) {
+
+    .header {
+
+        padding:0 15px;
+    }
+
+    .logo {
+
+        font-size:18px;
+    }
+
+    .status {
+
+        display:none;
+    }
+
+    .layout {
+
+        display:block;
+    }
+
+    .sidebar {
+
+        width:100%;
+
+        height:auto;
+
+        position:relative;
+
+        top:0;
+
+        border-right:0;
+
+        border-bottom:
+            1px solid #143044;
+
+        padding:10px;
+
+        display:flex;
+
+        overflow-x:auto;
+    }
+
+    .side-title {
+
+        display:none;
+    }
+
+    .side-link {
+
+        flex:0 0 auto;
+
+        margin:0 4px;
+
+        padding:9px 12px;
+    }
+
+    .main {
+
+        padding:12px;
+    }
+
+    .cards {
+
+        grid-template-columns:
+            repeat(2,1fr);
+
+        gap:9px;
+    }
+
+    .card {
+
+        padding:15px;
+    }
+
+    .card-value {
+
+        font-size:21px;
+    }
+
+    .form-grid {
+
+        grid-template-columns:1fr;
+    }
+
+    .search {
+
+        width:100%;
+    }
+
+    .toolbar {
+
+        width:100%;
+    }
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header class="header">
+
+    <div class="logo">
+        ⚡ NRO VIP
+        <span>ADMIN PANEL</span>
+    </div>
+
+    <div class="status">
+        ● MariaDB ONLINE
+    </div>
+
+</header>
+
+<div class="layout">
+
+<!-- SIDEBAR -->
+
+<aside class="sidebar">
+
+<div class="side-title">
+    DATABASE TABLES
+</div>
+
+<?php foreach ($tables as $t): ?>
+
+<a
+class="side-link <?= $t === $table ? 'active' : '' ?>"
+href="?table=<?= urlencode($t) ?>"
+>
+
+<span class="icon">▣</span>
+
+<?= e($t) ?>
+
+</a>
+
+<?php endforeach; ?>
+
+</aside>
+
+<!-- MAIN -->
+
+<main class="main">
+
+<div class="welcome">
+
+<h1>Dashboard</h1>
+
+<p>
+Quản lý máy chủ Ninja School V2
+</p>
+
+</div>
+
+<?php if ($msg): ?>
+
+<div class="alert">
+    ✓ <?= e($msg) ?>
+</div>
+
+<?php endif; ?>
+
+<!-- CARDS -->
+
+<div class="cards">
+
+<div class="card">
+
+<div class="card-title">
+Database
+</div>
+
+<div class="card-value">
+<?= e($db) ?>
+</div>
+
+</div>
+
+<div class="card">
+
+<div class="card-title">
+Tables
+</div>
+
+<div class="card-value">
+<?= $totalTables ?>
+</div>
+
+</div>
+
+<div class="card">
+
+<div class="card-title">
+Total Records
+</div>
+
+<div class="card-value">
+<?= number_format($totalRows) ?>
+</div>
+
+</div>
+
+<div class="card">
+
+<div class="card-title">
+Server
+</div>
+
+<div class="card-value">
+ONLINE
+</div>
+
+</div>
+
+</div>
+
+<?php if ($table): ?>
+
+<div class="panel">
+
+<div class="panel-head">
+
+<div class="panel-title">
+
+Bảng:
+<span><?= e($table) ?></span>
+
+</div>
+
+<div class="toolbar">
+
+<form method="get">
+
+<input
+type="hidden"
+name="table"
+value="<?= e($table) ?>"
+>
+
+<input
+class="search"
+name="search"
+value="<?= e($search) ?>"
+placeholder="🔎 Tìm kiếm dữ liệu..."
+>
+
+<button
+class="btn btn-blue"
+type="submit"
+>
+Tìm
+</button>
+
+</form>
+
+</div>
+
+</div>
+
+<!-- EDIT -->
+
+<?php if ($editRow): ?>
+
+<div class="form-box">
+
+<h3 class="form-title">
+✏️ Chỉnh sửa dữ liệu
+</h3>
+
+<form method="post">
+
+<input
+type="hidden"
+name="action"
+value="edit"
+>
+
+<input
+type="hidden"
+name="_old_primary"
+value="<?= e($editRow[$primary]) ?>"
+>
+
+<div class="form-grid">
+
+<?php foreach ($columns as $column): ?>
+
+<?php
+$name = $column['Field'];
+?>
+
+<div class="field">
+
+<label>
+<?= e($name) ?>
+</label>
+
+<input
+name="<?= e($name) ?>"
+value="<?= e($editRow[$name] ?? '') ?>"
+<?= $name === $primary ? 'readonly' : '' ?>
+>
+
+</div>
+
+<?php endforeach; ?>
+
+</div>
+
+<div class="form-actions">
+
+<button
+class="btn btn-green"
+type="submit"
+>
+💾 Lưu thay đổi
+</button>
+
+<a
+class="btn btn-red"
+href="?table=<?= urlencode($table) ?>"
+>
+Hủy
+</a>
+
+</div>
+
+</form>
+
+</div>
+
+<!-- ADD -->
+
+<?php else: ?>
+
+<div class="form-box">
+
+<h3 class="form-title">
+➕ Thêm dữ liệu
+</h3>
+
+<form method="post">
+
+<input
+type="hidden"
+name="action"
+value="add"
+>
+
+<div class="form-grid">
+
+<?php foreach ($columns as $column): ?>
+
+<?php
+
+$name = $column['Field'];
+
+if (
+stripos(
+$column['Extra'],
+'auto_increment'
+) !== false
+) {
+continue;
+}
+
+?>
+
+<div class="field">
+
+<label>
+<?= e($name) ?>
+</label>
+
+<input
+name="<?= e($name) ?>"
+placeholder="<?= e($name) ?>"
+>
+
+</div>
+
+<?php endforeach; ?>
+
+</div>
+
+<div class="form-actions">
+
+<button
+class="btn btn-green"
+type="submit"
+>
+＋ Thêm dữ liệu
+</button>
+
+</div>
+
+</form>
+
+</div>
+
+<?php endif; ?>
+
+<!-- DATA -->
+
+<div class="table-wrap">
+
+<?php if ($rows): ?>
+
+<table>
+
+<thead>
+
+<tr>
+
+<?php foreach ($columns as $column): ?>
+
+<th>
+<?= e($column['Field']) ?>
+</th>
+
+<?php endforeach; ?>
+
+<?php if ($primary): ?>
+
+<th>
+THAO TÁC
+</th>
+
+<?php endif; ?>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<?php foreach ($rows as $row): ?>
+
+<tr>
+
+<?php foreach ($columns as $column): ?>
+
+<td title="<?= e($row[$column['Field']] ?? '') ?>">
+
+<?= e(
+$row[$column['Field']] ?? ''
+) ?>
+
+</td>
+
+<?php endforeach; ?>
+
+<?php if ($primary): ?>
+
+<td class="actions">
+
+<a
+class="action edit"
+href="?table=<?= urlencode($table) ?>&edit=<?= urlencode($row[$primary]) ?>"
+>
+✏️ Sửa
+</a>
+
+<a
+class="action delete"
+href="?table=<?= urlencode($table) ?>&delete=<?= urlencode($row[$primary]) ?>"
+onclick="return confirm('Bạn chắc chắn muốn xóa dữ liệu này?')"
+>
+🗑️ Xóa
+</a>
+
+</td>
+
+<?php endif; ?>
+
+</tr>
+
+<?php endforeach; ?>
+
+</tbody>
+
+</table>
+
+<?php else: ?>
+
+<div class="empty">
+    Không có dữ liệu.
+</div>
+
+<?php endif; ?>
+
+</div>
+
+</div>
+
+<?php else: ?>
+
+<div class="panel">
+
+<div class="empty">
+    Chọn một bảng ở menu để quản lý dữ liệu.
+</div>
+
+</div>
+
+<?php endif; ?>
+
+</main>
+
+</div>
+
+</body>
+</html>~',$G)?"DELIMITER ;;\n$G;\nDELIMITER ":$G).";");return
 connection()->query($G);}function
 apply_queries($G,array$T,$dd='Adminer\table'){foreach($T
 as$R){if(!queries("$G ".$dd($R)))return
