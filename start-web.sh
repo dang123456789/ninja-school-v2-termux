@@ -4,7 +4,7 @@ PANEL="$HOME/web"
 
 clear
 echo "=========================================="
-echo "              NRO VIP PANEL"
+echo "              NSO VIP PANEL"
 echo "=========================================="
 echo
 echo "Panel: http://127.0.0.1:8080"

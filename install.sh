@@ -275,7 +275,7 @@ if [ -f "$HOME_DIR/web/index.php" ]; then
 PANEL="$HOME/web"
 
 echo "=========================================="
-echo "              NRO VIP PANEL"
+echo "              NSO VIP PANEL"
 echo "=========================================="
 echo
 echo "Web: http://127.0.0.1:8080"

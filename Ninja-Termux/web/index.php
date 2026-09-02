@@ -49,7 +49,7 @@ foreach ($tables as $t) {
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<title>NRO VIP PANEL</title>
+<title>NSO VIP PANEL</title>
 <style>
 *{box-sizing:border-box}
 body{margin:0;background:#070b12;color:#eaf2ff;font-family:Arial,sans-serif}
@@ -85,7 +85,7 @@ tr:hover td{background:#0f1b2b}
 <body>
 
 <header>
-<div class="logo">⚡ NRO VIP PANEL</div>
+<div class="logo">⚡ NSO VIP PANEL</div>
 <div class="sub">MariaDB · nso · <span class="badge">ONLINE</span></div>
 </header>
 

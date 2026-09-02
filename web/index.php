@@ -232,7 +232,7 @@ $ok = $_GET['ok'] ?? '';
 <meta name="viewport"
       content="width=device-width,initial-scale=1,maximum-scale=1">
 
-<title>NRO VIP PANEL</title>
+<title>NSO VIP PANEL</title>
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -616,7 +616,7 @@ td {
     <div class="topbar">
         <div class="title">
             <button class="mobile-menu" onclick="toggleMenu()">☰</button>
-            <h1>🎮 NRO VIP PANEL</h1>
+            <h1>🎮 NSO VIP PANEL</h1>
             <p>Quản lý máy chủ Ninja School</p>
         </div>
 
