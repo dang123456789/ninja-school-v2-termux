@@ -3,7 +3,7 @@
 ## 🚀 Cài đặt
 ```bash
 
-curl -fsSL https://raw.githubusercontent.com/dang123456789/Ninja-Termux/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/dangnguyen1982a/ninja-school-v2-termux/main/install.sh | bash
 ```
 ## 4. Wait for install!
 
