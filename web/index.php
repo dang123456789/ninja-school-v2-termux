@@ -588,7 +588,7 @@ td {
 <aside class="sidebar" id="sidebar">
 
     <div class="logo">
-        ⚡ <span>NRO</span> VIP
+        ⚡ <span>NSO</span> VIP
     </div>
 
     <div class="status">
