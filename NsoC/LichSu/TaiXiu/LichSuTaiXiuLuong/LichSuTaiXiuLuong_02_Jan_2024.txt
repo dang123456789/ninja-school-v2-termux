@@ -1,0 +1,480 @@
+----------Thời Gian : 2024-01-02 10:34:56--------
+- Name : hautop3
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 115463
+- Lượng Mới : 65463
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-02 10:35:55--------
+- Name : hautop3
+- Nội Dung :  Đặt Xỉu Ăn 90000
+- Lượng Cũ : 65463
+- Lượng Mới : 155463
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2024-01-02 10:36:43--------
+- Name : hautop3
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 155463
+- Lượng Mới : 105463
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-02 10:37:42--------
+- Name : hautop3
+- Nội Dung :  Đặt Xỉu Ăn 90000
+- Lượng Cũ : 105463
+- Lượng Mới : 195463
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2024-01-02 10:38:04--------
+- Name : hautop3
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 105463
+- Lượng Mới : 5463
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-02 10:39:02--------
+- Name : hautop3
+- Nội Dung :  Đặt Tài Ăn 180000
+- Lượng Cũ : 5463
+- Lượng Mới : 185463
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-02 10:39:34--------
+- Name : hautop3
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 185463
+- Lượng Mới : 135463
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-02 10:41:12--------
+- Name : hautop3
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 135453
+- Lượng Mới : 35453
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-02 10:42:10--------
+- Name : hautop3
+- Nội Dung :  Đặt Tài Ăn 180000
+- Lượng Cũ : 35453
+- Lượng Mới : 215453
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-02 11:17:12--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 99451
+- Lượng Mới : 49451
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-02 11:18:10--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Ăn 90000
+- Lượng Cũ : 49451
+- Lượng Mới : 139451
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2024-01-02 11:18:17--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 139451
+- Lượng Mới : 39451
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-02 11:19:15--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Ăn 180000
+- Lượng Cũ : 39451
+- Lượng Mới : 219451
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-02 13:30:44--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 262081
+- Lượng Mới : 162081
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-02 13:30:53--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -51000
+- Lượng Cũ : 162081
+- Lượng Mới : 111081
+- Lượng Thay Đổi : -51000
+----------Thời Gian : 2024-01-02 13:31:51--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 111081
+- Lượng Mới : 11081
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-02 13:32:50--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Ăn 180000
+- Lượng Cũ : 11081
+- Lượng Mới : 191081
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-02 13:33:35--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 191081
+- Lượng Mới : 91081
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-02 13:34:34--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Ăn 180000
+- Lượng Cũ : 91081
+- Lượng Mới : 271081
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-02 13:34:54--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -52400
+- Lượng Cũ : 271081
+- Lượng Mới : 218681
+- Lượng Thay Đổi : -52400
+----------Thời Gian : 2024-01-02 13:35:53--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Ăn 94320
+- Lượng Cũ : 218681
+- Lượng Mới : 313001
+- Lượng Thay Đổi : 94320
+----------Thời Gian : 2024-01-02 13:36:04--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 313001
+- Lượng Mới : 213001
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-02 13:37:03--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Ăn 180000
+- Lượng Cũ : 213001
+- Lượng Mới : 393001
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-02 13:38:09--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 393001
+- Lượng Mới : 343001
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-02 13:39:07--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Ăn 90000
+- Lượng Cũ : 343001
+- Lượng Mới : 433001
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2024-01-02 13:39:28--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 433001
+- Lượng Mới : 333001
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-02 13:40:27--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Ăn 180000
+- Lượng Cũ : 333001
+- Lượng Mới : 513001
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-02 13:41:03--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 513001
+- Lượng Mới : 463001
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-02 13:42:22--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 463001
+- Lượng Mới : 363001
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-02 13:42:29--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 363001
+- Lượng Mới : 263001
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-02 13:43:21--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Ăn 360000
+- Lượng Cũ : 263001
+- Lượng Mới : 623001
+- Lượng Thay Đổi : 360000
+----------Thời Gian : 2024-01-02 13:43:42--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 623001
+- Lượng Mới : 523001
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-02 13:44:41--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Ăn 180000
+- Lượng Cũ : 523001
+- Lượng Mới : 703001
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-02 13:45:04--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 703001
+- Lượng Mới : 603001
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-02 13:46:03--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Ăn 180000
+- Lượng Cũ : 603001
+- Lượng Mới : 783001
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-02 13:46:13--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 783001
+- Lượng Mới : 733001
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-02 13:47:17--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 733001
+- Lượng Mới : 633001
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-02 13:47:23--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 633001
+- Lượng Mới : 533001
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-02 13:48:15--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Ăn 360000
+- Lượng Cũ : 533001
+- Lượng Mới : 893001
+- Lượng Thay Đổi : 360000
+----------Thời Gian : 2024-01-02 13:48:24--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 893001
+- Lượng Mới : 843001
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-02 13:49:27--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 843001
+- Lượng Mới : 743001
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-02 13:49:32--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 743001
+- Lượng Mới : 693001
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-02 13:50:33--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 693001
+- Lượng Mới : 593001
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-02 13:50:38--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 593001
+- Lượng Mới : 493001
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-02 13:51:41--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 493001
+- Lượng Mới : 393001
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-02 13:51:56--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 393001
+- Lượng Mới : 293001
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-02 13:53:12--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 293001
+- Lượng Mới : 193001
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-02 13:53:18--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 193001
+- Lượng Mới : 93001
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-02 13:53:26--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -93000
+- Lượng Cũ : 93001
+- Lượng Mới : 1
+- Lượng Thay Đổi : -93000
+----------Thời Gian : 2024-01-02 13:54:11--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Ăn 527400
+- Lượng Cũ : 1
+- Lượng Mới : 527401
+- Lượng Thay Đổi : 527400
+----------Thời Gian : 2024-01-02 13:54:25--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 527401
+- Lượng Mới : 427401
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-02 13:55:35--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 427401
+- Lượng Mới : 327401
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-02 13:55:44--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 327401
+- Lượng Mới : 227401
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-02 13:56:40--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 227401
+- Lượng Mới : 127401
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-02 13:56:44--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 127401
+- Lượng Mới : 27401
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-02 13:57:39--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Ăn 360000
+- Lượng Cũ : 27401
+- Lượng Mới : 387401
+- Lượng Thay Đổi : 360000
+----------Thời Gian : 2024-01-02 13:57:45--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 387401
+- Lượng Mới : 287401
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-02 13:57:55--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 287401
+- Lượng Mới : 187401
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-02 13:58:03--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 187401
+- Lượng Mới : 87401
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-02 13:58:11--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 87401
+- Lượng Mới : 37401
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-02 13:58:43--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Ăn 630000
+- Lượng Cũ : 37401
+- Lượng Mới : 667401
+- Lượng Thay Đổi : 630000
+----------Thời Gian : 2024-01-02 13:59:04--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 167401
+- Lượng Mới : 67401
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-02 13:59:08--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 67401
+- Lượng Mới : 17401
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-02 16:35:07--------
+- Name : skskjsjaka
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 234355
+- Lượng Mới : 184355
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-02 16:36:06--------
+- Name : skskjsjaka
+- Nội Dung :  Đặt Xỉu Ăn 90000
+- Lượng Cũ : 184355
+- Lượng Mới : 274355
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2024-01-02 16:37:07--------
+- Name : skskjsjaka
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 274355
+- Lượng Mới : 224355
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-02 16:38:06--------
+- Name : skskjsjaka
+- Nội Dung :  Đặt Tài Ăn 90000
+- Lượng Cũ : 224355
+- Lượng Mới : 314355
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2024-01-02 16:38:26--------
+- Name : skskjsjaka
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 314355
+- Lượng Mới : 264355
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-02 16:39:25--------
+- Name : skskjsjaka
+- Nội Dung :  Đặt Tài Ăn 90000
+- Lượng Cũ : 264355
+- Lượng Mới : 354355
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2024-01-02 16:39:37--------
+- Name : skskjsjaka
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 354355
+- Lượng Mới : 304355
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-02 18:01:45--------
+- Name : skskjsjaka
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 304355
+- Lượng Mới : 254355
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-02 18:06:55--------
+- Name : skskjsjaka
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 254376
+- Lượng Mới : 204376
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-02 22:16:27--------
+- Name : latieuhac
+- Nội Dung :  Đặt Tài Trừ -80000
+- Lượng Cũ : 87822
+- Lượng Mới : 7822
+- Lượng Thay Đổi : -80000
+----------Thời Gian : 2024-01-02 22:17:26--------
+- Name : latieuhac
+- Nội Dung :  Đặt Tài Ăn 144000
+- Lượng Cũ : 7822
+- Lượng Mới : 151822
+- Lượng Thay Đổi : 144000
+----------Thời Gian : 2024-01-02 22:18:57--------
+- Name : latieuhac
+- Nội Dung :  Đặt Xỉu Trừ -80000
+- Lượng Cũ : 151822
+- Lượng Mới : 71822
+- Lượng Thay Đổi : -80000
+----------Thời Gian : 2024-01-02 22:19:56--------
+- Name : latieuhac
+- Nội Dung :  Đặt Xỉu Ăn 144000
+- Lượng Cũ : 71822
+- Lượng Mới : 215822
+- Lượng Thay Đổi : 144000
+----------Thời Gian : 2024-01-02 22:21:40--------
+- Name : latieuhac
+- Nội Dung :  Đặt Xỉu Trừ -80000
+- Lượng Cũ : 215822
+- Lượng Mới : 135822
+- Lượng Thay Đổi : -80000
+----------Thời Gian : 2024-01-02 22:22:11--------
+- Name : latieuhac
+- Nội Dung :  Đặt Xỉu Trừ -80000
+- Lượng Cũ : 135822
+- Lượng Mới : 55822
+- Lượng Thay Đổi : -80000
+----------Thời Gian : 2024-01-02 22:22:28--------
+- Name : latieuhac
+- Nội Dung :  Đặt Xỉu Trừ -55000
+- Lượng Cũ : 55822
+- Lượng Mới : 822
+- Lượng Thay Đổi : -55000
+----------Thời Gian : 2024-01-02 22:22:38--------
+- Name : latieuhac
+- Nội Dung :  Đặt Xỉu Ăn 387000
+- Lượng Cũ : 822
+- Lượng Mới : 387822
+- Lượng Thay Đổi : 387000

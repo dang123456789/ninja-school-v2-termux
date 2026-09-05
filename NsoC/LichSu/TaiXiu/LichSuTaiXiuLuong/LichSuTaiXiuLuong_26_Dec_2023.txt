@@ -1,0 +1,300 @@
+----------Thời Gian : 2023-12-26 02:39:13--------
+- Name : latieuhac
+- Nội Dung :  Đặt Xỉu Trừ -70000
+- Lượng Cũ : 87377
+- Lượng Mới : 17377
+- Lượng Thay Đổi : -70000
+----------Thời Gian : 2023-12-26 06:29:10--------
+- Name : fancung
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 1213219
+- Lượng Mới : 1113219
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-26 06:30:09--------
+- Name : fancung
+- Nội Dung :  Đặt Xỉu Ăn 180000
+- Lượng Cũ : 1113219
+- Lượng Mới : 1293219
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2023-12-26 08:22:12--------
+- Name : vailol
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 109098
+- Lượng Mới : 59098
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2023-12-26 08:22:24--------
+- Name : vailol
+- Nội Dung :  Đặt Xỉu Trừ -59000
+- Lượng Cũ : 59098
+- Lượng Mới : 98
+- Lượng Thay Đổi : -59000
+----------Thời Gian : 2023-12-26 08:23:11--------
+- Name : vailol
+- Nội Dung :  Đặt Xỉu Ăn 196200
+- Lượng Cũ : 98
+- Lượng Mới : 196298
+- Lượng Thay Đổi : 196200
+----------Thời Gian : 2023-12-26 08:24:36--------
+- Name : vailol
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 196298
+- Lượng Mới : 96298
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-26 08:24:44--------
+- Name : vailol
+- Nội Dung :  Đặt Xỉu Trừ -96000
+- Lượng Cũ : 96298
+- Lượng Mới : 298
+- Lượng Thay Đổi : -96000
+----------Thời Gian : 2023-12-26 08:25:35--------
+- Name : vailol
+- Nội Dung :  Đặt Xỉu Ăn 352800
+- Lượng Cũ : 298
+- Lượng Mới : 353098
+- Lượng Thay Đổi : 352800
+----------Thời Gian : 2023-12-26 08:28:00--------
+- Name : vailol
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 353098
+- Lượng Mới : 253098
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-26 08:28:07--------
+- Name : vailol
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 253098
+- Lượng Mới : 153098
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-26 08:28:13--------
+- Name : vailol
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 153098
+- Lượng Mới : 53098
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-26 08:28:23--------
+- Name : vailol
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 53098
+- Lượng Mới : 3098
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2023-12-26 08:28:59--------
+- Name : vailol
+- Nội Dung :  Đặt Tài Ăn 630000
+- Lượng Cũ : 3098
+- Lượng Mới : 633098
+- Lượng Thay Đổi : 630000
+----------Thời Gian : 2023-12-26 10:18:30--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 421461
+- Lượng Mới : 321461
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-26 10:18:39--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 321461
+- Lượng Mới : 221461
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-26 10:18:48--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 221461
+- Lượng Mới : 121461
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-26 10:19:30--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Ăn 540000
+- Lượng Cũ : 121461
+- Lượng Mới : 661461
+- Lượng Thay Đổi : 540000
+----------Thời Gian : 2023-12-26 10:21:48--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 661461
+- Lượng Mới : 561461
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-26 10:21:56--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 561461
+- Lượng Mới : 461461
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-26 10:22:04--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 461461
+- Lượng Mới : 361461
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-26 10:38:04--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 361461
+- Lượng Mới : 261461
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-26 10:38:14--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 261461
+- Lượng Mới : 161461
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-26 10:38:23--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 161461
+- Lượng Mới : 61461
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-26 11:51:22--------
+- Name : fancung
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 1087837
+- Lượng Mới : 987837
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-26 11:51:31--------
+- Name : fancung
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 987837
+- Lượng Mới : 887837
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-26 11:51:41--------
+- Name : fancung
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 887837
+- Lượng Mới : 787837
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-26 11:52:47--------
+- Name : fancung
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 787837
+- Lượng Mới : 687837
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-26 11:52:54--------
+- Name : fancung
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 687837
+- Lượng Mới : 587837
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-26 11:53:03--------
+- Name : fancung
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 587837
+- Lượng Mới : 487837
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-26 11:53:11--------
+- Name : fancung
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 487837
+- Lượng Mới : 387837
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-26 11:53:18--------
+- Name : fancung
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 387837
+- Lượng Mới : 287837
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-26 11:53:26--------
+- Name : fancung
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 287837
+- Lượng Mới : 187837
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-26 11:54:46--------
+- Name : fancung
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 187837
+- Lượng Mới : 87837
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-26 12:20:18--------
+- Name : fancung
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 81786
+- Lượng Mới : 31786
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2023-12-26 12:21:16--------
+- Name : fancung
+- Nội Dung :  Đặt Xỉu Ăn 90000
+- Lượng Cũ : 31786
+- Lượng Mới : 121786
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2023-12-26 12:21:45--------
+- Name : fancung
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 121786
+- Lượng Mới : 71786
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2023-12-26 12:23:11--------
+- Name : fancung
+- Nội Dung :  Đặt Xỉu Trừ -70000
+- Lượng Cũ : 71786
+- Lượng Mới : 1786
+- Lượng Thay Đổi : -70000
+----------Thời Gian : 2023-12-26 12:24:09--------
+- Name : fancung
+- Nội Dung :  Đặt Xỉu Ăn 126000
+- Lượng Cũ : 1786
+- Lượng Mới : 127786
+- Lượng Thay Đổi : 126000
+----------Thời Gian : 2023-12-26 12:27:42--------
+- Name : fancung
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 127786
+- Lượng Mới : 77786
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2023-12-26 12:35:34--------
+- Name : fancung
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 77786
+- Lượng Mới : 27786
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2023-12-26 15:16:16--------
+- Name : latieuhac
+- Nội Dung :  Đặt Tài Trừ -90000
+- Lượng Cũ : 100502
+- Lượng Mới : 10502
+- Lượng Thay Đổi : -90000
+----------Thời Gian : 2023-12-26 17:15:51--------
+- Name : trumsanboss
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 253656
+- Lượng Mới : 153656
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-26 17:16:00--------
+- Name : trumsanboss
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 153656
+- Lượng Mới : 53656
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-26 18:42:26--------
+- Name : bulontragop
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 192464
+- Lượng Mới : 92464
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-26 18:42:31--------
+- Name : bulontragop
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 92464
+- Lượng Mới : 42464
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2023-12-26 18:44:40--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 362613
+- Lượng Mới : 262613
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-26 18:46:34--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 262613
+- Lượng Mới : 162613
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-26 18:46:41--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 162613
+- Lượng Mới : 112613
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2023-12-26 18:48:03--------
+- Name : trumlatao
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 112613
+- Lượng Mới : 12613
+- Lượng Thay Đổi : -100000

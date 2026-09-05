@@ -1,0 +1,680 @@
+----------Thời Gian : 2024-10-16 08:18:38--------
+- Name : 111111 Giao Dịch Với bimbiim
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 2000000000
+-------------
+----------Thời Gian : 2024-10-16 08:18:38--------
+- Name : bimbiim Giao Dịch Với 111111
+- Item Chuyển : 
+
+- Xu Chuyển : 2000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 08:57:53--------
+- Name : 1dapvelang Giao Dịch Với bimbiim
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Huy chương chiến công bạc : Số Lượng : 3591
+Huy chương chiến công đồng : Số Lượng : 4406
+Huy Chương chiến công vàng : Số Lượng : 2742
+Huy Chương Chiến Công : Số Lượng : 2263
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 08:57:53--------
+- Name : bimbiim Giao Dịch Với 1dapvelang
+- Item Chuyển : 
+Huy chương chiến công bạc : Số Lượng : 3591
+Huy chương chiến công đồng : Số Lượng : 4406
+Huy Chương chiến công vàng : Số Lượng : 2742
+Huy Chương Chiến Công : Số Lượng : 2263
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 10:26:03--------
+- Name : caigiday Giao Dịch Với 124gafsq
+- Item Chuyển : 
+
+- Xu Chuyển : 2000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 10:26:03--------
+- Name : 124gafsq Giao Dịch Với caigiday
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 2000000000
+-------------
+----------Thời Gian : 2024-10-16 10:28:57--------
+- Name : caigiday Giao Dịch Với 124gafsq
+- Item Chuyển : 
+
+- Xu Chuyển : 1164000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 10:28:57--------
+- Name : 124gafsq Giao Dịch Với caigiday
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 1164000000
+-------------
+----------Thời Gian : 2024-10-16 10:29:40--------
+- Name : caigiday Giao Dịch Với 124gaf111
+- Item Chuyển : 
+
+- Xu Chuyển : 836000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 10:29:40--------
+- Name : 124gaf111 Giao Dịch Với caigiday
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 836000000
+-------------
+----------Thời Gian : 2024-10-16 11:00:58--------
+- Name : conkiu2met Giao Dịch Với nhinconcac
+- Item Chuyển : 
+
+- Xu Chuyển : 200000000
+- Item Nhận : 
+Huy Chương Chiến Công : Số Lượng : 3224
+Huy chương chiến công đồng : Số Lượng : 6631
+Huy Chương chiến công vàng : Số Lượng : 4103
+Huy chương chiến công bạc : Số Lượng : 5151
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 11:00:58--------
+- Name : nhinconcac Giao Dịch Với conkiu2met
+- Item Chuyển : 
+Huy Chương Chiến Công : Số Lượng : 3224
+Huy chương chiến công đồng : Số Lượng : 6631
+Huy Chương chiến công vàng : Số Lượng : 4103
+Huy chương chiến công bạc : Số Lượng : 5151
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 200000000
+-------------
+----------Thời Gian : 2024-10-16 11:04:13--------
+- Name : conkiu2met Giao Dịch Với nhinconcac
+- Item Chuyển : 
+
+- Xu Chuyển : 300000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 11:04:13--------
+- Name : nhinconcac Giao Dịch Với conkiu2met
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 300000000
+-------------
+----------Thời Gian : 2024-10-16 11:43:17--------
+- Name : leonzxje Giao Dịch Với 999999
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 1999600000
+-------------
+----------Thời Gian : 2024-10-16 11:43:17--------
+- Name : 999999 Giao Dịch Với leonzxje
+- Item Chuyển : 
+
+- Xu Chuyển : 1999600000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 12:04:26--------
+- Name : 999999 Giao Dịch Với leonzxje
+- Item Chuyển : 
+
+- Xu Chuyển : 1000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 12:04:26--------
+- Name : leonzxje Giao Dịch Với 999999
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 1000000000
+-------------
+----------Thời Gian : 2024-10-16 12:45:41--------
+- Name : 111111 Giao Dịch Với bimbiim
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 2000000000
+-------------
+----------Thời Gian : 2024-10-16 12:45:41--------
+- Name : bimbiim Giao Dịch Với 111111
+- Item Chuyển : 
+
+- Xu Chuyển : 2000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 14:59:41--------
+- Name : danchoixom Giao Dịch Với conkiu2met
+- Item Chuyển : 
+
+- Xu Chuyển : 1700000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 14:59:41--------
+- Name : conkiu2met Giao Dịch Với danchoixom
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 1700000000
+-------------
+----------Thời Gian : 2024-10-16 15:00:47--------
+- Name : conkiu2met Giao Dịch Với danchoixom
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 1300000000
+-------------
+----------Thời Gian : 2024-10-16 15:00:47--------
+- Name : danchoixom Giao Dịch Với conkiu2met
+- Item Chuyển : 
+
+- Xu Chuyển : 1300000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 15:01:57--------
+- Name : conkiu1met Giao Dịch Với danchoixom
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 700000000
+-------------
+----------Thời Gian : 2024-10-16 15:01:57--------
+- Name : danchoixom Giao Dịch Với conkiu1met
+- Item Chuyển : 
+
+- Xu Chuyển : 700000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 15:22:09--------
+- Name : 1111111 Giao Dịch Với bimbiim
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Huy chương chiến công bạc : Số Lượng : 3209
+Huy chương chiến công đồng : Số Lượng : 4134
+Huy Chương chiến công vàng : Số Lượng : 2658
+Huy Chương Chiến Công : Số Lượng : 2063
+
+- Xu Nhận : 10000000
+-------------
+----------Thời Gian : 2024-10-16 15:22:09--------
+- Name : bimbiim Giao Dịch Với 1111111
+- Item Chuyển : 
+Huy chương chiến công bạc : Số Lượng : 3209
+Huy chương chiến công đồng : Số Lượng : 4134
+Huy Chương chiến công vàng : Số Lượng : 2658
+Huy Chương Chiến Công : Số Lượng : 2063
+
+- Xu Chuyển : 10000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 16:44:14--------
+- Name : 1111111 Giao Dịch Với bimbiim
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 2000000000
+-------------
+----------Thời Gian : 2024-10-16 16:44:14--------
+- Name : bimbiim Giao Dịch Với 1111111
+- Item Chuyển : 
+
+- Xu Chuyển : 2000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 17:28:05--------
+- Name : 1dapvelang Giao Dịch Với 1111111
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Huy Chương Chiến Công : Số Lượng : 2063
+Huy Chương chiến công vàng : Số Lượng : 2658
+Huy chương chiến công bạc : Số Lượng : 3209
+Huy chương chiến công đồng : Số Lượng : 4134
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 17:28:05--------
+- Name : 1111111 Giao Dịch Với 1dapvelang
+- Item Chuyển : 
+Huy Chương Chiến Công : Số Lượng : 2063
+Huy Chương chiến công vàng : Số Lượng : 2658
+Huy chương chiến công bạc : Số Lượng : 3209
+Huy chương chiến công đồng : Số Lượng : 4134
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 17:37:56--------
+- Name : 124gaf111 Giao Dịch Với caigiday
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 1164000000
+-------------
+----------Thời Gian : 2024-10-16 17:37:56--------
+- Name : caigiday Giao Dịch Với 124gaf111
+- Item Chuyển : 
+
+- Xu Chuyển : 1164000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 18:08:09--------
+- Name : yeu3em Giao Dịch Với yeu1em
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 1500000000
+-------------
+----------Thời Gian : 2024-10-16 18:08:09--------
+- Name : yeu1em Giao Dịch Với yeu3em
+- Item Chuyển : 
+
+- Xu Chuyển : 1500000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 18:09:41--------
+- Name : yeu3em Giao Dịch Với yeu1em
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 1500000000
+-------------
+----------Thời Gian : 2024-10-16 18:09:41--------
+- Name : yeu1em Giao Dịch Với yeu3em
+- Item Chuyển : 
+
+- Xu Chuyển : 1500000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 18:10:46--------
+- Name : yeu3em Giao Dịch Với yeu1em
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 500000000
+-------------
+----------Thời Gian : 2024-10-16 18:10:46--------
+- Name : yeu1em Giao Dịch Với yeu3em
+- Item Chuyển : 
+
+- Xu Chuyển : 500000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 18:51:19--------
+- Name : caigiday Giao Dịch Với 124gaf111
+- Item Chuyển : 
+
+- Xu Chuyển : 1000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 18:51:19--------
+- Name : 124gaf111 Giao Dịch Với caigiday
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 1000000000
+-------------
+----------Thời Gian : 2024-10-16 20:58:03--------
+- Name : babyboo Giao Dịch Với bigboi
+- Item Chuyển : 
+ Nham Thạch  : Số Lượng : 1675
+ Nguyệt Nhãn : Số Lượng : 595
+ Đá Nâng Cấp : Số Lượng : 17000
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Tôm hùm : Số Lượng : 1
+Tôm hùm : Số Lượng : 1
+Tôm hùm : Số Lượng : 1
+Tôm hùm : Số Lượng : 1
+Tôm hùm : Số Lượng : 1
+Tôm hùm : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 20:58:03--------
+- Name : bigboi Giao Dịch Với babyboo
+- Item Chuyển : 
+Tôm hùm : Số Lượng : 1
+Tôm hùm : Số Lượng : 1
+Tôm hùm : Số Lượng : 1
+Tôm hùm : Số Lượng : 1
+Tôm hùm : Số Lượng : 1
+Tôm hùm : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Nham Thạch  : Số Lượng : 1675
+ Nguyệt Nhãn : Số Lượng : 595
+ Đá Nâng Cấp : Số Lượng : 17000
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 20:59:34--------
+- Name : bigboi Giao Dịch Với zaidepvinhbacbo
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Mảnh ghép quạ bí ẩn : Số Lượng : 5450
+Nguyệt Nhãn : Số Lượng : 470
+Nham Thạch  : Số Lượng : 2370
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 20:59:34--------
+- Name : zaidepvinhbacbo Giao Dịch Với bigboi
+- Item Chuyển : 
+Mảnh ghép quạ bí ẩn : Số Lượng : 5450
+Nguyệt Nhãn : Số Lượng : 470
+Nham Thạch  : Số Lượng : 2370
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 21:03:18--------
+- Name : hakoota Giao Dịch Với bigboi
+- Item Chuyển : 
+ Mảnh ghép quạ bí ẩn : Số Lượng : 5000
+ Nham Thạch  : Số Lượng : 1700
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Thẻ bài kinh nghiệm gia tộc sơ : Số Lượng : 3
+Thẻ bài kinh nghiệm gia tộc trung : Số Lượng : 2
+Thẻ bài kinh nghiệm gia tộc cao : Số Lượng : 1
+Thẻ dung hợp 1 : Số Lượng : 1
+Thẻ dung hợp 2 : Số Lượng : 1
+Thẻ dung hợp 3 : Số Lượng : 1
+Thẻ dung hợp 4 : Số Lượng : 1
+Thẻ dung hợp 5 : Số Lượng : 1
+Thẻ dung hợp 6 : Số Lượng : 1
+Nguyệt Nhãn : Số Lượng : 1108
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 21:03:18--------
+- Name : bigboi Giao Dịch Với hakoota
+- Item Chuyển : 
+Thẻ bài kinh nghiệm gia tộc sơ : Số Lượng : 3
+Thẻ bài kinh nghiệm gia tộc trung : Số Lượng : 2
+Thẻ bài kinh nghiệm gia tộc cao : Số Lượng : 1
+Thẻ dung hợp 1 : Số Lượng : 1
+Thẻ dung hợp 2 : Số Lượng : 1
+Thẻ dung hợp 3 : Số Lượng : 1
+Thẻ dung hợp 4 : Số Lượng : 1
+Thẻ dung hợp 5 : Số Lượng : 1
+Thẻ dung hợp 6 : Số Lượng : 1
+Nguyệt Nhãn : Số Lượng : 1108
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Mảnh ghép quạ bí ẩn : Số Lượng : 5000
+ Nham Thạch  : Số Lượng : 1700
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 22:45:43--------
+- Name : yeu3em Giao Dịch Với yeu1em
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Huy chương chiến công đồng : Số Lượng : 15000
+Huy chương chiến công bạc : Số Lượng : 10000
+Huy Chương chiến công vàng : Số Lượng : 5000
+Huy chương chiến công đồng : Số Lượng : 10000
+Huy chương chiến công bạc : Số Lượng : 10000
+Huy Chương chiến công vàng : Số Lượng : 10000
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 22:45:43--------
+- Name : yeu1em Giao Dịch Với yeu3em
+- Item Chuyển : 
+Huy chương chiến công đồng : Số Lượng : 15000
+Huy chương chiến công bạc : Số Lượng : 10000
+Huy Chương chiến công vàng : Số Lượng : 5000
+Huy chương chiến công đồng : Số Lượng : 10000
+Huy chương chiến công bạc : Số Lượng : 10000
+Huy Chương chiến công vàng : Số Lượng : 10000
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 22:46:31--------
+- Name : yeu3em Giao Dịch Với yeu1em
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 500000000
+-------------
+----------Thời Gian : 2024-10-16 22:46:31--------
+- Name : yeu1em Giao Dịch Với yeu3em
+- Item Chuyển : 
+
+- Xu Chuyển : 500000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 22:50:02--------
+- Name : 1111111 Giao Dịch Với 1dapvelang
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 2000000000
+-------------
+----------Thời Gian : 2024-10-16 22:50:02--------
+- Name : 1dapvelang Giao Dịch Với 1111111
+- Item Chuyển : 
+
+- Xu Chuyển : 2000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 22:54:50--------
+- Name : 124gaf111 Giao Dịch Với caigiday
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 1000000000
+-------------
+----------Thời Gian : 2024-10-16 22:54:50--------
+- Name : caigiday Giao Dịch Với 124gaf111
+- Item Chuyển : 
+
+- Xu Chuyển : 1000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 22:55:55--------
+- Name : 124gafsa Giao Dịch Với caigiday
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 71000000
+-------------
+----------Thời Gian : 2024-10-16 22:55:55--------
+- Name : caigiday Giao Dịch Với 124gafsa
+- Item Chuyển : 
+
+- Xu Chuyển : 71000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 22:57:06--------
+- Name : caigiday Giao Dịch Với sapgamedi
+- Item Chuyển : 
+
+- Xu Chuyển : 716000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 22:57:06--------
+- Name : sapgamedi Giao Dịch Với caigiday
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 716000000
+-------------
+----------Thời Gian : 2024-10-16 22:59:26--------
+- Name : sapgamedi Giao Dịch Với caigiday
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 2000000000
+-------------
+----------Thời Gian : 2024-10-16 22:59:26--------
+- Name : caigiday Giao Dịch Với sapgamedi
+- Item Chuyển : 
+
+- Xu Chuyển : 2000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 23:37:13--------
+- Name : danchoixom Giao Dịch Với fc88ae
+- Item Chuyển : 
+ Thẻ dung hợp 3 : Số Lượng : 14
+ Thẻ dung hợp 1 : Số Lượng : 15
+ Thẻ dung hợp 6 : Số Lượng : 16
+ Thẻ dung hợp 2 : Số Lượng : 15
+ Thẻ dung hợp 4 : Số Lượng : 15
+ Thẻ dung hợp 5 : Số Lượng : 15
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-16 23:37:13--------
+- Name : fc88ae Giao Dịch Với danchoixom
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Thẻ dung hợp 3 : Số Lượng : 14
+ Thẻ dung hợp 1 : Số Lượng : 15
+ Thẻ dung hợp 6 : Số Lượng : 16
+ Thẻ dung hợp 2 : Số Lượng : 15
+ Thẻ dung hợp 4 : Số Lượng : 15
+ Thẻ dung hợp 5 : Số Lượng : 15
+
+- Xu Nhận : 0
+-------------

@@ -1,0 +1,140 @@
+----------Thời Gian : 2023-12-14 23:52:53--------
+- Name : denhatz Giao Dịch Với nhicaaa
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Kem : Số Lượng : 5052
+Đường bột : Số Lượng : 5080
+Bơ : Số Lượng : 5171
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-12-14 23:52:53--------
+- Name : nhicaaa Giao Dịch Với denhatz
+- Item Chuyển : 
+Kem : Số Lượng : 5052
+Đường bột : Số Lượng : 5080
+Bơ : Số Lượng : 5171
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-12-14 23:54:42--------
+- Name : denhatz Giao Dịch Với tamcaa
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Bơ : Số Lượng : 4585
+Kem : Số Lượng : 4463
+Đường bột : Số Lượng : 4602
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-12-14 23:54:42--------
+- Name : tamcaa Giao Dịch Với denhatz
+- Item Chuyển : 
+Bơ : Số Lượng : 4585
+Kem : Số Lượng : 4463
+Đường bột : Số Lượng : 4602
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-12-14 23:56:21--------
+- Name : denhatz Giao Dịch Với gaodoo
+- Item Chuyển : 
+ Đường bột : Số Lượng : 16152
+ Bơ : Số Lượng : 16345
+ Kem : Số Lượng : 15943
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-12-14 23:56:21--------
+- Name : gaodoo Giao Dịch Với denhatz
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Đường bột : Số Lượng : 16152
+ Bơ : Số Lượng : 16345
+ Kem : Số Lượng : 15943
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-12-14 23:57:05--------
+- Name : denhiz Giao Dịch Với gaodoo
+- Item Chuyển : 
+ Bơ : Số Lượng : 2760
+ Kem : Số Lượng : 2767
+ Đường bột : Số Lượng : 2725
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-12-14 23:57:05--------
+- Name : gaodoo Giao Dịch Với denhiz
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Bơ : Số Lượng : 2760
+ Kem : Số Lượng : 2767
+ Đường bột : Số Lượng : 2725
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-12-14 23:58:44--------
+- Name : gaodoo Giao Dịch Với detamz
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Đường bột : Số Lượng : 942
+Kem : Số Lượng : 957
+Bơ : Số Lượng : 689
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-12-14 23:58:44--------
+- Name : detamz Giao Dịch Với gaodoo
+- Item Chuyển : 
+Đường bột : Số Lượng : 942
+Kem : Số Lượng : 957
+Bơ : Số Lượng : 689
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-12-14 23:59:37--------
+- Name : detamz Giao Dịch Với gaodoo
+- Item Chuyển : 
+ Kem : Số Lượng : 8
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2023-12-14 23:59:37--------
+- Name : gaodoo Giao Dịch Với detamz
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Kem : Số Lượng : 8
+
+- Xu Nhận : 0
+-------------

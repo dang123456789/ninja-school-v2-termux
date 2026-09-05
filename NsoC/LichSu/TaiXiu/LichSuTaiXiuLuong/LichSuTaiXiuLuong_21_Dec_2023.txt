@@ -1,0 +1,234 @@
+----------Thời Gian : 2023-12-21 07:28:50--------
+- Name : vailol
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 114809
+- Lượng Mới : 14809
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-21 12:42:46--------
+- Name : vailol
+- Nội Dung :  Đặt Xỉu Trừ -58000
+- Lượng Cũ : 58628
+- Lượng Mới : 628
+- Lượng Thay Đổi : -58000
+----------Thời Gian : 2023-12-21 12:43:45--------
+- Name : vailol
+- Nội Dung :  Đặt Xỉu Ăn 104400
+- Lượng Cũ : 628
+- Lượng Mới : 105028
+- Lượng Thay Đổi : 104400
+----------Thời Gian : 2023-12-21 12:43:56--------
+- Name : vailol
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 105028
+- Lượng Mới : 5028
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-21 12:44:55--------
+- Name : vailol
+- Nội Dung :  Đặt Tài Ăn 180000
+- Lượng Cũ : 5028
+- Lượng Mới : 185028
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2023-12-21 12:45:45--------
+- Name : vailol
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 185028
+- Lượng Mới : 85028
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-21 12:45:53--------
+- Name : vailol
+- Nội Dung :  Đặt Tài Trừ -85000
+- Lượng Cũ : 85028
+- Lượng Mới : 28
+- Lượng Thay Đổi : -85000
+----------Thời Gian : 2023-12-21 14:23:05--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1330229
+- Lượng Mới : 1230229
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-21 14:24:35--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1230229
+- Lượng Mới : 1130229
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-21 14:26:32--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1130229
+- Lượng Mới : 1030229
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-21 14:27:49--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1030229
+- Lượng Mới : 930229
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-21 14:28:48--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Ăn 180000
+- Lượng Cũ : 767729
+- Lượng Mới : 947729
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2023-12-21 14:29:03--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 947729
+- Lượng Mới : 847729
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-21 14:37:27--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 602729
+- Lượng Mới : 502729
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-21 14:38:25--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Ăn 180000
+- Lượng Cũ : 502729
+- Lượng Mới : 682729
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2023-12-21 14:38:38--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 682729
+- Lượng Mới : 582729
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-21 14:39:36--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Ăn 180000
+- Lượng Cũ : 582729
+- Lượng Mới : 762729
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2023-12-21 14:39:56--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 762729
+- Lượng Mới : 662729
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-21 14:40:54--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Ăn 180000
+- Lượng Cũ : 662729
+- Lượng Mới : 842729
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2023-12-21 14:41:38--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 842729
+- Lượng Mới : 742729
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-21 14:42:37--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Ăn 180000
+- Lượng Cũ : 742729
+- Lượng Mới : 922729
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2023-12-21 14:43:39--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 922729
+- Lượng Mới : 822729
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-21 14:48:57--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 822729
+- Lượng Mới : 722729
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-21 14:51:02--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 722729
+- Lượng Mới : 622729
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-21 14:56:06--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 622729
+- Lượng Mới : 522729
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-21 14:57:26--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 375729
+- Lượng Mới : 275729
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-21 14:58:43--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 145729
+- Lượng Mới : 45729
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-21 17:29:59--------
+- Name : vailol
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 55516
+- Lượng Mới : 5516
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2023-12-21 17:35:36--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 124815
+- Lượng Mới : 74815
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2023-12-21 17:36:34--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Ăn 90000
+- Lượng Cũ : 74815
+- Lượng Mới : 164815
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2023-12-21 17:44:17--------
+- Name : nsovxmm04
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 183493
+- Lượng Mới : 133493
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2023-12-21 17:45:50--------
+- Name : nsovxmm04
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 133493
+- Lượng Mới : 83493
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2023-12-21 17:46:49--------
+- Name : nsovxmm04
+- Nội Dung :  Đặt Xỉu Ăn 90000
+- Lượng Cũ : 83493
+- Lượng Mới : 173493
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2023-12-21 17:48:33--------
+- Name : nsovxmm04
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 173493
+- Lượng Mới : 123493
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2023-12-21 17:49:31--------
+- Name : nsovxmm04
+- Nội Dung :  Đặt Tài Ăn 90000
+- Lượng Cũ : 123493
+- Lượng Mới : 213493
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2023-12-21 17:51:33--------
+- Name : nsovxmm04
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 213493
+- Lượng Mới : 163493
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2023-12-21 17:53:36--------
+- Name : nsovxmm04
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 163493
+- Lượng Mới : 113493
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2023-12-21 17:54:35--------
+- Name : nsovxmm04
+- Nội Dung :  Đặt Tài Ăn 90000
+- Lượng Cũ : 113493
+- Lượng Mới : 203493
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2023-12-21 17:56:18--------
+- Name : nsovxmm04
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 203493
+- Lượng Mới : 153493
+- Lượng Thay Đổi : -50000

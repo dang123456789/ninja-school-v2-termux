@@ -1,0 +1,360 @@
+----------Thời Gian : 2024-02-17 04:00:47--------
+- Name : fancung
+- Nội Dung :  Đặt Tài Trừ -52000
+- Lượng Cũ : 52822
+- Lượng Mới : 822
+- Lượng Thay Đổi : -52000
+----------Thời Gian : 2024-02-17 04:01:47--------
+- Name : fancung
+- Nội Dung :  Đặt Tài Ăn 93600
+- Lượng Cũ : 822
+- Lượng Mới : 94422
+- Lượng Thay Đổi : 93600
+----------Thời Gian : 2024-02-17 04:02:06--------
+- Name : fancung
+- Nội Dung :  Đặt Tài Trừ -94000
+- Lượng Cũ : 94422
+- Lượng Mới : 422
+- Lượng Thay Đổi : -94000
+----------Thời Gian : 2024-02-17 08:19:05--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 692146
+- Lượng Mới : 592146
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-02-17 08:19:13--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 592146
+- Lượng Mới : 492146
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-02-17 08:19:19--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 492146
+- Lượng Mới : 392146
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-02-17 08:19:25--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 392146
+- Lượng Mới : 292146
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-02-17 08:19:35--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 292146
+- Lượng Mới : 192146
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-02-17 08:19:42--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 192146
+- Lượng Mới : 92146
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-02-17 08:20:04--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Ăn 1080000
+- Lượng Cũ : 92146
+- Lượng Mới : 1172146
+- Lượng Thay Đổi : 1080000
+----------Thời Gian : 2024-02-17 08:20:32--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 1172146
+- Lượng Mới : 1072146
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-02-17 08:21:30--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Ăn 180000
+- Lượng Cũ : 1072146
+- Lượng Mới : 1252146
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-02-17 08:21:38--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 1252146
+- Lượng Mới : 1202146
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-02-17 10:19:13--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 1300379
+- Lượng Mới : 1250379
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-02-17 10:20:11--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Ăn 90000
+- Lượng Cũ : 1250379
+- Lượng Mới : 1340379
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2024-02-17 10:20:17--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 1340379
+- Lượng Mới : 1290379
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-02-17 10:21:16--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Ăn 90000
+- Lượng Cũ : 1290379
+- Lượng Mới : 1380379
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2024-02-17 10:21:29--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 1380379
+- Lượng Mới : 1330379
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-02-17 10:22:28--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Ăn 90000
+- Lượng Cũ : 1330379
+- Lượng Mới : 1420379
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2024-02-17 10:22:35--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 1420379
+- Lượng Mới : 1370379
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-02-17 10:41:23--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1370379
+- Lượng Mới : 1270379
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-02-17 15:10:41--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 1416482
+- Lượng Mới : 1366482
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-02-17 15:11:39--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Ăn 90000
+- Lượng Cũ : 1366482
+- Lượng Mới : 1456482
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2024-02-17 15:11:47--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 1456482
+- Lượng Mới : 1406482
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-02-17 15:13:14--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 1406482
+- Lượng Mới : 1356482
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-02-17 15:15:03--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 1356482
+- Lượng Mới : 1306482
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-02-17 15:17:16--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 1306482
+- Lượng Mới : 1206482
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-02-17 15:17:19--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 1206482
+- Lượng Mới : 1106482
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-02-17 15:17:23--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 1106482
+- Lượng Mới : 1006482
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-02-17 15:18:15--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Ăn 540000
+- Lượng Cũ : 1006482
+- Lượng Mới : 1546482
+- Lượng Thay Đổi : 540000
+----------Thời Gian : 2024-02-17 15:18:40--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 1546482
+- Lượng Mới : 1496482
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-02-17 15:20:57--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 1496482
+- Lượng Mới : 1446482
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-02-17 15:21:56--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Ăn 90000
+- Lượng Cũ : 1446482
+- Lượng Mới : 1536482
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2024-02-17 15:22:15--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 1536482
+- Lượng Mới : 1486482
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-02-17 15:23:13--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Ăn 90000
+- Lượng Cũ : 1486482
+- Lượng Mới : 1576482
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2024-02-17 15:23:21--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 1576482
+- Lượng Mới : 1526482
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-02-17 20:30:30--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 1692577
+- Lượng Mới : 1642577
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-02-17 20:31:29--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Ăn 90000
+- Lượng Cũ : 1642577
+- Lượng Mới : 1732577
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2024-02-17 20:31:35--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 1732577
+- Lượng Mới : 1682577
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-02-17 20:32:48--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1682577
+- Lượng Mới : 1582577
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-02-17 20:32:55--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -82000
+- Lượng Cũ : 1582577
+- Lượng Mới : 1500577
+- Lượng Thay Đổi : -82000
+----------Thời Gian : 2024-02-17 20:34:00--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 1500577
+- Lượng Mới : 1400577
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-02-17 20:34:04--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 1400577
+- Lượng Mới : 1300577
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-02-17 20:34:07--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 1300577
+- Lượng Mới : 1200577
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-02-17 20:34:10--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 1200577
+- Lượng Mới : 1100577
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-02-17 20:34:19--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 1100577
+- Lượng Mới : 1000577
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-02-17 20:34:59--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Ăn 900000
+- Lượng Cũ : 1000577
+- Lượng Mới : 1900577
+- Lượng Thay Đổi : 900000
+----------Thời Gian : 2024-02-17 20:35:12--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 1900577
+- Lượng Mới : 1850577
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-02-17 20:38:16--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1850577
+- Lượng Mới : 1750577
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-02-17 20:38:24--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1750577
+- Lượng Mới : 1650577
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-02-17 20:38:28--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1650577
+- Lượng Mới : 1550577
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-02-17 20:38:35--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 1550577
+- Lượng Mới : 1500577
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-02-17 20:39:15--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Ăn 630000
+- Lượng Cũ : 1500577
+- Lượng Mới : 2130577
+- Lượng Thay Đổi : 630000
+----------Thời Gian : 2024-02-17 20:39:48--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 2130577
+- Lượng Mới : 2080577
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-02-17 20:40:46--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Ăn 90000
+- Lượng Cũ : 2080577
+- Lượng Mới : 2170577
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2024-02-17 20:41:37--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -70000
+- Lượng Cũ : 2170577
+- Lượng Mới : 2100577
+- Lượng Thay Đổi : -70000
+----------Thời Gian : 2024-02-17 20:42:36--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Ăn 126000
+- Lượng Cũ : 2100577
+- Lượng Mới : 2226577
+- Lượng Thay Đổi : 126000
+----------Thời Gian : 2024-02-17 20:42:44--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 2226577
+- Lượng Mới : 2176577
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-02-17 20:43:42--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Ăn 90000
+- Lượng Cũ : 2176577
+- Lượng Mới : 2266577
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2024-02-17 20:43:52--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 2266577
+- Lượng Mới : 2216577
+- Lượng Thay Đổi : -50000

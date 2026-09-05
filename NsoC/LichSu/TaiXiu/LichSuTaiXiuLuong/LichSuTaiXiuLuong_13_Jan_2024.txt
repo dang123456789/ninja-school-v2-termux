@@ -1,0 +1,786 @@
+----------Thời Gian : 2024-01-13 04:05:05--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 693133
+- Lượng Mới : 593133
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 04:06:03--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Ăn 180000
+- Lượng Cũ : 593133
+- Lượng Mới : 773133
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-13 04:07:12--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 773133
+- Lượng Mới : 673133
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 04:08:11--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Ăn 180000
+- Lượng Cũ : 673133
+- Lượng Mới : 853133
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-13 04:08:43--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 853133
+- Lượng Mới : 753133
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 04:09:41--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Ăn 180000
+- Lượng Cũ : 753133
+- Lượng Mới : 933133
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-13 04:15:20--------
+- Name : vailol
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 2720347
+- Lượng Mới : 2620347
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 04:15:27--------
+- Name : vailol
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 2620347
+- Lượng Mới : 2520347
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 04:16:18--------
+- Name : vailol
+- Nội Dung :  Đặt Tài Ăn 360000
+- Lượng Cũ : 2490347
+- Lượng Mới : 2850347
+- Lượng Thay Đổi : 360000
+----------Thời Gian : 2024-01-13 07:05:35--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 955199
+- Lượng Mới : 855199
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 07:06:53--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 855199
+- Lượng Mới : 755199
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 07:08:14--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 755199
+- Lượng Mới : 655199
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 07:09:13--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Ăn 180000
+- Lượng Cũ : 655199
+- Lượng Mới : 835199
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-13 07:09:40--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 835199
+- Lượng Mới : 735199
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 07:11:24--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 735199
+- Lượng Mới : 635199
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 07:12:23--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Ăn 180000
+- Lượng Cũ : 635199
+- Lượng Mới : 815199
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-13 07:12:39--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 815199
+- Lượng Mới : 715199
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 07:14:43--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 715199
+- Lượng Mới : 615199
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 07:15:42--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Ăn 180000
+- Lượng Cũ : 615199
+- Lượng Mới : 795199
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-13 07:16:02--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 795199
+- Lượng Mới : 695199
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 07:17:00--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Ăn 180000
+- Lượng Cũ : 695199
+- Lượng Mới : 875199
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-13 07:17:28--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 875199
+- Lượng Mới : 775199
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 07:18:56--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 775199
+- Lượng Mới : 675199
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 07:20:22--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 675199
+- Lượng Mới : 575199
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 07:21:20--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Ăn 180000
+- Lượng Cũ : 575199
+- Lượng Mới : 755199
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-13 07:21:38--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 755199
+- Lượng Mới : 655199
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 07:22:51--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 655199
+- Lượng Mới : 555199
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 07:23:49--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Ăn 180000
+- Lượng Cũ : 555199
+- Lượng Mới : 735199
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-13 07:24:17--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 735199
+- Lượng Mới : 635199
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 07:25:33--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 635199
+- Lượng Mới : 535199
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:18:57--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 565742
+- Lượng Mới : 465742
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:19:55--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Ăn 180000
+- Lượng Cũ : 465742
+- Lượng Mới : 645742
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-13 09:20:09--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 645742
+- Lượng Mới : 545742
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:21:08--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Ăn 180000
+- Lượng Cũ : 545742
+- Lượng Mới : 725742
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-13 09:21:09--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1806792
+- Lượng Mới : 1706792
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:21:42--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 725742
+- Lượng Mới : 625742
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:22:08--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Ăn 180000
+- Lượng Cũ : 625742
+- Lượng Mới : 805742
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-13 09:22:58--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 805742
+- Lượng Mới : 705742
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:23:57--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Ăn 180000
+- Lượng Cũ : 705742
+- Lượng Mới : 885742
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-13 09:24:22--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 885742
+- Lượng Mới : 785742
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:24:55--------
+- Name : trumlatao
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 1706792
+- Lượng Mới : 1606792
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:26:00--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 785742
+- Lượng Mới : 685742
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:26:27--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1606792
+- Lượng Mới : 1506792
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:26:41--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1506792
+- Lượng Mới : 1406792
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:27:25--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 685742
+- Lượng Mới : 585742
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:27:55--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1406792
+- Lượng Mới : 1306792
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:28:01--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1306792
+- Lượng Mới : 1206792
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:28:09--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1206792
+- Lượng Mới : 1106792
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:28:23--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Ăn 180000
+- Lượng Cũ : 585742
+- Lượng Mới : 765742
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-13 09:28:23--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Ăn 540000
+- Lượng Cũ : 1106792
+- Lượng Mới : 1646792
+- Lượng Thay Đổi : 540000
+----------Thời Gian : 2024-01-13 09:28:52--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 765742
+- Lượng Mới : 665742
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:29:03--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 665742
+- Lượng Mới : 565742
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:29:18--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 565742
+- Lượng Mới : 465742
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:29:20--------
+- Name : trumlatao
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 1646792
+- Lượng Mới : 1546792
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:29:26--------
+- Name : trumlatao
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 1546792
+- Lượng Mới : 1446792
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:30:11--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 465742
+- Lượng Mới : 365742
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:30:21--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 365742
+- Lượng Mới : 265742
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:30:30--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 265742
+- Lượng Mới : 165742
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:30:40--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 165742
+- Lượng Mới : 65742
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:30:44--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1446792
+- Lượng Mới : 1346792
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:30:51--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1346792
+- Lượng Mới : 1246792
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:30:58--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1246792
+- Lượng Mới : 1146792
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:32:36--------
+- Name : trumlatao
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 1146792
+- Lượng Mới : 1046792
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:32:43--------
+- Name : trumlatao
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 1046792
+- Lượng Mới : 946792
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:32:49--------
+- Name : trumlatao
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 946792
+- Lượng Mới : 846792
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:32:54--------
+- Name : trumlatao
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 846792
+- Lượng Mới : 746792
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:33:09--------
+- Name : trumlatao
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 746792
+- Lượng Mới : 646792
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:33:18--------
+- Name : trumlatao
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 646792
+- Lượng Mới : 546792
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:33:35--------
+- Name : trumlatao
+- Nội Dung :  Đặt Xỉu Ăn 1080000
+- Lượng Cũ : 546792
+- Lượng Mới : 1626792
+- Lượng Thay Đổi : 1080000
+----------Thời Gian : 2024-01-13 09:38:08--------
+- Name : trumlatao
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 1653894
+- Lượng Mới : 1553894
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:40:12--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1553889
+- Lượng Mới : 1453889
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:40:25--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1453889
+- Lượng Mới : 1353889
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:40:34--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -53000
+- Lượng Cũ : 1353889
+- Lượng Mới : 1300889
+- Lượng Thay Đổi : -53000
+----------Thời Gian : 2024-01-13 09:42:08--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1300889
+- Lượng Mới : 1200889
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:42:24--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1200889
+- Lượng Mới : 1100889
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:42:31--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1100889
+- Lượng Mới : 1000889
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:43:24--------
+- Name : trumlatao
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 1000889
+- Lượng Mới : 900889
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:43:31--------
+- Name : trumlatao
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 900889
+- Lượng Mới : 800889
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:43:39--------
+- Name : trumlatao
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 800889
+- Lượng Mới : 700889
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:43:56--------
+- Name : trumlatao
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 700889
+- Lượng Mới : 600889
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:44:37--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 600889
+- Lượng Mới : 500889
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:44:46--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 500889
+- Lượng Mới : 400889
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:44:52--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 400889
+- Lượng Mới : 300889
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:44:57--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 300889
+- Lượng Mới : 200889
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:45:07--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 200889
+- Lượng Mới : 100889
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:45:36--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Ăn 900000
+- Lượng Cũ : 100889
+- Lượng Mới : 1000889
+- Lượng Thay Đổi : 900000
+----------Thời Gian : 2024-01-13 09:46:23--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1000889
+- Lượng Mới : 900889
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:46:30--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 900889
+- Lượng Mới : 800889
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:46:37--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 800889
+- Lượng Mới : 700889
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:47:51--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 700889
+- Lượng Mới : 600889
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:47:59--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 600889
+- Lượng Mới : 500889
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:48:05--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 500889
+- Lượng Mới : 400889
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:48:12--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 400889
+- Lượng Mới : 300889
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:49:26--------
+- Name : trumlatao
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 300889
+- Lượng Mới : 200889
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:49:35--------
+- Name : trumlatao
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 200889
+- Lượng Mới : 100889
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 09:50:42--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 100889
+- Lượng Mới : 50889
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-13 14:51:24--------
+- Name : bulontragop
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 357362
+- Lượng Mới : 257362
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 14:51:33--------
+- Name : bulontragop
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 257362
+- Lượng Mới : 157362
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 14:51:40--------
+- Name : bulontragop
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 157362
+- Lượng Mới : 107362
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-13 16:32:56--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 170388
+- Lượng Mới : 70388
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 16:33:06--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 70388
+- Lượng Mới : 20388
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-13 18:25:04--------
+- Name : fancung
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 348628
+- Lượng Mới : 248628
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 18:26:03--------
+- Name : fancung
+- Nội Dung :  Đặt Tài Ăn 180000
+- Lượng Cũ : 248628
+- Lượng Mới : 428628
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-13 18:26:17--------
+- Name : fancung
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 428628
+- Lượng Mới : 328628
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 18:27:15--------
+- Name : fancung
+- Nội Dung :  Đặt Xỉu Ăn 180000
+- Lượng Cũ : 328628
+- Lượng Mới : 508628
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-13 18:27:37--------
+- Name : fancung
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 508628
+- Lượng Mới : 408628
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 18:29:19--------
+- Name : fancung
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 408628
+- Lượng Mới : 308628
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 18:29:28--------
+- Name : fancung
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 308628
+- Lượng Mới : 208628
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 18:29:37--------
+- Name : fancung
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 208628
+- Lượng Mới : 108628
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 18:29:46--------
+- Name : fancung
+- Nội Dung :  Đặt Tài Trừ -60000
+- Lượng Cũ : 108628
+- Lượng Mới : 48628
+- Lượng Thay Đổi : -60000
+----------Thời Gian : 2024-01-13 18:30:18--------
+- Name : fancung
+- Nội Dung :  Đặt Tài Ăn 648000
+- Lượng Cũ : 48628
+- Lượng Mới : 696628
+- Lượng Thay Đổi : 648000
+----------Thời Gian : 2024-01-13 18:31:14--------
+- Name : anhcoi2k
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 638376
+- Lượng Mới : 538376
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 18:32:13--------
+- Name : anhcoi2k
+- Nội Dung :  Đặt Xỉu Ăn 180000
+- Lượng Cũ : 538376
+- Lượng Mới : 718376
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-13 18:33:06--------
+- Name : anhcoi2k
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 718376
+- Lượng Mới : 668376
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-13 18:33:25--------
+- Name : fancung
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 696628
+- Lượng Mới : 596628
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 18:34:05--------
+- Name : anhcoi2k
+- Nội Dung :  Đặt Xỉu Ăn 90000
+- Lượng Cũ : 668376
+- Lượng Mới : 758376
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2024-01-13 18:34:52--------
+- Name : fancung
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 596628
+- Lượng Mới : 496628
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 18:35:00--------
+- Name : fancung
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 496628
+- Lượng Mới : 396628
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 18:35:13--------
+- Name : fancung
+- Nội Dung :  Đặt Tài Trừ -96000
+- Lượng Cũ : 396628
+- Lượng Mới : 300628
+- Lượng Thay Đổi : -96000
+----------Thời Gian : 2024-01-13 18:35:50--------
+- Name : fancung
+- Nội Dung :  Đặt Tài Ăn 532800
+- Lượng Cũ : 300628
+- Lượng Mới : 833428
+- Lượng Thay Đổi : 532800
+----------Thời Gian : 2024-01-13 18:37:57--------
+- Name : fancung
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 833428
+- Lượng Mới : 733428
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 18:38:56--------
+- Name : fancung
+- Nội Dung :  Đặt Xỉu Ăn 180000
+- Lượng Cũ : 733428
+- Lượng Mới : 913428
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-13 18:39:30--------
+- Name : fancung
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 913428
+- Lượng Mới : 813428
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-13 20:52:13--------
+- Name : fancung
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 814237
+- Lượng Mới : 764237
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-13 22:12:19--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -54000
+- Lượng Cũ : 154508
+- Lượng Mới : 100508
+- Lượng Thay Đổi : -54000
+----------Thời Gian : 2024-01-13 22:13:18--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Ăn 97200
+- Lượng Cũ : 100508
+- Lượng Mới : 197708
+- Lượng Thay Đổi : 97200
+----------Thời Gian : 2024-01-13 22:13:45--------
+- Name : trumlatao
+- Nội Dung :  Đặt Xỉu Trừ -97000
+- Lượng Cũ : 197708
+- Lượng Mới : 100708
+- Lượng Thay Đổi : -97000
+----------Thời Gian : 2024-01-13 22:15:52--------
+- Name : trumlatao
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 100708
+- Lượng Mới : 50708
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-13 22:16:51--------
+- Name : trumlatao
+- Nội Dung :  Đặt Xỉu Ăn 90000
+- Lượng Cũ : 50708
+- Lượng Mới : 140708
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2024-01-13 22:17:26--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 140708
+- Lượng Mới : 90708
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-13 22:17:58--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 90708
+- Lượng Mới : 40708
+- Lượng Thay Đổi : -50000

@@ -1,0 +1,3072 @@
+----------Thời Gian : 2024-10-04 06:12:18--------
+- Name : minhnx Giao Dịch Với minhsz
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Pet Bóng Ma : Số Lượng : 1
+Nhật Tử Lam Phong : Số Lượng : 1
+Nhật Tử Lam Phong : Số Lượng : 1
+Mặt nạ Oni : Số Lượng : 1
+Mặt nạ Oni : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 06:12:18--------
+- Name : minhsz Giao Dịch Với minhnx
+- Item Chuyển : 
+Pet Bóng Ma : Số Lượng : 1
+Nhật Tử Lam Phong : Số Lượng : 1
+Nhật Tử Lam Phong : Số Lượng : 1
+Mặt nạ Oni : Số Lượng : 1
+Mặt nạ Oni : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 07:59:31--------
+- Name : trum99 Giao Dịch Với nhinconcac
+- Item Chuyển : 
+ Đá Năng Lượng Băng : Số Lượng : 1275
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 07:59:31--------
+- Name : nhinconcac Giao Dịch Với trum99
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Đá Năng Lượng Băng : Số Lượng : 1275
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 08:01:38--------
+- Name : 1dapvelang Giao Dịch Với caubanh
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 1000000000
+-------------
+----------Thời Gian : 2024-10-04 08:01:38--------
+- Name : caubanh Giao Dịch Với 1dapvelang
+- Item Chuyển : 
+
+- Xu Chuyển : 1000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 08:02:21--------
+- Name : caubanh Giao Dịch Với 1dapvelang
+- Item Chuyển : 
+
+- Xu Chuyển : 1000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 08:02:21--------
+- Name : 1dapvelang Giao Dịch Với caubanh
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 1000000000
+-------------
+----------Thời Gian : 2024-10-04 08:03:18--------
+- Name : caubanh Giao Dịch Với 1dapvelang
+- Item Chuyển : 
+
+- Xu Chuyển : 1000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 08:03:18--------
+- Name : 1dapvelang Giao Dịch Với caubanh
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 1000000000
+-------------
+----------Thời Gian : 2024-10-04 08:03:51--------
+- Name : caubanh Giao Dịch Với 1dapvelang
+- Item Chuyển : 
+
+- Xu Chuyển : 1000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 08:03:51--------
+- Name : 1dapvelang Giao Dịch Với caubanh
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 1000000000
+-------------
+----------Thời Gian : 2024-10-04 08:12:06--------
+- Name : kingdrag Giao Dịch Với thaiphong
+- Item Chuyển : 
+ Nham Thạch  : Số Lượng : 2267
+ Đá Năng Lượng Gió : Số Lượng : 3502
+ Đá Năng Lượng Hỏa : Số Lượng : 4086
+ Đá Năng Lượng Băng : Số Lượng : 4605
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Nguyệt Nhãn : Số Lượng : 515
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 08:12:06--------
+- Name : thaiphong Giao Dịch Với kingdrag
+- Item Chuyển : 
+Nguyệt Nhãn : Số Lượng : 515
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Nham Thạch  : Số Lượng : 2267
+ Đá Năng Lượng Gió : Số Lượng : 3502
+ Đá Năng Lượng Hỏa : Số Lượng : 4086
+ Đá Năng Lượng Băng : Số Lượng : 4605
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 08:14:41--------
+- Name : minhm2 Giao Dịch Với minhn4z
+- Item Chuyển : 
+ Nham Thạch  : Số Lượng : 453
+ Đá Năng Lượng Hỏa : Số Lượng : 841
+ Đá Năng Lượng Băng : Số Lượng : 926
+ Đá Năng Lượng Gió : Số Lượng : 709
+ Mảnh ghép quạ bí ẩn : Số Lượng : 1043
+ Mảnh ghép Rin bị Kakashi xiên : Số Lượng : 270
+ Nguyệt Nhãn : Số Lượng : 182
+
+- Xu Chuyển : 17000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 08:14:41--------
+- Name : minhn4z Giao Dịch Với minhm2
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Nham Thạch  : Số Lượng : 453
+ Đá Năng Lượng Hỏa : Số Lượng : 841
+ Đá Năng Lượng Băng : Số Lượng : 926
+ Đá Năng Lượng Gió : Số Lượng : 709
+ Mảnh ghép quạ bí ẩn : Số Lượng : 1043
+ Mảnh ghép Rin bị Kakashi xiên : Số Lượng : 270
+ Nguyệt Nhãn : Số Lượng : 182
+
+- Xu Nhận : 17000000
+-------------
+----------Thời Gian : 2024-10-04 08:17:26--------
+- Name : minhh2 Giao Dịch Với minhn4z
+- Item Chuyển : 
+ Đá Năng Lượng Băng : Số Lượng : 196
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+
+- Xu Chuyển : 12000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 08:17:26--------
+- Name : minhn4z Giao Dịch Với minhh2
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Đá Năng Lượng Băng : Số Lượng : 196
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+
+- Xu Nhận : 12000000
+-------------
+----------Thời Gian : 2024-10-04 08:19:34--------
+- Name : minhh3 Giao Dịch Với minhn4z
+- Item Chuyển : 
+ Minh Giác Kiếm : Số Lượng : 1
+ Mảnh Áo Jirai  : Số Lượng : 1
+ Mảnh Nón Jirai  : Số Lượng : 1
+ Nham Thạch  : Số Lượng : 352
+ Nguyệt Nhãn : Số Lượng : 135
+ Đá Năng Lượng Hỏa : Số Lượng : 627
+ Đá Năng Lượng Gió : Số Lượng : 533
+ Mảnh ghép Rin bị Kakashi xiên : Số Lượng : 207
+ Mảnh ghép quạ bí ẩn : Số Lượng : 1038
+ Đá Năng Lượng Băng : Số Lượng : 791
+ Lệnh bài năng động : Số Lượng : 180
+
+- Xu Chuyển : 13000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 08:19:34--------
+- Name : minhn4z Giao Dịch Với minhh3
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Minh Giác Kiếm : Số Lượng : 1
+ Mảnh Áo Jirai  : Số Lượng : 1
+ Mảnh Nón Jirai  : Số Lượng : 1
+ Nham Thạch  : Số Lượng : 352
+ Nguyệt Nhãn : Số Lượng : 135
+ Đá Năng Lượng Hỏa : Số Lượng : 627
+ Đá Năng Lượng Gió : Số Lượng : 533
+ Mảnh ghép Rin bị Kakashi xiên : Số Lượng : 207
+ Mảnh ghép quạ bí ẩn : Số Lượng : 1038
+ Đá Năng Lượng Băng : Số Lượng : 791
+ Lệnh bài năng động : Số Lượng : 180
+
+- Xu Nhận : 13000000
+-------------
+----------Thời Gian : 2024-10-04 08:22:48--------
+- Name : minh668 Giao Dịch Với minhn4z
+- Item Chuyển : 
+ Nguyệt Nhãn : Số Lượng : 171
+ Nham Thạch  : Số Lượng : 514
+ Mảnh ghép quạ bí ẩn : Số Lượng : 2052
+ Đá Năng Lượng Hỏa : Số Lượng : 843
+ Mảnh ghép Rin bị Kakashi xiên : Số Lượng : 281
+ Đá Năng Lượng Băng : Số Lượng : 1025
+ Đá Năng Lượng Gió : Số Lượng : 764
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 08:22:48--------
+- Name : minhn4z Giao Dịch Với minh668
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Nguyệt Nhãn : Số Lượng : 171
+ Nham Thạch  : Số Lượng : 514
+ Mảnh ghép quạ bí ẩn : Số Lượng : 2052
+ Đá Năng Lượng Hỏa : Số Lượng : 843
+ Mảnh ghép Rin bị Kakashi xiên : Số Lượng : 281
+ Đá Năng Lượng Băng : Số Lượng : 1025
+ Đá Năng Lượng Gió : Số Lượng : 764
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 08:23:13--------
+- Name : minh668 Giao Dịch Với minhn4z
+- Item Chuyển : 
+
+- Xu Chuyển : 18000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 08:23:13--------
+- Name : minhn4z Giao Dịch Với minh668
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 18000000
+-------------
+----------Thời Gian : 2024-10-04 08:25:18--------
+- Name : minhdz6 Giao Dịch Với minhn4z
+- Item Chuyển : 
+ Nguyệt Nhãn : Số Lượng : 190
+ Nham Thạch  : Số Lượng : 501
+ Mảnh ghép quạ bí ẩn : Số Lượng : 1076
+ Sách võ công Tiêu Hoả Phi Long : Số Lượng : 1
+ Đá Năng Lượng Băng : Số Lượng : 1029
+ Đá Năng Lượng Gió : Số Lượng : 751
+ Mảnh ghép Rin bị Kakashi xiên : Số Lượng : 286
+ Đá Năng Lượng Hỏa : Số Lượng : 851
+
+- Xu Chuyển : 18000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 08:25:18--------
+- Name : minhn4z Giao Dịch Với minhdz6
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Nguyệt Nhãn : Số Lượng : 190
+ Nham Thạch  : Số Lượng : 501
+ Mảnh ghép quạ bí ẩn : Số Lượng : 1076
+ Sách võ công Tiêu Hoả Phi Long : Số Lượng : 1
+ Đá Năng Lượng Băng : Số Lượng : 1029
+ Đá Năng Lượng Gió : Số Lượng : 751
+ Mảnh ghép Rin bị Kakashi xiên : Số Lượng : 286
+ Đá Năng Lượng Hỏa : Số Lượng : 851
+
+- Xu Nhận : 18000000
+-------------
+----------Thời Gian : 2024-10-04 08:27:12--------
+- Name : minhaz Giao Dịch Với minhn4z
+- Item Chuyển : 
+ Mảnh ghép quạ bí ẩn : Số Lượng : 418
+ Đá Năng Lượng Gió : Số Lượng : 349
+ Nham Thạch  : Số Lượng : 218
+ Huy chương chiến công đồng : Số Lượng : 1918
+ Huy Chương Chiến Công : Số Lượng : 670
+ Huy chương chiến công bạc : Số Lượng : 1416
+ Đá Năng Lượng Băng : Số Lượng : 465
+ Huy Chương chiến công vàng : Số Lượng : 1120
+ Đá Năng Lượng Hỏa : Số Lượng : 420
+ Nguyệt Nhãn : Số Lượng : 80
+
+- Xu Chuyển : 8000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 08:27:12--------
+- Name : minhn4z Giao Dịch Với minhaz
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Mảnh ghép quạ bí ẩn : Số Lượng : 418
+ Đá Năng Lượng Gió : Số Lượng : 349
+ Nham Thạch  : Số Lượng : 218
+ Huy chương chiến công đồng : Số Lượng : 1918
+ Huy Chương Chiến Công : Số Lượng : 670
+ Huy chương chiến công bạc : Số Lượng : 1416
+ Đá Năng Lượng Băng : Số Lượng : 465
+ Huy Chương chiến công vàng : Số Lượng : 1120
+ Đá Năng Lượng Hỏa : Số Lượng : 420
+ Nguyệt Nhãn : Số Lượng : 80
+
+- Xu Nhận : 8000000
+-------------
+----------Thời Gian : 2024-10-04 08:28:42--------
+- Name : boztkx2 Giao Dịch Với minhn4z
+- Item Chuyển : 
+ Nguyệt Nhãn : Số Lượng : 122
+ Mảnh ghép Rin bị Kakashi xiên : Số Lượng : 156
+ Đá Năng Lượng Hỏa : Số Lượng : 670
+ Đá Năng Lượng Gió : Số Lượng : 593
+ Đá Năng Lượng Băng : Số Lượng : 785
+ Nham Thạch  : Số Lượng : 319
+ Mảnh ghép quạ bí ẩn : Số Lượng : 716
+
+- Xu Chuyển : 13000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 08:28:42--------
+- Name : minhn4z Giao Dịch Với boztkx2
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Nguyệt Nhãn : Số Lượng : 122
+ Mảnh ghép Rin bị Kakashi xiên : Số Lượng : 156
+ Đá Năng Lượng Hỏa : Số Lượng : 670
+ Đá Năng Lượng Gió : Số Lượng : 593
+ Đá Năng Lượng Băng : Số Lượng : 785
+ Nham Thạch  : Số Lượng : 319
+ Mảnh ghép quạ bí ẩn : Số Lượng : 716
+
+- Xu Nhận : 13000000
+-------------
+----------Thời Gian : 2024-10-04 08:32:00--------
+- Name : minht2 Giao Dịch Với minhn4z
+- Item Chuyển : 
+ Nguyệt Nhãn : Số Lượng : 210
+ Đá Năng Lượng Gió : Số Lượng : 892
+ Đá Năng Lượng Hỏa : Số Lượng : 948
+ Đá Năng Lượng Băng : Số Lượng : 1178
+ Mảnh giấy vụn : Số Lượng : 6
+ Thẻ dung hợp 5 : Số Lượng : 1
+ Thẻ dung hợp 4 : Số Lượng : 1
+ Thẻ dung hợp 2 : Số Lượng : 1
+ Thẻ dung hợp 1 : Số Lượng : 1
+ Mảnh ghép Rin bị Kakashi xiên : Số Lượng : 311
+ Thẻ dung hợp 6 : Số Lượng : 1
+ Thẻ dung hợp 3 : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Nham Thạch  : Số Lượng : 2604
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 08:32:00--------
+- Name : minhn4z Giao Dịch Với minht2
+- Item Chuyển : 
+Nham Thạch  : Số Lượng : 2604
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Nguyệt Nhãn : Số Lượng : 210
+ Đá Năng Lượng Gió : Số Lượng : 892
+ Đá Năng Lượng Hỏa : Số Lượng : 948
+ Đá Năng Lượng Băng : Số Lượng : 1178
+ Mảnh giấy vụn : Số Lượng : 6
+ Thẻ dung hợp 5 : Số Lượng : 1
+ Thẻ dung hợp 4 : Số Lượng : 1
+ Thẻ dung hợp 2 : Số Lượng : 1
+ Thẻ dung hợp 1 : Số Lượng : 1
+ Mảnh ghép Rin bị Kakashi xiên : Số Lượng : 311
+ Thẻ dung hợp 6 : Số Lượng : 1
+ Thẻ dung hợp 3 : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 08:32:45--------
+- Name : minht2 Giao Dịch Với minhn4z
+- Item Chuyển : 
+ Nham Thạch  : Số Lượng : 2323
+
+- Xu Chuyển : 18000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 08:32:45--------
+- Name : minhn4z Giao Dịch Với minht2
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Nham Thạch  : Số Lượng : 2323
+
+- Xu Nhận : 18000000
+-------------
+----------Thời Gian : 2024-10-04 08:36:31--------
+- Name : minhsz Giao Dịch Với minhn4z
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Huy Chương chiến công vàng : Số Lượng : 2869
+Huy chương chiến công bạc : Số Lượng : 4575
+Huy Chương Chiến Công : Số Lượng : 1712
+Huy chương chiến công đồng : Số Lượng : 6686
+Rương Ma Quái : Số Lượng : 1048
+Mảnh Vuốt Rồng : Số Lượng : 5363
+Thông linh thảo : Số Lượng : 14345
+Đá Năng Lượng Gió : Số Lượng : 7196
+Đá Năng Lượng Băng : Số Lượng : 7536
+Đá Năng Lượng Hỏa : Số Lượng : 6937
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 08:36:31--------
+- Name : minhn4z Giao Dịch Với minhsz
+- Item Chuyển : 
+Huy Chương chiến công vàng : Số Lượng : 2869
+Huy chương chiến công bạc : Số Lượng : 4575
+Huy Chương Chiến Công : Số Lượng : 1712
+Huy chương chiến công đồng : Số Lượng : 6686
+Rương Ma Quái : Số Lượng : 1048
+Mảnh Vuốt Rồng : Số Lượng : 5363
+Thông linh thảo : Số Lượng : 14345
+Đá Năng Lượng Gió : Số Lượng : 7196
+Đá Năng Lượng Băng : Số Lượng : 7536
+Đá Năng Lượng Hỏa : Số Lượng : 6937
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 08:37:24--------
+- Name : minhn4z Giao Dịch Với minhsz
+- Item Chuyển : 
+ Lệnh bài năng động : Số Lượng : 8458
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 08:37:24--------
+- Name : minhsz Giao Dịch Với minhn4z
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Lệnh bài năng động : Số Lượng : 8458
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 08:47:40--------
+- Name : minh668 Giao Dịch Với minhaz
+- Item Chuyển : 
+ Mảnh ghép Rin bị Kakashi xiên : Số Lượng : 4
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 08:47:40--------
+- Name : minhaz Giao Dịch Với minh668
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Mảnh ghép Rin bị Kakashi xiên : Số Lượng : 4
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 08:58:33--------
+- Name : minhnx Giao Dịch Với minhn4z
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Minh Giác Kiếm : Số Lượng : 1
+Sách võ công Hoả Hồn Long Trảm : Số Lượng : 1
+Sách võ công Kamikaze : Số Lượng : 1
+Sách võ công Thuật Phiến Cuồng Phong : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 08:58:33--------
+- Name : minhn4z Giao Dịch Với minhnx
+- Item Chuyển : 
+Minh Giác Kiếm : Số Lượng : 1
+Sách võ công Hoả Hồn Long Trảm : Số Lượng : 1
+Sách võ công Kamikaze : Số Lượng : 1
+Sách võ công Thuật Phiến Cuồng Phong : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 08:59:41--------
+- Name : minhnx Giao Dịch Với minhn4z
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Rương VK 10X : Số Lượng : 8
+Rương Sách Võ Công 10X : Số Lượng : 6
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 08:59:41--------
+- Name : minhn4z Giao Dịch Với minhnx
+- Item Chuyển : 
+Rương VK 10X : Số Lượng : 8
+Rương Sách Võ Công 10X : Số Lượng : 6
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 09:02:08--------
+- Name : caigiday Giao Dịch Với kunaicaicc
+- Item Chuyển : 
+
+- Xu Chuyển : 1100000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 09:02:08--------
+- Name : kunaicaicc Giao Dịch Với caigiday
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 1100000000
+-------------
+----------Thời Gian : 2024-10-04 09:22:44--------
+- Name : caubanh Giao Dịch Với bimbiim
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 2000000000
+-------------
+----------Thời Gian : 2024-10-04 09:22:44--------
+- Name : bimbiim Giao Dịch Với caubanh
+- Item Chuyển : 
+
+- Xu Chuyển : 2000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 10:29:44--------
+- Name : 124gafsq Giao Dịch Với kunaicaicc
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 14900000
+-------------
+----------Thời Gian : 2024-10-04 10:29:44--------
+- Name : kunaicaicc Giao Dịch Với 124gafsq
+- Item Chuyển : 
+
+- Xu Chuyển : 14900000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 10:33:29--------
+- Name : daotuoi9x Giao Dịch Với anhmeo98
+- Item Chuyển : 
+ Quả Táo : Số Lượng : 62
+ Kẹo Táo : Số Lượng : 1565
+ Tàn Linh : Số Lượng : 39
+ Thái Dương Táng Hồn Dao : Số Lượng : 1
+ Huyền Thiết Tuyến : Số Lượng : 1
+ Hắc Tử Tuyến : Số Lượng : 1
+ Xương Thú : Số Lượng : 28
+ Chuyển tinh thạch : Số Lượng : 1
+ Chuyển tinh thạch : Số Lượng : 1
+ Chuyển tinh thạch : Số Lượng : 1
+ Chuyển tinh thạch : Số Lượng : 1
+ Chuyển tinh thạch : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 10:33:29--------
+- Name : anhmeo98 Giao Dịch Với daotuoi9x
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Quả Táo : Số Lượng : 62
+ Kẹo Táo : Số Lượng : 1565
+ Tàn Linh : Số Lượng : 39
+ Thái Dương Táng Hồn Dao : Số Lượng : 1
+ Huyền Thiết Tuyến : Số Lượng : 1
+ Hắc Tử Tuyến : Số Lượng : 1
+ Xương Thú : Số Lượng : 28
+ Chuyển tinh thạch : Số Lượng : 1
+ Chuyển tinh thạch : Số Lượng : 1
+ Chuyển tinh thạch : Số Lượng : 1
+ Chuyển tinh thạch : Số Lượng : 1
+ Chuyển tinh thạch : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 10:35:07--------
+- Name : thaiphong Giao Dịch Với hanking
+- Item Chuyển : 
+ Nham Thạch  : Số Lượng : 2672
+ Đá Năng Lượng Hỏa : Số Lượng : 9719
+ Tôm hùm : Số Lượng : 1
+ Tôm hùm : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 10:35:07--------
+- Name : hanking Giao Dịch Với thaiphong
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Nham Thạch  : Số Lượng : 2672
+ Đá Năng Lượng Hỏa : Số Lượng : 9719
+ Tôm hùm : Số Lượng : 1
+ Tôm hùm : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 10:49:36--------
+- Name : superman Giao Dịch Với anhmeo98
+- Item Chuyển : 
+ Sách võ công Kage Bunshin  : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Quả Táo : Số Lượng : 66
+Xương Thú : Số Lượng : 201
+Kẹo Táo : Số Lượng : 2544
+Tàn Linh : Số Lượng : 213
+Huyền Thiết Tuyến : Số Lượng : 1
+Hắc Tử Tuyến : Số Lượng : 1
+Hộp Ma Quỷ : Số Lượng : 23
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Tử tinh thạch sơ cấp : Số Lượng : 1
+Tử tinh thạch sơ cấp : Số Lượng : 1
+Tử tinh thạch sơ cấp : Số Lượng : 1
+
+- Xu Nhận : 2348000
+-------------
+----------Thời Gian : 2024-10-04 10:49:36--------
+- Name : anhmeo98 Giao Dịch Với superman
+- Item Chuyển : 
+Quả Táo : Số Lượng : 66
+Xương Thú : Số Lượng : 201
+Kẹo Táo : Số Lượng : 2544
+Tàn Linh : Số Lượng : 213
+Huyền Thiết Tuyến : Số Lượng : 1
+Hắc Tử Tuyến : Số Lượng : 1
+Hộp Ma Quỷ : Số Lượng : 23
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Tử tinh thạch sơ cấp : Số Lượng : 1
+Tử tinh thạch sơ cấp : Số Lượng : 1
+Tử tinh thạch sơ cấp : Số Lượng : 1
+
+- Xu Chuyển : 2348000
+- Item Nhận : 
+ Sách võ công Kage Bunshin  : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 10:50:52--------
+- Name : superman Giao Dịch Với anhmeo98
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Tử tinh thạch sơ cấp : Số Lượng : 1
+Tử tinh thạch sơ cấp : Số Lượng : 1
+Tử tinh thạch sơ cấp : Số Lượng : 1
+Tử tinh thạch sơ cấp : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Long Lực Đan : Số Lượng : 1
+Đá Thăng Ấn : Số Lượng : 14
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 10:50:52--------
+- Name : anhmeo98 Giao Dịch Với superman
+- Item Chuyển : 
+Tử tinh thạch sơ cấp : Số Lượng : 1
+Tử tinh thạch sơ cấp : Số Lượng : 1
+Tử tinh thạch sơ cấp : Số Lượng : 1
+Tử tinh thạch sơ cấp : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Long Lực Đan : Số Lượng : 1
+Đá Thăng Ấn : Số Lượng : 14
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 10:52:09--------
+- Name : anhmeo98 Giao Dịch Với superman
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Mật Ong : Số Lượng : 2256
+Quả Táo : Số Lượng : 2364
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 10:52:09--------
+- Name : superman Giao Dịch Với anhmeo98
+- Item Chuyển : 
+Mật Ong : Số Lượng : 2256
+Quả Táo : Số Lượng : 2364
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 10:53:12--------
+- Name : superman Giao Dịch Với anhmeo98
+- Item Chuyển : 
+ Chuyển tinh thạch : Số Lượng : 1
+ Chuyển tinh thạch : Số Lượng : 1
+ Chuyển tinh thạch : Số Lượng : 1
+ Chuyển tinh thạch : Số Lượng : 1
+ Chuyển tinh thạch : Số Lượng : 1
+ Chuyển tinh thạch : Số Lượng : 1
+ Chuyển tinh thạch : Số Lượng : 1
+ Chuyển tinh thạch : Số Lượng : 1
+ Chuyển tinh thạch : Số Lượng : 1
+ Chuyển tinh thạch : Số Lượng : 1
+ Chuyển tinh thạch : Số Lượng : 1
+ Chuyển tinh thạch : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 10:53:12--------
+- Name : anhmeo98 Giao Dịch Với superman
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Chuyển tinh thạch : Số Lượng : 1
+ Chuyển tinh thạch : Số Lượng : 1
+ Chuyển tinh thạch : Số Lượng : 1
+ Chuyển tinh thạch : Số Lượng : 1
+ Chuyển tinh thạch : Số Lượng : 1
+ Chuyển tinh thạch : Số Lượng : 1
+ Chuyển tinh thạch : Số Lượng : 1
+ Chuyển tinh thạch : Số Lượng : 1
+ Chuyển tinh thạch : Số Lượng : 1
+ Chuyển tinh thạch : Số Lượng : 1
+ Chuyển tinh thạch : Số Lượng : 1
+ Chuyển tinh thạch : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 11:00:09--------
+- Name : superman Giao Dịch Với anhmeo98
+- Item Chuyển : 
+ Tử tinh thạch trung cấp : Số Lượng : 1
+ Tử tinh thạch trung cấp : Số Lượng : 1
+ Tử tinh thạch trung cấp : Số Lượng : 1
+ Tử tinh thạch trung cấp : Số Lượng : 1
+ Tử tinh thạch trung cấp : Số Lượng : 1
+ Tử tinh thạch trung cấp : Số Lượng : 1
+ Tử tinh thạch cao cấp : Số Lượng : 1
+ Tử tinh thạch cao cấp : Số Lượng : 1
+ Tử tinh thạch cao cấp : Số Lượng : 1
+ Tử tinh thạch cao cấp : Số Lượng : 1
+ Tử tinh thạch trung cấp : Số Lượng : 1
+ Tử tinh thạch trung cấp : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Kẹo Táo : Số Lượng : 2286
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 11:00:09--------
+- Name : anhmeo98 Giao Dịch Với superman
+- Item Chuyển : 
+Kẹo Táo : Số Lượng : 2286
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Tử tinh thạch trung cấp : Số Lượng : 1
+ Tử tinh thạch trung cấp : Số Lượng : 1
+ Tử tinh thạch trung cấp : Số Lượng : 1
+ Tử tinh thạch trung cấp : Số Lượng : 1
+ Tử tinh thạch trung cấp : Số Lượng : 1
+ Tử tinh thạch trung cấp : Số Lượng : 1
+ Tử tinh thạch cao cấp : Số Lượng : 1
+ Tử tinh thạch cao cấp : Số Lượng : 1
+ Tử tinh thạch cao cấp : Số Lượng : 1
+ Tử tinh thạch cao cấp : Số Lượng : 1
+ Tử tinh thạch trung cấp : Số Lượng : 1
+ Tử tinh thạch trung cấp : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 11:00:54--------
+- Name : anhmeo98 Giao Dịch Với superman
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 11:00:54--------
+- Name : superman Giao Dịch Với anhmeo98
+- Item Chuyển : 
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 11:01:37--------
+- Name : anhmeo98 Giao Dịch Với superman
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Thiêu Thủy Tiêu : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 11:01:37--------
+- Name : superman Giao Dịch Với anhmeo98
+- Item Chuyển : 
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Tử tinh thạch trung cấp : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Thiêu Thủy Tiêu : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 11:03:23--------
+- Name : anhmeo98 Giao Dịch Với superman
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Xương Thú : Số Lượng : 1056
+Tàn Linh : Số Lượng : 1082
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 11:03:23--------
+- Name : superman Giao Dịch Với anhmeo98
+- Item Chuyển : 
+Xương Thú : Số Lượng : 1056
+Tàn Linh : Số Lượng : 1082
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 11:04:15--------
+- Name : superman Giao Dịch Với anhmeo98
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Hộp Ma Quỷ : Số Lượng : 210
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 11:04:15--------
+- Name : anhmeo98 Giao Dịch Với superman
+- Item Chuyển : 
+Hộp Ma Quỷ : Số Lượng : 210
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 11:41:09--------
+- Name : yeu1em Giao Dịch Với admen96
+- Item Chuyển : 
+ Mảnh ghép quạ bí ẩn : Số Lượng : 6028
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Mảnh ghép Rin bị Kakashi xiên : Số Lượng : 1866
+Nham Thạch  : Số Lượng : 2724
+Nguyệt Nhãn : Số Lượng : 565
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 11:41:09--------
+- Name : admen96 Giao Dịch Với yeu1em
+- Item Chuyển : 
+Mảnh ghép Rin bị Kakashi xiên : Số Lượng : 1866
+Nham Thạch  : Số Lượng : 2724
+Nguyệt Nhãn : Số Lượng : 565
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Mảnh ghép quạ bí ẩn : Số Lượng : 6028
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 11:52:14--------
+- Name : yeu1em Giao Dịch Với admen96
+- Item Chuyển : 
+
+- Xu Chuyển : 300000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 11:52:14--------
+- Name : admen96 Giao Dịch Với yeu1em
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 300000000
+-------------
+----------Thời Gian : 2024-10-04 12:56:46--------
+- Name : caubanh Giao Dịch Với bimbiim
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 2000000000
+-------------
+----------Thời Gian : 2024-10-04 12:56:46--------
+- Name : bimbiim Giao Dịch Với caubanh
+- Item Chuyển : 
+
+- Xu Chuyển : 2000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 13:51:01--------
+- Name : minh668 Giao Dịch Với minhn4z
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Mảnh ghép quạ bí ẩn : Số Lượng : 10000
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 13:51:01--------
+- Name : minhn4z Giao Dịch Với minh668
+- Item Chuyển : 
+Mảnh ghép quạ bí ẩn : Số Lượng : 10000
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 13:54:31--------
+- Name : minhdz6 Giao Dịch Với minhn4z
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Mảnh ghép quạ bí ẩn : Số Lượng : 9944
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 13:54:31--------
+- Name : minhn4z Giao Dịch Với minhdz6
+- Item Chuyển : 
+Mảnh ghép quạ bí ẩn : Số Lượng : 9944
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:09:02--------
+- Name : A Ưi E Sướng Giao Dịch Với minhsz
+- Item Chuyển : 
+ Faiyaa yoroi : Số Lượng : 1
+ Mizu Yoroi : Số Lượng : 1
+ Windo Yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:09:02--------
+- Name : minhsz Giao Dịch Với A Ưi E Sướng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Faiyaa yoroi : Số Lượng : 1
+ Mizu Yoroi : Số Lượng : 1
+ Windo Yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:09:13--------
+- Name : kiem1st Giao Dịch Với A Ưi E Sướng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:09:13--------
+- Name : A Ưi E Sướng Giao Dịch Với kiem1st
+- Item Chuyển : 
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:09:21--------
+- Name : kunaicaicc Giao Dịch Với A Ưi E Sướng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Mizu Yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:09:21--------
+- Name : A Ưi E Sướng Giao Dịch Với kunaicaicc
+- Item Chuyển : 
+Mizu Yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:09:59--------
+- Name : bigboi Giao Dịch Với A Ưi E Sướng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Windo Yoroi : Số Lượng : 1
+Windo Yoroi : Số Lượng : 1
+Mizu Yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:09:59--------
+- Name : A Ưi E Sướng Giao Dịch Với bigboi
+- Item Chuyển : 
+Windo Yoroi : Số Lượng : 1
+Windo Yoroi : Số Lượng : 1
+Mizu Yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:10:11--------
+- Name : conmemayadm Giao Dịch Với A Ưi E Sướng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Hakairo Yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:10:11--------
+- Name : A Ưi E Sướng Giao Dịch Với conmemayadm
+- Item Chuyển : 
+Hakairo Yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:10:24--------
+- Name : A Ưi E Sướng Giao Dịch Với cocaiccgidau
+- Item Chuyển : 
+ Windo Yoroi : Số Lượng : 1
+ Mizu Yoroi : Số Lượng : 1
+ Faiyaa yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:10:24--------
+- Name : cocaiccgidau Giao Dịch Với A Ưi E Sướng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Windo Yoroi : Số Lượng : 1
+ Mizu Yoroi : Số Lượng : 1
+ Faiyaa yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:10:48--------
+- Name : watvip Giao Dịch Với A Ưi E Sướng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Hakairo Yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:10:48--------
+- Name : A Ưi E Sướng Giao Dịch Với watvip
+- Item Chuyển : 
+Hakairo Yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:11:12--------
+- Name : A Ưi E Sướng Giao Dịch Với minhn4z
+- Item Chuyển : 
+ Hakairo Yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:11:12--------
+- Name : minhn4z Giao Dịch Với A Ưi E Sướng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Hakairo Yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:11:18--------
+- Name : trumtx Giao Dịch Với A Ưi E Sướng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Hakairo Yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:11:18--------
+- Name : A Ưi E Sướng Giao Dịch Với trumtx
+- Item Chuyển : 
+Hakairo Yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:11:25--------
+- Name : A Ưi E Sướng Giao Dịch Với nhinconcac
+- Item Chuyển : 
+ Hakairo Yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:11:25--------
+- Name : nhinconcac Giao Dịch Với A Ưi E Sướng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Hakairo Yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:11:45--------
+- Name : blackzxje Giao Dịch Với A Ưi E Sướng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Faiyaa yoroi : Số Lượng : 1
+Windo Yoroi : Số Lượng : 1
+Mizu Yoroi : Số Lượng : 1
+Hakairo Yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:11:45--------
+- Name : A Ưi E Sướng Giao Dịch Với blackzxje
+- Item Chuyển : 
+Faiyaa yoroi : Số Lượng : 1
+Windo Yoroi : Số Lượng : 1
+Mizu Yoroi : Số Lượng : 1
+Hakairo Yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:12:09--------
+- Name : hiuhiuhihi Giao Dịch Với A Ưi E Sướng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Windo Yoroi : Số Lượng : 1
+Mizu Yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:12:09--------
+- Name : A Ưi E Sướng Giao Dịch Với hiuhiuhihi
+- Item Chuyển : 
+Windo Yoroi : Số Lượng : 1
+Mizu Yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:12:21--------
+- Name : nhimxu Giao Dịch Với A Ưi E Sướng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Mizu Yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:12:21--------
+- Name : A Ưi E Sướng Giao Dịch Với nhimxu
+- Item Chuyển : 
+Mizu Yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:12:30--------
+- Name : A Ưi E Sướng Giao Dịch Với minhsz
+- Item Chuyển : 
+ Windo Yoroi : Số Lượng : 1
+ Faiyaa yoroi : Số Lượng : 1
+ Mizu Yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:12:30--------
+- Name : minhsz Giao Dịch Với A Ưi E Sướng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Windo Yoroi : Số Lượng : 1
+ Faiyaa yoroi : Số Lượng : 1
+ Mizu Yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:13:17--------
+- Name : A Ưi E Sướng Giao Dịch Với minhsz
+- Item Chuyển : 
+ Faiyaa yoroi : Số Lượng : 1
+ Windo Yoroi : Số Lượng : 1
+ Mizu Yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:13:17--------
+- Name : minhsz Giao Dịch Với A Ưi E Sướng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Faiyaa yoroi : Số Lượng : 1
+ Windo Yoroi : Số Lượng : 1
+ Mizu Yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:14:44--------
+- Name : A Ưi E Sướng Giao Dịch Với thangchonay
+- Item Chuyển : 
+ Faiyaa yoroi : Số Lượng : 1
+ Mizu Yoroi : Số Lượng : 1
+ Windo Yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:14:44--------
+- Name : thangchonay Giao Dịch Với A Ưi E Sướng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Faiyaa yoroi : Số Lượng : 1
+ Mizu Yoroi : Số Lượng : 1
+ Windo Yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:15:24--------
+- Name : napgan1ty Giao Dịch Với A Ưi E Sướng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Mizu Yoroi : Số Lượng : 1
+Windo Yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:15:24--------
+- Name : A Ưi E Sướng Giao Dịch Với napgan1ty
+- Item Chuyển : 
+Mizu Yoroi : Số Lượng : 1
+Windo Yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:17:45--------
+- Name : A Ưi E Sướng Giao Dịch Với minhsz
+- Item Chuyển : 
+ Mizu Yoroi : Số Lượng : 1
+ Faiyaa yoroi : Số Lượng : 1
+ Windo Yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:17:45--------
+- Name : minhsz Giao Dịch Với A Ưi E Sướng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Mizu Yoroi : Số Lượng : 1
+ Faiyaa yoroi : Số Lượng : 1
+ Windo Yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:18:43--------
+- Name : minhn4z Giao Dịch Với minhsz
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:18:43--------
+- Name : minhsz Giao Dịch Với minhn4z
+- Item Chuyển : 
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:22:12--------
+- Name : minhsz Giao Dịch Với A Ưi E Sướng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Faiyaa yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:22:12--------
+- Name : A Ưi E Sướng Giao Dịch Với minhsz
+- Item Chuyển : 
+Faiyaa yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:22:49--------
+- Name : bimbiim Giao Dịch Với A Ưi E Sướng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Hakairo Yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:22:49--------
+- Name : A Ưi E Sướng Giao Dịch Với bimbiim
+- Item Chuyển : 
+Hakairo Yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:23:48--------
+- Name : minhm2 Giao Dịch Với minhsz
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Faiyaa yoroi : Số Lượng : 1
+Mizu Yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:23:48--------
+- Name : minhsz Giao Dịch Với minhm2
+- Item Chuyển : 
+Faiyaa yoroi : Số Lượng : 1
+Mizu Yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:24:58--------
+- Name : phitieu Giao Dịch Với A Ưi E Sướng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Faiyaa yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:24:58--------
+- Name : A Ưi E Sướng Giao Dịch Với phitieu
+- Item Chuyển : 
+Faiyaa yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:26:11--------
+- Name : minht2 Giao Dịch Với minhsz
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Faiyaa yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:26:11--------
+- Name : minhsz Giao Dịch Với minht2
+- Item Chuyển : 
+Faiyaa yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:26:28--------
+- Name : A Ưi E Sướng Giao Dịch Với cutohonphich
+- Item Chuyển : 
+ Mizu Yoroi : Số Lượng : 1
+ Windo Yoroi : Số Lượng : 1
+ Faiyaa yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:26:28--------
+- Name : cutohonphich Giao Dịch Với A Ưi E Sướng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Mizu Yoroi : Số Lượng : 1
+ Windo Yoroi : Số Lượng : 1
+ Faiyaa yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:27:45--------
+- Name : 1dapvelang Giao Dịch Với A Ưi E Sướng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Windo Yoroi : Số Lượng : 1
+Mizu Yoroi : Số Lượng : 1
+Hakairo Yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:27:45--------
+- Name : A Ưi E Sướng Giao Dịch Với 1dapvelang
+- Item Chuyển : 
+Windo Yoroi : Số Lượng : 1
+Mizu Yoroi : Số Lượng : 1
+Hakairo Yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:28:21--------
+- Name : A Ưi E Sướng Giao Dịch Với adminloz
+- Item Chuyển : 
+ Windo Yoroi : Số Lượng : 1
+ Mizu Yoroi : Số Lượng : 1
+ Faiyaa yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:28:21--------
+- Name : adminloz Giao Dịch Với A Ưi E Sướng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Windo Yoroi : Số Lượng : 1
+ Mizu Yoroi : Số Lượng : 1
+ Faiyaa yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:28:51--------
+- Name : minhh2 Giao Dịch Với minhsz
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Windo Yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:28:51--------
+- Name : minhsz Giao Dịch Với minhh2
+- Item Chuyển : 
+Windo Yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:30:47--------
+- Name : minhh3 Giao Dịch Với minhsz
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Faiyaa yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:30:47--------
+- Name : minhsz Giao Dịch Với minhh3
+- Item Chuyển : 
+Faiyaa yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:33:00--------
+- Name : minh668 Giao Dịch Với minhsz
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Mizu Yoroi : Số Lượng : 1
+Mizu Yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:33:00--------
+- Name : minhsz Giao Dịch Với minh668
+- Item Chuyển : 
+Mizu Yoroi : Số Lượng : 1
+Mizu Yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:34:45--------
+- Name : minhdz6 Giao Dịch Với minhsz
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Mizu Yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:34:45--------
+- Name : minhsz Giao Dịch Với minhdz6
+- Item Chuyển : 
+Mizu Yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:36:11--------
+- Name : minhaz Giao Dịch Với minhsz
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Faiyaa yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:36:11--------
+- Name : minhsz Giao Dịch Với minhaz
+- Item Chuyển : 
+Faiyaa yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:57:21--------
+- Name : yeu1em Giao Dịch Với admen96
+- Item Chuyển : 
+ Tử tinh thạch cao cấp : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:57:21--------
+- Name : admen96 Giao Dịch Với yeu1em
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Tử tinh thạch cao cấp : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:57:44--------
+- Name : yeu1em Giao Dịch Với admen96
+- Item Chuyển : 
+ Long Lực Đan : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 14:57:44--------
+- Name : admen96 Giao Dịch Với yeu1em
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Long Lực Đan : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 15:11:45--------
+- Name : ngocmiu Giao Dịch Với A Đờ Min
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Cánh new s2 : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 15:11:45--------
+- Name : A Đờ Min Giao Dịch Với ngocmiu
+- Item Chuyển : 
+Cánh new s2 : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 15:12:08--------
+- Name : minhdz6 Giao Dịch Với minhsz
+- Item Chuyển : 
+ Mảnh ghép quạ bí ẩn : Số Lượng : 10137
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 15:12:08--------
+- Name : minhsz Giao Dịch Với minhdz6
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Mảnh ghép quạ bí ẩn : Số Lượng : 10137
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 15:12:50--------
+- Name : chip113 Giao Dịch Với A Ưi E Sướng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Hakairo Yoroi : Số Lượng : 1
+Hakairo Yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 15:12:50--------
+- Name : A Ưi E Sướng Giao Dịch Với chip113
+- Item Chuyển : 
+Hakairo Yoroi : Số Lượng : 1
+Hakairo Yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 15:15:03--------
+- Name : minhsz Giao Dịch Với minhnx
+- Item Chuyển : 
+ Mảnh ghép quạ bí ẩn : Số Lượng : 10137
+ Tóc Đỏ : Số Lượng : 1
+ super dog : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 15:15:03--------
+- Name : minhnx Giao Dịch Với minhsz
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Mảnh ghép quạ bí ẩn : Số Lượng : 10137
+ Tóc Đỏ : Số Lượng : 1
+ super dog : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 15:25:21--------
+- Name : kunaicaicc Giao Dịch Với caigiday
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 1500000000
+-------------
+----------Thời Gian : 2024-10-04 15:25:21--------
+- Name : caigiday Giao Dịch Với kunaicaicc
+- Item Chuyển : 
+
+- Xu Chuyển : 1500000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 16:20:27--------
+- Name : bigboi Giao Dịch Với hakoota
+- Item Chuyển : 
+ Mizu Yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 16:20:27--------
+- Name : hakoota Giao Dịch Với bigboi
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Mizu Yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 16:22:02--------
+- Name : bigboi Giao Dịch Với babyboo
+- Item Chuyển : 
+ Windo Yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 16:22:02--------
+- Name : babyboo Giao Dịch Với bigboi
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Windo Yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 16:24:43--------
+- Name : bigboi Giao Dịch Với zaidepvinhbacbo
+- Item Chuyển : 
+ Faiyaa yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 16:24:43--------
+- Name : zaidepvinhbacbo Giao Dịch Với bigboi
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Faiyaa yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 16:47:39--------
+- Name : 1q1q1q Giao Dịch Với A Ưi E Sướng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Windo Yoroi : Số Lượng : 1
+Mizu Yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 16:47:39--------
+- Name : A Ưi E Sướng Giao Dịch Với 1q1q1q
+- Item Chuyển : 
+Windo Yoroi : Số Lượng : 1
+Mizu Yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 16:50:15--------
+- Name : bucailolmupp Giao Dịch Với A Ưi E Sướng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Windo Yoroi : Số Lượng : 1
+Mizu Yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 16:50:15--------
+- Name : A Ưi E Sướng Giao Dịch Với bucailolmupp
+- Item Chuyển : 
+Windo Yoroi : Số Lượng : 1
+Mizu Yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 16:50:36--------
+- Name : 2w2w2w Giao Dịch Với A Ưi E Sướng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Mizu Yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+Windo Yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 16:50:36--------
+- Name : A Ưi E Sướng Giao Dịch Với 2w2w2w
+- Item Chuyển : 
+Mizu Yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+Windo Yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 16:51:26--------
+- Name : bucailolmupp Giao Dịch Với A Ưi E Sướng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Mizu Yoroi : Số Lượng : 1
+Windo Yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 16:51:26--------
+- Name : A Ưi E Sướng Giao Dịch Với bucailolmupp
+- Item Chuyển : 
+Mizu Yoroi : Số Lượng : 1
+Windo Yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 16:51:45--------
+- Name : A Ưi E Sướng Giao Dịch Với caigiday
+- Item Chuyển : 
+ Doraemon : Số Lượng : 1
+ Quần doraemon : Số Lượng : 1
+ Áo doraemon : Số Lượng : 1
+ Hakairo Yoroi : Số Lượng : 1
+ Hakairo Yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 16:51:45--------
+- Name : caigiday Giao Dịch Với A Ưi E Sướng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Doraemon : Số Lượng : 1
+ Quần doraemon : Số Lượng : 1
+ Áo doraemon : Số Lượng : 1
+ Hakairo Yoroi : Số Lượng : 1
+ Hakairo Yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 16:53:44--------
+- Name : thien999 Giao Dịch Với bimbiim
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 2000000000
+-------------
+----------Thời Gian : 2024-10-04 16:53:44--------
+- Name : bimbiim Giao Dịch Với thien999
+- Item Chuyển : 
+
+- Xu Chuyển : 2000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 17:54:09--------
+- Name : caigiday Giao Dịch Với kunaicaicc
+- Item Chuyển : 
+
+- Xu Chuyển : 500000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 17:54:09--------
+- Name : kunaicaicc Giao Dịch Với caigiday
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 500000000
+-------------
+----------Thời Gian : 2024-10-04 18:16:20--------
+- Name : trum99 Giao Dịch Với trummax
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Sách võ công Shabondama : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 18:16:20--------
+- Name : trummax Giao Dịch Với trum99
+- Item Chuyển : 
+Sách võ công Shabondama : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 18:17:47--------
+- Name : trum99 Giao Dịch Với trummax
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Sách võ công Băng Hổ Bạch Long : Số Lượng : 1
+Minh Giác Dao : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 18:17:47--------
+- Name : trummax Giao Dịch Với trum99
+- Item Chuyển : 
+Sách võ công Băng Hổ Bạch Long : Số Lượng : 1
+Minh Giác Dao : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 18:54:20--------
+- Name : minhsz Giao Dịch Với minhnx
+- Item Chuyển : 
+ Windo Yoroi : Số Lượng : 1
+ Faiyaa yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 18:54:20--------
+- Name : minhnx Giao Dịch Với minhsz
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Windo Yoroi : Số Lượng : 1
+ Faiyaa yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 18:54:44--------
+- Name : minhsz Giao Dịch Với minhnx
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Nhật Tử Lam Phong : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 18:54:44--------
+- Name : minhnx Giao Dịch Với minhsz
+- Item Chuyển : 
+Nhật Tử Lam Phong : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 19:57:23--------
+- Name : 1dapvelang Giao Dịch Với caubanh
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 2000000000
+-------------
+----------Thời Gian : 2024-10-04 19:57:23--------
+- Name : caubanh Giao Dịch Với 1dapvelang
+- Item Chuyển : 
+
+- Xu Chuyển : 2000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 19:58:28--------
+- Name : caubanh Giao Dịch Với 1dapvelang
+- Item Chuyển : 
+
+- Xu Chuyển : 2000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 19:58:28--------
+- Name : 1dapvelang Giao Dịch Với caubanh
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 2000000000
+-------------
+----------Thời Gian : 2024-10-04 20:00:04--------
+- Name : clone1 Giao Dịch Với 1dapvelang
+- Item Chuyển : 
+
+- Xu Chuyển : 2000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 20:00:04--------
+- Name : 1dapvelang Giao Dịch Với clone1
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 2000000000
+-------------
+----------Thời Gian : 2024-10-04 20:01:11--------
+- Name : 1dapvelang Giao Dịch Với clone1
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 2000000000
+-------------
+----------Thời Gian : 2024-10-04 20:01:11--------
+- Name : clone1 Giao Dịch Với 1dapvelang
+- Item Chuyển : 
+
+- Xu Chuyển : 2000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 20:10:46--------
+- Name : boztkx2 Giao Dịch Với minhn4z
+- Item Chuyển : 
+ Nguyệt Nhãn : Số Lượng : 20
+ Mảnh ghép quạ bí ẩn : Số Lượng : 176
+ Mảnh ghép Rin bị Kakashi xiên : Số Lượng : 45
+ Nham Thạch  : Số Lượng : 112
+ Phân thân lệnh : Số Lượng : 1
+ Long Lực Đan : Số Lượng : 395
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+
+- Xu Chuyển : 3300000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 20:10:46--------
+- Name : minhn4z Giao Dịch Với boztkx2
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Nguyệt Nhãn : Số Lượng : 20
+ Mảnh ghép quạ bí ẩn : Số Lượng : 176
+ Mảnh ghép Rin bị Kakashi xiên : Số Lượng : 45
+ Nham Thạch  : Số Lượng : 112
+ Phân thân lệnh : Số Lượng : 1
+ Long Lực Đan : Số Lượng : 395
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+
+- Xu Nhận : 3300000
+-------------
+----------Thời Gian : 2024-10-04 20:11:22--------
+- Name : boztkx2 Giao Dịch Với minhn4z
+- Item Chuyển : 
+ Thiên Vương Liên : Số Lượng : 1
+ Rương Minh Giác : Số Lượng : 21
+ Thiên Vương Bội : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 20:11:22--------
+- Name : minhn4z Giao Dịch Với boztkx2
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Thiên Vương Liên : Số Lượng : 1
+ Rương Minh Giác : Số Lượng : 21
+ Thiên Vương Bội : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 20:55:37--------
+- Name : daobattuz Giao Dịch Với bucailolmupp
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Windo Yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 20:55:37--------
+- Name : bucailolmupp Giao Dịch Với daobattuz
+- Item Chuyển : 
+Windo Yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 20:56:49--------
+- Name : muamenmen Giao Dịch Với bucailolmupp
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 20:56:49--------
+- Name : bucailolmupp Giao Dịch Với muamenmen
+- Item Chuyển : 
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 20:57:08--------
+- Name : muamenmen Giao Dịch Với bucailolmupp
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 10000000
+-------------
+----------Thời Gian : 2024-10-04 20:57:08--------
+- Name : bucailolmupp Giao Dịch Với muamenmen
+- Item Chuyển : 
+
+- Xu Chuyển : 10000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 21:00:08--------
+- Name : 999999 Giao Dịch Với leonzxje
+- Item Chuyển : 
+
+- Xu Chuyển : 2000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 21:00:08--------
+- Name : leonzxje Giao Dịch Với 999999
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 2000000000
+-------------
+----------Thời Gian : 2024-10-04 21:14:21--------
+- Name : 24hquaytayzxje Giao Dịch Với leonzxje
+- Item Chuyển : 
+ Sách võ công Băng Hổ Bạch Long : Số Lượng : 1
+ Sách võ công Kage Bunshin  : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 21:14:21--------
+- Name : leonzxje Giao Dịch Với 24hquaytayzxje
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Sách võ công Băng Hổ Bạch Long : Số Lượng : 1
+ Sách võ công Kage Bunshin  : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 21:15:52--------
+- Name : leonzxje Giao Dịch Với 24hquaytayzxje
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 900000
+-------------
+----------Thời Gian : 2024-10-04 21:15:52--------
+- Name : 24hquaytayzxje Giao Dịch Với leonzxje
+- Item Chuyển : 
+
+- Xu Chuyển : 900000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 21:21:04--------
+- Name : knighter Giao Dịch Với A Đờ Min
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Cánh new s2 : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 21:21:04--------
+- Name : A Đờ Min Giao Dịch Với knighter
+- Item Chuyển : 
+Cánh new s2 : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 21:27:29--------
+- Name : no1soixam Giao Dịch Với 2w2w2w
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Windo Yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 21:27:29--------
+- Name : 2w2w2w Giao Dịch Với no1soixam
+- Item Chuyển : 
+Windo Yoroi : Số Lượng : 1
+Faiyaa yoroi : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 21:39:21--------
+- Name : bimbiim Giao Dịch Với A Đờ Min
+- Item Chuyển : 
+
+- Xu Chuyển : 200000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 21:39:21--------
+- Name : A Đờ Min Giao Dịch Với bimbiim
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 200000000
+-------------
+----------Thời Gian : 2024-10-04 21:48:17--------
+- Name : kingdrag Giao Dịch Với hanking
+- Item Chuyển : 
+ Nham Thạch  : Số Lượng : 1136
+ Mảnh ghép quạ bí ẩn : Số Lượng : 12512
+
+- Xu Chuyển : 1000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 21:48:17--------
+- Name : hanking Giao Dịch Với kingdrag
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Nham Thạch  : Số Lượng : 1136
+ Mảnh ghép quạ bí ẩn : Số Lượng : 12512
+
+- Xu Nhận : 1000000000
+-------------
+----------Thời Gian : 2024-10-04 21:50:52--------
+- Name : knighter Giao Dịch Với nhinconcac
+- Item Chuyển : 
+ Long Lực Đan : Số Lượng : 500
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 21:50:52--------
+- Name : nhinconcac Giao Dịch Với knighter
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Long Lực Đan : Số Lượng : 500
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 21:52:47--------
+- Name : kingdrag Giao Dịch Với hanking
+- Item Chuyển : 
+
+- Xu Chuyển : 1000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 21:52:47--------
+- Name : hanking Giao Dịch Với kingdrag
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 1000000000
+-------------
+----------Thời Gian : 2024-10-04 21:53:50--------
+- Name : bimbiim Giao Dịch Với abcpwww
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 1000000000
+-------------
+----------Thời Gian : 2024-10-04 21:53:50--------
+- Name : abcpwww Giao Dịch Với bimbiim
+- Item Chuyển : 
+
+- Xu Chuyển : 1000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 21:54:18--------
+- Name : bimbiim Giao Dịch Với abcpwww
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 1000000000
+-------------
+----------Thời Gian : 2024-10-04 21:54:18--------
+- Name : abcpwww Giao Dịch Với bimbiim
+- Item Chuyển : 
+
+- Xu Chuyển : 1000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 21:55:16--------
+- Name : abcpwww Giao Dịch Với bimbiim
+- Item Chuyển : 
+
+- Xu Chuyển : 1300000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 21:55:16--------
+- Name : bimbiim Giao Dịch Với abcpwww
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 1300000000
+-------------
+----------Thời Gian : 2024-10-04 22:01:06--------
+- Name : danchoixom Giao Dịch Với A Đờ Min
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Thần Hoàng Kunai : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 22:01:06--------
+- Name : A Đờ Min Giao Dịch Với danchoixom
+- Item Chuyển : 
+Thần Hoàng Kunai : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 22:02:17--------
+- Name : bimbiim Giao Dịch Với abcpwww
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 30000000
+-------------
+----------Thời Gian : 2024-10-04 22:02:17--------
+- Name : abcpwww Giao Dịch Với bimbiim
+- Item Chuyển : 
+
+- Xu Chuyển : 30000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 22:02:56--------
+- Name : abcpwww Giao Dịch Với bimbiim
+- Item Chuyển : 
+
+- Xu Chuyển : 7480000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 22:02:56--------
+- Name : bimbiim Giao Dịch Với abcpwww
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 7480000
+-------------
+----------Thời Gian : 2024-10-04 22:05:49--------
+- Name : minhn4z Giao Dịch Với minhnx
+- Item Chuyển : 
+ Rương Minh Giác : Số Lượng : 36
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 22:05:49--------
+- Name : minhnx Giao Dịch Với minhn4z
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Rương Minh Giác : Số Lượng : 36
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 22:06:30--------
+- Name : 1dapvelang Giao Dịch Với 111111
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 2000000000
+-------------
+----------Thời Gian : 2024-10-04 22:06:30--------
+- Name : 111111 Giao Dịch Với 1dapvelang
+- Item Chuyển : 
+
+- Xu Chuyển : 2000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 22:06:45--------
+- Name : 69promax Giao Dịch Với knighter
+- Item Chuyển : 
+
+- Xu Chuyển : 1000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 22:06:45--------
+- Name : knighter Giao Dịch Với 69promax
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 1000000000
+-------------
+----------Thời Gian : 2024-10-04 22:08:07--------
+- Name : 1dapvelang Giao Dịch Với 111111
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 2000000000
+-------------
+----------Thời Gian : 2024-10-04 22:08:07--------
+- Name : 111111 Giao Dịch Với 1dapvelang
+- Item Chuyển : 
+
+- Xu Chuyển : 2000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 22:08:18--------
+- Name : giudo0 Giao Dịch Với knighter
+- Item Chuyển : 
+
+- Xu Chuyển : 1000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 22:08:18--------
+- Name : knighter Giao Dịch Với giudo0
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 1000000000
+-------------
+----------Thời Gian : 2024-10-04 22:10:14--------
+- Name : 1dapvelang Giao Dịch Với thien999
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 2000000000
+-------------
+----------Thời Gian : 2024-10-04 22:10:14--------
+- Name : thien999 Giao Dịch Với 1dapvelang
+- Item Chuyển : 
+
+- Xu Chuyển : 2000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 22:12:30--------
+- Name : 24hquaytayzxje Giao Dịch Với leonzxje
+- Item Chuyển : 
+ Sách võ công Hoả Hồn Long Trảm : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 22:12:30--------
+- Name : leonzxje Giao Dịch Với 24hquaytayzxje
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Sách võ công Hoả Hồn Long Trảm : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 22:12:35--------
+- Name : trum99 Giao Dịch Với nhinconcac
+- Item Chuyển : 
+
+- Xu Chuyển : 1000000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 22:12:35--------
+- Name : nhinconcac Giao Dịch Với trum99
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 1000000000
+-------------
+----------Thời Gian : 2024-10-04 22:16:02--------
+- Name : minhsz Giao Dịch Với minhnx
+- Item Chuyển : 
+ Minh Giác Liên : Số Lượng : 1
+ Minh Giác Hoàng Long Hạ Giáp : Số Lượng : 1
+ Minh Giác Bùa  : Số Lượng : 1
+ Minh Giác Hoàng Long Thượng Giáp : Số Lượng : 1
+ Minh Giác Hoàng Long Thủ : Số Lượng : 1
+ Minh Giác Hoàng Long Thủ : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 22:16:02--------
+- Name : minhnx Giao Dịch Với minhsz
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Minh Giác Liên : Số Lượng : 1
+ Minh Giác Hoàng Long Hạ Giáp : Số Lượng : 1
+ Minh Giác Bùa  : Số Lượng : 1
+ Minh Giác Hoàng Long Thượng Giáp : Số Lượng : 1
+ Minh Giác Hoàng Long Thủ : Số Lượng : 1
+ Minh Giác Hoàng Long Thủ : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 22:17:04--------
+- Name : minhdz6 Giao Dịch Với minhnx
+- Item Chuyển : 
+ Minh Giác Bùa  : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 22:17:04--------
+- Name : minhnx Giao Dịch Với minhdz6
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Minh Giác Bùa  : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 22:17:46--------
+- Name : yeu1em Giao Dịch Với admen96
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Mảnh Vuốt Rồng : Số Lượng : 1465
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 22:17:46--------
+- Name : admen96 Giao Dịch Với yeu1em
+- Item Chuyển : 
+Mảnh Vuốt Rồng : Số Lượng : 1465
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 22:42:55--------
+- Name : A Đờ Min Giao Dịch Với bimbiim
+- Item Chuyển : 
+ Thú Hồn : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 22:42:55--------
+- Name : bimbiim Giao Dịch Với A Đờ Min
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Thú Hồn : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 23:08:52--------
+- Name : yeu1em Giao Dịch Với admen96
+- Item Chuyển : 
+
+- Xu Chuyển : 1500000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 23:08:52--------
+- Name : admen96 Giao Dịch Với yeu1em
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 1500000000
+-------------
+----------Thời Gian : 2024-10-04 23:38:06--------
+- Name : caigiday Giao Dịch Với cocaiccgidau
+- Item Chuyển : 
+
+- Xu Chuyển : 1100000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-10-04 23:38:06--------
+- Name : cocaiccgidau Giao Dịch Với caigiday
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 1100000000
+-------------

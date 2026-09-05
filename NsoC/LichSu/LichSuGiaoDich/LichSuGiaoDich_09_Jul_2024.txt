@@ -1,0 +1,22 @@
+----------Thời Gian : 2024-07-09 17:55:49--------
+- Name : tommy1 Giao Dịch Với admin
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Thiên Vương Kiếm : Số Lượng : 1
+Thiên Vương Đao : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-07-09 17:55:49--------
+- Name : admin Giao Dịch Với tommy1
+- Item Chuyển : 
+Thiên Vương Kiếm : Số Lượng : 1
+Thiên Vương Đao : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------

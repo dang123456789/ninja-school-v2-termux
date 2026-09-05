@@ -1,0 +1,2040 @@
+----------Thời Gian : 2024-01-30 00:00:27--------
+- Name : trapboy Giao Dịch Với baniaa
+- Item Chuyển : 
+ Lạt tre : Số Lượng : 20000
+ Nếp : Số Lượng : 20000
+ Đậu xanh : Số Lượng : 20000
+ Lá dong : Số Lượng : 20000
+ Nếp : Số Lượng : 9999
+ Đậu xanh : Số Lượng : 9999
+ Lá dong : Số Lượng : 9999
+ Lạt tre : Số Lượng : 9999
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 00:00:27--------
+- Name : baniaa Giao Dịch Với trapboy
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Lạt tre : Số Lượng : 20000
+ Nếp : Số Lượng : 20000
+ Đậu xanh : Số Lượng : 20000
+ Lá dong : Số Lượng : 20000
+ Nếp : Số Lượng : 9999
+ Đậu xanh : Số Lượng : 9999
+ Lá dong : Số Lượng : 9999
+ Lạt tre : Số Lượng : 9999
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 00:01:47--------
+- Name : bulontragop Giao Dịch Với tomioka
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Lạt tre : Số Lượng : 1848
+Đậu xanh : Số Lượng : 1848
+Nếp : Số Lượng : 1848
+Lá dong : Số Lượng : 1848
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 00:01:47--------
+- Name : tomioka Giao Dịch Với bulontragop
+- Item Chuyển : 
+Lạt tre : Số Lượng : 1848
+Đậu xanh : Số Lượng : 1848
+Nếp : Số Lượng : 1848
+Lá dong : Số Lượng : 1848
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 00:02:34--------
+- Name : baniaa Giao Dịch Với bulontragop
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Nếp : Số Lượng : 9999
+Nếp : Số Lượng : 20000
+Lạt tre : Số Lượng : 20000
+Lá dong : Số Lượng : 20000
+Đậu xanh : Số Lượng : 20000
+Đậu xanh : Số Lượng : 9999
+Lá dong : Số Lượng : 9999
+Lạt tre : Số Lượng : 9999
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 00:02:34--------
+- Name : bulontragop Giao Dịch Với baniaa
+- Item Chuyển : 
+Nếp : Số Lượng : 9999
+Nếp : Số Lượng : 20000
+Lạt tre : Số Lượng : 20000
+Lá dong : Số Lượng : 20000
+Đậu xanh : Số Lượng : 20000
+Đậu xanh : Số Lượng : 9999
+Lá dong : Số Lượng : 9999
+Lạt tre : Số Lượng : 9999
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 00:03:14--------
+- Name : bulontragop Giao Dịch Với tomioka
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Nếp : Số Lượng : 5600
+Đậu xanh : Số Lượng : 5600
+Lạt tre : Số Lượng : 5600
+Lá dong : Số Lượng : 5600
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 00:03:14--------
+- Name : tomioka Giao Dịch Với bulontragop
+- Item Chuyển : 
+Nếp : Số Lượng : 5600
+Đậu xanh : Số Lượng : 5600
+Lạt tre : Số Lượng : 5600
+Lá dong : Số Lượng : 5600
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 00:07:41--------
+- Name : clonenlsk21 Giao Dịch Với bulontragop
+- Item Chuyển : 
+ Nếp : Số Lượng : 12300
+ Lá dong : Số Lượng : 12300
+ Lạt tre : Số Lượng : 12300
+ Đậu xanh : Số Lượng : 12300
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 00:07:41--------
+- Name : bulontragop Giao Dịch Với clonenlsk21
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Nếp : Số Lượng : 12300
+ Lá dong : Số Lượng : 12300
+ Lạt tre : Số Lượng : 12300
+ Đậu xanh : Số Lượng : 12300
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 00:09:27--------
+- Name : bulontragop Giao Dịch Với clonenlsk22
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Nếp : Số Lượng : 2100
+Lạt tre : Số Lượng : 2100
+Lá dong : Số Lượng : 2100
+Đậu xanh : Số Lượng : 2100
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 00:09:27--------
+- Name : clonenlsk22 Giao Dịch Với bulontragop
+- Item Chuyển : 
+Nếp : Số Lượng : 2100
+Lạt tre : Số Lượng : 2100
+Lá dong : Số Lượng : 2100
+Đậu xanh : Số Lượng : 2100
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 00:09:43--------
+- Name : knight Giao Dịch Với wechat
+- Item Chuyển : 
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 00:09:43--------
+- Name : wechat Giao Dịch Với knight
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 00:10:16--------
+- Name : baniaa Giao Dịch Với bulontragop
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Lá dong : Số Lượng : 20000
+Lạt tre : Số Lượng : 20000
+Đậu xanh : Số Lượng : 20000
+Nếp : Số Lượng : 20000
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 00:10:16--------
+- Name : bulontragop Giao Dịch Với baniaa
+- Item Chuyển : 
+Lá dong : Số Lượng : 20000
+Lạt tre : Số Lượng : 20000
+Đậu xanh : Số Lượng : 20000
+Nếp : Số Lượng : 20000
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 06:11:10--------
+- Name : lincuteo Giao Dịch Với nlsk012
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Đậu xanh : Số Lượng : 17736
+Nếp : Số Lượng : 17452
+Lá dong : Số Lượng : 17511
+Lạt tre : Số Lượng : 17617
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 06:11:10--------
+- Name : nlsk012 Giao Dịch Với lincuteo
+- Item Chuyển : 
+Đậu xanh : Số Lượng : 17736
+Nếp : Số Lượng : 17452
+Lá dong : Số Lượng : 17511
+Lạt tre : Số Lượng : 17617
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 06:12:17--------
+- Name : lincuteo Giao Dịch Với nlsk009
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Nếp : Số Lượng : 18942
+Lá dong : Số Lượng : 19184
+Lạt tre : Số Lượng : 18793
+Đậu xanh : Số Lượng : 19213
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 06:12:17--------
+- Name : nlsk009 Giao Dịch Với lincuteo
+- Item Chuyển : 
+Nếp : Số Lượng : 18942
+Lá dong : Số Lượng : 19184
+Lạt tre : Số Lượng : 18793
+Đậu xanh : Số Lượng : 19213
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 06:13:56--------
+- Name : hungthansau Giao Dịch Với 1can2ok
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 06:13:56--------
+- Name : 1can2ok Giao Dịch Với hungthansau
+- Item Chuyển : 
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 06:14:04--------
+- Name : lincuteo Giao Dịch Với nlsk000
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Lạt tre : Số Lượng : 10066
+Lá dong : Số Lượng : 10015
+Đậu xanh : Số Lượng : 10153
+Nếp : Số Lượng : 10199
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 06:14:04--------
+- Name : nlsk000 Giao Dịch Với lincuteo
+- Item Chuyển : 
+Lạt tre : Số Lượng : 10066
+Lá dong : Số Lượng : 10015
+Đậu xanh : Số Lượng : 10153
+Nếp : Số Lượng : 10199
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 06:14:23--------
+- Name : 1can2ok Giao Dịch Với hungthansau
+- Item Chuyển : 
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 06:14:23--------
+- Name : hungthansau Giao Dịch Với 1can2ok
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 06:14:37--------
+- Name : lincuteo Giao Dịch Với nlsk000
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Nếp : Số Lượng : 9999
+Lạt tre : Số Lượng : 9999
+Lá dong : Số Lượng : 9999
+Đậu xanh : Số Lượng : 9999
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 06:14:37--------
+- Name : nlsk000 Giao Dịch Với lincuteo
+- Item Chuyển : 
+Nếp : Số Lượng : 9999
+Lạt tre : Số Lượng : 9999
+Lá dong : Số Lượng : 9999
+Đậu xanh : Số Lượng : 9999
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 06:14:49--------
+- Name : 1can2ok Giao Dịch Với hungthansau
+- Item Chuyển : 
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 06:14:49--------
+- Name : hungthansau Giao Dịch Với 1can2ok
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 06:15:24--------
+- Name : hungthansau Giao Dịch Với 1can2ok
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 06:15:24--------
+- Name : 1can2ok Giao Dịch Với hungthansau
+- Item Chuyển : 
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 06:16:55--------
+- Name : nlsk013 Giao Dịch Với lincuteo
+- Item Chuyển : 
+ Đậu xanh : Số Lượng : 16088
+ Lá dong : Số Lượng : 16006
+ Lạt tre : Số Lượng : 15806
+ Nếp : Số Lượng : 16128
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 06:16:55--------
+- Name : lincuteo Giao Dịch Với nlsk013
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Đậu xanh : Số Lượng : 16088
+ Lá dong : Số Lượng : 16006
+ Lạt tre : Số Lượng : 15806
+ Nếp : Số Lượng : 16128
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 06:17:53--------
+- Name : nlsk011 Giao Dịch Với lincuteo
+- Item Chuyển : 
+ Lạt tre : Số Lượng : 18276
+ Nếp : Số Lượng : 18407
+ Lá dong : Số Lượng : 18272
+ Đậu xanh : Số Lượng : 18534
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 06:17:53--------
+- Name : lincuteo Giao Dịch Với nlsk011
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Lạt tre : Số Lượng : 18276
+ Nếp : Số Lượng : 18407
+ Lá dong : Số Lượng : 18272
+ Đậu xanh : Số Lượng : 18534
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 07:22:54--------
+- Name : clonenlsk6 Giao Dịch Với thienkiem
+- Item Chuyển : 
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 07:22:54--------
+- Name : thienkiem Giao Dịch Với clonenlsk6
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 08:55:34--------
+- Name : vohocbipok Giao Dịch Với doikuly
+- Item Chuyển : 
+ Đậu xanh : Số Lượng : 6854
+ Lạt tre : Số Lượng : 6961
+ Lá dong : Số Lượng : 6841
+ Nếp : Số Lượng : 6839
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 08:55:34--------
+- Name : doikuly Giao Dịch Với vohocbipok
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Đậu xanh : Số Lượng : 6854
+ Lạt tre : Số Lượng : 6961
+ Lá dong : Số Lượng : 6841
+ Nếp : Số Lượng : 6839
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 08:58:24--------
+- Name : gomdosv Giao Dịch Với doikuly
+- Item Chuyển : 
+ Đậu xanh : Số Lượng : 12254
+ Nếp : Số Lượng : 12241
+ Lá dong : Số Lượng : 12287
+ Lạt tre : Số Lượng : 12366
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 08:58:24--------
+- Name : doikuly Giao Dịch Với gomdosv
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Đậu xanh : Số Lượng : 12254
+ Nếp : Số Lượng : 12241
+ Lá dong : Số Lượng : 12287
+ Lạt tre : Số Lượng : 12366
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 09:02:00--------
+- Name : doikuly Giao Dịch Với hungthansau
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Lá dong : Số Lượng : 10871
+Nếp : Số Lượng : 10856
+Đậu xanh : Số Lượng : 10842
+Lạt tre : Số Lượng : 11116
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 09:02:00--------
+- Name : hungthansau Giao Dịch Với doikuly
+- Item Chuyển : 
+Lá dong : Số Lượng : 10871
+Nếp : Số Lượng : 10856
+Đậu xanh : Số Lượng : 10842
+Lạt tre : Số Lượng : 11116
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 09:04:49--------
+- Name : 1can2ok Giao Dịch Với doikuly
+- Item Chuyển : 
+ Lạt tre : Số Lượng : 4358
+ Nếp : Số Lượng : 4390
+ Lá dong : Số Lượng : 4304
+ Đậu xanh : Số Lượng : 4444
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 09:04:49--------
+- Name : doikuly Giao Dịch Với 1can2ok
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Lạt tre : Số Lượng : 4358
+ Nếp : Số Lượng : 4390
+ Lá dong : Số Lượng : 4304
+ Đậu xanh : Số Lượng : 4444
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 09:33:37--------
+- Name : doikuly Giao Dịch Với 1can2ok
+- Item Chuyển : 
+ Bánh trung thu băng hỏa : Số Lượng : 1
+ Bánh trung thu băng hỏa : Số Lượng : 1
+ Bánh trung thu băng hỏa : Số Lượng : 1
+ Bánh trung thu phong lôi : Số Lượng : 1
+ Bánh trung thu phong lôi : Số Lượng : 1
+ Bánh trung thu phong lôi : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 09:33:37--------
+- Name : 1can2ok Giao Dịch Với doikuly
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Bánh trung thu băng hỏa : Số Lượng : 1
+ Bánh trung thu băng hỏa : Số Lượng : 1
+ Bánh trung thu băng hỏa : Số Lượng : 1
+ Bánh trung thu phong lôi : Số Lượng : 1
+ Bánh trung thu phong lôi : Số Lượng : 1
+ Bánh trung thu phong lôi : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 09:35:05--------
+- Name : doikuly Giao Dịch Với 1can2ok
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 09:35:05--------
+- Name : 1can2ok Giao Dịch Với doikuly
+- Item Chuyển : 
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 09:36:08--------
+- Name : doikuly Giao Dịch Với 1can2ok
+- Item Chuyển : 
+ Bạch ngân Thủ : Số Lượng : 1
+ Bạch ngân Ngoa : Số Lượng : 1
+ Bùa Bạch ngân : Số Lượng : 1
+ Bạch ngân Thượng Giáp : Số Lượng : 1
+ Bạch ngân Tuyến : Số Lượng : 1
+ Bạch ngân Thượng Giáp : Số Lượng : 1
+ Nhẫn Bạch ngân : Số Lượng : 1
+ Bánh trung thu băng hỏa : Số Lượng : 1
+ Bánh trung thu băng hỏa : Số Lượng : 1
+ Bánh trung thu băng hỏa : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Nham Thạch  : Số Lượng : 35
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 09:36:08--------
+- Name : 1can2ok Giao Dịch Với doikuly
+- Item Chuyển : 
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Bạch ngân Thủ : Số Lượng : 1
+ Bạch ngân Ngoa : Số Lượng : 1
+ Bùa Bạch ngân : Số Lượng : 1
+ Bạch ngân Thượng Giáp : Số Lượng : 1
+ Bạch ngân Tuyến : Số Lượng : 1
+ Bạch ngân Thượng Giáp : Số Lượng : 1
+ Nhẫn Bạch ngân : Số Lượng : 1
+ Bánh trung thu băng hỏa : Số Lượng : 1
+ Bánh trung thu băng hỏa : Số Lượng : 1
+ Bánh trung thu băng hỏa : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Nham Thạch  : Số Lượng : 35
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 09:37:31--------
+- Name : doikuly Giao Dịch Với 1can2ok
+- Item Chuyển : 
+ Haggis : Số Lượng : 1
+ Hoa tuyết : Số Lượng : 9
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 09:37:31--------
+- Name : 1can2ok Giao Dịch Với doikuly
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Haggis : Số Lượng : 1
+ Hoa tuyết : Số Lượng : 9
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 09:38:37--------
+- Name : doikuly Giao Dịch Với 1can2ok
+- Item Chuyển : 
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 09:38:37--------
+- Name : 1can2ok Giao Dịch Với doikuly
+- Item Chuyển : 
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 09:46:48--------
+- Name : vippzzzz Giao Dịch Với shenzuos
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 09:46:48--------
+- Name : shenzuos Giao Dịch Với vippzzzz
+- Item Chuyển : 
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 09:47:46--------
+- Name : vippzzzz Giao Dịch Với shenzuos
+- Item Chuyển : 
+ Sinh Mệnh Đan : Số Lượng : 31
+ Rương Ngọc : Số Lượng : 17
+ Minh Mẫn Đan : Số Lượng : 32
+ Long Lực Đan : Số Lượng : 36
+ Kháng Thể Đan : Số Lượng : 30
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Lá dong : Số Lượng : 1381
+Lạt tre : Số Lượng : 1374
+Nếp : Số Lượng : 1413
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 09:47:46--------
+- Name : shenzuos Giao Dịch Với vippzzzz
+- Item Chuyển : 
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Chuyển tinh thạch : Số Lượng : 1
+Lá dong : Số Lượng : 1381
+Lạt tre : Số Lượng : 1374
+Nếp : Số Lượng : 1413
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Sinh Mệnh Đan : Số Lượng : 31
+ Rương Ngọc : Số Lượng : 17
+ Minh Mẫn Đan : Số Lượng : 32
+ Long Lực Đan : Số Lượng : 36
+ Kháng Thể Đan : Số Lượng : 30
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 09:48:14--------
+- Name : vippzzzz Giao Dịch Với shenzuos
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Đậu xanh : Số Lượng : 1388
+Mảnh Ngọc Bội Jirai  : Số Lượng : 3
+Mảnh Phù Jirai  : Số Lượng : 2
+Mảnh Nhẫn Jirai  : Số Lượng : 2
+Mảnh Dây chuyền Jirai  : Số Lượng : 3
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 09:48:14--------
+- Name : shenzuos Giao Dịch Với vippzzzz
+- Item Chuyển : 
+Đậu xanh : Số Lượng : 1388
+Mảnh Ngọc Bội Jirai  : Số Lượng : 3
+Mảnh Phù Jirai  : Số Lượng : 2
+Mảnh Nhẫn Jirai  : Số Lượng : 2
+Mảnh Dây chuyền Jirai  : Số Lượng : 3
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 10:03:34--------
+- Name : ajmtgaj Giao Dịch Với trapboy
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Thẻ bài kinh nghiệm gia tộc cao : Số Lượng : 400
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 10:03:34--------
+- Name : trapboy Giao Dịch Với ajmtgaj
+- Item Chuyển : 
+Thẻ bài kinh nghiệm gia tộc cao : Số Lượng : 400
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 10:14:07--------
+- Name : shenzuos Giao Dịch Với vippzzzz
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Đá cấp 10 : Số Lượng : 1
+Đá cấp 10 : Số Lượng : 1
+Đá cấp 10 : Số Lượng : 1
+Đá cấp 10 : Số Lượng : 1
+Đá cấp 10 : Số Lượng : 1
+Đá cấp 10 : Số Lượng : 1
+Đá cấp 10 : Số Lượng : 1
+Đá cấp 10 : Số Lượng : 1
+Đá cấp 10 : Số Lượng : 1
+Đá cấp 10 : Số Lượng : 1
+Đá cấp 10 : Số Lượng : 1
+Đá cấp 10 : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 10:14:07--------
+- Name : vippzzzz Giao Dịch Với shenzuos
+- Item Chuyển : 
+Đá cấp 10 : Số Lượng : 1
+Đá cấp 10 : Số Lượng : 1
+Đá cấp 10 : Số Lượng : 1
+Đá cấp 10 : Số Lượng : 1
+Đá cấp 10 : Số Lượng : 1
+Đá cấp 10 : Số Lượng : 1
+Đá cấp 10 : Số Lượng : 1
+Đá cấp 10 : Số Lượng : 1
+Đá cấp 10 : Số Lượng : 1
+Đá cấp 10 : Số Lượng : 1
+Đá cấp 10 : Số Lượng : 1
+Đá cấp 10 : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 10:35:18--------
+- Name : ajmtgaj Giao Dịch Với hocxinhngu
+- Item Chuyển : 
+
+- Xu Chuyển : 7200000
+- Item Nhận : 
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 10:35:18--------
+- Name : hocxinhngu Giao Dịch Với ajmtgaj
+- Item Chuyển : 
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 7200000
+-------------
+----------Thời Gian : 2024-01-30 10:35:59--------
+- Name : hocxinhngu Giao Dịch Với ajmtgaj
+- Item Chuyển : 
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 6000000
+-------------
+----------Thời Gian : 2024-01-30 10:35:59--------
+- Name : ajmtgaj Giao Dịch Với hocxinhngu
+- Item Chuyển : 
+
+- Xu Chuyển : 6000000
+- Item Nhận : 
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 11:57:48--------
+- Name : Bối Yang Hồ Giao Dịch Với Cơm Chiên Trứng
+- Item Chuyển : 
+ Cổ lệnh : Số Lượng : 1
+ Cổ lệnh : Số Lượng : 1
+ Cổ lệnh : Số Lượng : 1
+ Cổ lệnh : Số Lượng : 1
+ Cổ lệnh : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 11:57:48--------
+- Name : Cơm Chiên Trứng Giao Dịch Với Bối Yang Hồ
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Cổ lệnh : Số Lượng : 1
+ Cổ lệnh : Số Lượng : 1
+ Cổ lệnh : Số Lượng : 1
+ Cổ lệnh : Số Lượng : 1
+ Cổ lệnh : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 12:14:37--------
+- Name : 1can2ok Giao Dịch Với doikuly
+- Item Chuyển : 
+ Rương Ngọc : Số Lượng : 77
+ Tử tinh thạch cao cấp : Số Lượng : 1
+ Mảnh giấy vụn : Số Lượng : 70
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 12:14:37--------
+- Name : doikuly Giao Dịch Với 1can2ok
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Rương Ngọc : Số Lượng : 77
+ Tử tinh thạch cao cấp : Số Lượng : 1
+ Mảnh giấy vụn : Số Lượng : 70
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 12:39:27--------
+- Name : doikuly Giao Dịch Với 1can6ok
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Minh Giác Hoàng Long Hạ Giáp : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 12:39:27--------
+- Name : 1can6ok Giao Dịch Với doikuly
+- Item Chuyển : 
+Minh Giác Hoàng Long Hạ Giáp : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 12:43:01--------
+- Name : 1can6ok Giao Dịch Với doikuly
+- Item Chuyển : 
+ Minh Giác Hoàng Long Thượng Giáp : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 12:43:01--------
+- Name : doikuly Giao Dịch Với 1can6ok
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Minh Giác Hoàng Long Thượng Giáp : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 12:48:24--------
+- Name : doikuly Giao Dịch Với 1can6ok
+- Item Chuyển : 
+ Minh Giác Nhẫn : Số Lượng : 1
+ Minh Giác Bùa  : Số Lượng : 1
+ Minh Giác Bội : Số Lượng : 1
+ Minh Giác Liên : Số Lượng : 1
+ Minh Giác Liên : Số Lượng : 1
+ Minh Giác Nhẫn : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Thông linh thảo : Số Lượng : 55
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 12:48:24--------
+- Name : 1can6ok Giao Dịch Với doikuly
+- Item Chuyển : 
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Thông linh thảo : Số Lượng : 55
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Minh Giác Nhẫn : Số Lượng : 1
+ Minh Giác Bùa  : Số Lượng : 1
+ Minh Giác Bội : Số Lượng : 1
+ Minh Giác Liên : Số Lượng : 1
+ Minh Giác Liên : Số Lượng : 1
+ Minh Giác Nhẫn : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 12:49:09--------
+- Name : doikuly Giao Dịch Với 1can6ok
+- Item Chuyển : 
+ Linh Chi Vạn Năm : Số Lượng : 1
+ Linh Chi Vạn Năm : Số Lượng : 1
+ Linh Chi Vạn Năm : Số Lượng : 1
+ Linh Chi Vạn Năm : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 12:49:09--------
+- Name : 1can6ok Giao Dịch Với doikuly
+- Item Chuyển : 
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+Tử tinh thạch cao cấp : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Linh Chi Vạn Năm : Số Lượng : 1
+ Linh Chi Vạn Năm : Số Lượng : 1
+ Linh Chi Vạn Năm : Số Lượng : 1
+ Linh Chi Vạn Năm : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 12:53:48--------
+- Name : doikuly Giao Dịch Với 1can6ok
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Bạch ngân Thủ : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 12:53:48--------
+- Name : 1can6ok Giao Dịch Với doikuly
+- Item Chuyển : 
+Bạch ngân Thủ : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 13:37:22--------
+- Name : clonenlsk1 Giao Dịch Với thienkiem
+- Item Chuyển : 
+ Long Lực Đan : Số Lượng : 200
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 13:37:22--------
+- Name : thienkiem Giao Dịch Với clonenlsk1
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Long Lực Đan : Số Lượng : 200
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 14:45:47--------
+- Name : trapboy Giao Dịch Với s1meomeo1s
+- Item Chuyển : 
+
+- Xu Chuyển : 160000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 14:45:47--------
+- Name : s1meomeo1s Giao Dịch Với trapboy
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 160000000
+-------------
+----------Thời Gian : 2024-01-30 16:03:12--------
+- Name : huongquat Giao Dịch Với phmoidz
+- Item Chuyển : 
+
+- Xu Chuyển : 993000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 16:03:12--------
+- Name : phmoidz Giao Dịch Với huongquat
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 993000
+-------------
+----------Thời Gian : 2024-01-30 16:19:10--------
+- Name : huongquat Giao Dịch Với phmoidz
+- Item Chuyển : 
+ Hắc ngưu : Số Lượng : 1
+ Hắc ngưu : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 16:19:10--------
+- Name : phmoidz Giao Dịch Với huongquat
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Hắc ngưu : Số Lượng : 1
+ Hắc ngưu : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 18:39:20--------
+- Name : phmoidz Giao Dịch Với huong1
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Bạch Hổ : Số Lượng : 1
+Huyền Thiết Hạ Giáp : Số Lượng : 1
+Bát bảo : Số Lượng : 1
+Bát bảo : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 18:39:20--------
+- Name : huong1 Giao Dịch Với phmoidz
+- Item Chuyển : 
+Bạch Hổ : Số Lượng : 1
+Huyền Thiết Hạ Giáp : Số Lượng : 1
+Bát bảo : Số Lượng : 1
+Bát bảo : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 18:40:52--------
+- Name : phmoidz Giao Dịch Với huong1
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 984000
+-------------
+----------Thời Gian : 2024-01-30 18:40:52--------
+- Name : huong1 Giao Dịch Với phmoidz
+- Item Chuyển : 
+
+- Xu Chuyển : 984000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 19:51:56--------
+- Name : trapboy Giao Dịch Với ADMIN
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Thiên Sơn Tuyết Liên : Số Lượng : 1
+Áo Dài Nam : Số Lượng : 1
+Giáp Samurai Nam : Số Lượng : 1
+Gậy Như Ý : Số Lượng : 1
+Mặt Nạ Hổ Nam : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 19:51:56--------
+- Name : ADMIN Giao Dịch Với trapboy
+- Item Chuyển : 
+Thiên Sơn Tuyết Liên : Số Lượng : 1
+Áo Dài Nam : Số Lượng : 1
+Giáp Samurai Nam : Số Lượng : 1
+Gậy Như Ý : Số Lượng : 1
+Mặt Nạ Hổ Nam : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 19:52:52--------
+- Name : xinlao Giao Dịch Với huong2
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Long khảm Dao : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 19:52:52--------
+- Name : huong2 Giao Dịch Với xinlao
+- Item Chuyển : 
+Long khảm Dao : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 19:54:25--------
+- Name : phmoidz Giao Dịch Với huong2
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Gậy Mặt Trăng : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Rương bạch ngân : Số Lượng : 1
+
+- Xu Nhận : 991000
+-------------
+----------Thời Gian : 2024-01-30 19:54:25--------
+- Name : huong2 Giao Dịch Với phmoidz
+- Item Chuyển : 
+Gậy Mặt Trăng : Số Lượng : 1
+Xích Nhãn Ngân Lang : Số Lượng : 1
+Rương bạch ngân : Số Lượng : 1
+
+- Xu Chuyển : 991000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 20:05:25--------
+- Name : Cơm Chiên Trứng Giao Dịch Với kokushibou
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 20:05:25--------
+- Name : kokushibou Giao Dịch Với Cơm Chiên Trứng
+- Item Chuyển : 
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 20:07:51--------
+- Name : phmoidz Giao Dịch Với huong2
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Lục Ngọc : Số Lượng : 1
+Huyết Ngọc : Số Lượng : 1
+Huyết Ngọc : Số Lượng : 1
+Huyết Ngọc : Số Lượng : 1
+Lục Ngọc : Số Lượng : 1
+Bát bảo : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 20:07:51--------
+- Name : huong2 Giao Dịch Với phmoidz
+- Item Chuyển : 
+Lục Ngọc : Số Lượng : 1
+Huyết Ngọc : Số Lượng : 1
+Huyết Ngọc : Số Lượng : 1
+Huyết Ngọc : Số Lượng : 1
+Lục Ngọc : Số Lượng : 1
+Bát bảo : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 20:29:41--------
+- Name : hungthansau Giao Dịch Với 1can2ok
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 20:29:41--------
+- Name : 1can2ok Giao Dịch Với hungthansau
+- Item Chuyển : 
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 20:30:16--------
+- Name : hungthansau Giao Dịch Với 1can2ok
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 20:30:16--------
+- Name : 1can2ok Giao Dịch Với hungthansau
+- Item Chuyển : 
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+Phân thân lệnh : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 20:33:36--------
+- Name : 1can2ok Giao Dịch Với vohocbipok
+- Item Chuyển : 
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 20:33:36--------
+- Name : vohocbipok Giao Dịch Với 1can2ok
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 20:34:21--------
+- Name : 1can2ok Giao Dịch Với vohocbipok
+- Item Chuyển : 
+ Nhẫn Bạch ngân : Số Lượng : 1
+ Dây Chuyền Huyền Kỹ : Số Lượng : 1
+ Bạch ngân Thủ : Số Lượng : 1
+ Bạch ngân Tuyến : Số Lượng : 1
+ Bạch ngân Ngoa : Số Lượng : 1
+ Bùa Bạch ngân : Số Lượng : 1
+ Bạch ngân Thượng Giáp : Số Lượng : 1
+ Bạch ngân Thượng Giáp : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 20:34:21--------
+- Name : vohocbipok Giao Dịch Với 1can2ok
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Nhẫn Bạch ngân : Số Lượng : 1
+ Dây Chuyền Huyền Kỹ : Số Lượng : 1
+ Bạch ngân Thủ : Số Lượng : 1
+ Bạch ngân Tuyến : Số Lượng : 1
+ Bạch ngân Ngoa : Số Lượng : 1
+ Bùa Bạch ngân : Số Lượng : 1
+ Bạch ngân Thượng Giáp : Số Lượng : 1
+ Bạch ngân Thượng Giáp : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+ Phân thân lệnh : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 20:35:08--------
+- Name : 1can2ok Giao Dịch Với vohocbipok
+- Item Chuyển : 
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 20:35:08--------
+- Name : vohocbipok Giao Dịch Với 1can2ok
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+ Haggis : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 21:11:15--------
+- Name : ajmtgaj Giao Dịch Với Cơm Chiên Trứng
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Đậu xanh : Số Lượng : 10000
+Lá dong : Số Lượng : 10000
+Lạt tre : Số Lượng : 10000
+Nếp : Số Lượng : 10000
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 21:11:15--------
+- Name : Cơm Chiên Trứng Giao Dịch Với ajmtgaj
+- Item Chuyển : 
+Đậu xanh : Số Lượng : 10000
+Lá dong : Số Lượng : 10000
+Lạt tre : Số Lượng : 10000
+Nếp : Số Lượng : 10000
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 21:26:27--------
+- Name : trapboy Giao Dịch Với thienkiem
+- Item Chuyển : 
+ Thiên Sơn Tuyết Liên : Số Lượng : 1
+ Gậy Như Ý : Số Lượng : 1
+ Giáp Samurai Nam : Số Lượng : 1
+ Mặt Nạ Hổ Nam : Số Lượng : 1
+ Shiraiji : Số Lượng : 1
+ Áo Dài Nam : Số Lượng : 1
+ Sách võ công Thuật Phiến Cuồng Phong : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 21:26:27--------
+- Name : thienkiem Giao Dịch Với trapboy
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Thiên Sơn Tuyết Liên : Số Lượng : 1
+ Gậy Như Ý : Số Lượng : 1
+ Giáp Samurai Nam : Số Lượng : 1
+ Mặt Nạ Hổ Nam : Số Lượng : 1
+ Shiraiji : Số Lượng : 1
+ Áo Dài Nam : Số Lượng : 1
+ Sách võ công Thuật Phiến Cuồng Phong : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 21:27:31--------
+- Name : ajmtgaj Giao Dịch Với dao69k
+- Item Chuyển : 
+ Nếp : Số Lượng : 10000
+ Lạt tre : Số Lượng : 10000
+ Lá dong : Số Lượng : 10000
+ Đậu xanh : Số Lượng : 10000
+ Mặt nạ sát thủ : Số Lượng : 1
+ Danh Hiệu Đệ Nhị : Số Lượng : 1
+
+- Xu Chuyển : 5000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 21:27:31--------
+- Name : dao69k Giao Dịch Với ajmtgaj
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Nếp : Số Lượng : 10000
+ Lạt tre : Số Lượng : 10000
+ Lá dong : Số Lượng : 10000
+ Đậu xanh : Số Lượng : 10000
+ Mặt nạ sát thủ : Số Lượng : 1
+ Danh Hiệu Đệ Nhị : Số Lượng : 1
+
+- Xu Nhận : 5000000
+-------------
+----------Thời Gian : 2024-01-30 22:09:25--------
+- Name : dao69k Giao Dịch Với ajmtgaj
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Đá Thăng Ấn : Số Lượng : 9999
+Đá Nâng Cấp : Số Lượng : 9999
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 22:09:25--------
+- Name : ajmtgaj Giao Dịch Với dao69k
+- Item Chuyển : 
+Đá Thăng Ấn : Số Lượng : 9999
+Đá Nâng Cấp : Số Lượng : 9999
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 22:20:40--------
+- Name : soikaz Giao Dịch Với phongxu2
+- Item Chuyển : 
+ Đá Nâng Cấp : Số Lượng : 3353
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 22:20:40--------
+- Name : phongxu2 Giao Dịch Với soikaz
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Đá Nâng Cấp : Số Lượng : 3353
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 22:25:59--------
+- Name : soikaz Giao Dịch Với phongxu2
+- Item Chuyển : 
+
+- Xu Chuyển : 500000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 22:25:59--------
+- Name : phongxu2 Giao Dịch Với soikaz
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 500000000
+-------------
+----------Thời Gian : 2024-01-30 22:26:22--------
+- Name : phongxu2 Giao Dịch Với soikaz
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 350000000
+-------------
+----------Thời Gian : 2024-01-30 22:26:22--------
+- Name : soikaz Giao Dịch Với phongxu2
+- Item Chuyển : 
+
+- Xu Chuyển : 350000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-01-30 23:40:40--------
+- Name : dao69k Giao Dịch Với ajmtgaj
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 100000000
+-------------
+----------Thời Gian : 2024-01-30 23:40:40--------
+- Name : ajmtgaj Giao Dịch Với dao69k
+- Item Chuyển : 
+
+- Xu Chuyển : 100000000
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------

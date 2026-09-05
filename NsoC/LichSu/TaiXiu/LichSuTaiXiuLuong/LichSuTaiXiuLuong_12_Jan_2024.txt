@@ -1,0 +1,528 @@
+----------Thời Gian : 2024-01-12 06:32:23--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 761444
+- Lượng Mới : 661444
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 06:32:32--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 661444
+- Lượng Mới : 561444
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 06:32:41--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 561444
+- Lượng Mới : 461444
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 06:32:48--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 461444
+- Lượng Mới : 361444
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 06:32:56--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 361444
+- Lượng Mới : 261444
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 06:33:21--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Ăn 900000
+- Lượng Cũ : 261444
+- Lượng Mới : 1161444
+- Lượng Thay Đổi : 900000
+----------Thời Gian : 2024-01-12 07:08:20--------
+- Name : fancung
+- Nội Dung :  Đặt Xỉu Trừ -90000
+- Lượng Cũ : 91395
+- Lượng Mới : 1395
+- Lượng Thay Đổi : -90000
+----------Thời Gian : 2024-01-12 07:09:18--------
+- Name : fancung
+- Nội Dung :  Đặt Xỉu Ăn 162000
+- Lượng Cũ : 1395
+- Lượng Mới : 163395
+- Lượng Thay Đổi : 162000
+----------Thời Gian : 2024-01-12 07:09:45--------
+- Name : fancung
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 163395
+- Lượng Mới : 63395
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 07:10:43--------
+- Name : fancung
+- Nội Dung :  Đặt Xỉu Ăn 180000
+- Lượng Cũ : 63395
+- Lượng Mới : 243395
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-12 07:13:45--------
+- Name : fancung
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 243395
+- Lượng Mới : 193395
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-12 07:14:43--------
+- Name : fancung
+- Nội Dung :  Đặt Tài Ăn 90000
+- Lượng Cũ : 193395
+- Lượng Mới : 283395
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2024-01-12 07:15:41--------
+- Name : fancung
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 283395
+- Lượng Mới : 233395
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-12 08:03:42--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1161444
+- Lượng Mới : 1061444
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 08:03:50--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1061444
+- Lượng Mới : 961444
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 08:03:58--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 961444
+- Lượng Mới : 861444
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 08:04:06--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 861444
+- Lượng Mới : 761444
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 08:04:14--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 761444
+- Lượng Mới : 661444
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 08:05:37--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 661444
+- Lượng Mới : 561444
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 08:05:45--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 561444
+- Lượng Mới : 461444
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 08:05:57--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 461444
+- Lượng Mới : 361444
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 08:06:06--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 361444
+- Lượng Mới : 261444
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 08:06:13--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 261444
+- Lượng Mới : 161444
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 08:06:35--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Ăn 900000
+- Lượng Cũ : 161444
+- Lượng Mới : 1061444
+- Lượng Thay Đổi : 900000
+----------Thời Gian : 2024-01-12 08:07:08--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 1061444
+- Lượng Mới : 961444
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 08:07:18--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 961444
+- Lượng Mới : 861444
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 08:07:26--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 861444
+- Lượng Mới : 761444
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 08:07:34--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 761444
+- Lượng Mới : 661444
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 08:07:41--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 661444
+- Lượng Mới : 561444
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 08:08:40--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 561444
+- Lượng Mới : 461444
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 08:08:49--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 461444
+- Lượng Mới : 361444
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 08:08:58--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 361444
+- Lượng Mới : 261444
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 08:09:06--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 261444
+- Lượng Mới : 161444
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 08:09:21--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 161444
+- Lượng Mới : 61444
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 08:11:06--------
+- Name : fancung
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 255076
+- Lượng Mới : 155076
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 08:12:22--------
+- Name : fancung
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 155076
+- Lượng Mới : 55076
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 08:12:34--------
+- Name : fancung
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 55076
+- Lượng Mới : 5076
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-12 10:46:16--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 1052225
+- Lượng Mới : 1002225
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-12 10:47:23--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1002225
+- Lượng Mới : 902225
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 10:48:21--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Ăn 180000
+- Lượng Cũ : 902225
+- Lượng Mới : 1082225
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-12 10:48:49--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 1082225
+- Lượng Mới : 1032225
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-12 10:50:07--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 1032225
+- Lượng Mới : 982225
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-12 10:51:06--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Ăn 90000
+- Lượng Cũ : 982225
+- Lượng Mới : 1072225
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2024-01-12 10:51:33--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 1072225
+- Lượng Mới : 1022225
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-12 10:52:50--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 1022225
+- Lượng Mới : 972225
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-12 10:54:21--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 972225
+- Lượng Mới : 872225
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 10:54:28--------
+- Name : thienkiem
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 872225
+- Lượng Mới : 772225
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 10:55:30--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 772225
+- Lượng Mới : 672225
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 10:55:41--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 672225
+- Lượng Mới : 572225
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 10:55:47--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 572225
+- Lượng Mới : 472225
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 10:55:55--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 472225
+- Lượng Mới : 372225
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 10:56:00--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 372225
+- Lượng Mới : 272225
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 10:56:07--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 272225
+- Lượng Mới : 172225
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 10:56:12--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 172225
+- Lượng Mới : 72225
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 11:55:46--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 137343
+- Lượng Mới : 37343
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 11:56:46--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Ăn 180000
+- Lượng Cũ : 37343
+- Lượng Mới : 217343
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-12 11:57:09--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 217343
+- Lượng Mới : 117343
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 11:58:09--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Ăn 180000
+- Lượng Cũ : 117343
+- Lượng Mới : 297343
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-12 11:58:39--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 297343
+- Lượng Mới : 197343
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 12:00:11--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 197343
+- Lượng Mới : 97343
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 12:00:47--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1607041
+- Lượng Mới : 1507041
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 12:01:10--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Ăn 180000
+- Lượng Cũ : 97343
+- Lượng Mới : 277343
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-12 12:01:10--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Ăn 180000
+- Lượng Cũ : 1507041
+- Lượng Mới : 1687041
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-12 12:01:32--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 277343
+- Lượng Mới : 177343
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 12:02:31--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Ăn 180000
+- Lượng Cũ : 177343
+- Lượng Mới : 357343
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-12 12:04:00--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 357343
+- Lượng Mới : 257343
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 12:12:11--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 257343
+- Lượng Mới : 157343
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 12:13:10--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Ăn 180000
+- Lượng Cũ : 157343
+- Lượng Mới : 337343
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-12 12:13:25--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 337343
+- Lượng Mới : 237343
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 12:13:56--------
+- Name : trumlatao
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 1663041
+- Lượng Mới : 1563041
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 12:14:26--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Ăn 180000
+- Lượng Cũ : 237343
+- Lượng Mới : 417343
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-12 12:14:26--------
+- Name : trumlatao
+- Nội Dung :  Đặt Xỉu Ăn 180000
+- Lượng Cũ : 1563041
+- Lượng Mới : 1743041
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-12 16:51:43--------
+- Name : latieuhac
+- Nội Dung :  Đặt Tài Trừ -80000
+- Lượng Cũ : 80119
+- Lượng Mới : 119
+- Lượng Thay Đổi : -80000
+----------Thời Gian : 2024-01-12 20:54:31--------
+- Name : vailol
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 2259439
+- Lượng Mới : 2159439
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 20:54:37--------
+- Name : vailol
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 2159439
+- Lượng Mới : 2059439
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 20:54:43--------
+- Name : vailol
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 2059439
+- Lượng Mới : 1959439
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 20:54:49--------
+- Name : vailol
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1959439
+- Lượng Mới : 1859439
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 20:55:02--------
+- Name : vailol
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1859439
+- Lượng Mới : 1759439
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 20:55:08--------
+- Name : vailol
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1759439
+- Lượng Mới : 1659439
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 20:55:14--------
+- Name : vailol
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1659439
+- Lượng Mới : 1559439
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 20:55:29--------
+- Name : vailol
+- Nội Dung :  Đặt Tài Ăn 1260000
+- Lượng Cũ : 1559439
+- Lượng Mới : 2819439
+- Lượng Thay Đổi : 1260000
+----------Thời Gian : 2024-01-12 21:22:24--------
+- Name : trumlatao
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 1704982
+- Lượng Mới : 1604982
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 21:22:33--------
+- Name : trumlatao
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 1604982
+- Lượng Mới : 1504982
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 21:23:41--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1464982
+- Lượng Mới : 1364982
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 21:23:47--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1364982
+- Lượng Mới : 1264982
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 21:23:53--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 1264982
+- Lượng Mới : 1164982
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-12 21:24:03--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -64000
+- Lượng Cũ : 1164982
+- Lượng Mới : 1100982
+- Lượng Thay Đổi : -64000
+----------Thời Gian : 2024-01-12 21:24:40--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Ăn 655200
+- Lượng Cũ : 1100982
+- Lượng Mới : 1756182
+- Lượng Thay Đổi : 655200

@@ -1,0 +1,48 @@
+----------Thời Gian : 2024-06-01 23:22:32--------
+- Name : ruoicon Giao Dịch Với adminn
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Hỏa Kỳ Lân : Số Lượng : 1
+Dây cương : Số Lượng : 1
+Giáp thú : Số Lượng : 1
+Thú trang : Số Lượng : 1
+Yên : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-06-01 23:22:32--------
+- Name : adminn Giao Dịch Với ruoicon
+- Item Chuyển : 
+Hỏa Kỳ Lân : Số Lượng : 1
+Dây cương : Số Lượng : 1
+Giáp thú : Số Lượng : 1
+Thú trang : Số Lượng : 1
+Yên : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-06-01 23:23:46--------
+- Name : ruoicon Giao Dịch Với nsokey
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Sukaigan : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-06-01 23:23:46--------
+- Name : nsokey Giao Dịch Với ruoicon
+- Item Chuyển : 
+Sukaigan : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------

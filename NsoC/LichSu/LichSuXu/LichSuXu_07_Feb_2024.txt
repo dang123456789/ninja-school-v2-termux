@@ -1,0 +1,66 @@
+----------Thời Gian : 2024-02-07 09:16:19--------
+- Name : vietnamese
+- Tên Giao Dịch :  Đặt Cược Lôi Đài
+- Xu Cũ : 61842836
+- Xu Mới : 61841836
+- Xu Thay Đổi :-1000Xu 
+----------Thời Gian : 2024-02-07 09:16:26--------
+- Name : vietnam
+- Tên Giao Dịch :  Đặt Cược Lôi Đài
+- Xu Cũ : 973000
+- Xu Mới : 972000
+- Xu Thay Đổi :-1000Xu 
+----------Thời Gian : 2024-02-07 09:16:29--------
+- Name : vietnamese
+- Tên Giao Dịch :  Cộng Tiền Lôi Đài
+- Xu Cũ : 61841836
+- Xu Mới : 61843736
+- Xu Thay Đổi :1900Xu 
+----------Thời Gian : 2024-02-07 15:16:28--------
+- Name : thienkiem
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 396052399
+- Xu Mới : 346052399
+- Xu Thay Đổi :-50000000Xu 
+----------Thời Gian : 2024-02-07 15:18:28--------
+- Name : thienkiem
+- Tên Giao Dịch : Thắng Vòng Xoay May Mắn
+- Xu Cũ : 491052399
+- Xu Mới : 586052399
+- Xu Thay Đổi :95000000Xu 
+----------Thời Gian : 2024-02-07 15:18:33--------
+- Name : thienkiem
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 441052399
+- Xu Mới : 391052399
+- Xu Thay Đổi :-50000000Xu 
+----------Thời Gian : 2024-02-07 22:56:39--------
+- Name : fancung
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 88436014
+- Xu Mới : 38436014
+- Xu Thay Đổi :-50000000Xu 
+----------Thời Gian : 2024-02-07 22:58:10--------
+- Name : fancung
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 83436014
+- Xu Mới : 78436014
+- Xu Thay Đổi :-5000000Xu 
+----------Thời Gian : 2024-02-07 22:58:29--------
+- Name : fancung
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 80000000
+- Xu Mới : 76563986
+- Xu Thay Đổi :-3436014Xu 
+----------Thời Gian : 2024-02-07 22:58:39--------
+- Name : thienkiem
+- Tên Giao Dịch : Thắng Vòng Xoay May Mắn
+- Xu Cũ : 542165499
+- Xu Mới : 637165499
+- Xu Thay Đổi :95000000Xu 
+----------Thời Gian : 2024-02-07 22:58:48--------
+- Name : fancung
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 30000000
+- Xu Mới : -20000000
+- Xu Thay Đổi :-50000000Xu 

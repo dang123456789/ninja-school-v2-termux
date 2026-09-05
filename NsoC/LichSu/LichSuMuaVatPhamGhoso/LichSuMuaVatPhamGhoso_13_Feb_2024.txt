@@ -1,0 +1,4402 @@
+----------Thời Gian : 2024-02-13 00:20:37--------
+- Name : aaddmee
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Chìa Khoá Vẽ Bùa
+- Số Lượng Mua : 22
+- Lượng Mua : -44000
+- Xu Mua : 0
+- Lượng Cũ : 45199
+- Lượng Mới : 1199
+- Xu Cũ : 24416862
+- Xu Mới : 24416862
+----------Thời Gian : 2024-02-13 00:29:36--------
+- Name : zdz001
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nhật Tử Lam Phong
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 811800
+- Lượng Mới : 809800
+- Xu Cũ : 92000
+- Xu Mới : 92000
+----------Thời Gian : 2024-02-13 00:29:38--------
+- Name : zdz001
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Bóng Ma
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 809800
+- Lượng Mới : 808800
+- Xu Cũ : 92000
+- Xu Mới : 92000
+----------Thời Gian : 2024-02-13 00:29:41--------
+- Name : zdz001
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Yêu Tinh
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 808800
+- Lượng Mới : 807800
+- Xu Cũ : 92000
+- Xu Mới : 92000
+----------Thời Gian : 2024-02-13 00:29:43--------
+- Name : zdz001
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Áo Dài Nam
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 807800
+- Lượng Mới : 805800
+- Xu Cũ : 92000
+- Xu Mới : 92000
+----------Thời Gian : 2024-02-13 00:29:46--------
+- Name : zdz001
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Gậy Mặt Trăng
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 805800
+- Lượng Mới : 804800
+- Xu Cũ : 92000
+- Xu Mới : 92000
+----------Thời Gian : 2024-02-13 00:30:19--------
+- Name : zdz001
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara
+ Áo
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 804800
+- Lượng Mới : 802800
+- Xu Cũ : 92000
+- Xu Mới : 92000
+----------Thời Gian : 2024-02-13 00:30:21--------
+- Name : zdz001
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Quần
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 802800
+- Lượng Mới : 800800
+- Xu Cũ : 92000
+- Xu Mới : 92000
+----------Thời Gian : 2024-02-13 00:36:00--------
+- Name : zdz002
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nhật Tử Lam Phong
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 829395
+- Lượng Mới : 827395
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-13 00:36:03--------
+- Name : zdz002
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Bóng Ma
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 827395
+- Lượng Mới : 826395
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-13 00:36:04--------
+- Name : zdz002
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Yêu Tinh
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 826395
+- Lượng Mới : 825395
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-13 00:36:08--------
+- Name : zdz002
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Áo Dài Nam
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 825395
+- Lượng Mới : 823395
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-13 00:36:10--------
+- Name : zdz002
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Gậy Mặt Trăng
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 823395
+- Lượng Mới : 822395
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-13 00:36:11--------
+- Name : zdz002
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara
+ Áo
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 822395
+- Lượng Mới : 820395
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-13 00:36:13--------
+- Name : zdz002
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Quần
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 820395
+- Lượng Mới : 818395
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-13 00:37:13--------
+- Name : zdz002
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP lớn
+- Số Lượng Mua : 5000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 818395
+- Lượng Mới : 818395
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-13 00:37:24--------
+- Name : zdz002
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP lớn
+- Số Lượng Mua : 5000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 818395
+- Lượng Mới : 818395
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-13 00:37:36--------
+- Name : zdz002
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP lớn
+- Số Lượng Mua : 5000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 818395
+- Lượng Mới : 818395
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-13 00:37:46--------
+- Name : zdz002
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP lớn
+- Số Lượng Mua : 5000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 818395
+- Lượng Mới : 818395
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-13 01:01:36--------
+- Name : zjnzjn
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Khả di lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 469069
+- Lượng Mới : 469069
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-13 02:23:30--------
+- Name : ngheovc
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP cực lớn
+- Số Lượng Mua : 9000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 438063
+- Lượng Mới : 438063
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-13 02:23:39--------
+- Name : ngheovc
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP cực lớn
+- Số Lượng Mua : 3000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 438063
+- Lượng Mới : 438063
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-13 02:24:06--------
+- Name : ngheovc
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Yêu Tinh
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 438063
+- Lượng Mới : 437063
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-13 02:24:44--------
+- Name : top1severl
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thiên nhãn phù
+- Số Lượng Mua : 19
+- Lượng Mua : -9500
+- Xu Mua : 0
+- Lượng Cũ : 537272
+- Lượng Mới : 527772
+- Xu Cũ : 993000
+- Xu Mới : 993000
+----------Thời Gian : 2024-02-13 02:26:22--------
+- Name : ngheovc
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Mặt nạ Jiraiya 
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 438063
+- Lượng Mới : 437963
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-13 02:26:31--------
+- Name : ngheovc
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Đùi heo sữa cao cấp
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 437963
+- Lượng Mới : 437913
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-13 02:26:38--------
+- Name : ngheovc
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Quần
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 437913
+- Lượng Mới : 435913
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-13 02:26:40--------
+- Name : ngheovc
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara
+ Áo
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 435913
+- Lượng Mới : 433913
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-13 02:26:43--------
+- Name : ngheovc
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Tóc
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 433913
+- Lượng Mới : 431913
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-13 02:35:26--------
+- Name : ngheovc
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phiếu may mắn
+- Số Lượng Mua : 8000
+- Lượng Mua : -80000
+- Xu Mua : 0
+- Lượng Cũ : 431913
+- Lượng Mới : 351913
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-13 02:35:32--------
+- Name : ngheovc
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nhật Tử Lam Phong
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 351913
+- Lượng Mới : 349913
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-13 02:35:35--------
+- Name : ngheovc
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Gậy Mặt Trăng
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 349913
+- Lượng Mới : 348913
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-13 02:35:39--------
+- Name : ngheovc
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Áo Dài Nam
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 348913
+- Lượng Mới : 346913
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-13 02:58:50--------
+- Name : ngheovc
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP cực lớn
+- Số Lượng Mua : 3333
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 346912
+- Lượng Mới : 346912
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-13 03:47:12--------
+- Name : ngheovc
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Saihyoken
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 344246
+- Lượng Mới : 343746
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-13 03:50:55--------
+- Name : ngheovc
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Giấy phép tẩy kỹ năng
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 343746
+- Lượng Mới : 343646
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-13 03:51:03--------
+- Name : ngheovc
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Cổ lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -6000
+- Xu Mua : 0
+- Lượng Cũ : 343646
+- Lượng Mới : 337646
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-13 08:14:34--------
+- Name : zjnzjn
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Quần
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 386969
+- Lượng Mới : 384969
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-13 08:36:10--------
+- Name : zjnzjn
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Khả di lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 384969
+- Lượng Mới : 384969
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-13 08:50:08--------
+- Name : top1severl
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Hoán chuyển cao cấp
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 428772
+- Lượng Mới : 427772
+- Xu Cũ : 993000
+- Xu Mới : 993000
+----------Thời Gian : 2024-02-13 08:54:27--------
+- Name : quang19
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Bóng Ma
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 662663
+- Lượng Mới : 661663
+- Xu Cũ : 716000
+- Xu Mới : 716000
+----------Thời Gian : 2024-02-13 08:54:50--------
+- Name : quang19
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Tóc
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 661663
+- Lượng Mới : 659663
+- Xu Cũ : 716000
+- Xu Mới : 716000
+----------Thời Gian : 2024-02-13 08:59:02--------
+- Name : jgjhngg
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 1
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 51000
+- Lượng Mới : 50950
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 08:59:03--------
+- Name : jgjhngg
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 2
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 50950
+- Lượng Mới : 50850
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 08:59:04--------
+- Name : jgjhngg
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Vô hạn khả di lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 50850
+- Lượng Mới : 50800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 08:59:08--------
+- Name : jgjhngg
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Gậy Mặt Trăng
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 50800
+- Lượng Mới : 49800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 08:59:11--------
+- Name : jgjhngg
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nhật Tử Lam Phong
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 49800
+- Lượng Mới : 47800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 08:59:16--------
+- Name : jgjhngg
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Áo Dài Nam
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 47800
+- Lượng Mới : 45800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 08:59:19--------
+- Name : jgjhngg
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara
+ Áo
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 45800
+- Lượng Mới : 43800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 08:59:20--------
+- Name : jgjhngg
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Quần
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 43800
+- Lượng Mới : 41800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 08:59:23--------
+- Name : jgjhngg
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Tóc
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 41800
+- Lượng Mới : 39800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 08:59:41--------
+- Name : jgjhngg
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Yêu Tinh
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 39800
+- Lượng Mới : 38800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 09:08:07--------
+- Name : jgjhngg
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phiếu may mắn
+- Số Lượng Mua : 100
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 488800
+- Lượng Mới : 487800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 09:26:39--------
+- Name : thebesttieu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Tóc
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 51000
+- Lượng Mới : 49000
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 09:26:42--------
+- Name : thebesttieu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Quần
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 49000
+- Lượng Mới : 47000
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 09:26:43--------
+- Name : thebesttieu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara
+ Áo
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 47000
+- Lượng Mới : 45000
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 09:26:45--------
+- Name : thebesttieu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Áo Dài Nam
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 45000
+- Lượng Mới : 43000
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 09:26:46--------
+- Name : thebesttieu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nhật Tử Lam Phong
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 43000
+- Lượng Mới : 41000
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 09:26:47--------
+- Name : thebesttieu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Yêu Tinh
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 41000
+- Lượng Mới : 40000
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 09:26:52--------
+- Name : thebesttieu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Gậy Mặt Trăng
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 40000
+- Lượng Mới : 39000
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 09:26:55--------
+- Name : thebesttieu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Ứng Long
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 39000
+- Lượng Mới : 38900
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 09:32:26--------
+- Name : thebesttieu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 2
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 438900
+- Lượng Mới : 438800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 09:32:27--------
+- Name : thebesttieu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 1
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 438800
+- Lượng Mới : 438750
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 09:34:06--------
+- Name : thebesttieu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phiếu may mắn
+- Số Lượng Mua : 100
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 488750
+- Lượng Mới : 487750
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 09:50:41--------
+- Name : thebesttieu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phiếu may mắn
+- Số Lượng Mua : 500
+- Lượng Mua : -5000
+- Xu Mua : 0
+- Lượng Cũ : 487750
+- Lượng Mới : 482750
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 10:01:19--------
+- Name : thebesttieu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nhất Dương Tiêu
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -405000
+- Lượng Cũ : 470750
+- Lượng Mới : 470750
+- Xu Cũ : 1000000
+- Xu Mới : 595000
+----------Thời Gian : 2024-02-13 10:01:34--------
+- Name : thebesttieu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Hoán chuyển trung cấp
+- Số Lượng Mua : 1
+- Lượng Mua : -250
+- Xu Mua : 0
+- Lượng Cũ : 470750
+- Lượng Mới : 470500
+- Xu Cũ : 595000
+- Xu Mới : 595000
+----------Thời Gian : 2024-02-13 10:03:00--------
+- Name : thebesttieu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Itotama
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 470500
+- Lượng Mới : 470500
+- Xu Cũ : 595000
+- Xu Mới : 594000
+----------Thời Gian : 2024-02-13 10:03:01--------
+- Name : thebesttieu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Taiyoutama
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 470500
+- Lượng Mới : 470500
+- Xu Cũ : 594000
+- Xu Mới : 593000
+----------Thời Gian : 2024-02-13 10:03:04--------
+- Name : thebesttieu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Bikoushuriken
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 470500
+- Lượng Mới : 470500
+- Xu Cũ : 593000
+- Xu Mới : 592000
+----------Thời Gian : 2024-02-13 10:03:08--------
+- Name : thebesttieu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Hijoukai
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 470500
+- Lượng Mới : 470500
+- Xu Cũ : 592000
+- Xu Mới : 591000
+----------Thời Gian : 2024-02-13 10:03:10--------
+- Name : thebesttieu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Choukou shuriken
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 470500
+- Lượng Mới : 470500
+- Xu Cũ : 591000
+- Xu Mới : 590000
+----------Thời Gian : 2024-02-13 10:04:01--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nấm linh chi
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 50000
+- Lượng Mới : 49950
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 10:04:03--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 1
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 49950
+- Lượng Mới : 49900
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 10:04:04--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 2
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 49900
+- Lượng Mới : 49800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 10:04:08--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Bóng Ma
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 49800
+- Lượng Mới : 48800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 10:04:10--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Yêu Tinh
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 48800
+- Lượng Mới : 47800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 10:04:10--------
+- Name : thebesttieu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Đùi heo sữa cao cấp
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 470500
+- Lượng Mới : 470450
+- Xu Cũ : 590000
+- Xu Mới : 590000
+----------Thời Gian : 2024-02-13 10:04:12--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Quần
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 47800
+- Lượng Mới : 45800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 10:04:13--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara
+ Áo
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 45800
+- Lượng Mới : 43800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 10:04:15--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nhật Tử Lam Phong
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 43800
+- Lượng Mới : 41800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 10:04:22--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Gậy Mặt Trăng
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 41800
+- Lượng Mới : 40800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 10:05:04--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Tóc
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 40800
+- Lượng Mới : 38800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 10:09:30--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Akaiame
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 38800
+- Lượng Mới : 38800
+- Xu Cũ : 1000000
+- Xu Mới : 999000
+----------Thời Gian : 2024-02-13 10:09:32--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Aoiame
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 38800
+- Lượng Mới : 38800
+- Xu Cũ : 999000
+- Xu Mới : 998000
+----------Thời Gian : 2024-02-13 10:09:33--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Uzubatan
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 38800
+- Lượng Mới : 38800
+- Xu Cũ : 998000
+- Xu Mới : 997000
+----------Thời Gian : 2024-02-13 10:09:34--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Hibikou
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 38800
+- Lượng Mới : 38800
+- Xu Cũ : 997000
+- Xu Mới : 996000
+----------Thời Gian : 2024-02-13 10:30:21--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP vừa
+- Số Lượng Mua : 100
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 38799
+- Lượng Mới : 38799
+- Xu Cũ : 996000
+- Xu Mới : 996000
+----------Thời Gian : 2024-02-13 10:38:24--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Khả di lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 248799
+- Lượng Mới : 248799
+- Xu Cũ : 996000
+- Xu Mới : 996000
+----------Thời Gian : 2024-02-13 10:48:43--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bảo hiểm sơ cấp
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 248796
+- Lượng Mới : 248746
+- Xu Cũ : 996000
+- Xu Mới : 996000
+----------Thời Gian : 2024-02-13 10:48:44--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bảo hiểm sơ cấp
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 248746
+- Lượng Mới : 248696
+- Xu Cũ : 996000
+- Xu Mới : 996000
+----------Thời Gian : 2024-02-13 10:48:45--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bảo hiểm sơ cấp
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 248696
+- Lượng Mới : 248646
+- Xu Cũ : 996000
+- Xu Mới : 996000
+----------Thời Gian : 2024-02-13 10:48:46--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bảo hiểm sơ cấp
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 248646
+- Lượng Mới : 248596
+- Xu Cũ : 996000
+- Xu Mới : 996000
+----------Thời Gian : 2024-02-13 10:48:47--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bảo hiểm sơ cấp
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 248596
+- Lượng Mới : 248546
+- Xu Cũ : 996000
+- Xu Mới : 996000
+----------Thời Gian : 2024-02-13 10:50:25--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phiếu may mắn
+- Số Lượng Mua : 50
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 248546
+- Lượng Mới : 248046
+- Xu Cũ : 996000
+- Xu Mới : 996000
+----------Thời Gian : 2024-02-13 10:53:45--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP vừa
+- Số Lượng Mua : 100
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 236046
+- Lượng Mới : 236046
+- Xu Cũ : 996000
+- Xu Mới : 996000
+----------Thời Gian : 2024-02-13 10:59:36--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Ứng Long
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 236041
+- Lượng Mới : 235941
+- Xu Cũ : 996000
+- Xu Mới : 996000
+----------Thời Gian : 2024-02-13 11:01:27--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Hoán chuyển cao cấp
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 631293
+- Lượng Mới : 630293
+- Xu Cũ : 12000
+- Xu Mới : 12000
+----------Thời Gian : 2024-02-13 11:01:29--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Hoán chuyển cao cấp
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 630293
+- Lượng Mới : 629293
+- Xu Cũ : 12000
+- Xu Mới : 12000
+----------Thời Gian : 2024-02-13 11:01:31--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Khai nhãn phù
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 629293
+- Lượng Mới : 628793
+- Xu Cũ : 12000
+- Xu Mới : 12000
+----------Thời Gian : 2024-02-13 11:12:03--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP vừa
+- Số Lượng Mua : 100
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 241831
+- Lượng Mới : 241831
+- Xu Cũ : 996000
+- Xu Mới : 996000
+----------Thời Gian : 2024-02-13 11:14:36--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phiếu may mắn
+- Số Lượng Mua : 500
+- Lượng Mua : -5000
+- Xu Mua : 0
+- Lượng Cũ : 241912
+- Lượng Mới : 236912
+- Xu Cũ : 996000
+- Xu Mới : 996000
+----------Thời Gian : 2024-02-13 11:16:13--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Khả di lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 236912
+- Lượng Mới : 236912
+- Xu Cũ : 996000
+- Xu Mới : 996000
+----------Thời Gian : 2024-02-13 11:28:00--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP lớn
+- Số Lượng Mua : 10000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 236912
+- Lượng Mới : 236912
+- Xu Cũ : 996000
+- Xu Mới : 996000
+----------Thời Gian : 2024-02-13 11:28:05--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP lớn
+- Số Lượng Mua : 10000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 236912
+- Lượng Mới : 236912
+- Xu Cũ : 996000
+- Xu Mới : 996000
+----------Thời Gian : 2024-02-13 11:30:04--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Đùi heo sữa cao cấp
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 236912
+- Lượng Mới : 236862
+- Xu Cũ : 996000
+- Xu Mới : 996000
+----------Thời Gian : 2024-02-13 11:30:27--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Choukoukogo
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 236862
+- Lượng Mới : 236862
+- Xu Cũ : 996000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-13 11:35:03--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Lệnh bài hang động
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 236862
+- Lượng Mới : 236762
+- Xu Cũ : 995000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-13 11:35:08--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Vạn biến lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 236762
+- Lượng Mới : 236712
+- Xu Cũ : 995000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-13 11:39:57--------
+- Name : chiuuux2
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phân thân lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -10000
+- Xu Mua : 0
+- Lượng Cũ : 733676
+- Lượng Mới : 723676
+- Xu Cũ : 27000
+- Xu Mới : 27000
+----------Thời Gian : 2024-02-13 11:45:07--------
+- Name : chiuuux2
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Vạn biến lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 724676
+- Lượng Mới : 724626
+- Xu Cũ : 27000
+- Xu Mới : 27000
+----------Thời Gian : 2024-02-13 11:47:24--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Khả di lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 236712
+- Lượng Mới : 236712
+- Xu Cũ : 995000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-13 11:59:15--------
+- Name : chiuuux2
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Giấy phép tẩy tiềm năng
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 724614
+- Lượng Mới : 724514
+- Xu Cũ : 27000
+- Xu Mới : 27000
+----------Thời Gian : 2024-02-13 11:59:17--------
+- Name : chiuuux2
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Giấy phép tẩy tiềm năng
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 724514
+- Lượng Mới : 724414
+- Xu Cũ : 27000
+- Xu Mới : 27000
+----------Thời Gian : 2024-02-13 12:28:32--------
+- Name : lelelele
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 1
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 502000
+- Lượng Mới : 501950
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 12:28:55--------
+- Name : lelelele
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 2
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 501950
+- Lượng Mới : 501850
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 12:29:06--------
+- Name : lelelele
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Áo Dài Nam
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 501850
+- Lượng Mới : 499850
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 12:29:08--------
+- Name : lelelele
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Quần
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 499850
+- Lượng Mới : 497850
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 12:29:10--------
+- Name : lelelele
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara
+ Áo
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 497850
+- Lượng Mới : 495850
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 12:29:12--------
+- Name : lelelele
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Tóc
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 495850
+- Lượng Mới : 493850
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 12:29:25--------
+- Name : lelelele
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nhật Tử Lam Phong
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 493850
+- Lượng Mới : 491850
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 12:29:28--------
+- Name : lelelele
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Gậy Mặt Trăng
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 491850
+- Lượng Mới : 490850
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 12:30:35--------
+- Name : lelelele
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Yêu Tinh
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 490850
+- Lượng Mới : 489850
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 12:32:57--------
+- Name : lelelele
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phiếu may mắn
+- Số Lượng Mua : 1000
+- Lượng Mua : -10000
+- Xu Mua : 0
+- Lượng Cũ : 498850
+- Lượng Mới : 488850
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 13:44:37--------
+- Name : phonghatay
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Bóng Ma
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 459418
+- Lượng Mới : 458418
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-13 13:45:25--------
+- Name : phonghatay
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Ikkakujuu 
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 458418
+- Lượng Mới : 457918
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-13 14:07:39--------
+- Name : top1severl
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Khả di lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 389800
+- Lượng Mới : 389800
+- Xu Cũ : 993028
+- Xu Mới : 993028
+----------Thời Gian : 2024-02-13 14:17:06--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bảo hiểm sơ cấp
+- Số Lượng Mua : 5
+- Lượng Mua : -250
+- Xu Mua : 0
+- Lượng Cũ : 236712
+- Lượng Mới : 236462
+- Xu Cũ : 995000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-13 14:17:49--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bảo hiểm trung cấp
+- Số Lượng Mua : 7
+- Lượng Mua : -700
+- Xu Mua : 0
+- Lượng Cũ : 236462
+- Lượng Mới : 235762
+- Xu Cũ : 995000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-13 14:18:41--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bảo hiểm trung cấp
+- Số Lượng Mua : 5
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 235762
+- Lượng Mới : 235262
+- Xu Cũ : 995000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-13 14:19:20--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bảo hiểm trung cấp
+- Số Lượng Mua : 5
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 235262
+- Lượng Mới : 234762
+- Xu Cũ : 995000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-13 14:20:02--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bảo hiểm cao cấp
+- Số Lượng Mua : 5
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 234762
+- Lượng Mới : 233762
+- Xu Cũ : 995000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-13 14:21:44--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Kitsukemaguma
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 233762
+- Lượng Mới : 233262
+- Xu Cũ : 995000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-13 14:21:45--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Furiizukatto
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 233262
+- Lượng Mới : 232762
+- Xu Cũ : 995000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-13 14:24:21--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP cực lớn
+- Số Lượng Mua : 10000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 233588
+- Lượng Mới : 233588
+- Xu Cũ : 995000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-13 14:33:26--------
+- Name : quang19
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 300
+- Lượng Mua : -3000
+- Xu Mua : 0
+- Lượng Cũ : 659643
+- Lượng Mới : 656643
+- Xu Cũ : 716000
+- Xu Mới : 716000
+----------Thời Gian : 2024-02-13 14:38:34--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 150
+- Lượng Mua : -1500
+- Xu Mua : 0
+- Lượng Cũ : 261316
+- Lượng Mới : 259816
+- Xu Cũ : 995000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-13 14:40:23--------
+- Name : quang19
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bảo hiểm trung cấp
+- Số Lượng Mua : 6
+- Lượng Mua : -600
+- Xu Mua : 0
+- Lượng Cũ : 655043
+- Lượng Mới : 654443
+- Xu Cũ : 716000
+- Xu Mới : 716000
+----------Thời Gian : 2024-02-13 14:41:43--------
+- Name : top1severl
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bùa Hắc Tử
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -700000
+- Lượng Cũ : 390306
+- Lượng Mới : 390306
+- Xu Cũ : 993028
+- Xu Mới : 293028
+----------Thời Gian : 2024-02-13 14:43:07--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Cổ lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -6000
+- Xu Mua : 0
+- Lượng Cũ : 258816
+- Lượng Mới : 252816
+- Xu Cũ : 995000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-13 14:43:54--------
+- Name : top1severl
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bảo hiểm sơ cấp
+- Số Lượng Mua : 5
+- Lượng Mua : -250
+- Xu Mua : 0
+- Lượng Cũ : 390306
+- Lượng Mới : 390056
+- Xu Cũ : 293028
+- Xu Mới : 293028
+----------Thời Gian : 2024-02-13 14:46:46--------
+- Name : top1severl
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bảo hiểm trung cấp
+- Số Lượng Mua : 10
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 390056
+- Lượng Mới : 389056
+- Xu Cũ : 293028
+- Xu Mới : 293028
+----------Thời Gian : 2024-02-13 15:17:39--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Vô hạn khả di lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 51000
+- Lượng Mới : 50950
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 15:24:52--------
+- Name : chiuuux2
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Lệnh bài hang động
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 724392
+- Lượng Mới : 724292
+- Xu Cũ : 27000
+- Xu Mới : 27000
+----------Thời Gian : 2024-02-13 15:24:53--------
+- Name : chiuuux2
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Lệnh bài hang động
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 724292
+- Lượng Mới : 724192
+- Xu Cũ : 27000
+- Xu Mới : 27000
+----------Thời Gian : 2024-02-13 15:29:15--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 1
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 180950
+- Lượng Mới : 180900
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 15:29:19--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 2
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 180900
+- Lượng Mới : 180800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 15:29:44--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Tóc
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 180800
+- Lượng Mới : 178800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 15:29:46--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Quần
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 178800
+- Lượng Mới : 176800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 15:29:48--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara
+ Áo
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 176800
+- Lượng Mới : 174800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 15:29:51--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Áo Dài Nam
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 174800
+- Lượng Mới : 172800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 15:31:51--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Gậy Mặt Trăng
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 172800
+- Lượng Mới : 171800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 15:32:00--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nhật Tử Lam Phong
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 171800
+- Lượng Mới : 169800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 15:32:36--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Mũ noel
+- Số Lượng Mua : 1
+- Lượng Mua : -60
+- Xu Mua : 0
+- Lượng Cũ : 169800
+- Lượng Mới : 169740
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 15:33:39--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phiếu may mắn
+- Số Lượng Mua : 100
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 169740
+- Lượng Mới : 168740
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 15:33:49--------
+- Name : Bối Yang Hồ
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 29999
+- Lượng Mua : -299990
+- Xu Mua : 0
+- Lượng Cũ : 11935243
+- Lượng Mới : 11635253
+- Xu Cũ : 166284000
+- Xu Mới : 166284000
+----------Thời Gian : 2024-02-13 15:33:52--------
+- Name : Bối Yang Hồ
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 29999
+- Lượng Mua : -299990
+- Xu Mua : 0
+- Lượng Cũ : 11635253
+- Lượng Mới : 11335263
+- Xu Cũ : 166284000
+- Xu Mới : 166284000
+----------Thời Gian : 2024-02-13 15:41:27--------
+- Name : doikuly
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thiên nhãn phù
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 1392270
+- Lượng Mới : 1391770
+- Xu Cũ : 4638112
+- Xu Mới : 4638112
+----------Thời Gian : 2024-02-13 15:44:52--------
+- Name : zodanton
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 300
+- Lượng Mua : -3000
+- Xu Mua : 0
+- Lượng Cũ : 505538
+- Lượng Mới : 502538
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-13 15:49:27--------
+- Name : zodanton
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 1000
+- Lượng Mua : -10000
+- Xu Mua : 0
+- Lượng Cũ : 501138
+- Lượng Mới : 491138
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-13 15:49:35--------
+- Name : zodanton
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 1000
+- Lượng Mua : -10000
+- Xu Mua : 0
+- Lượng Cũ : 491138
+- Lượng Mới : 481138
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-13 15:52:13--------
+- Name : zodanton
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bảo hiểm cao cấp
+- Số Lượng Mua : 5
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 480838
+- Lượng Mới : 479838
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-13 15:52:14--------
+- Name : zodanton
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bảo hiểm cao cấp
+- Số Lượng Mua : 1
+- Lượng Mua : -200
+- Xu Mua : 0
+- Lượng Cũ : 479838
+- Lượng Mới : 479638
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-13 15:55:09--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Itotama
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 169740
+- Lượng Mới : 169740
+- Xu Cũ : 1000000
+- Xu Mới : 999000
+----------Thời Gian : 2024-02-13 15:55:12--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Kasoushuriken
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 169740
+- Lượng Mới : 169740
+- Xu Cũ : 999000
+- Xu Mới : 998000
+----------Thời Gian : 2024-02-13 15:55:14--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Taiyoutama
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 169740
+- Lượng Mới : 169740
+- Xu Cũ : 998000
+- Xu Mới : 997000
+----------Thời Gian : 2024-02-13 15:55:17--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Bikoushuriken
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 169740
+- Lượng Mới : 169740
+- Xu Cũ : 997000
+- Xu Mới : 996000
+----------Thời Gian : 2024-02-13 15:57:17--------
+- Name : zodanton
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thiên nhãn phù
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 478238
+- Lượng Mới : 477738
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-13 16:06:49--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phiếu may mắn
+- Số Lượng Mua : 100
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 169740
+- Lượng Mới : 168740
+- Xu Cũ : 996000
+- Xu Mới : 996000
+----------Thời Gian : 2024-02-13 16:12:13--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nấm linh chi
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 156730
+- Lượng Mới : 156680
+- Xu Cũ : 996000
+- Xu Mới : 996000
+----------Thời Gian : 2024-02-13 16:21:22--------
+- Name : chiuuux2
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Hoán chuyển cao cấp
+- Số Lượng Mua : 3
+- Lượng Mua : -3000
+- Xu Mua : 0
+- Lượng Cũ : 724142
+- Lượng Mới : 721142
+- Xu Cũ : 27000
+- Xu Mới : 27000
+----------Thời Gian : 2024-02-13 16:23:25--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Hinotama
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 156680
+- Lượng Mới : 156680
+- Xu Cũ : 996000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-13 16:23:27--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Hijoukai
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 156680
+- Lượng Mới : 156680
+- Xu Cũ : 995000
+- Xu Mới : 994000
+----------Thời Gian : 2024-02-13 16:23:28--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Choukou shuriken
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 156680
+- Lượng Mới : 156680
+- Xu Cũ : 994000
+- Xu Mới : 993000
+----------Thời Gian : 2024-02-13 16:24:04--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP vừa
+- Số Lượng Mua : 1000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 156680
+- Lượng Mới : 156680
+- Xu Cũ : 993000
+- Xu Mới : 993000
+----------Thời Gian : 2024-02-13 16:24:11--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP vừa
+- Số Lượng Mua : 2000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 156680
+- Lượng Mới : 156680
+- Xu Cũ : 993000
+- Xu Mới : 993000
+----------Thời Gian : 2024-02-13 16:29:04--------
+- Name : lelelele
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Đùi heo sữa
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 488850
+- Lượng Mới : 488850
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 16:29:28--------
+- Name : lelelele
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Raikouto
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 488850
+- Lượng Mới : 488850
+- Xu Cũ : 1000000
+- Xu Mới : 999000
+----------Thời Gian : 2024-02-13 16:29:34--------
+- Name : lelelele
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Ikennotto
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 488850
+- Lượng Mới : 488350
+- Xu Cũ : 999000
+- Xu Mới : 999000
+----------Thời Gian : 2024-02-13 16:29:36--------
+- Name : lelelele
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Baasutosutoomu
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 488350
+- Lượng Mới : 487850
+- Xu Cũ : 999000
+- Xu Mới : 999000
+----------Thời Gian : 2024-02-13 16:29:37--------
+- Name : lelelele
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Kaminari
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 487850
+- Lượng Mới : 487350
+- Xu Cũ : 999000
+- Xu Mới : 999000
+----------Thời Gian : 2024-02-13 16:37:09--------
+- Name : phonghatay
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 100
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 457800
+- Lượng Mới : 456800
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-13 16:42:04--------
+- Name : chiuuux2
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phiếu may mắn
+- Số Lượng Mua : 20
+- Lượng Mua : -200
+- Xu Mua : 0
+- Lượng Cũ : 721142
+- Lượng Mới : 720942
+- Xu Cũ : 27000
+- Xu Mới : 27000
+----------Thời Gian : 2024-02-13 16:44:30--------
+- Name : chiuuux2
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phiếu may mắn
+- Số Lượng Mua : 1000
+- Lượng Mua : -10000
+- Xu Mua : 0
+- Lượng Cũ : 720942
+- Lượng Mới : 710942
+- Xu Cũ : 27000
+- Xu Mới : 27000
+----------Thời Gian : 2024-02-13 16:44:41--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Jotente
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 252819
+- Lượng Mới : 252819
+- Xu Cũ : 995000
+- Xu Mới : 994000
+----------Thời Gian : 2024-02-13 16:51:40--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Khai nhãn phù
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 252819
+- Lượng Mới : 252319
+- Xu Cũ : 994000
+- Xu Mới : 994000
+----------Thời Gian : 2024-02-13 16:54:57--------
+- Name : lelelele
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bảo hiểm cao cấp
+- Số Lượng Mua : 5
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 485243
+- Lượng Mới : 484243
+- Xu Cũ : 999000
+- Xu Mới : 999000
+----------Thời Gian : 2024-02-13 16:58:11--------
+- Name : lelelele
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bảo hiểm như ý
+- Số Lượng Mua : 5
+- Lượng Mua : -2500
+- Xu Mua : 0
+- Lượng Cũ : 477643
+- Lượng Mới : 475143
+- Xu Cũ : 999000
+- Xu Mới : 999000
+----------Thời Gian : 2024-02-13 16:58:18--------
+- Name : lelelele
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 1
+- Lượng Mua : -10
+- Xu Mua : 0
+- Lượng Cũ : 475143
+- Lượng Mới : 475133
+- Xu Cũ : 999000
+- Xu Mới : 999000
+----------Thời Gian : 2024-02-13 16:59:31--------
+- Name : lelelele
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Konoitoame
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 472133
+- Lượng Mới : 472133
+- Xu Cũ : 999000
+- Xu Mới : 998000
+----------Thời Gian : 2024-02-13 16:59:35--------
+- Name : lelelele
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Zenpanteki
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 472133
+- Lượng Mới : 472133
+- Xu Cũ : 998000
+- Xu Mới : 997000
+----------Thời Gian : 2024-02-13 17:33:30--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Yêu Tinh
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 156680
+- Lượng Mới : 155680
+- Xu Cũ : 993000
+- Xu Mới : 993000
+----------Thời Gian : 2024-02-13 17:33:56--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Ứng Long
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 155680
+- Lượng Mới : 155580
+- Xu Cũ : 993000
+- Xu Mới : 993000
+----------Thời Gian : 2024-02-13 17:36:58--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP lớn
+- Số Lượng Mua : 2000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 169580
+- Lượng Mới : 169580
+- Xu Cũ : 993000
+- Xu Mới : 993000
+----------Thời Gian : 2024-02-13 17:37:10--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP lớn
+- Số Lượng Mua : 2000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 169580
+- Lượng Mới : 169580
+- Xu Cũ : 993000
+- Xu Mới : 993000
+----------Thời Gian : 2024-02-13 17:51:32--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Totogai
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 173567
+- Lượng Mới : 173067
+- Xu Cũ : 993000
+- Xu Mới : 993000
+----------Thời Gian : 2024-02-13 18:18:06--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Cổ lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -6000
+- Xu Mua : 0
+- Lượng Cũ : 628793
+- Lượng Mới : 622793
+- Xu Cũ : 12000
+- Xu Mới : 12000
+----------Thời Gian : 2024-02-13 18:18:08--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Cổ lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -6000
+- Xu Mua : 0
+- Lượng Cũ : 622793
+- Lượng Mới : 616793
+- Xu Cũ : 12000
+- Xu Mới : 12000
+----------Thời Gian : 2024-02-13 18:18:09--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Cổ lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -6000
+- Xu Mua : 0
+- Lượng Cũ : 616793
+- Lượng Mới : 610793
+- Xu Cũ : 12000
+- Xu Mới : 12000
+----------Thời Gian : 2024-02-13 18:18:10--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Cổ lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -6000
+- Xu Mua : 0
+- Lượng Cũ : 610793
+- Lượng Mới : 604793
+- Xu Cũ : 12000
+- Xu Mới : 12000
+----------Thời Gian : 2024-02-13 18:18:12--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Cổ lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -6000
+- Xu Mua : 0
+- Lượng Cũ : 604793
+- Lượng Mới : 598793
+- Xu Cũ : 12000
+- Xu Mới : 12000
+----------Thời Gian : 2024-02-13 18:20:01--------
+- Name : vipphitieu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nấm linh chi
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 451000
+- Lượng Mới : 450950
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 18:20:03--------
+- Name : vipphitieu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 1
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 450950
+- Lượng Mới : 450900
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 18:20:04--------
+- Name : vipphitieu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 2
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 450900
+- Lượng Mới : 450800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 18:20:17--------
+- Name : vipphitieu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phiếu may mắn
+- Số Lượng Mua : 100
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 450800
+- Lượng Mới : 449800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 18:31:26--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 6
+- Lượng Mua : -60
+- Xu Mua : 0
+- Lượng Cũ : 177857
+- Lượng Mới : 177797
+- Xu Cũ : 993000
+- Xu Mới : 993000
+----------Thời Gian : 2024-02-13 18:31:32--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 9
+- Lượng Mua : -90
+- Xu Mua : 0
+- Lượng Cũ : 177797
+- Lượng Mới : 177707
+- Xu Cũ : 993000
+- Xu Mới : 993000
+----------Thời Gian : 2024-02-13 18:31:40--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 6
+- Lượng Mua : -60
+- Xu Mua : 0
+- Lượng Cũ : 177707
+- Lượng Mới : 177647
+- Xu Cũ : 993000
+- Xu Mới : 993000
+----------Thời Gian : 2024-02-13 18:31:46--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 9
+- Lượng Mua : -90
+- Xu Mua : 0
+- Lượng Cũ : 177647
+- Lượng Mới : 177557
+- Xu Cũ : 993000
+- Xu Mới : 993000
+----------Thời Gian : 2024-02-13 18:31:51--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 6
+- Lượng Mua : -60
+- Xu Mua : 0
+- Lượng Cũ : 177557
+- Lượng Mới : 177497
+- Xu Cũ : 993000
+- Xu Mới : 993000
+----------Thời Gian : 2024-02-13 18:31:56--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 9
+- Lượng Mua : -90
+- Xu Mua : 0
+- Lượng Cũ : 177497
+- Lượng Mới : 177407
+- Xu Cũ : 993000
+- Xu Mới : 993000
+----------Thời Gian : 2024-02-13 18:32:01--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 6
+- Lượng Mua : -60
+- Xu Mua : 0
+- Lượng Cũ : 177407
+- Lượng Mới : 177347
+- Xu Cũ : 993000
+- Xu Mới : 993000
+----------Thời Gian : 2024-02-13 18:32:06--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 9
+- Lượng Mua : -90
+- Xu Mua : 0
+- Lượng Cũ : 177347
+- Lượng Mới : 177257
+- Xu Cũ : 993000
+- Xu Mới : 993000
+----------Thời Gian : 2024-02-13 18:35:19--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Đùi heo sữa
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 176857
+- Lượng Mới : 176857
+- Xu Cũ : 993000
+- Xu Mới : 993000
+----------Thời Gian : 2024-02-13 18:44:32--------
+- Name : vualydon
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 1
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 451000
+- Lượng Mới : 450950
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 18:44:33--------
+- Name : vualydon
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 2
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 450950
+- Lượng Mới : 450850
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 18:44:37--------
+- Name : vualydon
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phiếu may mắn
+- Số Lượng Mua : 100
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 450850
+- Lượng Mới : 449850
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 18:57:26--------
+- Name : vualydon
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Itotama
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 437850
+- Lượng Mới : 437850
+- Xu Cũ : 1000000
+- Xu Mới : 999000
+----------Thời Gian : 2024-02-13 18:57:30--------
+- Name : vualydon
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Taiyoutama
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 437850
+- Lượng Mới : 437850
+- Xu Cũ : 999000
+- Xu Mới : 998000
+----------Thời Gian : 2024-02-13 18:57:32--------
+- Name : vualydon
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Bikoushuriken
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 437850
+- Lượng Mới : 437850
+- Xu Cũ : 998000
+- Xu Mới : 997000
+----------Thời Gian : 2024-02-13 18:57:38--------
+- Name : vualydon
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Hijoukai
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 437850
+- Lượng Mới : 437850
+- Xu Cũ : 997000
+- Xu Mới : 996000
+----------Thời Gian : 2024-02-13 18:57:40--------
+- Name : vualydon
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Choukou shuriken
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 437850
+- Lượng Mới : 437850
+- Xu Cũ : 996000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-13 19:38:16--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Khai nhãn phù
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 598476
+- Lượng Mới : 597976
+- Xu Cũ : 12000
+- Xu Mới : 12000
+----------Thời Gian : 2024-02-13 19:38:27--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Hoán chuyển cao cấp
+- Số Lượng Mua : 5
+- Lượng Mua : -5000
+- Xu Mua : 0
+- Lượng Cũ : 597976
+- Lượng Mới : 592976
+- Xu Cũ : 12000
+- Xu Mới : 12000
+----------Thời Gian : 2024-02-13 19:41:18--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP cực lớn
+- Số Lượng Mua : 2000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 177837
+- Lượng Mới : 177837
+- Xu Cũ : 193000
+- Xu Mới : 193000
+----------Thời Gian : 2024-02-13 19:41:30--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP Cao Cấp
+- Số Lượng Mua : 20000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 177837
+- Lượng Mới : 177837
+- Xu Cũ : 193000
+- Xu Mới : 193000
+----------Thời Gian : 2024-02-13 20:20:38--------
+- Name : rumammo
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 1
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 51000
+- Lượng Mới : 50950
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 20:20:40--------
+- Name : rumammo
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 2
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 50950
+- Lượng Mới : 50850
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 20:20:43--------
+- Name : rumammo
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Vô hạn bách biến lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 50850
+- Lượng Mới : 50800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 20:20:45--------
+- Name : rumammo
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Vô hạn khả di lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 50800
+- Lượng Mới : 50750
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 20:21:20--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Tóc
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 492875
+- Lượng Mới : 490875
+- Xu Cũ : 12000
+- Xu Mới : 12000
+----------Thời Gian : 2024-02-13 20:21:23--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nhật Tử Lam Phong
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 490875
+- Lượng Mới : 488875
+- Xu Cũ : 12000
+- Xu Mới : 12000
+----------Thời Gian : 2024-02-13 20:21:30--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Bóng Ma
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 488875
+- Lượng Mới : 487875
+- Xu Cũ : 12000
+- Xu Mới : 12000
+----------Thời Gian : 2024-02-13 20:21:35--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Gậy Mặt Trăng
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 487875
+- Lượng Mới : 486875
+- Xu Cũ : 12000
+- Xu Mới : 12000
+----------Thời Gian : 2024-02-13 20:21:37--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Áo Dài Nam
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 486875
+- Lượng Mới : 484875
+- Xu Cũ : 12000
+- Xu Mới : 12000
+----------Thời Gian : 2024-02-13 20:23:22--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Tóc
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 484875
+- Lượng Mới : 482875
+- Xu Cũ : 12000
+- Xu Mới : 12000
+----------Thời Gian : 2024-02-13 20:23:24--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara
+ Áo
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 482875
+- Lượng Mới : 480875
+- Xu Cũ : 12000
+- Xu Mới : 12000
+----------Thời Gian : 2024-02-13 20:30:22--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Suishou
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 481875
+- Lượng Mới : 481875
+- Xu Cũ : 12000
+- Xu Mới : 11000
+----------Thời Gian : 2024-02-13 20:30:24--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Oouchia
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 481875
+- Lượng Mới : 481875
+- Xu Cũ : 11000
+- Xu Mới : 10000
+----------Thời Gian : 2024-02-13 20:30:27--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Kusenmono
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 481875
+- Lượng Mới : 481875
+- Xu Cũ : 10000
+- Xu Mới : 9000
+----------Thời Gian : 2024-02-13 20:30:29--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Bakkuuchiha
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 481875
+- Lượng Mới : 481875
+- Xu Cũ : 9000
+- Xu Mới : 8000
+----------Thời Gian : 2024-02-13 20:30:34--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Hayatemi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 481875
+- Lượng Mới : 481875
+- Xu Cũ : 8000
+- Xu Mới : 7000
+----------Thời Gian : 2024-02-13 20:30:37--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Bousouhayate
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 481875
+- Lượng Mới : 481875
+- Xu Cũ : 7000
+- Xu Mới : 6000
+----------Thời Gian : 2024-02-13 20:30:39--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Toruneedo
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 481875
+- Lượng Mới : 481875
+- Xu Cũ : 6000
+- Xu Mới : 5000
+----------Thời Gian : 2024-02-13 20:30:41--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Tatsumaki
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 481875
+- Lượng Mới : 481875
+- Xu Cũ : 5000
+- Xu Mới : 4000
+----------Thời Gian : 2024-02-13 20:30:50--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Ooenjo
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 481875
+- Lượng Mới : 481375
+- Xu Cũ : 4000
+- Xu Mới : 4000
+----------Thời Gian : 2024-02-13 20:30:53--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Kougekitenrai
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 481375
+- Lượng Mới : 480875
+- Xu Cũ : 4000
+- Xu Mới : 4000
+----------Thời Gian : 2024-02-13 20:30:56--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Kokaze
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 480875
+- Lượng Mới : 480375
+- Xu Cũ : 4000
+- Xu Mới : 4000
+----------Thời Gian : 2024-02-13 20:31:14--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phân thân lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -10000
+- Xu Mua : 0
+- Lượng Cũ : 480375
+- Lượng Mới : 470375
+- Xu Cũ : 4000
+- Xu Mới : 4000
+----------Thời Gian : 2024-02-13 20:31:16--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phân thân lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -10000
+- Xu Mua : 0
+- Lượng Cũ : 470375
+- Lượng Mới : 460375
+- Xu Cũ : 4000
+- Xu Mới : 4000
+----------Thời Gian : 2024-02-13 20:31:19--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phân thân lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -10000
+- Xu Mua : 0
+- Lượng Cũ : 460375
+- Lượng Mới : 450375
+- Xu Cũ : 4000
+- Xu Mới : 4000
+----------Thời Gian : 2024-02-13 20:31:21--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phân thân lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -10000
+- Xu Mua : 0
+- Lượng Cũ : 450375
+- Lượng Mới : 440375
+- Xu Cũ : 4000
+- Xu Mới : 4000
+----------Thời Gian : 2024-02-13 20:31:22--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phân thân lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -10000
+- Xu Mua : 0
+- Lượng Cũ : 440375
+- Lượng Mới : 430375
+- Xu Cũ : 4000
+- Xu Mới : 4000
+----------Thời Gian : 2024-02-13 20:41:42--------
+- Name : rumammo
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Ứng Long
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 450740
+- Lượng Mới : 450640
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 20:42:06--------
+- Name : rumammo
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Bóng Ma
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 450640
+- Lượng Mới : 449640
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 20:42:21--------
+- Name : rumammo
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Áo Dài Nam
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 449640
+- Lượng Mới : 447640
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 20:42:25--------
+- Name : rumammo
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Yêu Tinh
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 447640
+- Lượng Mới : 446640
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 20:42:39--------
+- Name : rumammo
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Gậy Mặt Trăng
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 446640
+- Lượng Mới : 445640
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 20:53:19--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 60
+- Lượng Mua : -600
+- Xu Mua : 0
+- Lượng Cũ : 212900
+- Lượng Mới : 212300
+- Xu Cũ : 193000
+- Xu Mới : 193000
+----------Thời Gian : 2024-02-13 20:54:17--------
+- Name : hiepww
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 30
+- Lượng Mua : -300
+- Xu Mua : 0
+- Lượng Cũ : 211900
+- Lượng Mới : 211600
+- Xu Cũ : 193000
+- Xu Mới : 193000
+----------Thời Gian : 2024-02-13 21:01:42--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP vừa
+- Số Lượng Mua : 5000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 430375
+- Lượng Mới : 430375
+- Xu Cũ : 4000
+- Xu Mới : 4000
+----------Thời Gian : 2024-02-13 21:01:50--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP vừa
+- Số Lượng Mua : 5000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 430375
+- Lượng Mới : 430375
+- Xu Cũ : 4000
+- Xu Mới : 4000
+----------Thời Gian : 2024-02-13 21:02:02--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP Cao Cấp
+- Số Lượng Mua : 5000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 430375
+- Lượng Mới : 430375
+- Xu Cũ : 4000
+- Xu Mới : 4000
+----------Thời Gian : 2024-02-13 21:02:10--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP Cao Cấp
+- Số Lượng Mua : 5000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 430375
+- Lượng Mới : 430375
+- Xu Cũ : 4000
+- Xu Mới : 4000
+----------Thời Gian : 2024-02-13 21:03:52--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Đùi heo sữa
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 430373
+- Lượng Mới : 430373
+- Xu Cũ : 4000
+- Xu Mới : 4000
+----------Thời Gian : 2024-02-13 21:10:02--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 430370
+- Lượng Mới : 430370
+- Xu Cũ : 4000
+- Xu Mới : 4000
+----------Thời Gian : 2024-02-13 21:10:03--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 430370
+- Lượng Mới : 430370
+- Xu Cũ : 4000
+- Xu Mới : 4000
+----------Thời Gian : 2024-02-13 21:10:05--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Gà quay
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 430370
+- Lượng Mới : 430370
+- Xu Cũ : 4000
+- Xu Mới : 4000
+----------Thời Gian : 2024-02-13 21:10:07--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Gà quay
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 430370
+- Lượng Mới : 430370
+- Xu Cũ : 4000
+- Xu Mới : 4000
+----------Thời Gian : 2024-02-13 21:20:46--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bảo hiểm sơ cấp
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 430370
+- Lượng Mới : 430320
+- Xu Cũ : 4000
+- Xu Mới : 4000
+----------Thời Gian : 2024-02-13 21:20:47--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bảo hiểm sơ cấp
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 430320
+- Lượng Mới : 430270
+- Xu Cũ : 4000
+- Xu Mới : 4000
+----------Thời Gian : 2024-02-13 21:20:48--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bảo hiểm sơ cấp
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 430270
+- Lượng Mới : 430220
+- Xu Cũ : 4000
+- Xu Mới : 4000
+----------Thời Gian : 2024-02-13 21:20:50--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bảo hiểm trung cấp
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 430220
+- Lượng Mới : 430120
+- Xu Cũ : 4000
+- Xu Mới : 4000
+----------Thời Gian : 2024-02-13 21:20:52--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bảo hiểm trung cấp
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 430120
+- Lượng Mới : 430020
+- Xu Cũ : 4000
+- Xu Mới : 4000
+----------Thời Gian : 2024-02-13 21:23:15--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phân thân lệnh
+- Số Lượng Mua : 5
+- Lượng Mua : -50000
+- Xu Mua : 0
+- Lượng Cũ : 430020
+- Lượng Mới : 380020
+- Xu Cũ : 4000
+- Xu Mới : 4000
+----------Thời Gian : 2024-02-13 21:29:13--------
+- Name : hiephiep
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Gậy Mặt Trăng
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 90000
+- Lượng Mới : 89000
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 21:29:15--------
+- Name : hiephiep
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nhật Tử Lam Phong
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 89000
+- Lượng Mới : 87000
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 21:29:18--------
+- Name : hiephiep
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Áo Dài Nam
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 87000
+- Lượng Mới : 85000
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 21:29:20--------
+- Name : hiephiep
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara
+ Áo
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 85000
+- Lượng Mới : 83000
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 21:29:22--------
+- Name : hiephiep
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Quần
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 83000
+- Lượng Mới : 81000
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 21:29:23--------
+- Name : hiephiep
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Tóc
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 81000
+- Lượng Mới : 79000
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 21:29:26--------
+- Name : hiephiep
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Yêu Tinh
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 79000
+- Lượng Mới : 78000
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 21:29:55--------
+- Name : hiephiep
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Đùi heo sữa cao cấp
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 78000
+- Lượng Mới : 77950
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 21:29:59--------
+- Name : hiephiep
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 1
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 77950
+- Lượng Mới : 77900
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 21:30:01--------
+- Name : hiephiep
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 2
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 77900
+- Lượng Mới : 77800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 21:30:03--------
+- Name : hiephiep
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nấm linh chi
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 77800
+- Lượng Mới : 77750
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 21:30:40--------
+- Name : hiephiep
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP vừa
+- Số Lượng Mua : 300
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 77750
+- Lượng Mới : 77750
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 21:30:47--------
+- Name : hiephiep
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP vừa
+- Số Lượng Mua : 2000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 77750
+- Lượng Mới : 77750
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 21:30:55--------
+- Name : hiephiep
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP lớn
+- Số Lượng Mua : 5000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 77750
+- Lượng Mới : 77750
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 21:31:12--------
+- Name : hiephiep
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP tiểu
+- Số Lượng Mua : 100
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 77750
+- Lượng Mới : 77750
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 21:31:45--------
+- Name : hiephiep
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP tiểu
+- Số Lượng Mua : 100
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 77750
+- Lượng Mới : 77750
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 21:34:08--------
+- Name : hiephiep
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Suishou
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 77750
+- Lượng Mới : 77750
+- Xu Cũ : 1000000
+- Xu Mới : 999000
+----------Thời Gian : 2024-02-13 21:34:14--------
+- Name : hiephiep
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Oouchia
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 77750
+- Lượng Mới : 77750
+- Xu Cũ : 999000
+- Xu Mới : 998000
+----------Thời Gian : 2024-02-13 21:34:22--------
+- Name : hiephiep
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Kusenmono
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 77750
+- Lượng Mới : 77750
+- Xu Cũ : 998000
+- Xu Mới : 997000
+----------Thời Gian : 2024-02-13 21:34:24--------
+- Name : hiephiep
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Bakkuuchiha
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 77750
+- Lượng Mới : 77750
+- Xu Cũ : 997000
+- Xu Mới : 996000
+----------Thời Gian : 2024-02-13 21:34:25--------
+- Name : hiephiep
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Hayatemi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 77750
+- Lượng Mới : 77750
+- Xu Cũ : 996000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-13 21:34:28--------
+- Name : hiephiep
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Bousouhayate
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 77750
+- Lượng Mới : 77750
+- Xu Cũ : 995000
+- Xu Mới : 994000
+----------Thời Gian : 2024-02-13 21:34:30--------
+- Name : hiephiep
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Toruneedo
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 77750
+- Lượng Mới : 77750
+- Xu Cũ : 994000
+- Xu Mới : 993000
+----------Thời Gian : 2024-02-13 21:34:32--------
+- Name : hiephiep
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Tatsumaki
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 77750
+- Lượng Mới : 77750
+- Xu Cũ : 993000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-13 21:43:08--------
+- Name : hiephiep
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Gà quay cao cấp
+- Số Lượng Mua : 1
+- Lượng Mua : -30
+- Xu Mua : 0
+- Lượng Cũ : 77750
+- Lượng Mới : 77720
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-13 21:58:30--------
+- Name : qplay12
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phiếu may mắn
+- Số Lượng Mua : 100
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 935879
+- Lượng Mới : 934879
+- Xu Cũ : 1619730
+- Xu Mới : 1619730
+----------Thời Gian : 2024-02-13 22:09:53--------
+- Name : chimbema
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nấm linh chi
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 301000
+- Lượng Mới : 300950
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 22:10:01--------
+- Name : chimbema
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Yêu Tinh
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 300950
+- Lượng Mới : 299950
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 22:10:06--------
+- Name : chimbema
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Bóng Ma
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 299950
+- Lượng Mới : 298950
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 22:10:07--------
+- Name : chimbema
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Tóc
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 298950
+- Lượng Mới : 296950
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 22:10:09--------
+- Name : chimbema
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Quần
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 296950
+- Lượng Mới : 294950
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 22:10:10--------
+- Name : chimbema
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara
+ Áo
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 294950
+- Lượng Mới : 292950
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 22:10:12--------
+- Name : chimbema
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Áo Dài Nam
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 292950
+- Lượng Mới : 290950
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 22:10:14--------
+- Name : chimbema
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nhật Tử Lam Phong
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 290950
+- Lượng Mới : 288950
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 22:10:15--------
+- Name : chimbema
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Gậy Mặt Trăng
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 288950
+- Lượng Mới : 287950
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 22:10:19--------
+- Name : chimbema
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 1
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 287950
+- Lượng Mới : 287900
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 22:10:20--------
+- Name : chimbema
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 2
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 287900
+- Lượng Mới : 287800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 22:10:23--------
+- Name : chimbema
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Vô hạn khả di lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 287800
+- Lượng Mới : 287750
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 22:10:28--------
+- Name : chimbema
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Vô hạn bách biến lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 287750
+- Lượng Mới : 287700
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 22:10:35--------
+- Name : chimbema
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Akaiame
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 287700
+- Lượng Mới : 287700
+- Xu Cũ : 1000000
+- Xu Mới : 999000
+----------Thời Gian : 2024-02-13 22:10:38--------
+- Name : chimbema
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Uzubatan
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 287700
+- Lượng Mới : 287700
+- Xu Cũ : 999000
+- Xu Mới : 998000
+----------Thời Gian : 2024-02-13 22:10:41--------
+- Name : chimbema
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Choukoukogo
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 287700
+- Lượng Mới : 287700
+- Xu Cũ : 998000
+- Xu Mới : 997000
+----------Thời Gian : 2024-02-13 22:21:08--------
+- Name : chimbema
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Gà quay
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 287700
+- Lượng Mới : 287700
+- Xu Cũ : 997000
+- Xu Mới : 997000
+----------Thời Gian : 2024-02-13 22:32:47--------
+- Name : nome1nangdau
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 1
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 451000
+- Lượng Mới : 450950
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 22:32:48--------
+- Name : nome1nangdau
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 2
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 450950
+- Lượng Mới : 450850
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 22:37:12--------
+- Name : doinhulon
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Pawaraikou
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 466748
+- Lượng Mới : 466248
+- Xu Cũ : 455000
+- Xu Mới : 455000
+----------Thời Gian : 2024-02-13 22:37:14--------
+- Name : doinhulon
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Totogai
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 466248
+- Lượng Mới : 465748
+- Xu Cũ : 455000
+- Xu Mới : 455000
+----------Thời Gian : 2024-02-13 22:37:19--------
+- Name : doinhulon
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Maajizangeki
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 465748
+- Lượng Mới : 465248
+- Xu Cũ : 455000
+- Xu Mới : 455000
+----------Thời Gian : 2024-02-13 22:37:22--------
+- Name : doinhulon
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Ikkakujuu 
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 465248
+- Lượng Mới : 464748
+- Xu Cũ : 455000
+- Xu Mới : 455000
+----------Thời Gian : 2024-02-13 22:40:12--------
+- Name : nome1nangdau
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Itotama
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 450850
+- Lượng Mới : 450850
+- Xu Cũ : 1000000
+- Xu Mới : 999000
+----------Thời Gian : 2024-02-13 22:40:16--------
+- Name : nome1nangdau
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Taiyoutama
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 450850
+- Lượng Mới : 450850
+- Xu Cũ : 999000
+- Xu Mới : 998000
+----------Thời Gian : 2024-02-13 22:40:19--------
+- Name : nome1nangdau
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Bikoushuriken
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 450850
+- Lượng Mới : 450850
+- Xu Cũ : 998000
+- Xu Mới : 997000
+----------Thời Gian : 2024-02-13 22:40:25--------
+- Name : nome1nangdau
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Hijoukai
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 450850
+- Lượng Mới : 450850
+- Xu Cũ : 997000
+- Xu Mới : 996000
+----------Thời Gian : 2024-02-13 22:40:27--------
+- Name : nome1nangdau
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Choukou shuriken
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 450850
+- Lượng Mới : 450850
+- Xu Cũ : 996000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-13 22:41:25--------
+- Name : doinhulon
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP cực lớn
+- Số Lượng Mua : 30000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 464746
+- Lượng Mới : 464746
+- Xu Cũ : 455000
+- Xu Mới : 455000
+----------Thời Gian : 2024-02-13 22:54:56--------
+- Name : quang19
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bảo hiểm cao cấp
+- Số Lượng Mua : 5
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 654972
+- Lượng Mới : 653972
+- Xu Cũ : 666000
+- Xu Mới : 666000
+----------Thời Gian : 2024-02-13 22:56:45--------
+- Name : quang19
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bảo hiểm cao cấp
+- Số Lượng Mua : 1
+- Lượng Mua : -200
+- Xu Mua : 0
+- Lượng Cũ : 653972
+- Lượng Mới : 653772
+- Xu Cũ : 666000
+- Xu Mới : 666000
+----------Thời Gian : 2024-02-13 23:00:15--------
+- Name : bububucu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 1
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 151000
+- Lượng Mới : 150950
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 23:00:17--------
+- Name : bububucu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 2
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 150950
+- Lượng Mới : 150850
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 23:00:20--------
+- Name : bububucu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phiếu may mắn
+- Số Lượng Mua : 50
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 150850
+- Lượng Mới : 150350
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 23:00:25--------
+- Name : bububucu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Gậy Trái Tim
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 150350
+- Lượng Mới : 149350
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 23:00:29--------
+- Name : bububucu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thiên Nguyệt Chi Nữ
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 149350
+- Lượng Mới : 147350
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 23:00:31--------
+- Name : bububucu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Áo Dài Nữ
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 147350
+- Lượng Mới : 145350
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 23:00:33--------
+- Name : bububucu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara
+ Áo
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 145350
+- Lượng Mới : 143350
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 23:00:35--------
+- Name : bububucu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Quần
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 143350
+- Lượng Mới : 141350
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 23:00:46--------
+- Name : bububucu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Yêu Tinh
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 141350
+- Lượng Mới : 140350
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 23:00:50--------
+- Name : bububucu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Tóc
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 140350
+- Lượng Mới : 138350
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 23:00:52--------
+- Name : bububucu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Ứng Long
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 138350
+- Lượng Mới : 138250
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 23:03:32--------
+- Name : bububucu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phiếu may mắn
+- Số Lượng Mua : 50
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 138250
+- Lượng Mới : 137750
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 23:06:00--------
+- Name : bububucu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nấm linh chi
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 137750
+- Lượng Mới : 137700
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 23:10:34--------
+- Name : doikuly
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Áo Dài Nam
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 1463008
+- Lượng Mới : 1461008
+- Xu Cũ : 4712350
+- Xu Mới : 4712350
+----------Thời Gian : 2024-02-13 23:10:50--------
+- Name : doikuly
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Yêu Tinh
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 1461008
+- Lượng Mới : 1460008
+- Xu Cũ : 4712350
+- Xu Mới : 4712350
+----------Thời Gian : 2024-02-13 23:10:52--------
+- Name : doikuly
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Bóng Ma
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 1460008
+- Lượng Mới : 1459008
+- Xu Cũ : 4712350
+- Xu Mới : 4712350
+----------Thời Gian : 2024-02-13 23:14:07--------
+- Name : bububucu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Chìa Khoá Vẽ Bùa
+- Số Lượng Mua : 10
+- Lượng Mua : -20000
+- Xu Mua : 0
+- Lượng Cũ : 137700
+- Lượng Mới : 117700
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 23:16:41--------
+- Name : quang19
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 18
+- Lượng Mua : -180
+- Xu Mua : 0
+- Lượng Cũ : 653767
+- Lượng Mới : 653587
+- Xu Cũ : 666000
+- Xu Mới : 666000
+----------Thời Gian : 2024-02-13 23:18:21--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Gà quay cao cấp
+- Số Lượng Mua : 1
+- Lượng Mua : -30
+- Xu Mua : 0
+- Lượng Cũ : 380020
+- Lượng Mới : 379990
+- Xu Cũ : 4000
+- Xu Mới : 4000
+----------Thời Gian : 2024-02-13 23:18:23--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nấm linh chi
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 379990
+- Lượng Mới : 379940
+- Xu Cũ : 4000
+- Xu Mới : 4000
+----------Thời Gian : 2024-02-13 23:18:24--------
+- Name : heroking99
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nấm linh chi
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 379940
+- Lượng Mới : 379890
+- Xu Cũ : 4000
+- Xu Mới : 4000
+----------Thời Gian : 2024-02-13 23:24:57--------
+- Name : nome1nangdau
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 1
+- Lượng Mua : -10
+- Xu Mua : 0
+- Lượng Cũ : 411262
+- Lượng Mới : 411252
+- Xu Cũ : 995000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-13 23:24:58--------
+- Name : nome1nangdau
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 1
+- Lượng Mua : -10
+- Xu Mua : 0
+- Lượng Cũ : 411252
+- Lượng Mới : 411242
+- Xu Cũ : 995000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-13 23:25:00--------
+- Name : nome1nangdau
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 1
+- Lượng Mua : -10
+- Xu Mua : 0
+- Lượng Cũ : 411242
+- Lượng Mới : 411232
+- Xu Cũ : 995000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-13 23:25:01--------
+- Name : nome1nangdau
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 1
+- Lượng Mua : -10
+- Xu Mua : 0
+- Lượng Cũ : 411232
+- Lượng Mới : 411222
+- Xu Cũ : 995000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-13 23:25:03--------
+- Name : nome1nangdau
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 1
+- Lượng Mua : -10
+- Xu Mua : 0
+- Lượng Cũ : 411222
+- Lượng Mới : 411212
+- Xu Cũ : 995000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-13 23:25:17--------
+- Name : nome1nangdau
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Áo Dài Nam
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 411212
+- Lượng Mới : 409212
+- Xu Cũ : 995000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-13 23:25:19--------
+- Name : nome1nangdau
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Gậy Mặt Trăng
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 409212
+- Lượng Mới : 408212
+- Xu Cũ : 995000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-13 23:25:21--------
+- Name : nome1nangdau
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nhật Tử Lam Phong
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 408212
+- Lượng Mới : 406212
+- Xu Cũ : 995000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-13 23:27:11--------
+- Name : nome1nangdau
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 10
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 406192
+- Lượng Mới : 406092
+- Xu Cũ : 995000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-13 23:27:35--------
+- Name : thientu01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Vô hạn khả di lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 51000
+- Lượng Mới : 50950
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 23:27:38--------
+- Name : thientu01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 1
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 50950
+- Lượng Mới : 50900
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 23:27:39--------
+- Name : thientu01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 2
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 50900
+- Lượng Mới : 50800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 23:30:26--------
+- Name : khaicuu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Áo Dài Nam
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 451000
+- Lượng Mới : 449000
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 23:30:28--------
+- Name : khaicuu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nhật Tử Lam Phong
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 449000
+- Lượng Mới : 447000
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 23:30:33--------
+- Name : khaicuu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Bóng Ma
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 447000
+- Lượng Mới : 446000
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 23:30:34--------
+- Name : khaicuu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Yêu Tinh
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 446000
+- Lượng Mới : 445000
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 23:31:10--------
+- Name : khaicuu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 1
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 445000
+- Lượng Mới : 444950
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 23:31:10--------
+- Name : khaicuu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 2
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 444950
+- Lượng Mới : 444850
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 23:38:26--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Hoán chuyển cao cấp
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 252319
+- Lượng Mới : 251319
+- Xu Cũ : 994000
+- Xu Mới : 994000
+----------Thời Gian : 2024-02-13 23:43:28--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Hoán chuyển cao cấp
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 251319
+- Lượng Mới : 250319
+- Xu Cũ : 994000
+- Xu Mới : 994000
+----------Thời Gian : 2024-02-13 23:44:31--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bảo hiểm như ý
+- Số Lượng Mua : 10
+- Lượng Mua : -5000
+- Xu Mua : 0
+- Lượng Cũ : 250319
+- Lượng Mới : 245319
+- Xu Cũ : 994000
+- Xu Mới : 994000
+----------Thời Gian : 2024-02-13 23:45:57--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bảo hiểm như ý
+- Số Lượng Mua : 10
+- Lượng Mua : -5000
+- Xu Mua : 0
+- Lượng Cũ : 245319
+- Lượng Mới : 240319
+- Xu Cũ : 994000
+- Xu Mới : 994000
+----------Thời Gian : 2024-02-13 23:48:11--------
+- Name : naruto97
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Saihyoken
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 240319
+- Lượng Mới : 239819
+- Xu Cũ : 994000
+- Xu Mới : 994000
+----------Thời Gian : 2024-02-13 23:51:16--------
+- Name : khaicuu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Gậy Mặt Trăng
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 483850
+- Lượng Mới : 482850
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 23:51:57--------
+- Name : khaicuu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Amagedon
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 482850
+- Lượng Mới : 482850
+- Xu Cũ : 1000000
+- Xu Mới : 999000
+----------Thời Gian : 2024-02-13 23:51:58--------
+- Name : khaicuu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Jizokuzan
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 482850
+- Lượng Mới : 482850
+- Xu Cũ : 999000
+- Xu Mới : 998000
+----------Thời Gian : 2024-02-13 23:52:00--------
+- Name : khaicuu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Kakyuu
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 482850
+- Lượng Mới : 482850
+- Xu Cũ : 998000
+- Xu Mới : 997000
+----------Thời Gian : 2024-02-13 23:52:02--------
+- Name : khaicuu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công X Zangeki
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 482850
+- Lượng Mới : 482850
+- Xu Cũ : 997000
+- Xu Mới : 996000
+----------Thời Gian : 2024-02-13 23:52:04--------
+- Name : khaicuu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Raikou
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 482850
+- Lượng Mới : 482850
+- Xu Cũ : 996000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-13 23:52:08--------
+- Name : khaicuu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Hihebun
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 482850
+- Lượng Mới : 482850
+- Xu Cũ : 995000
+- Xu Mới : 994000
+----------Thời Gian : 2024-02-13 23:52:10--------
+- Name : khaicuu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Shuurai
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 482850
+- Lượng Mới : 482850
+- Xu Cũ : 994000
+- Xu Mới : 993000
+----------Thời Gian : 2024-02-13 23:52:13--------
+- Name : khaicuu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Choukouhirenzo
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 482850
+- Lượng Mới : 482850
+- Xu Cũ : 993000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-13 23:53:11--------
+- Name : thientu01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nhật Tử Lam Phong
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 788800
+- Lượng Mới : 786800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 23:53:14--------
+- Name : thientu01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Áo Dài Nam
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 786800
+- Lượng Mới : 784800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 23:53:17--------
+- Name : thientu01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Gậy Mặt Trăng
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 784800
+- Lượng Mới : 783800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 23:53:20--------
+- Name : thientu01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Bóng Ma
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 783800
+- Lượng Mới : 782800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 23:53:22--------
+- Name : thientu01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara
+ Áo
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 782800
+- Lượng Mới : 780800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 23:53:24--------
+- Name : thientu01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Quần
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 780800
+- Lượng Mới : 778800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-13 23:55:56--------
+- Name : thientu01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Itotama
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 778800
+- Lượng Mới : 778800
+- Xu Cũ : 1000000
+- Xu Mới : 999000
+----------Thời Gian : 2024-02-13 23:55:59--------
+- Name : thientu01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Kasoushuriken
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 778800
+- Lượng Mới : 778800
+- Xu Cũ : 999000
+- Xu Mới : 998000
+----------Thời Gian : 2024-02-13 23:56:00--------
+- Name : thientu01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Taiyoutama
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 778800
+- Lượng Mới : 778800
+- Xu Cũ : 998000
+- Xu Mới : 997000
+----------Thời Gian : 2024-02-13 23:56:04--------
+- Name : thientu01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Bikoushuriken
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 778800
+- Lượng Mới : 778800
+- Xu Cũ : 997000
+- Xu Mới : 996000
+----------Thời Gian : 2024-02-13 23:56:06--------
+- Name : thientu01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Hoshitama
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 778800
+- Lượng Mới : 778800
+- Xu Cũ : 996000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-13 23:56:08--------
+- Name : thientu01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Hinotama
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 778800
+- Lượng Mới : 778800
+- Xu Cũ : 995000
+- Xu Mới : 994000
+----------Thời Gian : 2024-02-13 23:56:09--------
+- Name : thientu01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Hijoukai
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 778800
+- Lượng Mới : 778800
+- Xu Cũ : 994000
+- Xu Mới : 993000
+----------Thời Gian : 2024-02-13 23:56:11--------
+- Name : thientu01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Choukou shuriken
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 778800
+- Lượng Mới : 778800
+- Xu Cũ : 993000
+- Xu Mới : 992000

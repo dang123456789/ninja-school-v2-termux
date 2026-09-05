@@ -1,0 +1,688 @@
+----------Thời Gian : 2024-09-08 00:16:58--------
+- Name : ongoii Giao Dịch Với liemmm
+- Item Chuyển : 
+ Hạt sen : Số Lượng : 5125
+ Đường : Số Lượng : 5094
+ Trứng : Số Lượng : 5040
+ Mứt : Số Lượng : 5106
+ Bột mì : Số Lượng : 4945
+ Đậu xanh : Số Lượng : 5148
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 00:16:58--------
+- Name : liemmm Giao Dịch Với ongoii
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Hạt sen : Số Lượng : 5125
+ Đường : Số Lượng : 5094
+ Trứng : Số Lượng : 5040
+ Mứt : Số Lượng : 5106
+ Bột mì : Số Lượng : 4945
+ Đậu xanh : Số Lượng : 5148
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 07:08:07--------
+- Name : tokuda Giao Dịch Với liemmm
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Minh Giác Đao : Số Lượng : 1
+Sách võ công Raijin : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 07:08:07--------
+- Name : liemmm Giao Dịch Với tokuda
+- Item Chuyển : 
+Minh Giác Đao : Số Lượng : 1
+Sách võ công Raijin : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 07:11:55--------
+- Name : liemmm Giao Dịch Với tokuda
+- Item Chuyển : 
+ Rương Sách Võ Công 12X : Số Lượng : 20
+ Thủy chấn dao : Số Lượng : 1
+ Sách võ công Kage Bunshin  : Số Lượng : 1
+ Linh Chi Ngàn Năm : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Đậu xanh : Số Lượng : 658
+Bột mì : Số Lượng : 678
+Mứt : Số Lượng : 671
+Hạt sen : Số Lượng : 664
+Đường : Số Lượng : 641
+Trứng : Số Lượng : 719
+Lục thanh hoa : Số Lượng : 8
+Đá Thăng Ấn : Số Lượng : 328
+Đá Nâng Cấp : Số Lượng : 105
+Tử linh liên hoa : Số Lượng : 5
+Tam lục diệp : Số Lượng : 6
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 07:11:55--------
+- Name : tokuda Giao Dịch Với liemmm
+- Item Chuyển : 
+Đậu xanh : Số Lượng : 658
+Bột mì : Số Lượng : 678
+Mứt : Số Lượng : 671
+Hạt sen : Số Lượng : 664
+Đường : Số Lượng : 641
+Trứng : Số Lượng : 719
+Lục thanh hoa : Số Lượng : 8
+Đá Thăng Ấn : Số Lượng : 328
+Đá Nâng Cấp : Số Lượng : 105
+Tử linh liên hoa : Số Lượng : 5
+Tam lục diệp : Số Lượng : 6
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Rương Sách Võ Công 12X : Số Lượng : 20
+ Thủy chấn dao : Số Lượng : 1
+ Sách võ công Kage Bunshin  : Số Lượng : 1
+ Linh Chi Ngàn Năm : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 07:18:16--------
+- Name : liemmm Giao Dịch Với abcxyz
+- Item Chuyển : 
+ Minh Giác Kiếm : Số Lượng : 1
+ Sách võ công Enko Bakusatsu : Số Lượng : 1
+ Linh Chi Ngàn Năm : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Linh lang hồ điệp : Số Lượng : 12
+Tử linh liên hoa : Số Lượng : 15
+Đá Thăng Ấn : Số Lượng : 352
+Đá Nâng Cấp : Số Lượng : 108
+Đường : Số Lượng : 807
+Hạt sen : Số Lượng : 765
+Đậu xanh : Số Lượng : 782
+Mứt : Số Lượng : 796
+Bột mì : Số Lượng : 828
+Trứng : Số Lượng : 801
+Lục thanh hoa : Số Lượng : 4
+Long Lực Đan : Số Lượng : 10
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 07:18:16--------
+- Name : abcxyz Giao Dịch Với liemmm
+- Item Chuyển : 
+Linh lang hồ điệp : Số Lượng : 12
+Tử linh liên hoa : Số Lượng : 15
+Đá Thăng Ấn : Số Lượng : 352
+Đá Nâng Cấp : Số Lượng : 108
+Đường : Số Lượng : 807
+Hạt sen : Số Lượng : 765
+Đậu xanh : Số Lượng : 782
+Mứt : Số Lượng : 796
+Bột mì : Số Lượng : 828
+Trứng : Số Lượng : 801
+Lục thanh hoa : Số Lượng : 4
+Long Lực Đan : Số Lượng : 10
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Minh Giác Kiếm : Số Lượng : 1
+ Sách võ công Enko Bakusatsu : Số Lượng : 1
+ Linh Chi Ngàn Năm : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 07:29:58--------
+- Name : liemmm Giao Dịch Với tokuda
+- Item Chuyển : 
+ Minh Giác Hoàng Long Thượng Giáp : Số Lượng : 1
+ Minh Giác Nhẫn : Số Lượng : 1
+ Minh Giác Hoàng Long Thủ : Số Lượng : 1
+ Minh Giác Kim Hoàng Tuyến : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 07:29:58--------
+- Name : tokuda Giao Dịch Với liemmm
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Minh Giác Hoàng Long Thượng Giáp : Số Lượng : 1
+ Minh Giác Nhẫn : Số Lượng : 1
+ Minh Giác Hoàng Long Thủ : Số Lượng : 1
+ Minh Giác Kim Hoàng Tuyến : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 07:32:11--------
+- Name : abcxyz Giao Dịch Với liemmm
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Minh Giác Hoàng Long Thượng Giáp : Số Lượng : 1
+Minh Giác Kim Hoàng Tuyến : Số Lượng : 1
+Minh Giác Hoàng Long Thủ : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 07:32:11--------
+- Name : liemmm Giao Dịch Với abcxyz
+- Item Chuyển : 
+Minh Giác Hoàng Long Thượng Giáp : Số Lượng : 1
+Minh Giác Kim Hoàng Tuyến : Số Lượng : 1
+Minh Giác Hoàng Long Thủ : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 08:26:55--------
+- Name : bimbiim Giao Dịch Với chutichxt
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Vé HOIUCNSO 3 : Số Lượng : 10
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 08:26:55--------
+- Name : chutichxt Giao Dịch Với bimbiim
+- Item Chuyển : 
+Vé HOIUCNSO 3 : Số Lượng : 10
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 08:42:05--------
+- Name : kiemvip Giao Dịch Với bimbiim
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Vé HOIUCNSO 3 : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 08:42:05--------
+- Name : bimbiim Giao Dịch Với kiemvip
+- Item Chuyển : 
+Vé HOIUCNSO 3 : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 08:49:33--------
+- Name : bimbiim Giao Dịch Với kiemvip
+- Item Chuyển : 
+ Mặt nạ Super Broly : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 08:49:33--------
+- Name : kiemvip Giao Dịch Với bimbiim
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Mặt nạ Super Broly : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 08:50:38--------
+- Name : kingwar Giao Dịch Với tuonghbo
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Mặt Nạ Kuma : Số Lượng : 1
+Mặt Nạ Kuma : Số Lượng : 1
+Gà Tây : Số Lượng : 1
+Chim tinh anh : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 08:50:38--------
+- Name : tuonghbo Giao Dịch Với kingwar
+- Item Chuyển : 
+Mặt Nạ Kuma : Số Lượng : 1
+Mặt Nạ Kuma : Số Lượng : 1
+Gà Tây : Số Lượng : 1
+Chim tinh anh : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 08:52:14--------
+- Name : ongoii Giao Dịch Với liemmm
+- Item Chuyển : 
+ Rương Ma Quái : Số Lượng : 929
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 08:52:14--------
+- Name : liemmm Giao Dịch Với ongoii
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Rương Ma Quái : Số Lượng : 929
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 08:52:52--------
+- Name : tokuda Giao Dịch Với liemmm
+- Item Chuyển : 
+ Rương Ma Quái : Số Lượng : 919
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 08:52:52--------
+- Name : liemmm Giao Dịch Với tokuda
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Rương Ma Quái : Số Lượng : 919
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 08:53:27--------
+- Name : abcxyz Giao Dịch Với liemmm
+- Item Chuyển : 
+ Rương Ma Quái : Số Lượng : 925
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 08:53:27--------
+- Name : liemmm Giao Dịch Với abcxyz
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Rương Ma Quái : Số Lượng : 925
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 08:55:36--------
+- Name : abcxyz Giao Dịch Với tokuda
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Sách võ công Hoả Hồn Long Trảm : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 08:55:36--------
+- Name : tokuda Giao Dịch Với abcxyz
+- Item Chuyển : 
+Sách võ công Hoả Hồn Long Trảm : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 08:57:04--------
+- Name : tokuda Giao Dịch Với ongoii
+- Item Chuyển : 
+ Sách võ công Hoả Hồn Long Trảm : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 08:57:04--------
+- Name : ongoii Giao Dịch Với tokuda
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Sách võ công Hoả Hồn Long Trảm : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 10:00:26--------
+- Name : liemmm Giao Dịch Với abcxyz
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Rương Ma Quái : Số Lượng : 929
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 10:00:26--------
+- Name : abcxyz Giao Dịch Với liemmm
+- Item Chuyển : 
+Rương Ma Quái : Số Lượng : 929
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 10:03:30--------
+- Name : liemmm Giao Dịch Với tokuda
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Rương Ma Quái : Số Lượng : 934
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 10:03:30--------
+- Name : tokuda Giao Dịch Với liemmm
+- Item Chuyển : 
+Rương Ma Quái : Số Lượng : 934
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 10:07:49--------
+- Name : liemmm Giao Dịch Với ongoii
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Rương Ma Quái : Số Lượng : 925
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 10:07:49--------
+- Name : ongoii Giao Dịch Với liemmm
+- Item Chuyển : 
+Rương Ma Quái : Số Lượng : 925
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 11:18:04--------
+- Name : ninjakunai Giao Dịch Với ninjadao
+- Item Chuyển : 
+ Sách võ công Thuật Phiến Cuồng Phong : Số Lượng : 1
+ Sukaigan : Số Lượng : 1
+ Sách võ công Raijin : Số Lượng : 1
+ Minh Giác Đao : Số Lượng : 1
+ Sách võ công Vũ Đao Thiên Lôi : Số Lượng : 1
+ Linh Chi Vạn Năm : Số Lượng : 1
+ Linh Chi Vạn Năm : Số Lượng : 1
+ Sách võ công Kamikaze : Số Lượng : 1
+ Vé HOIUCNSO 3 : Số Lượng : 4
+ Linh Chi Vạn Năm : Số Lượng : 1
+ Linh Chi Vạn Năm : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 11:18:04--------
+- Name : ninjadao Giao Dịch Với ninjakunai
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Sách võ công Thuật Phiến Cuồng Phong : Số Lượng : 1
+ Sukaigan : Số Lượng : 1
+ Sách võ công Raijin : Số Lượng : 1
+ Minh Giác Đao : Số Lượng : 1
+ Sách võ công Vũ Đao Thiên Lôi : Số Lượng : 1
+ Linh Chi Vạn Năm : Số Lượng : 1
+ Linh Chi Vạn Năm : Số Lượng : 1
+ Sách võ công Kamikaze : Số Lượng : 1
+ Vé HOIUCNSO 3 : Số Lượng : 4
+ Linh Chi Vạn Năm : Số Lượng : 1
+ Linh Chi Vạn Năm : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 11:19:04--------
+- Name : ninjatieu Giao Dịch Với ninjadao
+- Item Chuyển : 
+ Mặt Nạ Kuma : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 11:19:04--------
+- Name : ninjadao Giao Dịch Với ninjatieu
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Mặt Nạ Kuma : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 11:39:39--------
+- Name : minhkax Giao Dịch Với minhal
+- Item Chuyển : 
+ Bát bảo : Số Lượng : 1
+ Minh Giác Tiêu : Số Lượng : 1
+ Sách võ công Tsumabeni : Số Lượng : 1
+ Bát bảo : Số Lượng : 1
+ Vé HOIUCNSO 3 : Số Lượng : 1
+ Rương Sách Võ Công 12X : Số Lượng : 3
+ Bạch ngân Thủ : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 11:39:39--------
+- Name : minhal Giao Dịch Với minhkax
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Bát bảo : Số Lượng : 1
+ Minh Giác Tiêu : Số Lượng : 1
+ Sách võ công Tsumabeni : Số Lượng : 1
+ Bát bảo : Số Lượng : 1
+ Vé HOIUCNSO 3 : Số Lượng : 1
+ Rương Sách Võ Công 12X : Số Lượng : 3
+ Bạch ngân Thủ : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 11:42:33--------
+- Name : minh167 Giao Dịch Với minhal
+- Item Chuyển : 
+ Rương Sách Võ Công 12X : Số Lượng : 7
+ Minh Giác Hoàng Long Thủ : Số Lượng : 1
+ Vé HOIUCNSO 3 : Số Lượng : 8
+ Sách võ công Kage Bunshin  : Số Lượng : 1
+ Linh Chi Ngàn Năm : Số Lượng : 1
+ Linh Chi Ngàn Năm : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 11:42:33--------
+- Name : minhal Giao Dịch Với minh167
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Rương Sách Võ Công 12X : Số Lượng : 7
+ Minh Giác Hoàng Long Thủ : Số Lượng : 1
+ Vé HOIUCNSO 3 : Số Lượng : 8
+ Sách võ công Kage Bunshin  : Số Lượng : 1
+ Linh Chi Ngàn Năm : Số Lượng : 1
+ Linh Chi Ngàn Năm : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 12:20:29--------
+- Name : phitieu1s Giao Dịch Với ninjadao
+- Item Chuyển : 
+ Mặt nạ Super Broly : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 12:20:29--------
+- Name : ninjadao Giao Dịch Với phitieu1s
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Mặt nạ Super Broly : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 15:29:23--------
+- Name : ninjakunai Giao Dịch Với ninjadao
+- Item Chuyển : 
+ Linh Chi Ngàn Năm : Số Lượng : 1
+ Linh Chi Ngàn Năm : Số Lượng : 1
+ Linh Chi Ngàn Năm : Số Lượng : 1
+ Linh Chi Ngàn Năm : Số Lượng : 1
+ Linh Chi Ngàn Năm : Số Lượng : 1
+ Linh Chi Ngàn Năm : Số Lượng : 1
+ Thái Dương Hoàng Phong Phiến : Số Lượng : 1
+ Linh Chi Ngàn Năm : Số Lượng : 1
+ Linh Chi Ngàn Năm : Số Lượng : 1
+ Linh Chi Ngàn Năm : Số Lượng : 1
+ Linh Chi Ngàn Năm : Số Lượng : 1
+ Linh Chi Ngàn Năm : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 15:29:23--------
+- Name : ninjadao Giao Dịch Với ninjakunai
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+ Linh Chi Ngàn Năm : Số Lượng : 1
+ Linh Chi Ngàn Năm : Số Lượng : 1
+ Linh Chi Ngàn Năm : Số Lượng : 1
+ Linh Chi Ngàn Năm : Số Lượng : 1
+ Linh Chi Ngàn Năm : Số Lượng : 1
+ Linh Chi Ngàn Năm : Số Lượng : 1
+ Thái Dương Hoàng Phong Phiến : Số Lượng : 1
+ Linh Chi Ngàn Năm : Số Lượng : 1
+ Linh Chi Ngàn Năm : Số Lượng : 1
+ Linh Chi Ngàn Năm : Số Lượng : 1
+ Linh Chi Ngàn Năm : Số Lượng : 1
+ Linh Chi Ngàn Năm : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 15:44:48--------
+- Name : 666666 Giao Dịch Với nsoctop
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Sukaigan : Số Lượng : 1
+Thủy tinh : Số Lượng : 1
+Sukaigan : Số Lượng : 1
+Mặt nạ Super Broly : Số Lượng : 1
+Thủy tinh : Số Lượng : 1
+Mặt nạ Super Broly : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 15:44:48--------
+- Name : nsoctop Giao Dịch Với 666666
+- Item Chuyển : 
+Sukaigan : Số Lượng : 1
+Thủy tinh : Số Lượng : 1
+Sukaigan : Số Lượng : 1
+Mặt nạ Super Broly : Số Lượng : 1
+Thủy tinh : Số Lượng : 1
+Mặt nạ Super Broly : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 15:45:14--------
+- Name : 0nap1xu Giao Dịch Với nsoctop
+- Item Chuyển : 
+
+- Xu Chuyển : 0
+- Item Nhận : 
+Sukaigan : Số Lượng : 1
+Sukaigan : Số Lượng : 1
+Mặt nạ Super Broly : Số Lượng : 1
+Mặt nạ Super Broly : Số Lượng : 1
+Thủy tinh : Số Lượng : 1
+Thủy tinh : Số Lượng : 1
+
+- Xu Nhận : 0
+-------------
+----------Thời Gian : 2024-09-08 15:45:14--------
+- Name : nsoctop Giao Dịch Với 0nap1xu
+- Item Chuyển : 
+Sukaigan : Số Lượng : 1
+Sukaigan : Số Lượng : 1
+Mặt nạ Super Broly : Số Lượng : 1
+Mặt nạ Super Broly : Số Lượng : 1
+Thủy tinh : Số Lượng : 1
+Thủy tinh : Số Lượng : 1
+
+- Xu Chuyển : 0
+- Item Nhận : 
+
+- Xu Nhận : 0
+-------------

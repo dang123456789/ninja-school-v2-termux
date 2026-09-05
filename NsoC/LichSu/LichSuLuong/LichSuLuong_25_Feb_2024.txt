@@ -1,0 +1,864 @@
+----------Thời Gian : 2024-02-25 00:11:26--------
+- Name : anhvippro
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 788755
+- Lượng Mới : 787755
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 02:05:01--------
+- Name : gachien
+- Tên Giao Dịch :  Điểm Danh Hằng Ngày
+- Lượng Cũ : 1238824
+- Lượng Mới : 1239824
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-02-25 07:41:51--------
+- Name : mobile1014
+- Tên Giao Dịch :  Lập Gia Tộc
+- Lượng Cũ : 616985
+- Lượng Mới : 516985
+- Lượng Thay Đổi :-100000 Lượng 
+----------Thời Gian : 2024-02-25 07:48:49--------
+- Name : mobile1014
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 10
+- Lượng Cũ : 517010
+- Lượng Mới : 518010
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-02-25 07:48:52--------
+- Name : mobile1014
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 20
+- Lượng Cũ : 518010
+- Lượng Mới : 520010
+- Lượng Thay Đổi :2000 Lượng 
+----------Thời Gian : 2024-02-25 07:48:56--------
+- Name : mobile1014
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 30
+- Lượng Cũ : 520010
+- Lượng Mới : 523010
+- Lượng Thay Đổi :3000 Lượng 
+----------Thời Gian : 2024-02-25 07:48:59--------
+- Name : mobile1014
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 40
+- Lượng Cũ : 523010
+- Lượng Mới : 527010
+- Lượng Thay Đổi :4000 Lượng 
+----------Thời Gian : 2024-02-25 07:49:02--------
+- Name : mobile1014
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 50
+- Lượng Cũ : 527010
+- Lượng Mới : 532010
+- Lượng Thay Đổi :5000 Lượng 
+----------Thời Gian : 2024-02-25 07:49:09--------
+- Name : mobile1014
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 20
+- Lượng Cũ : 532010
+- Lượng Mới : 539010
+- Lượng Thay Đổi :7000 Lượng 
+----------Thời Gian : 2024-02-25 08:37:49--------
+- Name : trumlatao
+- Tên Giao Dịch :  Đi Tới Làng Huyền Thoại
+- Lượng Cũ : 30595
+- Lượng Mới : 30095
+- Lượng Thay Đổi :-500 Lượng 
+----------Thời Gian : 2024-02-25 09:16:47--------
+- Name : trumlatao
+- Tên Giao Dịch :  Đi Tới Làng Huyền Thoại
+- Lượng Cũ : 33285
+- Lượng Mới : 32785
+- Lượng Thay Đổi :-500 Lượng 
+----------Thời Gian : 2024-02-25 09:57:19--------
+- Name : kebatbai
+- Tên Giao Dịch :  Vẽ Bùa 
+- Lượng Cũ : 1164650
+- Lượng Mới : 1166785
+- Lượng Thay Đổi :2135 Lượng 
+----------Thời Gian : 2024-02-25 10:29:37--------
+- Name : prodamdang
+- Tên Giao Dịch :  Điểm Danh Hằng Ngày
+- Lượng Cũ : 0
+- Lượng Mới : 1000
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-02-25 10:29:41--------
+- Name : prodamdang
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 1000
+- Lượng Mới : 51000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 10:30:38--------
+- Name : prodamdang
+- Tên Giao Dịch :  Nhập GiftCode : nsolincutes
+- Lượng Cũ : 51000
+- Lượng Mới : 101000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 10:31:14--------
+- Name : prodamdang
+- Tên Giao Dịch :  Nhập GiftCode : chaomung
+- Lượng Cũ : 101000
+- Lượng Mới : 151000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 10:31:26--------
+- Name : prodamdang
+- Tên Giao Dịch :  Nhập GiftCode : 200mem
+- Lượng Cũ : 151000
+- Lượng Mới : 181000
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2024-02-25 10:31:54--------
+- Name : prodamdang
+- Tên Giao Dịch :  Nhập GiftCode : hotrotanthu
+- Lượng Cũ : 181000
+- Lượng Mới : 221000
+- Lượng Thay Đổi :40000 Lượng 
+----------Thời Gian : 2024-02-25 10:32:07--------
+- Name : prodamdang
+- Tên Giao Dịch :  Nhập GiftCode : noelvuive
+- Lượng Cũ : 221000
+- Lượng Mới : 271000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 10:32:15--------
+- Name : prodamdang
+- Tên Giao Dịch :  Nhập GiftCode : jouce
+- Lượng Cũ : 271000
+- Lượng Mới : 311000
+- Lượng Thay Đổi :40000 Lượng 
+----------Thời Gian : 2024-02-25 10:32:26--------
+- Name : prodamdang
+- Tên Giao Dịch :  Nhập GiftCode : baotri
+- Lượng Cũ : 311000
+- Lượng Mới : 361000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 10:32:33--------
+- Name : prodamdang
+- Tên Giao Dịch :  Nhập GiftCode : 400mem
+- Lượng Cũ : 361000
+- Lượng Mới : 401000
+- Lượng Thay Đổi :40000 Lượng 
+----------Thời Gian : 2024-02-25 10:32:50--------
+- Name : prodamdang
+- Tên Giao Dịch :  Nhập GiftCode : thu2vuive
+- Lượng Cũ : 401000
+- Lượng Mới : 451000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 10:33:51--------
+- Name : prodamdang
+- Tên Giao Dịch :  Nhập GiftCode : tetsumvay
+- Lượng Cũ : 451000
+- Lượng Mới : 501000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 10:34:24--------
+- Name : prodamdang
+- Tên Giao Dịch :  Nhập GiftCode : chitons
+- Lượng Cũ : 501000
+- Lượng Mới : 551000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 10:34:40--------
+- Name : prodamdang
+- Tên Giao Dịch :  Nhập GiftCode : ongtaochautroi
+- Lượng Cũ : 551000
+- Lượng Mới : 601000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 10:34:53--------
+- Name : prodamdang
+- Tên Giao Dịch :  Nhập GiftCode : happynewyear
+- Lượng Cũ : 601000
+- Lượng Mới : 801000
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-02-25 10:35:10--------
+- Name : prodamdang
+- Tên Giao Dịch :  Nhập GiftCode : mung1
+- Lượng Cũ : 801000
+- Lượng Mới : 851000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 10:35:16--------
+- Name : prodamdang
+- Tên Giao Dịch :  Nhập GiftCode : mung2
+- Lượng Cũ : 851000
+- Lượng Mới : 901000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 10:35:22--------
+- Name : prodamdang
+- Tên Giao Dịch :  Nhập GiftCode : mung3
+- Lượng Cũ : 901000
+- Lượng Mới : 951000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 10:45:48--------
+- Name : prodamdang
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 941860
+- Lượng Mới : 940860
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 10:45:51--------
+- Name : prodamdang
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 940860
+- Lượng Mới : 939860
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 10:45:53--------
+- Name : prodamdang
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 939860
+- Lượng Mới : 938860
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 10:45:55--------
+- Name : prodamdang
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 938860
+- Lượng Mới : 937860
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 10:45:57--------
+- Name : prodamdang
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 937860
+- Lượng Mới : 936860
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 10:45:59--------
+- Name : prodamdang
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 936860
+- Lượng Mới : 935860
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 10:46:02--------
+- Name : prodamdang
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 935860
+- Lượng Mới : 934860
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 10:46:04--------
+- Name : prodamdang
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 934860
+- Lượng Mới : 933860
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 10:46:06--------
+- Name : prodamdang
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 933860
+- Lượng Mới : 932860
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 10:46:08--------
+- Name : prodamdang
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 932860
+- Lượng Mới : 931860
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 10:46:10--------
+- Name : prodamdang
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 931860
+- Lượng Mới : 930860
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 10:46:12--------
+- Name : prodamdang
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 930860
+- Lượng Mới : 929860
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 11:08:01--------
+- Name : s1rouker1s
+- Tên Giao Dịch :  Điểm Danh Hằng Ngày
+- Lượng Cũ : 609090
+- Lượng Mới : 610090
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-02-25 11:46:59--------
+- Name : ns0game
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 50000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 11:47:02--------
+- Name : ns0game
+- Tên Giao Dịch :  Điểm Danh Hằng Ngày
+- Lượng Cũ : 50000
+- Lượng Mới : 51000
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-02-25 11:48:44--------
+- Name : ns0game
+- Tên Giao Dịch :  Nhập GiftCode : nsolincutes
+- Lượng Cũ : 50850
+- Lượng Mới : 100850
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 11:49:38--------
+- Name : ns0game
+- Tên Giao Dịch :  Nhập GiftCode : chaomung
+- Lượng Cũ : 100850
+- Lượng Mới : 150850
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 11:49:59--------
+- Name : ns0game
+- Tên Giao Dịch :  Nhập GiftCode : 200mem
+- Lượng Cũ : 150850
+- Lượng Mới : 180850
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2024-02-25 11:50:20--------
+- Name : ns0game
+- Tên Giao Dịch :  Nhập GiftCode : hotrotanthu
+- Lượng Cũ : 180850
+- Lượng Mới : 220850
+- Lượng Thay Đổi :40000 Lượng 
+----------Thời Gian : 2024-02-25 11:50:40--------
+- Name : ns0game
+- Tên Giao Dịch :  Nhập GiftCode : noelvuive
+- Lượng Cũ : 220850
+- Lượng Mới : 270850
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 11:50:53--------
+- Name : ns0game
+- Tên Giao Dịch :  Nhập GiftCode : jouce
+- Lượng Cũ : 270850
+- Lượng Mới : 310850
+- Lượng Thay Đổi :40000 Lượng 
+----------Thời Gian : 2024-02-25 11:51:02--------
+- Name : ns0game
+- Tên Giao Dịch :  Nhập GiftCode : baotri
+- Lượng Cũ : 310850
+- Lượng Mới : 360850
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 11:51:09--------
+- Name : ns0game
+- Tên Giao Dịch :  Nhập GiftCode : 400mem
+- Lượng Cũ : 360850
+- Lượng Mới : 400850
+- Lượng Thay Đổi :40000 Lượng 
+----------Thời Gian : 2024-02-25 11:51:22--------
+- Name : ns0game
+- Tên Giao Dịch :  Nhập GiftCode : thu2vuive
+- Lượng Cũ : 400850
+- Lượng Mới : 450850
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 11:52:36--------
+- Name : ns0game
+- Tên Giao Dịch :  Nhập GiftCode : tetsumvay
+- Lượng Cũ : 450850
+- Lượng Mới : 500850
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 11:52:53--------
+- Name : ns0game
+- Tên Giao Dịch :  Nhập GiftCode : chitons
+- Lượng Cũ : 500850
+- Lượng Mới : 550850
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 11:53:22--------
+- Name : ns0game
+- Tên Giao Dịch :  Nhập GiftCode : ongtaochautroi
+- Lượng Cũ : 550850
+- Lượng Mới : 600850
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 11:53:45--------
+- Name : ns0game
+- Tên Giao Dịch :  Nhập GiftCode : happynewyear
+- Lượng Cũ : 600850
+- Lượng Mới : 800850
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-02-25 11:54:05--------
+- Name : ns0game
+- Tên Giao Dịch :  Nhập GiftCode : mung1
+- Lượng Cũ : 800850
+- Lượng Mới : 850850
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 11:54:13--------
+- Name : ns0game
+- Tên Giao Dịch :  Nhập GiftCode : mung3
+- Lượng Cũ : 850850
+- Lượng Mới : 900850
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 11:54:19--------
+- Name : ns0game
+- Tên Giao Dịch :  Nhập GiftCode : mung2
+- Lượng Cũ : 900850
+- Lượng Mới : 950850
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 12:10:11--------
+- Name : ns0game
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 929850
+- Lượng Mới : 928850
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 12:10:14--------
+- Name : ns0game
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 928850
+- Lượng Mới : 927850
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 12:10:16--------
+- Name : ns0game
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 927850
+- Lượng Mới : 926850
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 12:10:18--------
+- Name : ns0game
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 926850
+- Lượng Mới : 925850
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 12:10:20--------
+- Name : ns0game
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 925850
+- Lượng Mới : 924850
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 12:10:22--------
+- Name : ns0game
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 924850
+- Lượng Mới : 923850
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 12:10:24--------
+- Name : ns0game
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 923850
+- Lượng Mới : 922850
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 12:10:26--------
+- Name : ns0game
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 922850
+- Lượng Mới : 921850
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 12:10:28--------
+- Name : ns0game
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 921850
+- Lượng Mới : 920850
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 12:10:30--------
+- Name : ns0game
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 920850
+- Lượng Mới : 919850
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 12:10:32--------
+- Name : ns0game
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 919850
+- Lượng Mới : 918850
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 12:10:34--------
+- Name : ns0game
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 918850
+- Lượng Mới : 917850
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 12:12:25--------
+- Name : ns0game
+- Tên Giao Dịch :  Luyện pet 
+- Lượng Cũ : 917850
+- Lượng Mới : 916850
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 12:12:37--------
+- Name : ns0game
+- Tên Giao Dịch :  Luyện pet 
+- Lượng Cũ : 916850
+- Lượng Mới : 915850
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 12:12:45--------
+- Name : ns0game
+- Tên Giao Dịch :  Luyện pet 
+- Lượng Cũ : 915850
+- Lượng Mới : 914850
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 12:12:53--------
+- Name : ns0game
+- Tên Giao Dịch :  Luyện pet 
+- Lượng Cũ : 914850
+- Lượng Mới : 913850
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 12:13:00--------
+- Name : ns0game
+- Tên Giao Dịch :  Luyện pet 
+- Lượng Cũ : 913850
+- Lượng Mới : 912850
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 12:13:07--------
+- Name : ns0game
+- Tên Giao Dịch :  Luyện pet 
+- Lượng Cũ : 912850
+- Lượng Mới : 911850
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 12:13:13--------
+- Name : ns0game
+- Tên Giao Dịch :  Luyện pet 
+- Lượng Cũ : 911850
+- Lượng Mới : 910850
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 12:13:32--------
+- Name : ns0game
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 910850
+- Lượng Mới : 910750
+- Lượng Thay Đổi :-100 Lượng 
+----------Thời Gian : 2024-02-25 12:14:08--------
+- Name : ns0game
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 10
+- Lượng Cũ : 910750
+- Lượng Mới : 911750
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-02-25 12:14:09--------
+- Name : ns0game
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 20
+- Lượng Cũ : 911750
+- Lượng Mới : 913750
+- Lượng Thay Đổi :2000 Lượng 
+----------Thời Gian : 2024-02-25 12:14:11--------
+- Name : ns0game
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 30
+- Lượng Cũ : 913750
+- Lượng Mới : 916750
+- Lượng Thay Đổi :3000 Lượng 
+----------Thời Gian : 2024-02-25 12:14:13--------
+- Name : ns0game
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 40
+- Lượng Cũ : 916750
+- Lượng Mới : 920750
+- Lượng Thay Đổi :4000 Lượng 
+----------Thời Gian : 2024-02-25 12:14:16--------
+- Name : ns0game
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 50
+- Lượng Cũ : 920750
+- Lượng Mới : 925750
+- Lượng Thay Đổi :5000 Lượng 
+----------Thời Gian : 2024-02-25 12:42:10--------
+- Name : hieus48h
+- Tên Giao Dịch :  Điểm Danh Hằng Ngày
+- Lượng Cũ : 99679
+- Lượng Mới : 100679
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-02-25 14:26:37--------
+- Name : godboiz
+- Tên Giao Dịch :  Điểm Danh Hằng Ngày
+- Lượng Cũ : 393690
+- Lượng Mới : 394690
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-02-25 14:40:40--------
+- Name : godboiz
+- Tên Giao Dịch :  Nhập GiftCode : tetsumvay
+- Lượng Cũ : 386810
+- Lượng Mới : 436810
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 14:41:43--------
+- Name : godboiz
+- Tên Giao Dịch :  Nhập GiftCode : chitons
+- Lượng Cũ : 436810
+- Lượng Mới : 486810
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 14:42:17--------
+- Name : godboiz
+- Tên Giao Dịch :  Nhập GiftCode : ongtaochautroi
+- Lượng Cũ : 486810
+- Lượng Mới : 536810
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 14:42:33--------
+- Name : godboiz
+- Tên Giao Dịch :  Nhập GiftCode : happynewyear
+- Lượng Cũ : 536810
+- Lượng Mới : 736810
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-02-25 14:42:46--------
+- Name : godboiz
+- Tên Giao Dịch :  Nhập GiftCode : mung1
+- Lượng Cũ : 736810
+- Lượng Mới : 786810
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 14:42:56--------
+- Name : godboiz
+- Tên Giao Dịch :  Nhập GiftCode : mung2
+- Lượng Cũ : 786810
+- Lượng Mới : 836810
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 14:43:11--------
+- Name : godboiz
+- Tên Giao Dịch :  Nhập GiftCode : mung3
+- Lượng Cũ : 836810
+- Lượng Mới : 886810
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 15:26:56--------
+- Name : hoctaithixiu
+- Tên Giao Dịch :  Điểm Danh Hằng Ngày
+- Lượng Cũ : 207059
+- Lượng Mới : 208059
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-02-25 16:37:01--------
+- Name : betieu1
+- Tên Giao Dịch :  Điểm Danh Hằng Ngày
+- Lượng Cũ : 340655
+- Lượng Mới : 341655
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-02-25 19:45:56--------
+- Name : hutmatuy
+- Tên Giao Dịch :  Luyện pet 
+- Lượng Cũ : 664438
+- Lượng Mới : 663438
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 19:46:06--------
+- Name : hutmatuy
+- Tên Giao Dịch :  Luyện pet 
+- Lượng Cũ : 663438
+- Lượng Mới : 662438
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 19:46:16--------
+- Name : hutmatuy
+- Tên Giao Dịch :  Luyện pet 
+- Lượng Cũ : 662438
+- Lượng Mới : 661438
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 19:46:23--------
+- Name : hutmatuy
+- Tên Giao Dịch :  Luyện pet 
+- Lượng Cũ : 661438
+- Lượng Mới : 660438
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 21:04:20--------
+- Name : okingo
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 50000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 21:04:22--------
+- Name : okingo
+- Tên Giao Dịch :  Điểm Danh Hằng Ngày
+- Lượng Cũ : 50000
+- Lượng Mới : 51000
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-02-25 21:09:07--------
+- Name : okingo
+- Tên Giao Dịch :  Nhập GiftCode : nsolincutes
+- Lượng Cũ : 38800
+- Lượng Mới : 88800
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 21:10:18--------
+- Name : okingo
+- Tên Giao Dịch :  Nhập GiftCode : chaomung
+- Lượng Cũ : 88800
+- Lượng Mới : 138800
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 21:10:32--------
+- Name : okingo
+- Tên Giao Dịch :  Nhập GiftCode : 200mem
+- Lượng Cũ : 138800
+- Lượng Mới : 168800
+- Lượng Thay Đổi :30000 Lượng 
+----------Thời Gian : 2024-02-25 21:11:11--------
+- Name : okingo
+- Tên Giao Dịch :  Nhập GiftCode : hotrotanthu
+- Lượng Cũ : 168800
+- Lượng Mới : 208800
+- Lượng Thay Đổi :40000 Lượng 
+----------Thời Gian : 2024-02-25 21:11:34--------
+- Name : okingo
+- Tên Giao Dịch :  Nhập GiftCode : jouce
+- Lượng Cũ : 208800
+- Lượng Mới : 248800
+- Lượng Thay Đổi :40000 Lượng 
+----------Thời Gian : 2024-02-25 21:11:43--------
+- Name : okingo
+- Tên Giao Dịch :  Nhập GiftCode : noelvuive
+- Lượng Cũ : 248800
+- Lượng Mới : 298800
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 21:12:04--------
+- Name : okingo
+- Tên Giao Dịch :  Nhập GiftCode : baotri
+- Lượng Cũ : 298800
+- Lượng Mới : 348800
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 21:12:12--------
+- Name : okingo
+- Tên Giao Dịch :  Nhập GiftCode : 400mem
+- Lượng Cũ : 348800
+- Lượng Mới : 388800
+- Lượng Thay Đổi :40000 Lượng 
+----------Thời Gian : 2024-02-25 21:14:22--------
+- Name : okingo
+- Tên Giao Dịch :  Nhập GiftCode : thu2vuive
+- Lượng Cũ : 388800
+- Lượng Mới : 438800
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 21:14:50--------
+- Name : okingo
+- Tên Giao Dịch :  Nhập GiftCode : tetsumvay
+- Lượng Cũ : 438800
+- Lượng Mới : 488800
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 21:15:03--------
+- Name : okingo
+- Tên Giao Dịch :  Nhập GiftCode : chitons
+- Lượng Cũ : 488800
+- Lượng Mới : 538800
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 21:16:33--------
+- Name : okingo
+- Tên Giao Dịch :  Nhập GiftCode : ongtaochautroi
+- Lượng Cũ : 538800
+- Lượng Mới : 588800
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 21:19:06--------
+- Name : okingo
+- Tên Giao Dịch :  Nhập GiftCode : happynewyear
+- Lượng Cũ : 588800
+- Lượng Mới : 788800
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-02-25 21:19:41--------
+- Name : okingo
+- Tên Giao Dịch :  Nhập GiftCode : mung1
+- Lượng Cũ : 788800
+- Lượng Mới : 838800
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 21:19:48--------
+- Name : okingo
+- Tên Giao Dịch :  Nhập GiftCode : mung2
+- Lượng Cũ : 838800
+- Lượng Mới : 888800
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 21:19:55--------
+- Name : okingo
+- Tên Giao Dịch :  Nhập GiftCode : mung3
+- Lượng Cũ : 888800
+- Lượng Mới : 938800
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-02-25 21:20:44--------
+- Name : okingo
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 10
+- Lượng Cũ : 938800
+- Lượng Mới : 939800
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-02-25 21:34:40--------
+- Name : okingo
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 938300
+- Lượng Mới : 937300
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 21:34:43--------
+- Name : okingo
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 937300
+- Lượng Mới : 936300
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 21:34:45--------
+- Name : okingo
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 936300
+- Lượng Mới : 935300
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 21:34:47--------
+- Name : okingo
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 935300
+- Lượng Mới : 934300
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 21:34:50--------
+- Name : okingo
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 934300
+- Lượng Mới : 933300
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 21:34:52--------
+- Name : okingo
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 933300
+- Lượng Mới : 932300
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 21:34:55--------
+- Name : okingo
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 932300
+- Lượng Mới : 931300
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 21:34:58--------
+- Name : okingo
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 931300
+- Lượng Mới : 930300
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 21:35:00--------
+- Name : okingo
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 930300
+- Lượng Mới : 929300
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 21:35:03--------
+- Name : okingo
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 929300
+- Lượng Mới : 928300
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 21:35:05--------
+- Name : okingo
+- Tên Giao Dịch :  Nâng Cấp Hành Trang
+- Lượng Cũ : 928300
+- Lượng Mới : 927300
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-02-25 21:35:09--------
+- Name : okingo
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 20
+- Lượng Cũ : 927300
+- Lượng Mới : 929300
+- Lượng Thay Đổi :2000 Lượng 
+----------Thời Gian : 2024-02-25 21:35:11--------
+- Name : okingo
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 30
+- Lượng Cũ : 929300
+- Lượng Mới : 932300
+- Lượng Thay Đổi :3000 Lượng 
+----------Thời Gian : 2024-02-25 21:35:13--------
+- Name : okingo
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 40
+- Lượng Cũ : 932300
+- Lượng Mới : 936300
+- Lượng Thay Đổi :4000 Lượng 
+----------Thời Gian : 2024-02-25 21:35:16--------
+- Name : okingo
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 50
+- Lượng Cũ : 936300
+- Lượng Mới : 941300
+- Lượng Thay Đổi :5000 Lượng 
+----------Thời Gian : 2024-02-25 23:20:28--------
+- Name : Cơm Chiên Trứng
+- Tên Giao Dịch :  Vẽ Bùa 
+- Lượng Cũ : 10564544
+- Lượng Mới : 10566945
+- Lượng Thay Đổi :2401 Lượng 
+----------Thời Gian : 2024-02-25 23:21:18--------
+- Name : Cơm Chiên Trứng
+- Tên Giao Dịch :  Vẽ Bùa 
+- Lượng Cũ : 10566945
+- Lượng Mới : 10569042
+- Lượng Thay Đổi :2097 Lượng 
+----------Thời Gian : 2024-02-25 23:22:22--------
+- Name : Cơm Chiên Trứng
+- Tên Giao Dịch :  Vẽ Bùa 
+- Lượng Cũ : 10569042
+- Lượng Mới : 10571928
+- Lượng Thay Đổi :2886 Lượng 
+----------Thời Gian : 2024-02-25 23:23:59--------
+- Name : Cơm Chiên Trứng
+- Tên Giao Dịch :  Vẽ Bùa 
+- Lượng Cũ : 10571928
+- Lượng Mới : 10574690
+- Lượng Thay Đổi :2762 Lượng 
+----------Thời Gian : 2024-02-25 23:24:47--------
+- Name : Cơm Chiên Trứng
+- Tên Giao Dịch :  Vẽ Bùa 
+- Lượng Cũ : 10574690
+- Lượng Mới : 10576867
+- Lượng Thay Đổi :2177 Lượng 
+----------Thời Gian : 2024-02-25 23:25:35--------
+- Name : Cơm Chiên Trứng
+- Tên Giao Dịch :  Vẽ Bùa 
+- Lượng Cũ : 10576867
+- Lượng Mới : 10579150
+- Lượng Thay Đổi :2283 Lượng 
+----------Thời Gian : 2024-02-25 23:26:25--------
+- Name : Cơm Chiên Trứng
+- Tên Giao Dịch :  Vẽ Bùa 
+- Lượng Cũ : 10579150
+- Lượng Mới : 10581276
+- Lượng Thay Đổi :2126 Lượng 
+----------Thời Gian : 2024-02-25 23:27:54--------
+- Name : Cơm Chiên Trứng
+- Tên Giao Dịch :  Vẽ Bùa 
+- Lượng Cũ : 10581276
+- Lượng Mới : 10583770
+- Lượng Thay Đổi :2494 Lượng 
+----------Thời Gian : 2024-02-25 23:33:52--------
+- Name : trumlatao
+- Tên Giao Dịch :  Đi Tới Làng Huyền Thoại
+- Lượng Cũ : 43124
+- Lượng Mới : 42624
+- Lượng Thay Đổi :-500 Lượng 

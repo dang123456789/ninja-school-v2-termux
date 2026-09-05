@@ -1,0 +1,22 @@
+----------Thời Gian : 2024-09-04 11:49:30--------
+- Name : admin
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Đoạt tâm cung
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1200000
+- Lượng Cũ : 1976507073
+- Lượng Mới : 1976507073
+- Xu Cũ : 993399000
+- Xu Mới : 992199000
+----------Thời Gian : 2024-09-04 11:49:38--------
+- Name : admin
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP Cao Cấp
+- Số Lượng Mua : 10000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 1976507073
+- Lượng Mới : 1976507073
+- Xu Cũ : 992199000
+- Xu Mới : 992199000

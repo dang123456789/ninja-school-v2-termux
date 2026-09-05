@@ -1,0 +1,150 @@
+----------Thời Gian : 2023-12-30 00:33:44--------
+- Name : hautop3
+- Nội Dung :  Đặt Xỉu Trừ -75000
+- Lượng Cũ : 76356
+- Lượng Mới : 1356
+- Lượng Thay Đổi : -75000
+----------Thời Gian : 2023-12-30 00:34:42--------
+- Name : hautop3
+- Nội Dung :  Đặt Xỉu Ăn 135000
+- Lượng Cũ : 1356
+- Lượng Mới : 136356
+- Lượng Thay Đổi : 135000
+----------Thời Gian : 2023-12-30 00:35:02--------
+- Name : hautop3
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 136356
+- Lượng Mới : 86356
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2023-12-30 00:36:00--------
+- Name : hautop3
+- Nội Dung :  Đặt Tài Ăn 90000
+- Lượng Cũ : 86356
+- Lượng Mới : 176356
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2023-12-30 00:36:41--------
+- Name : hautop3
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 176356
+- Lượng Mới : 126356
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2023-12-30 00:37:40--------
+- Name : hautop3
+- Nội Dung :  Đặt Tài Ăn 90000
+- Lượng Cũ : 126356
+- Lượng Mới : 216356
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2023-12-30 00:38:14--------
+- Name : hautop3
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 216356
+- Lượng Mới : 166356
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2023-12-30 00:39:12--------
+- Name : hautop3
+- Nội Dung :  Đặt Xỉu Ăn 90000
+- Lượng Cũ : 166356
+- Lượng Mới : 256356
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2023-12-30 00:39:34--------
+- Name : hautop3
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 256356
+- Lượng Mới : 206356
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2023-12-30 00:40:55--------
+- Name : hautop3
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 206356
+- Lượng Mới : 106356
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-30 00:41:54--------
+- Name : hautop3
+- Nội Dung :  Đặt Tài Ăn 180000
+- Lượng Cũ : 106356
+- Lượng Mới : 286356
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2023-12-30 00:42:53--------
+- Name : hautop3
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 286356
+- Lượng Mới : 236356
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2023-12-30 00:44:05--------
+- Name : hautop3
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 236356
+- Lượng Mới : 136356
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-30 00:45:29--------
+- Name : hautop3
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 136356
+- Lượng Mới : 36356
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-30 07:06:47--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 318621
+- Lượng Mới : 268621
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2023-12-30 07:06:55--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -51200
+- Lượng Cũ : 268621
+- Lượng Mới : 217421
+- Lượng Thay Đổi : -51200
+----------Thời Gian : 2023-12-30 07:07:45--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Ăn 182160
+- Lượng Cũ : 217421
+- Lượng Mới : 399581
+- Lượng Thay Đổi : 182160
+----------Thời Gian : 2023-12-30 07:08:34--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Trừ -52200
+- Lượng Cũ : 399581
+- Lượng Mới : 347381
+- Lượng Thay Đổi : -52200
+----------Thời Gian : 2023-12-30 07:09:33--------
+- Name : thienkiem
+- Nội Dung :  Đặt Xỉu Ăn 93960
+- Lượng Cũ : 347381
+- Lượng Mới : 441341
+- Lượng Thay Đổi : 93960
+----------Thời Gian : 2023-12-30 11:02:51--------
+- Name : fancung
+- Nội Dung :  Đặt Tài Trừ -70000
+- Lượng Cũ : 128726
+- Lượng Mới : 58726
+- Lượng Thay Đổi : -70000
+----------Thời Gian : 2023-12-30 11:05:01--------
+- Name : fancung
+- Nội Dung :  Đặt Tài Trừ -59000
+- Lượng Cũ : 59104
+- Lượng Mới : 104
+- Lượng Thay Đổi : -59000
+----------Thời Gian : 2023-12-30 11:35:05--------
+- Name : bulontragop
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 131716
+- Lượng Mới : 31716
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-30 20:53:56--------
+- Name : trumsanboss
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 76044
+- Lượng Mới : 26044
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2023-12-30 20:54:56--------
+- Name : trumsanboss
+- Nội Dung :  Đặt Tài Ăn 90000
+- Lượng Cũ : 23098
+- Lượng Mới : 113098
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2023-12-30 23:13:53--------
+- Name : trumsanboss
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 119078
+- Lượng Mới : 19078
+- Lượng Thay Đổi : -100000

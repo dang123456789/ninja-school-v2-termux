@@ -1,0 +1,456 @@
+----------Thời Gian : 2024-07-08 17:24:44--------
+- Name : onehit
+- Tên Giao Dịch :  Nhập GIFTCODE NTGT
+- Xu Cũ : 10000000
+- Xu Mới : 10000002
+- Xu Thay Đổi :2Xu 
+----------Thời Gian : 2024-07-08 17:24:51--------
+- Name : onehit
+- Tên Giao Dịch :  Nhập GIFTCODE NSOKEY1
+- Xu Cũ : 10000002
+- Xu Mới : 10020002
+- Xu Thay Đổi :20000Xu 
+----------Thời Gian : 2024-07-08 17:26:45--------
+- Name : onehit
+- Tên Giao Dịch :  Nhập GIFTCODE 100TV
+- Xu Cũ : 10020002
+- Xu Mới : 10020002
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 17:27:21--------
+- Name : onehit
+- Tên Giao Dịch :  Nhập GIFTCODE ADTOTBUNG
+- Xu Cũ : 10020002
+- Xu Mới : 10020002
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 17:27:31--------
+- Name : onehit
+- Tên Giao Dịch :  Nhập GIFTCODE CONGDZ
+- Xu Cũ : 10020002
+- Xu Mới : 10020002
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 17:27:41--------
+- Name : onehit
+- Tên Giao Dịch :  Nhập GIFTCODE CONGDZVCL
+- Xu Cũ : 10020002
+- Xu Mới : 10020002
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 17:27:51--------
+- Name : onehit
+- Tên Giao Dịch :  Nhập GIFTCODE CUOITUAN
+- Xu Cũ : 10020002
+- Xu Mới : 10070002
+- Xu Thay Đổi :50000Xu 
+----------Thời Gian : 2024-07-08 17:28:01--------
+- Name : onehit
+- Tên Giao Dịch :  Nhập GIFTCODE CUOITUANVV
+- Xu Cũ : 10070002
+- Xu Mới : 10120002
+- Xu Thay Đổi :50000Xu 
+----------Thời Gian : 2024-07-08 17:28:37--------
+- Name : onehit
+- Tên Giao Dịch :  Nhập GIFTCODE DENBU1
+- Xu Cũ : 10120002
+- Xu Mới : 10120002
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 17:29:06--------
+- Name : onehit
+- Tên Giao Dịch :  Nhập GIFTCODE GIAIPK69
+- Xu Cũ : 10120002
+- Xu Mới : 10120002
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 17:29:15--------
+- Name : onehit
+- Tên Giao Dịch :  Nhập GIFTCODE LIVEGAMENSO
+- Xu Cũ : 10120002
+- Xu Mới : 15120002
+- Xu Thay Đổi :5000000Xu 
+----------Thời Gian : 2024-07-08 17:29:24--------
+- Name : onehit
+- Tên Giao Dịch :  Nhập GIFTCODE LIVENSO
+- Xu Cũ : 15120002
+- Xu Mới : 15120002
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 17:29:34--------
+- Name : onehit
+- Tên Giao Dịch :  Nhập GIFTCODE LIVENSO1
+- Xu Cũ : 15120002
+- Xu Mới : 15120002
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 17:31:30--------
+- Name : trumsu
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 1949991000
+- Xu Mới : 1899991000
+- Xu Thay Đổi :-50000000Xu 
+----------Thời Gian : 2024-07-08 17:39:47--------
+- Name : kakaka
+- Tên Giao Dịch :  Nhập GIFTCODE 100TV
+- Xu Cũ : 10000000
+- Xu Mới : 10000000
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 17:43:46--------
+- Name : kakaka
+- Tên Giao Dịch :  Nhập GIFTCODE ADTOTBUNG
+- Xu Cũ : 10000000
+- Xu Mới : 10000000
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 17:44:01--------
+- Name : kakaka
+- Tên Giao Dịch :  Nhập GIFTCODE CONGDZ
+- Xu Cũ : 10000000
+- Xu Mới : 10000000
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 17:44:21--------
+- Name : kakaka
+- Tên Giao Dịch :  Nhập GIFTCODE CONGDZVCL
+- Xu Cũ : 10000000
+- Xu Mới : 10000000
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 17:44:31--------
+- Name : kakaka
+- Tên Giao Dịch :  Nhập GIFTCODE CUOITUAN
+- Xu Cũ : 10000000
+- Xu Mới : 10050000
+- Xu Thay Đổi :50000Xu 
+----------Thời Gian : 2024-07-08 17:44:56--------
+- Name : kakaka
+- Tên Giao Dịch :  Nhập GIFTCODE CUOITUANVV
+- Xu Cũ : 10050000
+- Xu Mới : 10100000
+- Xu Thay Đổi :50000Xu 
+----------Thời Gian : 2024-07-08 17:45:13--------
+- Name : kakaka
+- Tên Giao Dịch :  Nhập GIFTCODE DENBU1
+- Xu Cũ : 10100000
+- Xu Mới : 10100000
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 17:46:14--------
+- Name : kakaka
+- Tên Giao Dịch :  Nhập GIFTCODE GIAIPK69
+- Xu Cũ : 10100000
+- Xu Mới : 10100000
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 17:46:35--------
+- Name : kakaka
+- Tên Giao Dịch :  Nhập GIFTCODE LIVEGAMENSO
+- Xu Cũ : 10100000
+- Xu Mới : 15100000
+- Xu Thay Đổi :5000000Xu 
+----------Thời Gian : 2024-07-08 17:47:00--------
+- Name : kakaka
+- Tên Giao Dịch :  Nhập GIFTCODE LIVENSO
+- Xu Cũ : 15100000
+- Xu Mới : 15100000
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 17:47:22--------
+- Name : kakaka
+- Tên Giao Dịch :  Nhập GIFTCODE LIVENSO1
+- Xu Cũ : 15100000
+- Xu Mới : 15100000
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 17:47:39--------
+- Name : kakaka
+- Tên Giao Dịch :  Nhập GIFTCODE NSOKEY1
+- Xu Cũ : 15100000
+- Xu Mới : 15120000
+- Xu Thay Đổi :20000Xu 
+----------Thời Gian : 2024-07-08 17:47:46--------
+- Name : kakaka
+- Tên Giao Dịch :  Nhập GIFTCODE NTGT
+- Xu Cũ : 15120000
+- Xu Mới : 15120002
+- Xu Thay Đổi :2Xu 
+----------Thời Gian : 2024-07-08 17:48:10--------
+- Name : dellhiuluon
+- Tên Giao Dịch :  Nhập GIFTCODE 100TV
+- Xu Cũ : 1010000000
+- Xu Mới : 1010000000
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 17:48:29--------
+- Name : dellhiuluon
+- Tên Giao Dịch :  Nhập GIFTCODE ADTOTBUNG
+- Xu Cũ : 1010000000
+- Xu Mới : 1010000000
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 18:26:57--------
+- Name : dellhiuluon
+- Tên Giao Dịch :  Nhập GIFTCODE CUOITUAN
+- Xu Cũ : 910003000
+- Xu Mới : 910053000
+- Xu Thay Đổi :50000Xu 
+----------Thời Gian : 2024-07-08 18:37:09--------
+- Name : concailoz
+- Tên Giao Dịch :  Nhập GIFTCODE 100TV
+- Xu Cũ : 0
+- Xu Mới : 0
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 18:37:56--------
+- Name : optimus
+- Tên Giao Dịch :  Đặt Vòng Xoay May Mắn
+- Xu Cũ : 1998992000
+- Xu Mới : 1997992000
+- Xu Thay Đổi :-1000000Xu 
+----------Thời Gian : 2024-07-08 18:43:43--------
+- Name : bulon30p
+- Tên Giao Dịch :  Nhập GIFTCODE 100TV
+- Xu Cũ : 10000000
+- Xu Mới : 10000000
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 19:14:36--------
+- Name : dellhiuluon
+- Tên Giao Dịch :  Nhập GIFTCODE CONGDZ
+- Xu Cũ : 2000000000
+- Xu Mới : 2000000000
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 19:15:17--------
+- Name : dellhiuluon
+- Tên Giao Dịch :  Nhập GIFTCODE NSOKEY1
+- Xu Cũ : 2000000000
+- Xu Mới : 2000020000
+- Xu Thay Đổi :20000Xu 
+----------Thời Gian : 2024-07-08 19:31:25--------
+- Name : matthew
+- Tên Giao Dịch :  Nhập GIFTCODE 100TV
+- Xu Cũ : 1559999900
+- Xu Mới : 1559999900
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 19:32:19--------
+- Name : matthew
+- Tên Giao Dịch :  Nhập GIFTCODE ADTOTBUNG
+- Xu Cũ : 1559999900
+- Xu Mới : 1559999900
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 19:32:29--------
+- Name : matthew
+- Tên Giao Dịch :  Nhập GIFTCODE CONGDZ
+- Xu Cũ : 1559999900
+- Xu Mới : 1559999900
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 19:32:40--------
+- Name : matthew
+- Tên Giao Dịch :  Nhập GIFTCODE CONGDZVCL
+- Xu Cũ : 1559999900
+- Xu Mới : 1559999900
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 19:32:50--------
+- Name : matthew
+- Tên Giao Dịch :  Nhập GIFTCODE CUOITUAN
+- Xu Cũ : 1559999900
+- Xu Mới : 1560049900
+- Xu Thay Đổi :50000Xu 
+----------Thời Gian : 2024-07-08 19:33:01--------
+- Name : matthew
+- Tên Giao Dịch :  Nhập GIFTCODE CUOITUANVV
+- Xu Cũ : 1560049900
+- Xu Mới : 1560099900
+- Xu Thay Đổi :50000Xu 
+----------Thời Gian : 2024-07-08 20:44:48--------
+- Name : 1phatvetone
+- Tên Giao Dịch :  Góp Vào Gia Tộc
+- Xu Cũ : 2000000000
+- Xu Mới : 1990000000
+- Xu Thay Đổi :-10000000Xu 
+----------Thời Gian : 2024-07-08 20:44:57--------
+- Name : 1phatvetone
+- Tên Giao Dịch :  Góp Vào Gia Tộc
+- Xu Cũ : 1990000000
+- Xu Mới : 1890000000
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2024-07-08 20:45:05--------
+- Name : 1phatvetone
+- Tên Giao Dịch :  Góp Vào Gia Tộc
+- Xu Cũ : 1890000000
+- Xu Mới : 1790000000
+- Xu Thay Đổi :-100000000Xu 
+----------Thời Gian : 2024-07-08 20:45:17--------
+- Name : 1phatvetone
+- Tên Giao Dịch :  Góp Vào Gia Tộc
+- Xu Cũ : 1790000000
+- Xu Mới : 1590000000
+- Xu Thay Đổi :-200000000Xu 
+----------Thời Gian : 2024-07-08 20:45:29--------
+- Name : 1phatvetone
+- Tên Giao Dịch :  Góp Vào Gia Tộc
+- Xu Cũ : 1590000000
+- Xu Mới : 1190000000
+- Xu Thay Đổi :-400000000Xu 
+----------Thời Gian : 2024-07-08 21:20:16--------
+- Name : alhaitham
+- Tên Giao Dịch :  Nhập GIFTCODE ADTOTBUNG
+- Xu Cũ : 1010000000
+- Xu Mới : 1010000000
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 21:22:11--------
+- Name : alhaitham
+- Tên Giao Dịch :  Nhập GIFTCODE CONGDZ
+- Xu Cũ : 1010000000
+- Xu Mới : 1010000000
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 21:22:20--------
+- Name : alhaitham
+- Tên Giao Dịch :  Nhập GIFTCODE CONGDZVCL
+- Xu Cũ : 1010000000
+- Xu Mới : 1010000000
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 22:21:05--------
+- Name : dellhiuluon
+- Tên Giao Dịch :  Nhập GIFTCODE DENBU1
+- Xu Cũ : 1000000000
+- Xu Mới : 1000000000
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 22:21:25--------
+- Name : dellhiuluon
+- Tên Giao Dịch :  Nhập GIFTCODE GIAIPK69
+- Xu Cũ : 1000000000
+- Xu Mới : 1000000000
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 22:22:06--------
+- Name : dellhiuluon
+- Tên Giao Dịch :  Nhập GIFTCODE LIVENSO
+- Xu Cũ : 1000000000
+- Xu Mới : 1000000000
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 22:22:24--------
+- Name : dellhiuluon
+- Tên Giao Dịch :  Nhập GIFTCODE NTGT
+- Xu Cũ : 1000000000
+- Xu Mới : 1000000002
+- Xu Thay Đổi :2Xu 
+----------Thời Gian : 2024-07-08 23:06:20--------
+- Name : alhaitham
+- Tên Giao Dịch :  Nhập GIFTCODE 100TV
+- Xu Cũ : 1010000000
+- Xu Mới : 1010000000
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 23:06:53--------
+- Name : alhaitham
+- Tên Giao Dịch :  Nhập GIFTCODE CUOITUAN
+- Xu Cũ : 1010000000
+- Xu Mới : 1010050000
+- Xu Thay Đổi :50000Xu 
+----------Thời Gian : 2024-07-08 23:07:08--------
+- Name : alhaitham
+- Tên Giao Dịch :  Nhập GIFTCODE DENBU1
+- Xu Cũ : 1010050000
+- Xu Mới : 1010050000
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 23:07:49--------
+- Name : alhaitham
+- Tên Giao Dịch :  Nhập GIFTCODE GIAIPK69
+- Xu Cũ : 1010050000
+- Xu Mới : 1010050000
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 23:08:08--------
+- Name : alhaitham
+- Tên Giao Dịch :  Nhập GIFTCODE LIVENSO
+- Xu Cũ : 1010050000
+- Xu Mới : 1010050000
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 23:08:23--------
+- Name : alhaitham
+- Tên Giao Dịch :  Nhập GIFTCODE NSOKEY1
+- Xu Cũ : 1010050000
+- Xu Mới : 1010070000
+- Xu Thay Đổi :20000Xu 
+----------Thời Gian : 2024-07-08 23:08:31--------
+- Name : alhaitham
+- Tên Giao Dịch :  Nhập GIFTCODE NTGT
+- Xu Cũ : 1010070000
+- Xu Mới : 1010070002
+- Xu Thay Đổi :2Xu 
+----------Thời Gian : 2024-07-08 23:08:52--------
+- Name : alhaitham
+- Tên Giao Dịch :  Nhập GIFTCODE LIVENSO1
+- Xu Cũ : 1010070002
+- Xu Mới : 1010070002
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 23:09:01--------
+- Name : alhaitham
+- Tên Giao Dịch :  Nhập GIFTCODE LIVEGAMENSO
+- Xu Cũ : 1010070002
+- Xu Mới : 1015070002
+- Xu Thay Đổi :5000000Xu 
+----------Thời Gian : 2024-07-08 23:37:12--------
+- Name : miuuuuu
+- Tên Giao Dịch :  Nhập GIFTCODE 100TV
+- Xu Cũ : 1010000000
+- Xu Mới : 1010000000
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 23:40:35--------
+- Name : tonyks
+- Tên Giao Dịch :  Nhập GIFTCODE 100TV
+- Xu Cũ : 639996000
+- Xu Mới : 639996000
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 23:41:08--------
+- Name : tonyks
+- Tên Giao Dịch :  Nhập GIFTCODE ADTOTBUNG
+- Xu Cũ : 639996000
+- Xu Mới : 639996000
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 23:43:13--------
+- Name : tonyks
+- Tên Giao Dịch :  Nhập GIFTCODE CONGDZ
+- Xu Cũ : 639996000
+- Xu Mới : 639996000
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 23:43:32--------
+- Name : tonyks
+- Tên Giao Dịch :  Nhập GIFTCODE CONGDZVCL
+- Xu Cũ : 639996000
+- Xu Mới : 639996000
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 23:43:47--------
+- Name : tonyks
+- Tên Giao Dịch :  Nhập GIFTCODE CUOITUAN
+- Xu Cũ : 639996000
+- Xu Mới : 640046000
+- Xu Thay Đổi :50000Xu 
+----------Thời Gian : 2024-07-08 23:43:57--------
+- Name : tonyks
+- Tên Giao Dịch :  Nhập GIFTCODE CUOITUANVV
+- Xu Cũ : 640046000
+- Xu Mới : 640096000
+- Xu Thay Đổi :50000Xu 
+----------Thời Gian : 2024-07-08 23:44:16--------
+- Name : tonyks
+- Tên Giao Dịch :  Nhập GIFTCODE DENBU1
+- Xu Cũ : 640096000
+- Xu Mới : 640096000
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 23:44:21--------
+- Name : tonyks
+- Tên Giao Dịch :  Nhập GIFTCODE NTGT
+- Xu Cũ : 640096000
+- Xu Mới : 640096002
+- Xu Thay Đổi :2Xu 
+----------Thời Gian : 2024-07-08 23:46:26--------
+- Name : tonyks
+- Tên Giao Dịch :  Nhập GIFTCODE GIAIPK69
+- Xu Cũ : 640096002
+- Xu Mới : 640096002
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 23:46:46--------
+- Name : tonyks
+- Tên Giao Dịch :  Nhập GIFTCODE LIVEGAMENSO
+- Xu Cũ : 640096002
+- Xu Mới : 645096002
+- Xu Thay Đổi :5000000Xu 
+----------Thời Gian : 2024-07-08 23:46:53--------
+- Name : tonyks
+- Tên Giao Dịch :  Nhập GIFTCODE LIVENSO
+- Xu Cũ : 645096002
+- Xu Mới : 645096002
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 23:47:03--------
+- Name : tonyks
+- Tên Giao Dịch :  Nhập GIFTCODE LIVENSO1
+- Xu Cũ : 645096002
+- Xu Mới : 645096002
+- Xu Thay Đổi :0Xu 
+----------Thời Gian : 2024-07-08 23:47:27--------
+- Name : tonyks
+- Tên Giao Dịch :  Nhập GIFTCODE NSOKEY1
+- Xu Cũ : 645096002
+- Xu Mới : 645116002
+- Xu Thay Đổi :20000Xu 

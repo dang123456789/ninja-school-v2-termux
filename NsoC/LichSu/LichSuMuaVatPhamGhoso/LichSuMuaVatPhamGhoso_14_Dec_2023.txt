@@ -1,0 +1,441 @@
+----------Thời Gian : 2023-12-14 23:52:57--------
+- Name : napgan1ty
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Mặt nạ Jiraiya 
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 266850
+- Lượng Mới : 266750
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2023-12-14 23:53:01--------
+- Name : shadow
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP vừa
+- Số Lượng Mua : 150
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 261850
+- Lượng Mới : 261850
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2023-12-14 23:53:29--------
+- Name : bekuns
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Choukoukogo
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 246220
+- Lượng Mới : 246220
+- Xu Cũ : 988000
+- Xu Mới : 987000
+----------Thời Gian : 2023-12-14 23:53:44--------
+- Name : bigdnga
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nấm linh chi
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 47750
+- Lượng Mới : 47700
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2023-12-14 23:55:08--------
+- Name : bigdhieu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nấm linh chi
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 47750
+- Lượng Mới : 47700
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2023-12-14 23:55:27--------
+- Name : napgan1ty
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Tempura
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 266750
+- Lượng Mới : 266750
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2023-12-14 23:55:44--------
+- Name : minhphuong
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Ứng Long
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 219999
+- Lượng Mới : 219899
+- Xu Cũ : 0
+- Xu Mới : 0
+----------Thời Gian : 2023-12-14 23:55:46--------
+- Name : kiemkhach
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Đùi heo sữa
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 213672
+- Lượng Mới : 213672
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2023-12-14 23:55:47--------
+- Name : minhphuong
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Yêu Tinh
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 219899
+- Lượng Mới : 218899
+- Xu Cũ : 0
+- Xu Mới : 0
+----------Thời Gian : 2023-12-14 23:55:57--------
+- Name : minhphuong
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Tóc
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 218899
+- Lượng Mới : 216899
+- Xu Cũ : 0
+- Xu Mới : 0
+----------Thời Gian : 2023-12-14 23:55:58--------
+- Name : minhphuong
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Quần
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 216899
+- Lượng Mới : 214899
+- Xu Cũ : 0
+- Xu Mới : 0
+----------Thời Gian : 2023-12-14 23:56:00--------
+- Name : minhphuong
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara
+ Áo
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 214899
+- Lượng Mới : 212899
+- Xu Cũ : 0
+- Xu Mới : 0
+----------Thời Gian : 2023-12-14 23:56:02--------
+- Name : minhphuong
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Áo Dài Nam
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 212899
+- Lượng Mới : 210899
+- Xu Cũ : 0
+- Xu Mới : 0
+----------Thời Gian : 2023-12-14 23:56:08--------
+- Name : minhphuong
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nhật Tử Lam Phong
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 210899
+- Lượng Mới : 208899
+- Xu Cũ : 0
+- Xu Mới : 0
+----------Thời Gian : 2023-12-14 23:56:39--------
+- Name : minhphuong
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Gậy Mặt Trăng
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 208899
+- Lượng Mới : 207899
+- Xu Cũ : 0
+- Xu Mới : 0
+----------Thời Gian : 2023-12-14 23:56:58--------
+- Name : bigdhieu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Tempura
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 47700
+- Lượng Mới : 47700
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2023-12-14 23:57:18--------
+- Name : hoilamgi
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Đùi heo sữa
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 197350
+- Lượng Mới : 197350
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2023-12-14 23:57:32--------
+- Name : suikaa
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Dâu tây
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -100000
+- Lượng Cũ : 194758
+- Lượng Mới : 194758
+- Xu Cũ : 4408000
+- Xu Mới : 4308000
+----------Thời Gian : 2023-12-14 23:57:33--------
+- Name : suikaa
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Chocolate
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 194758
+- Lượng Mới : 194708
+- Xu Cũ : 4308000
+- Xu Mới : 4308000
+----------Thời Gian : 2023-12-14 23:57:34--------
+- Name : suikaa
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Chocolate
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 194708
+- Lượng Mới : 194658
+- Xu Cũ : 4308000
+- Xu Mới : 4308000
+----------Thời Gian : 2023-12-14 23:57:35--------
+- Name : suikaa
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Chocolate
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 194658
+- Lượng Mới : 194608
+- Xu Cũ : 4308000
+- Xu Mới : 4308000
+----------Thời Gian : 2023-12-14 23:57:36--------
+- Name : suikaa
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Chocolate
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 194608
+- Lượng Mới : 194558
+- Xu Cũ : 4308000
+- Xu Mới : 4308000
+----------Thời Gian : 2023-12-14 23:57:37--------
+- Name : suikaa
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Chocolate
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 194558
+- Lượng Mới : 194508
+- Xu Cũ : 4308000
+- Xu Mới : 4308000
+----------Thời Gian : 2023-12-14 23:57:38--------
+- Name : suikaa
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Chocolate
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 194508
+- Lượng Mới : 194458
+- Xu Cũ : 4308000
+- Xu Mới : 4308000
+----------Thời Gian : 2023-12-14 23:57:38--------
+- Name : suikaa
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Chocolate
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 194458
+- Lượng Mới : 194408
+- Xu Cũ : 4308000
+- Xu Mới : 4308000
+----------Thời Gian : 2023-12-14 23:57:39--------
+- Name : suikaa
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Chocolate
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 194408
+- Lượng Mới : 194358
+- Xu Cũ : 4308000
+- Xu Mới : 4308000
+----------Thời Gian : 2023-12-14 23:57:47--------
+- Name : shadow
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Akaiame
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 261850
+- Lượng Mới : 261850
+- Xu Cũ : 1000000
+- Xu Mới : 999000
+----------Thời Gian : 2023-12-14 23:57:49--------
+- Name : suikaa
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Chocolate
+- Số Lượng Mua : 50
+- Lượng Mua : -2500
+- Xu Mua : 0
+- Lượng Cũ : 194358
+- Lượng Mới : 191858
+- Xu Cũ : 4308000
+- Xu Mới : 4308000
+----------Thời Gian : 2023-12-14 23:57:49--------
+- Name : shadow
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Mizuibatan
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 261850
+- Lượng Mới : 261850
+- Xu Cũ : 999000
+- Xu Mới : 998000
+----------Thời Gian : 2023-12-14 23:57:51--------
+- Name : suikaa
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Dâu tây
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -100000
+- Lượng Cũ : 191858
+- Lượng Mới : 191858
+- Xu Cũ : 4308000
+- Xu Mới : 4208000
+----------Thời Gian : 2023-12-14 23:57:52--------
+- Name : shadow
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Aoiame
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 261850
+- Lượng Mới : 261850
+- Xu Cũ : 998000
+- Xu Mới : 997000
+----------Thời Gian : 2023-12-14 23:58:40--------
+- Name : shadow
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Uzubatan
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 261850
+- Lượng Mới : 261850
+- Xu Cũ : 997000
+- Xu Mới : 996000
+----------Thời Gian : 2023-12-14 23:58:41--------
+- Name : shadow
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Hibikou
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 261850
+- Lượng Mới : 261850
+- Xu Cũ : 996000
+- Xu Mới : 995000
+----------Thời Gian : 2023-12-14 23:58:43--------
+- Name : shadow
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Kogoeru
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 261850
+- Lượng Mới : 261850
+- Xu Cũ : 995000
+- Xu Mới : 994000
+----------Thời Gian : 2023-12-14 23:59:05--------
+- Name : shadow
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Jotente
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 261850
+- Lượng Mới : 261850
+- Xu Cũ : 994000
+- Xu Mới : 993000
+----------Thời Gian : 2023-12-14 23:59:08--------
+- Name : shadow
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Choukoukogo
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 261850
+- Lượng Mới : 261850
+- Xu Cũ : 993000
+- Xu Mới : 992000
+----------Thời Gian : 2023-12-14 23:59:45--------
+- Name : shadow
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Katsudon
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 261850
+- Lượng Mới : 261850
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2023-12-14 23:59:48--------
+- Name : vietnamese
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phiếu may mắn
+- Số Lượng Mua : 1
+- Lượng Mua : -10
+- Xu Mua : 0
+- Lượng Cũ : 149300
+- Lượng Mới : 149290
+- Xu Cũ : 988800
+- Xu Mới : 988800
+----------Thời Gian : 2023-12-14 23:59:49--------
+- Name : vietnamese
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phiếu may mắn
+- Số Lượng Mua : 1
+- Lượng Mua : -10
+- Xu Mua : 0
+- Lượng Cũ : 149290
+- Lượng Mới : 149280
+- Xu Cũ : 988800
+- Xu Mới : 988800
+----------Thời Gian : 2023-12-14 23:59:59--------
+- Name : vietnamese
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phiếu may mắn
+- Số Lượng Mua : 1
+- Lượng Mua : -10
+- Xu Mua : 0
+- Lượng Cũ : 149280
+- Lượng Mới : 149270
+- Xu Cũ : 988800
+- Xu Mới : 988800

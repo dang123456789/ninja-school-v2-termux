@@ -1,0 +1,48 @@
+----------Thời Gian : 2023-12-15 11:42:03--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 364901
+- Lượng Mới : 264901
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-15 11:43:02--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Ăn 180000
+- Lượng Cũ : 264901
+- Lượng Mới : 444901
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2023-12-15 11:44:20--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 444901
+- Lượng Mới : 344901
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-15 11:45:19--------
+- Name : tomioka
+- Nội Dung :  Đặt Tài Ăn 180000
+- Lượng Cũ : 344901
+- Lượng Mới : 524901
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2023-12-15 11:48:51--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 524901
+- Lượng Mới : 424901
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2023-12-15 11:49:49--------
+- Name : tomioka
+- Nội Dung :  Đặt Xỉu Ăn 180000
+- Lượng Cũ : 424901
+- Lượng Mới : 604901
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2023-12-15 18:50:54--------
+- Name : top1sv
+- Nội Dung :  Đặt Xỉu Trừ -50000
+- Lượng Cũ : 329694
+- Lượng Mới : 279694
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2023-12-15 18:51:52--------
+- Name : top1sv
+- Nội Dung :  Đặt Xỉu Ăn 90000
+- Lượng Cũ : 279694
+- Lượng Mới : 369694
+- Lượng Thay Đổi : 90000

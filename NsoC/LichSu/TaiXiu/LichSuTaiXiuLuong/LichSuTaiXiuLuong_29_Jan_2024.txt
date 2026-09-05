@@ -1,0 +1,282 @@
+----------Thời Gian : 2024-01-29 00:54:21--------
+- Name : hautop3
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 235652
+- Lượng Mới : 135652
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 00:55:49--------
+- Name : hautop3
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 135652
+- Lượng Mới : 35652
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 00:56:48--------
+- Name : hautop3
+- Nội Dung :  Đặt Xỉu Ăn 180000
+- Lượng Cũ : 35652
+- Lượng Mới : 215652
+- Lượng Thay Đổi : 180000
+----------Thời Gian : 2024-01-29 00:57:04--------
+- Name : hautop3
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 215652
+- Lượng Mới : 115652
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 00:57:11--------
+- Name : hautop3
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 115652
+- Lượng Mới : 15652
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 00:58:02--------
+- Name : hautop3
+- Nội Dung :  Đặt Tài Ăn 360000
+- Lượng Cũ : 15652
+- Lượng Mới : 375652
+- Lượng Thay Đổi : 360000
+----------Thời Gian : 2024-01-29 00:58:41--------
+- Name : hautop3
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 375652
+- Lượng Mới : 275652
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 00:58:48--------
+- Name : hautop3
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 275652
+- Lượng Mới : 175652
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 00:58:59--------
+- Name : hautop3
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 175652
+- Lượng Mới : 75652
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:24:58--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 312233
+- Lượng Mới : 212233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:25:06--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 212233
+- Lượng Mới : 112233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:25:15--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 112233
+- Lượng Mới : 12233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:25:56--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Ăn 540000
+- Lượng Cũ : 12233
+- Lượng Mới : 552233
+- Lượng Thay Đổi : 540000
+----------Thời Gian : 2024-01-29 11:26:35--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 552233
+- Lượng Mới : 452233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:26:43--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 452233
+- Lượng Mới : 352233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:26:51--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 352233
+- Lượng Mới : 252233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:26:59--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 252233
+- Lượng Mới : 152233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:27:07--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 152233
+- Lượng Mới : 52233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:27:18--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 52233
+- Lượng Mới : 2233
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2024-01-29 11:27:33--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Ăn 990000
+- Lượng Cũ : 2233
+- Lượng Mới : 992233
+- Lượng Thay Đổi : 990000
+----------Thời Gian : 2024-01-29 11:27:49--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 992233
+- Lượng Mới : 892233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:27:56--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 892233
+- Lượng Mới : 792233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:28:03--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 792233
+- Lượng Mới : 692233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:28:11--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 692233
+- Lượng Mới : 592233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:28:18--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 592233
+- Lượng Mới : 492233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:28:25--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 492233
+- Lượng Mới : 392233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:28:33--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 392233
+- Lượng Mới : 292233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:29:14--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 292233
+- Lượng Mới : 192233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:29:22--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 192233
+- Lượng Mới : 92233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:29:31--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -90000
+- Lượng Cũ : 92233
+- Lượng Mới : 2233
+- Lượng Thay Đổi : -90000
+----------Thời Gian : 2024-01-29 11:30:14--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Ăn 522000
+- Lượng Cũ : 2233
+- Lượng Mới : 524233
+- Lượng Thay Đổi : 522000
+----------Thời Gian : 2024-01-29 11:30:56--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 524233
+- Lượng Mới : 424233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:31:03--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 424233
+- Lượng Mới : 324233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:31:11--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 324233
+- Lượng Mới : 224233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:31:20--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 224233
+- Lượng Mới : 124233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:31:28--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 124233
+- Lượng Mới : 24233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:31:54--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Ăn 900000
+- Lượng Cũ : 24233
+- Lượng Mới : 924233
+- Lượng Thay Đổi : 900000
+----------Thời Gian : 2024-01-29 11:32:04--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 924233
+- Lượng Mới : 824233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:32:13--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 824233
+- Lượng Mới : 724233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:32:20--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 724233
+- Lượng Mới : 624233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:32:27--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 624233
+- Lượng Mới : 524233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:32:34--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 524233
+- Lượng Mới : 424233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:32:43--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 424233
+- Lượng Mới : 324233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:32:51--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 324233
+- Lượng Mới : 224233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:33:32--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 224233
+- Lượng Mới : 124233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 11:33:39--------
+- Name : ajmtgaj
+- Nội Dung :  Đặt Tài Trừ -100000
+- Lượng Cũ : 124233
+- Lượng Mới : 24233
+- Lượng Thay Đổi : -100000
+----------Thời Gian : 2024-01-29 13:10:07--------
+- Name : trumlatao
+- Nội Dung :  Đặt Tài Trừ -76000
+- Lượng Cũ : 76476
+- Lượng Mới : 476
+- Lượng Thay Đổi : -76000

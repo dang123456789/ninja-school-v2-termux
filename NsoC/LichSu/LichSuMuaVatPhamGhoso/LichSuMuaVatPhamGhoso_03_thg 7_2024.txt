@@ -1,0 +1,33 @@
+----------Thời Gian : 2024-07-03 09:44:46--------
+- Name : admin
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 1
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 1977223293
+- Lượng Mới : 1977223243
+- Xu Cũ : 1993400000
+- Xu Mới : 1993400000
+----------Thời Gian : 2024-07-03 09:44:47--------
+- Name : admin
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 2
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 1977223243
+- Lượng Mới : 1977223143
+- Xu Cũ : 1993400000
+- Xu Mới : 1993400000
+----------Thời Gian : 2024-07-03 19:07:42--------
+- Name : admin
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Mũ noel
+- Số Lượng Mua : 1
+- Lượng Mua : -60
+- Xu Mua : 0
+- Lượng Cũ : 1977223143
+- Lượng Mới : 1977223083
+- Xu Cũ : 1993400000
+- Xu Mới : 1993400000

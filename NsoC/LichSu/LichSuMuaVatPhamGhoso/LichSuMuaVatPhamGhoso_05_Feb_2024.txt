@@ -1,0 +1,7380 @@
+----------Thời Gian : 2024-02-05 00:00:44--------
+- Name : quatno1
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP lớn
+- Số Lượng Mua : 2000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 288762
+- Lượng Mới : 288762
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 00:00:52--------
+- Name : quatno1
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP lớn
+- Số Lượng Mua : 5000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 288762
+- Lượng Mới : 288762
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 00:01:06--------
+- Name : tieuno1
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP lớn
+- Số Lượng Mua : 2000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 288783
+- Lượng Mới : 288783
+- Xu Cũ : 986000
+- Xu Mới : 986000
+----------Thời Gian : 2024-02-05 00:01:10--------
+- Name : tieuno1
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP lớn
+- Số Lượng Mua : 5000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 288783
+- Lượng Mới : 288783
+- Xu Cũ : 986000
+- Xu Mới : 986000
+----------Thời Gian : 2024-02-05 00:08:18--------
+- Name : gosuki
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nấm linh chi
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 500850
+- Lượng Mới : 500800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 00:12:06--------
+- Name : ADMIN
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Giấy phép tẩy tiềm năng
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 87090621
+- Lượng Mới : 87090521
+- Xu Cũ : 4508900
+- Xu Mới : 4508900
+----------Thời Gian : 2024-02-05 00:22:00--------
+- Name : gosuki
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Suishou
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 488800
+- Lượng Mới : 488800
+- Xu Cũ : 1000000
+- Xu Mới : 999000
+----------Thời Gian : 2024-02-05 00:22:01--------
+- Name : gosuki
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Oouchia
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 488800
+- Lượng Mới : 488800
+- Xu Cũ : 999000
+- Xu Mới : 998000
+----------Thời Gian : 2024-02-05 00:22:03--------
+- Name : gosuki
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Kusenmono
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 488800
+- Lượng Mới : 488800
+- Xu Cũ : 998000
+- Xu Mới : 997000
+----------Thời Gian : 2024-02-05 00:22:04--------
+- Name : gosuki
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Bakkuuchiha
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 488800
+- Lượng Mới : 488800
+- Xu Cũ : 997000
+- Xu Mới : 996000
+----------Thời Gian : 2024-02-05 00:22:06--------
+- Name : gosuki
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Hayatemi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 488800
+- Lượng Mới : 488800
+- Xu Cũ : 996000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-05 00:22:08--------
+- Name : gosuki
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Bousouhayate
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 488800
+- Lượng Mới : 488800
+- Xu Cũ : 995000
+- Xu Mới : 994000
+----------Thời Gian : 2024-02-05 00:22:09--------
+- Name : gosuki
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Toruneedo
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 488800
+- Lượng Mới : 488800
+- Xu Cũ : 994000
+- Xu Mới : 993000
+----------Thời Gian : 2024-02-05 00:22:13--------
+- Name : gosuki
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Tatsumaki
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 488800
+- Lượng Mới : 488800
+- Xu Cũ : 993000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 00:31:55--------
+- Name : gosuki
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP lớn
+- Số Lượng Mua : 1000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 488800
+- Lượng Mới : 488800
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 00:48:02--------
+- Name : kunaivjp
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Đùi heo sữa
+- Số Lượng Mua : 10
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 288618
+- Lượng Mới : 288618
+- Xu Cũ : 857000
+- Xu Mới : 857000
+----------Thời Gian : 2024-02-05 00:49:57--------
+- Name : kunaivjp
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP cực lớn
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 288614
+- Lượng Mới : 288614
+- Xu Cũ : 857000
+- Xu Mới : 857000
+----------Thời Gian : 2024-02-05 00:50:05--------
+- Name : kunaivjp
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP cực lớn
+- Số Lượng Mua : 15000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 288614
+- Lượng Mới : 288614
+- Xu Cũ : 857000
+- Xu Mới : 857000
+----------Thời Gian : 2024-02-05 00:51:45--------
+- Name : tieuno1
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Totogai
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 288765
+- Lượng Mới : 288265
+- Xu Cũ : 986000
+- Xu Mới : 986000
+----------Thời Gian : 2024-02-05 00:53:49--------
+- Name : tieuno1
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP lớn
+- Số Lượng Mua : 10000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 288265
+- Lượng Mới : 288265
+- Xu Cũ : 986000
+- Xu Mới : 986000
+----------Thời Gian : 2024-02-05 00:54:02--------
+- Name : tieuno1
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP lớn
+- Số Lượng Mua : 10000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 288265
+- Lượng Mới : 288265
+- Xu Cũ : 986000
+- Xu Mới : 986000
+----------Thời Gian : 2024-02-05 00:54:07--------
+- Name : quatno1
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP lớn
+- Số Lượng Mua : 10000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 288636
+- Lượng Mới : 288636
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 00:54:12--------
+- Name : quatno1
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP lớn
+- Số Lượng Mua : 10000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 288635
+- Lượng Mới : 288635
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 01:06:51--------
+- Name : soikaz
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP Cao Cấp
+- Số Lượng Mua : 21000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 4661984
+- Lượng Mới : 4661984
+- Xu Cũ : 57778212
+- Xu Mới : 57778212
+----------Thời Gian : 2024-02-05 01:06:59--------
+- Name : soikaz
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP Cao Cấp
+- Số Lượng Mua : 18000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 4661984
+- Lượng Mới : 4661984
+- Xu Cũ : 57778212
+- Xu Mới : 57778212
+----------Thời Gian : 2024-02-05 01:09:47--------
+- Name : soikaz
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Đùi heo sữa cao cấp
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 4661984
+- Lượng Mới : 4661934
+- Xu Cũ : 57778212
+- Xu Mới : 57778212
+----------Thời Gian : 2024-02-05 01:15:55--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP Cao Cấp
+- Số Lượng Mua : 20000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149617
+- Lượng Mới : 149617
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:17:46--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:18:25--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:18:30--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:18:34--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:18:45--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:19:16--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:19:52--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:21:01--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:22:05--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:22:17--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:22:27--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:22:35--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:23:08--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:25:41--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:25:49--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:26:35--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:27:03--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:27:11--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:27:36--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:27:57--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:28:24--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:28:40--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:29:33--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:29:40--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:29:52--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:30:18--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:30:26--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:31:00--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:31:44--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:32:47--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:32:51--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:32:56--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:33:41--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:33:53--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:34:02--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:34:08--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:34:26--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:34:38--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:34:43--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:35:05--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:35:20--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:35:56--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:36:45--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:37:33--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:37:39--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:39:06--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:39:12--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:39:21--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:39:51--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:40:26--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:43:49--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:44:24--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:44:28--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:44:36--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:44:40--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:44:45--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:45:42--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:46:41--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:46:47--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:46:59--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:47:26--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:48:18--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:48:44--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:50:19--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:52:56--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:53:09--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:53:26--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:53:53--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:54:35--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:54:59--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:55:15--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:55:31--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:58:28--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 01:59:38--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:00:35--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:00:53--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:01:19--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:01:26--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:01:31--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:01:53--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:02:14--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:02:34--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:03:28--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:03:42--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:04:25--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:05:10--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:05:47--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:06:25--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:06:29--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:06:33--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:06:48--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:07:12--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:07:38--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:07:46--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:08:02--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:08:16--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:08:32--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:08:40--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:09:22--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:09:35--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:09:46--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:10:07--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:10:39--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:10:46--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:10:57--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:11:03--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:11:09--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:11:19--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:11:46--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:11:51--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:11:59--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:12:04--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:12:09--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:12:32--------
+- Name : Anh Kòy JP
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phân thân lệnh
+- Số Lượng Mua : 6
+- Lượng Mua : -60000
+- Xu Mua : 0
+- Lượng Cũ : 2776112
+- Lượng Mới : 2716112
+- Xu Cũ : 54618111
+- Xu Mới : 54618111
+----------Thời Gian : 2024-02-05 02:12:34--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:12:58--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:13:16--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:13:48--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:14:38--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:14:47--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:15:20--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:15:56--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:18:11--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:18:17--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:18:37--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:18:43--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:19:34--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:20:15--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:20:33--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:20:42--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:21:59--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:22:27--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:23:42--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:25:15--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:26:42--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:27:55--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:28:29--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:29:14--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:29:43--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:35:18--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:37:03--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:37:21--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:38:13--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:39:01--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:40:42--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:42:02--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:43:27--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:43:49--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:44:18--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:44:55--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:45:09--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:46:27--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:46:34--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:46:58--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:47:30--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:47:56--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:48:24--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:48:44--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:48:52--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:49:03--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:49:49--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:50:33--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:50:40--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:51:22--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:51:40--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:52:37--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:53:36--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:53:48--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:54:05--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:54:17--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:54:36--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:55:09--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:55:29--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:56:14--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:56:47--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:57:41--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:58:21--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 02:59:16--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:00:07--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:00:54--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:01:22--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:02:05--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:02:19--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:03:40--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:03:59--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:04:21--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:04:57--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:05:10--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:05:18--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:05:47--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:05:52--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:07:09--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:07:50--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:09:54--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:10:02--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:10:11--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:12:19--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:12:56--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:13:12--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:13:16--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:14:16--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:15:11--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:15:30--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:15:46--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:15:52--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:18:11--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:18:56--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:19:09--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:19:20--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:20:29--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:21:06--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:21:13--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:22:12--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:23:17--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:24:31--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:25:07--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:26:26--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:27:47--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:27:54--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:28:22--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:29:12--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:29:51--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:30:02--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:30:58--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:31:50--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:33:59--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:34:16--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:34:30--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:34:35--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:34:53--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:35:00--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:35:38--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:36:25--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:36:33--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:37:14--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:38:03--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:38:21--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:38:47--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:38:57--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:40:37--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:41:37--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:42:12--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:42:22--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:42:27--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:43:01--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:44:27--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:44:57--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:46:40--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:46:47--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:46:51--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:47:15--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:47:50--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:48:21--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:48:35--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:49:12--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:50:06--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:50:24--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:50:32--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:50:57--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:51:16--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:51:20--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:51:25--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:51:36--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:51:43--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:52:05--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:52:48--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:52:58--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:53:45--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:53:49--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:53:56--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:54:00--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:54:23--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:54:28--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:55:00--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:56:06--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:56:10--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:56:42--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:57:00--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:57:05--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:57:36--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:58:22--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:58:32--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:58:45--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:59:07--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:59:27--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:59:42--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:59:52--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 03:59:56--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:00:00--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:00:38--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:00:44--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:00:54--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:01:17--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:01:29--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:01:38--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:01:43--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:01:56--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:02:07--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:02:49--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:03:19--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:03:52--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:04:19--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:04:42--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:05:04--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:05:22--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:06:41--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:07:29--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:08:06--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:08:58--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:10:04--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:11:56--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:12:00--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:18:48--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:21:11--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:21:18--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:22:38--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:22:44--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:24:32--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:25:07--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:25:55--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:26:16--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:28:33--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:28:46--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:29:45--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:36:26--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:39:46--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:44:57--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:45:57--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:47:13--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:50:47--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:51:34--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:52:13--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:53:03--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:55:48--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:56:39--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:57:40--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:58:40--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:58:58--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:59:16--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 04:59:45--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:00:10--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:01:33--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:02:18--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:02:25--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:03:17--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:03:48--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:04:06--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:05:05--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:05:11--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:05:20--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:05:25--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:05:29--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:05:37--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:05:44--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:06:02--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:06:07--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:06:55--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:08:09--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:08:24--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:08:49--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:09:03--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:09:57--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:10:41--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:12:49--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:14:47--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:15:09--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:16:10--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:16:25--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:17:35--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:18:16--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:19:12--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:19:33--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:19:40--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:20:50--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:22:11--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:24:27--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:24:48--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:25:47--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:27:21--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:27:33--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:27:42--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:28:18--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:29:02--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:29:30--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:29:41--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:30:05--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:30:44--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:31:17--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:33:21--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:33:33--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:34:05--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:34:17--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:34:57--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:36:56--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:37:20--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:37:32--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:39:09--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:41:01--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:42:41--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:44:49--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:46:45--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:47:39--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:48:42--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:50:53--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:51:31--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 05:56:48--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:01:11--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:01:31--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:01:41--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:02:47--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:03:09--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:03:21--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:04:14--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 00:00:00--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:04:24--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:05:05--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:05:14--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:08:11--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:08:39--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:08:49--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:08:54--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:09:00--------
+- Name : vailol
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Cổ lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -6000
+- Xu Mua : 0
+- Lượng Cũ : 1986107
+- Lượng Mới : 1980107
+- Xu Cũ : 32367606
+- Xu Mới : 32367606
+----------Thời Gian : 2024-02-05 06:09:04--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:09:16--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:09:34--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:10:39--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:10:55--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:11:03--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:11:56--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:12:17--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:13:41--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:14:21--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:14:53--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:15:57--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:18:48--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:19:25--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:20:16--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:20:38--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:21:00--------
+- Name : trummem
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Vô hạn khả di lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 51000
+- Lượng Mới : 50950
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 06:21:21--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:21:22--------
+- Name : trummem
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 1
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 50950
+- Lượng Mới : 50900
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 06:21:46--------
+- Name : trummem
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Mặt nạ Jiraiya 
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 50900
+- Lượng Mới : 50800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 06:22:10--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:22:40--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:22:54--------
+- Name : trummem
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara
+ Áo
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 50800
+- Lượng Mới : 48800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 06:22:57--------
+- Name : trummem
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Quần
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 48800
+- Lượng Mới : 46800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 06:23:10--------
+- Name : trummem
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nhật Tử Lam Phong
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 46800
+- Lượng Mới : 44800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 06:23:14--------
+- Name : trummem
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Gậy Mặt Trăng
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 44800
+- Lượng Mới : 43800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 06:25:01--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:25:38--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:26:24--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:29:48--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:30:35--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:30:55--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:31:37--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:32:10--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:32:48--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:33:24--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:33:31--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:34:09--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:35:17--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:35:26--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 06:35:51--------
+- Name : quydahanh01
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sashimi
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 149616
+- Lượng Mới : 149616
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 07:02:06--------
+- Name : trummem
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Vô hạn bách biến lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 73800
+- Lượng Mới : 73750
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 07:02:11--------
+- Name : trummem
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 2
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 73750
+- Lượng Mới : 73650
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 07:02:12--------
+- Name : trummem
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 2
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 73650
+- Lượng Mới : 73550
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 07:02:14--------
+- Name : trummem
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 2
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 73550
+- Lượng Mới : 73450
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 07:02:16--------
+- Name : trummem
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 2
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 73450
+- Lượng Mới : 73350
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 07:02:17--------
+- Name : trummem
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 2
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 73350
+- Lượng Mới : 73250
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 07:21:31--------
+- Name : vailol
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Cổ lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -6000
+- Xu Mua : 0
+- Lượng Cũ : 1988237
+- Lượng Mới : 1982237
+- Xu Cũ : 32367606
+- Xu Mới : 32367606
+----------Thời Gian : 2024-02-05 07:57:54--------
+- Name : ckptx1
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Hoán chuyển cao cấp
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 229117
+- Lượng Mới : 228117
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 07:58:01--------
+- Name : ckptx1
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bảo hiểm như ý
+- Số Lượng Mua : 10
+- Lượng Mua : -5000
+- Xu Mua : 0
+- Lượng Cũ : 228117
+- Lượng Mới : 223117
+- Xu Cũ : 587000
+- Xu Mới : 587000
+----------Thời Gian : 2024-02-05 08:31:02--------
+- Name : trummom
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thiên nhãn phù
+- Số Lượng Mua : 3
+- Lượng Mua : -1500
+- Xu Mua : 0
+- Lượng Cũ : 404750
+- Lượng Mới : 403250
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 08:32:13--------
+- Name : top100svlau
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Cổ lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -6000
+- Xu Mua : 0
+- Lượng Cũ : 528850
+- Lượng Mới : 522850
+- Xu Cũ : 0
+- Xu Mới : 0
+----------Thời Gian : 2024-02-05 08:32:22--------
+- Name : vietnamese
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phiếu may mắn
+- Số Lượng Mua : 20
+- Lượng Mua : -200
+- Xu Mua : 0
+- Lượng Cũ : 891342
+- Lượng Mới : 891142
+- Xu Cũ : 55670336
+- Xu Mới : 55670336
+----------Thời Gian : 2024-02-05 08:37:47--------
+- Name : vietnamese
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Danh vọng phù
+- Số Lượng Mua : 6
+- Lượng Mua : -3000
+- Xu Mua : 0
+- Lượng Cũ : 891673
+- Lượng Mới : 888673
+- Xu Cũ : 55673036
+- Xu Mới : 55673036
+----------Thời Gian : 2024-02-05 08:45:59--------
+- Name : vietnamese
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phiếu may mắn
+- Số Lượng Mua : 20
+- Lượng Mua : -200
+- Xu Mua : 0
+- Lượng Cũ : 889416
+- Lượng Mới : 889216
+- Xu Cũ : 55675736
+- Xu Mới : 55675736
+----------Thời Gian : 2024-02-05 08:59:00--------
+- Name : gamehayqua
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Tóc
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 180000
+- Lượng Mới : 178000
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 08:59:04--------
+- Name : gamehayqua
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Quần
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 178000
+- Lượng Mới : 176000
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 08:59:06--------
+- Name : gamehayqua
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara
+ Áo
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 176000
+- Lượng Mới : 174000
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 09:00:48--------
+- Name : tieuno1
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Baaningufukiya
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 287987
+- Lượng Mới : 287487
+- Xu Cũ : 986000
+- Xu Mới : 986000
+----------Thời Gian : 2024-02-05 09:00:52--------
+- Name : tieuno1
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Hibashiri
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 287487
+- Lượng Mới : 286987
+- Xu Cũ : 986000
+- Xu Mới : 986000
+----------Thời Gian : 2024-02-05 09:02:07--------
+- Name : quatno1
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Kougekitenrai
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 287869
+- Lượng Mới : 287369
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 09:02:09--------
+- Name : quatno1
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Kokaze
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 287369
+- Lượng Mới : 286869
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 09:02:43--------
+- Name : quatno1
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Ooenjo
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 286868
+- Lượng Mới : 286368
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 09:23:12--------
+- Name : dao69k
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thiên nhãn phù
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 127266
+- Lượng Mới : 126766
+- Xu Cũ : 21403115
+- Xu Mới : 21403115
+----------Thời Gian : 2024-02-05 09:30:25--------
+- Name : bopvucogiao
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Quần
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 51000
+- Lượng Mới : 49000
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 09:30:26--------
+- Name : bopvucogiao
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara
+ Áo
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 49000
+- Lượng Mới : 47000
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 09:30:28--------
+- Name : bopvucogiao
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Áo Dài Nam
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 47000
+- Lượng Mới : 45000
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 09:30:33--------
+- Name : bopvucogiao
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nhật Tử Lam Phong
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 45000
+- Lượng Mới : 43000
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 09:30:39--------
+- Name : bopvucogiao
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Bóng Ma
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 43000
+- Lượng Mới : 42000
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 09:30:40--------
+- Name : bopvucogiao
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Yêu Tinh
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 42000
+- Lượng Mới : 41000
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 09:30:55--------
+- Name : bopvucogiao
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Vô hạn khả di lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 41000
+- Lượng Mới : 40950
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 09:30:56--------
+- Name : bopvucogiao
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 1
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 40950
+- Lượng Mới : 40900
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 09:30:57--------
+- Name : bopvucogiao
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 2
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 40900
+- Lượng Mới : 40800
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 09:31:06--------
+- Name : bopvucogiao
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nấm linh chi
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 40800
+- Lượng Mới : 40750
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 09:31:11--------
+- Name : bopvucogiao
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Ứng Long
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 40750
+- Lượng Mới : 40650
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 09:46:44--------
+- Name : bopvucogiao
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Giấy phép tẩy tiềm năng
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 478650
+- Lượng Mới : 478550
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 09:47:21--------
+- Name : bopvucogiao
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Amagedon
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 478550
+- Lượng Mới : 478550
+- Xu Cũ : 1000000
+- Xu Mới : 999000
+----------Thời Gian : 2024-02-05 09:47:24--------
+- Name : bopvucogiao
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Jizokuzan
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 478550
+- Lượng Mới : 478550
+- Xu Cũ : 999000
+- Xu Mới : 998000
+----------Thời Gian : 2024-02-05 09:47:25--------
+- Name : bopvucogiao
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công X Zangeki
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 478550
+- Lượng Mới : 478550
+- Xu Cũ : 998000
+- Xu Mới : 997000
+----------Thời Gian : 2024-02-05 09:47:26--------
+- Name : bopvucogiao
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Raikou
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 478550
+- Lượng Mới : 478550
+- Xu Cũ : 997000
+- Xu Mới : 996000
+----------Thời Gian : 2024-02-05 09:47:27--------
+- Name : bopvucogiao
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Hihebun
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 478550
+- Lượng Mới : 478550
+- Xu Cũ : 996000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-05 09:47:28--------
+- Name : bopvucogiao
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Choukouhirenzo
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 478550
+- Lượng Mới : 478550
+- Xu Cũ : 995000
+- Xu Mới : 994000
+----------Thời Gian : 2024-02-05 09:47:32--------
+- Name : bopvucogiao
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Tatsumaki
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 478550
+- Lượng Mới : 478550
+- Xu Cũ : 994000
+- Xu Mới : 993000
+----------Thời Gian : 2024-02-05 09:47:33--------
+- Name : bopvucogiao
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Pawaraikou
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 478550
+- Lượng Mới : 478050
+- Xu Cũ : 993000
+- Xu Mới : 993000
+----------Thời Gian : 2024-02-05 09:47:34--------
+- Name : bopvucogiao
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Maajizangeki
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 478050
+- Lượng Mới : 477550
+- Xu Cũ : 993000
+- Xu Mới : 993000
+----------Thời Gian : 2024-02-05 09:47:35--------
+- Name : bopvucogiao
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Ikkakujuu 
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 477550
+- Lượng Mới : 477050
+- Xu Cũ : 993000
+- Xu Mới : 993000
+----------Thời Gian : 2024-02-05 09:49:12--------
+- Name : gamehayqua
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 1
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 174000
+- Lượng Mới : 173950
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 09:49:14--------
+- Name : gamehayqua
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 2
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 173950
+- Lượng Mới : 173850
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 09:54:30--------
+- Name : gamehayqua
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Cổ lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -6000
+- Xu Mua : 0
+- Lượng Cũ : 161850
+- Lượng Mới : 155850
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 10:01:36--------
+- Name : bopvucogiao
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thiên nhãn phù
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 477050
+- Lượng Mới : 476550
+- Xu Cũ : 993000
+- Xu Mới : 993000
+----------Thời Gian : 2024-02-05 10:09:09--------
+- Name : Anh Kòy JP
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Cổ lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -6000
+- Xu Mua : 0
+- Lượng Cũ : 2762670
+- Lượng Mới : 2756670
+- Xu Cũ : 64836711
+- Xu Mới : 64836711
+----------Thời Gian : 2024-02-05 10:30:25--------
+- Name : vailol
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Lệnh bài hang động
+- Số Lượng Mua : 2
+- Lượng Mua : -200
+- Xu Mua : 0
+- Lượng Cũ : 2002237
+- Lượng Mới : 2002037
+- Xu Cũ : 32367606
+- Xu Mới : 32367606
+----------Thời Gian : 2024-02-05 10:33:25--------
+- Name : b0ybacninh
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Gậy Mặt Trăng
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 225792
+- Lượng Mới : 224792
+- Xu Cũ : 29036522
+- Xu Mới : 29036522
+----------Thời Gian : 2024-02-05 10:33:26--------
+- Name : b0ybacninh
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Áo Dài Nam
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 224792
+- Lượng Mới : 222792
+- Xu Cũ : 29036522
+- Xu Mới : 29036522
+----------Thời Gian : 2024-02-05 10:33:28--------
+- Name : b0ybacninh
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Bóng Ma
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 222792
+- Lượng Mới : 221792
+- Xu Cũ : 29036522
+- Xu Mới : 29036522
+----------Thời Gian : 2024-02-05 10:33:29--------
+- Name : b0ybacninh
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nhật Tử Lam Phong
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 221792
+- Lượng Mới : 219792
+- Xu Cũ : 29036522
+- Xu Mới : 29036522
+----------Thời Gian : 2024-02-05 10:33:40--------
+- Name : b0ybacninh
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Gậy Mặt Trăng
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 219792
+- Lượng Mới : 218792
+- Xu Cũ : 29036522
+- Xu Mới : 29036522
+----------Thời Gian : 2024-02-05 10:33:41--------
+- Name : b0ybacninh
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nhật Tử Lam Phong
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 218792
+- Lượng Mới : 216792
+- Xu Cũ : 29036522
+- Xu Mới : 29036522
+----------Thời Gian : 2024-02-05 10:33:43--------
+- Name : b0ybacninh
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Tóc
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 216792
+- Lượng Mới : 214792
+- Xu Cũ : 29036522
+- Xu Mới : 29036522
+----------Thời Gian : 2024-02-05 10:33:45--------
+- Name : b0ybacninh
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Áo Dài Nam
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 214792
+- Lượng Mới : 212792
+- Xu Cũ : 29036522
+- Xu Mới : 29036522
+----------Thời Gian : 2024-02-05 10:55:46--------
+- Name : trummem
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Túi vải cấp 1
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 493250
+- Lượng Mới : 493200
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 11:01:54--------
+- Name : trummem
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP vừa
+- Số Lượng Mua : 500
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 493200
+- Lượng Mới : 493200
+- Xu Cũ : 1000000
+- Xu Mới : 1000000
+----------Thời Gian : 2024-02-05 11:04:07--------
+- Name : vailol
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Cổ lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -6000
+- Xu Mua : 0
+- Lượng Cũ : 2017246
+- Lượng Mới : 2011246
+- Xu Cũ : 32367606
+- Xu Mới : 32367606
+----------Thời Gian : 2024-02-05 11:34:51--------
+- Name : doikuly
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 6500
+- Lượng Mua : -65000
+- Xu Mua : 0
+- Lượng Cũ : 1173032
+- Lượng Mới : 1108032
+- Xu Cũ : 115562095
+- Xu Mới : 115562095
+----------Thời Gian : 2024-02-05 11:36:37--------
+- Name : doikuly
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 7000
+- Lượng Mua : -70000
+- Xu Mua : 0
+- Lượng Cũ : 1108032
+- Lượng Mới : 1038032
+- Xu Cũ : 115562095
+- Xu Mới : 115562095
+----------Thời Gian : 2024-02-05 11:38:53--------
+- Name : doikuly
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 4000
+- Lượng Mua : -40000
+- Xu Mua : 0
+- Lượng Cũ : 938032
+- Lượng Mới : 898032
+- Xu Cũ : 115562095
+- Xu Mới : 115562095
+----------Thời Gian : 2024-02-05 11:40:32--------
+- Name : doikuly
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 9000
+- Lượng Mua : -90000
+- Xu Mua : 0
+- Lượng Cũ : 838032
+- Lượng Mới : 748032
+- Xu Cũ : 115562095
+- Xu Mới : 115562095
+----------Thời Gian : 2024-02-05 11:49:38--------
+- Name : clonenlsk1
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP lớn
+- Số Lượng Mua : 20000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 355991
+- Lượng Mới : 355991
+- Xu Cũ : 987000
+- Xu Mới : 987000
+----------Thời Gian : 2024-02-05 11:54:31--------
+- Name : clonenlsk2
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP lớn
+- Số Lượng Mua : 20000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 326620
+- Lượng Mới : 326620
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 11:55:17--------
+- Name : kunaivjp
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 300
+- Lượng Mua : -3000
+- Xu Mua : 0
+- Lượng Cũ : 289516
+- Lượng Mới : 286516
+- Xu Cũ : 857000
+- Xu Mới : 857000
+----------Thời Gian : 2024-02-05 11:56:08--------
+- Name : clonenlsk3
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Gậy Mặt Trăng
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 347549
+- Lượng Mới : 346549
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 11:56:10--------
+- Name : clonenlsk3
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nhật Tử Lam Phong
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 346549
+- Lượng Mới : 344549
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 11:56:11--------
+- Name : clonenlsk3
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Áo Dài Nam
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 344549
+- Lượng Mới : 342549
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 11:56:12--------
+- Name : clonenlsk3
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara
+ Áo
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 342549
+- Lượng Mới : 340549
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 11:56:13--------
+- Name : bopvucogiao
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara
+ Áo
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 476550
+- Lượng Mới : 474550
+- Xu Cũ : 993000
+- Xu Mới : 993000
+----------Thời Gian : 2024-02-05 11:56:14--------
+- Name : clonenlsk3
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Quần
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 340549
+- Lượng Mới : 338549
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 11:56:16--------
+- Name : clonenlsk3
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Bóng Ma
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 338549
+- Lượng Mới : 337549
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 11:56:17--------
+- Name : clonenlsk3
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Yêu Tinh
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 337549
+- Lượng Mới : 336549
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 11:56:50--------
+- Name : kunaivjp
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Chìa Khoá Vẽ Bùa
+- Số Lượng Mua : 10
+- Lượng Mua : -20000
+- Xu Mua : 0
+- Lượng Cũ : 286516
+- Lượng Mới : 266516
+- Xu Cũ : 857000
+- Xu Mới : 857000
+----------Thời Gian : 2024-02-05 11:56:53--------
+- Name : kunaivjp
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Chìa Khoá Vẽ Bùa
+- Số Lượng Mua : 10
+- Lượng Mua : -20000
+- Xu Mua : 0
+- Lượng Cũ : 266516
+- Lượng Mới : 246516
+- Xu Cũ : 857000
+- Xu Mới : 857000
+----------Thời Gian : 2024-02-05 12:00:46--------
+- Name : kunaivjp
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Tuần Thú Lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 247273
+- Lượng Mới : 246773
+- Xu Cũ : 857000
+- Xu Mới : 857000
+----------Thời Gian : 2024-02-05 13:11:50--------
+- Name : doikuly
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Cổ lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -6000
+- Xu Mua : 0
+- Lượng Cũ : 718814
+- Lượng Mới : 712814
+- Xu Cũ : 115570882
+- Xu Mới : 115570882
+----------Thời Gian : 2024-02-05 13:59:57--------
+- Name : baniaa
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Cổ lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -6000
+- Xu Mua : 0
+- Lượng Cũ : 6582854
+- Lượng Mới : 6576854
+- Xu Cũ : 549116678
+- Xu Mới : 549116678
+----------Thời Gian : 2024-02-05 15:13:09--------
+- Name : noel2001
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP lớn
+- Số Lượng Mua : 8000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 424331
+- Lượng Mới : 424331
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 15:13:56--------
+- Name : muzann
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP lớn
+- Số Lượng Mua : 11000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 44914
+- Lượng Mới : 44914
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 15:17:05--------
+- Name : Bối Yang Hồ
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 23000
+- Lượng Mua : -230000
+- Xu Mua : 0
+- Lượng Cũ : 17811495
+- Lượng Mới : 17581495
+- Xu Cũ : 26473400
+- Xu Mới : 26473400
+----------Thời Gian : 2024-02-05 15:18:47--------
+- Name : Bối Yang Hồ
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 28000
+- Lượng Mua : -280000
+- Xu Mua : 0
+- Lượng Cũ : 17390695
+- Lượng Mới : 17110695
+- Xu Cũ : 26473400
+- Xu Mới : 26473400
+----------Thời Gian : 2024-02-05 15:19:58--------
+- Name : clone2
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP lớn
+- Số Lượng Mua : 13000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 115086
+- Lượng Mới : 115086
+- Xu Cũ : 12991000
+- Xu Mới : 12991000
+----------Thời Gian : 2024-02-05 15:32:15--------
+- Name : Bối Yang Hồ
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 16000
+- Lượng Mua : -160000
+- Xu Mua : 0
+- Lượng Cũ : 17007495
+- Lượng Mới : 16847495
+- Xu Cũ : 26473400
+- Xu Mới : 26473400
+----------Thời Gian : 2024-02-05 15:32:53--------
+- Name : dung6534
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP lớn
+- Số Lượng Mua : 6000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 371250
+- Lượng Mới : 371250
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 15:36:04--------
+- Name : dung653
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP lớn
+- Số Lượng Mua : 7000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 28750
+- Lượng Mới : 28750
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 15:36:47--------
+- Name : Bối Yang Hồ
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 14000
+- Lượng Mua : -140000
+- Xu Mua : 0
+- Lượng Cũ : 16755495
+- Lượng Mới : 16615495
+- Xu Cũ : 26473400
+- Xu Mới : 26473400
+----------Thời Gian : 2024-02-05 15:39:18--------
+- Name : Bối Yang Hồ
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 14000
+- Lượng Mua : -140000
+- Xu Mua : 0
+- Lượng Cũ : 16520695
+- Lượng Mới : 16380695
+- Xu Cũ : 26473400
+- Xu Mới : 26473400
+----------Thời Gian : 2024-02-05 15:39:22--------
+- Name : thienkiem
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nhật Tử Lam Phong
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 5565256
+- Lượng Mới : 5563256
+- Xu Cũ : 156556099
+- Xu Mới : 156556099
+----------Thời Gian : 2024-02-05 15:39:24--------
+- Name : thienkiem
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Bóng Ma
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 5563256
+- Lượng Mới : 5562256
+- Xu Cũ : 156556099
+- Xu Mới : 156556099
+----------Thời Gian : 2024-02-05 15:39:26--------
+- Name : thienkiem
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Yêu Tinh
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 5562256
+- Lượng Mới : 5561256
+- Xu Cũ : 156556099
+- Xu Mới : 156556099
+----------Thời Gian : 2024-02-05 15:42:48--------
+- Name : giyuuu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 20000
+- Lượng Mua : -200000
+- Xu Mua : 0
+- Lượng Cũ : 10116336
+- Lượng Mới : 9916336
+- Xu Cũ : 9486248
+- Xu Mới : 9486248
+----------Thời Gian : 2024-02-05 15:42:59--------
+- Name : giyuuu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 30000
+- Lượng Mua : -300000
+- Xu Mua : 0
+- Lượng Cũ : 9916336
+- Lượng Mới : 9616336
+- Xu Cũ : 9486248
+- Xu Mới : 9486248
+----------Thời Gian : 2024-02-05 15:49:15--------
+- Name : giyuuu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 20000
+- Lượng Mua : -200000
+- Xu Mua : 0
+- Lượng Cũ : 9296336
+- Lượng Mới : 9096336
+- Xu Cũ : 9486248
+- Xu Mới : 9486248
+----------Thời Gian : 2024-02-05 15:52:34--------
+- Name : giyuuu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 30000
+- Lượng Mua : -300000
+- Xu Mua : 0
+- Lượng Cũ : 8952336
+- Lượng Mới : 8652336
+- Xu Cũ : 9486248
+- Xu Mới : 9486248
+----------Thời Gian : 2024-02-05 16:10:49--------
+- Name : giyuuu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 30000
+- Lượng Mua : -300000
+- Xu Mua : 0
+- Lượng Cũ : 8472336
+- Lượng Mới : 8172336
+- Xu Cũ : 9486248
+- Xu Mới : 9486248
+----------Thời Gian : 2024-02-05 16:17:12--------
+- Name : giyuuu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 25000
+- Lượng Mua : -250000
+- Xu Mua : 0
+- Lượng Cũ : 7982336
+- Lượng Mới : 7732336
+- Xu Cũ : 9486248
+- Xu Mới : 9486248
+----------Thời Gian : 2024-02-05 16:19:55--------
+- Name : vailol
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Áo Dài Nam
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 1936246
+- Lượng Mới : 1934246
+- Xu Cũ : 11367606
+- Xu Mới : 11367606
+----------Thời Gian : 2024-02-05 16:20:01--------
+- Name : vailol
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Bóng Ma
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 1934246
+- Lượng Mới : 1933246
+- Xu Cũ : 11367606
+- Xu Mới : 11367606
+----------Thời Gian : 2024-02-05 16:20:03--------
+- Name : vailol
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Tóc
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 1933246
+- Lượng Mới : 1931246
+- Xu Cũ : 11367606
+- Xu Mới : 11367606
+----------Thời Gian : 2024-02-05 16:20:51--------
+- Name : giyuuu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 20000
+- Lượng Mua : -200000
+- Xu Mua : 0
+- Lượng Cũ : 7612336
+- Lượng Mới : 7412336
+- Xu Cũ : 9486248
+- Xu Mới : 9486248
+----------Thời Gian : 2024-02-05 16:21:36--------
+- Name : vailol
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 606
+- Lượng Mua : -6060
+- Xu Mua : 0
+- Lượng Cũ : 1931246
+- Lượng Mới : 1925186
+- Xu Cũ : 11367606
+- Xu Mới : 11367606
+----------Thời Gian : 2024-02-05 16:29:33--------
+- Name : bopvucogiao
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Hoán chuyển cao cấp
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 417984
+- Lượng Mới : 416984
+- Xu Cũ : 20873000
+- Xu Mới : 20873000
+----------Thời Gian : 2024-02-05 16:30:19--------
+- Name : betieu1
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Danh vọng phù
+- Số Lượng Mua : 6
+- Lượng Mua : -3000
+- Xu Mua : 0
+- Lượng Cũ : 715724
+- Lượng Mới : 712724
+- Xu Cũ : 1669484
+- Xu Mới : 1669484
+----------Thời Gian : 2024-02-05 16:31:05--------
+- Name : vailol
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Lệnh bài hang động
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 1921146
+- Lượng Mới : 1921046
+- Xu Cũ : 11367606
+- Xu Mới : 11367606
+----------Thời Gian : 2024-02-05 16:42:44--------
+- Name : giyuuu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 30000
+- Lượng Mua : -300000
+- Xu Mua : 0
+- Lượng Cũ : 7202336
+- Lượng Mới : 6902336
+- Xu Cũ : 9486248
+- Xu Mới : 9486248
+----------Thời Gian : 2024-02-05 16:42:47--------
+- Name : giyuuu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 30000
+- Lượng Mua : -300000
+- Xu Mua : 0
+- Lượng Cũ : 6902336
+- Lượng Mới : 6602336
+- Xu Cũ : 9486248
+- Xu Mới : 9486248
+----------Thời Gian : 2024-02-05 16:42:58--------
+- Name : giyuuu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 30000
+- Lượng Mua : -300000
+- Xu Mua : 0
+- Lượng Cũ : 6602336
+- Lượng Mới : 6302336
+- Xu Cũ : 9486248
+- Xu Mới : 9486248
+----------Thời Gian : 2024-02-05 17:33:30--------
+- Name : baniaa
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phân thân lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -10000
+- Xu Mua : 0
+- Lượng Cũ : 6599252
+- Lượng Mới : 6589252
+- Xu Cũ : 549116678
+- Xu Mới : 549116678
+----------Thời Gian : 2024-02-05 17:59:30--------
+- Name : clonenlsk19
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Gậy Mặt Trăng
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 432250
+- Lượng Mới : 431250
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 17:59:32--------
+- Name : clonenlsk19
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nhật Tử Lam Phong
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 431250
+- Lượng Mới : 429250
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 17:59:34--------
+- Name : clonenlsk19
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Áo Dài Nam
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 429250
+- Lượng Mới : 427250
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 17:59:35--------
+- Name : clonenlsk19
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara
+ Áo
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 427250
+- Lượng Mới : 425250
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 17:59:36--------
+- Name : clonenlsk19
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Quần
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 425250
+- Lượng Mới : 423250
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 17:59:38--------
+- Name : clonenlsk19
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Bóng Ma
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 423250
+- Lượng Mới : 422250
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 17:59:40--------
+- Name : clonenlsk19
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Yêu Tinh
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 422250
+- Lượng Mới : 421250
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 18:00:26--------
+- Name : clonenlsk19
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP lớn
+- Số Lượng Mua : 20000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 421250
+- Lượng Mới : 421250
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 18:00:30--------
+- Name : clonenlsk19
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP lớn
+- Số Lượng Mua : 20000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 421250
+- Lượng Mới : 421250
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 18:00:44--------
+- Name : clonenlsk19
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Đùi heo sữa cao cấp
+- Số Lượng Mua : 5
+- Lượng Mua : -250
+- Xu Mua : 0
+- Lượng Cũ : 421250
+- Lượng Mới : 421000
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 18:03:25--------
+- Name : clonenlsk20
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP lớn
+- Số Lượng Mua : 20000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 437450
+- Lượng Mới : 437450
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 18:03:28--------
+- Name : clonenlsk20
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP lớn
+- Số Lượng Mua : 20000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 437450
+- Lượng Mới : 437450
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 18:06:03--------
+- Name : giyuuu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 30000
+- Lượng Mua : -300000
+- Xu Mua : 0
+- Lượng Cũ : 5712336
+- Lượng Mới : 5412336
+- Xu Cũ : 9486248
+- Xu Mới : 9486248
+----------Thời Gian : 2024-02-05 18:06:07--------
+- Name : giyuuu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 30000
+- Lượng Mua : -300000
+- Xu Mua : 0
+- Lượng Cũ : 5412336
+- Lượng Mới : 5112336
+- Xu Cũ : 9486248
+- Xu Mới : 9486248
+----------Thời Gian : 2024-02-05 18:06:11--------
+- Name : giyuuu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 30000
+- Lượng Mua : -300000
+- Xu Mua : 0
+- Lượng Cũ : 5112336
+- Lượng Mới : 4812336
+- Xu Cũ : 9486248
+- Xu Mới : 9486248
+----------Thời Gian : 2024-02-05 18:07:16--------
+- Name : clonenlsk20
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Gậy Mặt Trăng
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 437450
+- Lượng Mới : 436450
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 18:07:18--------
+- Name : clonenlsk20
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nhật Tử Lam Phong
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 436450
+- Lượng Mới : 434450
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 18:07:20--------
+- Name : clonenlsk20
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Áo Dài Nam
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 434450
+- Lượng Mới : 432450
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 18:07:21--------
+- Name : clonenlsk20
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara
+ Áo
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 432450
+- Lượng Mới : 430450
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 18:07:22--------
+- Name : clonenlsk20
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Quần
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 430450
+- Lượng Mới : 428450
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 18:07:24--------
+- Name : clonenlsk20
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Bóng Ma
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 428450
+- Lượng Mới : 427450
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 18:07:29--------
+- Name : clonenlsk20
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Yêu Tinh
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 427450
+- Lượng Mới : 426450
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 18:08:21--------
+- Name : clonenlsk20
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Đùi heo sữa cao cấp
+- Số Lượng Mua : 3
+- Lượng Mua : -150
+- Xu Mua : 0
+- Lượng Cũ : 426450
+- Lượng Mới : 426300
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 18:09:44--------
+- Name : betieu1
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Tà thú lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -5
+- Xu Mua : 0
+- Lượng Cũ : 710920
+- Lượng Mới : 710915
+- Xu Cũ : 1669493
+- Xu Mới : 1669493
+----------Thời Gian : 2024-02-05 18:11:01--------
+- Name : clonenlsk24
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP lớn
+- Số Lượng Mua : 20000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 171500
+- Lượng Mới : 171500
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 18:11:07--------
+- Name : clonenlsk24
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP lớn
+- Số Lượng Mua : 2100
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 171500
+- Lượng Mới : 171500
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 18:14:17--------
+- Name : clonenlsk24
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Gậy Mặt Trăng
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 171500
+- Lượng Mới : 170500
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 18:14:18--------
+- Name : clonenlsk24
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nhật Tử Lam Phong
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 170500
+- Lượng Mới : 168500
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 18:14:19--------
+- Name : clonenlsk24
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Áo Dài Nam
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 168500
+- Lượng Mới : 166500
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 18:14:21--------
+- Name : clonenlsk24
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara
+ Áo
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 166500
+- Lượng Mới : 164500
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 18:14:22--------
+- Name : clonenlsk24
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Quần
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 164500
+- Lượng Mới : 162500
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 18:14:24--------
+- Name : clonenlsk24
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Bóng Ma
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 162500
+- Lượng Mới : 161500
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 18:14:25--------
+- Name : clonenlsk24
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Yêu Tinh
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 161500
+- Lượng Mới : 160500
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 18:47:32--------
+- Name : clonenlsk23
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP lớn
+- Số Lượng Mua : 20000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 188250
+- Lượng Mới : 188250
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 18:52:32--------
+- Name : clonenlsk22
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP lớn
+- Số Lượng Mua : 20000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 422150
+- Lượng Mới : 422150
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 18:54:41--------
+- Name : 3giay1st
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP Cao Cấp
+- Số Lượng Mua : 20000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 2924874
+- Lượng Mới : 2924874
+- Xu Cũ : 58835741
+- Xu Mới : 58835741
+----------Thời Gian : 2024-02-05 18:55:06--------
+- Name : clonenlsk28
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP lớn
+- Số Lượng Mua : 20000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 422550
+- Lượng Mới : 422550
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 19:06:45--------
+- Name : giyuuu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP Cao Cấp
+- Số Lượng Mua : 20000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 4406336
+- Lượng Mới : 4406336
+- Xu Cũ : 9486248
+- Xu Mới : 9486248
+----------Thời Gian : 2024-02-05 19:06:48--------
+- Name : giyuuu
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình HP Cao Cấp
+- Số Lượng Mua : 20000
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 4406336
+- Lượng Mới : 4406336
+- Xu Cũ : 9486248
+- Xu Mới : 9486248
+----------Thời Gian : 2024-02-05 20:56:24--------
+- Name : julywoon
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Gậy Trái Tim
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 206403
+- Lượng Mới : 205403
+- Xu Cũ : 354013
+- Xu Mới : 354013
+----------Thời Gian : 2024-02-05 20:56:28--------
+- Name : julywoon
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Áo Dài Nữ
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 205403
+- Lượng Mới : 203403
+- Xu Cũ : 354013
+- Xu Mới : 354013
+----------Thời Gian : 2024-02-05 20:56:33--------
+- Name : julywoon
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara
+ Áo
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 203403
+- Lượng Mới : 201403
+- Xu Cũ : 354013
+- Xu Mới : 354013
+----------Thời Gian : 2024-02-05 20:56:35--------
+- Name : julywoon
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Quần
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 201403
+- Lượng Mới : 199403
+- Xu Cũ : 354013
+- Xu Mới : 354013
+----------Thời Gian : 2024-02-05 20:56:40--------
+- Name : julywoon
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thiên Nguyệt Chi Nữ
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 199403
+- Lượng Mới : 197403
+- Xu Cũ : 354013
+- Xu Mới : 354013
+----------Thời Gian : 2024-02-05 20:58:20--------
+- Name : julywoon
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Hoán chuyển cao cấp
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 197403
+- Lượng Mới : 196403
+- Xu Cũ : 354013
+- Xu Mới : 354013
+----------Thời Gian : 2024-02-05 21:25:32--------
+- Name : baniaa
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phân thân lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -10000
+- Xu Mua : 0
+- Lượng Cũ : 6605172
+- Lượng Mới : 6595172
+- Xu Cũ : 549116678
+- Xu Mới : 549116678
+----------Thời Gian : 2024-02-05 21:30:33--------
+- Name : baniaa
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Cổ lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -6000
+- Xu Mua : 0
+- Lượng Cũ : 6595172
+- Lượng Mới : 6589172
+- Xu Cũ : 549116678
+- Xu Mới : 549116678
+----------Thời Gian : 2024-02-05 22:07:52--------
+- Name : daikvip198
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nhật Tử Lam Phong
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 366032
+- Lượng Mới : 364032
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 22:08:14--------
+- Name : daikvip198
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara
+ Áo
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 364032
+- Lượng Mới : 362032
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 22:08:16--------
+- Name : daikvip198
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Deidara Quần
+- Số Lượng Mua : 1
+- Lượng Mua : -2000
+- Xu Mua : 0
+- Lượng Cũ : 362032
+- Lượng Mới : 360032
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 22:08:21--------
+- Name : daikvip198
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Pet Bóng Ma
+- Số Lượng Mua : 1
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 360032
+- Lượng Mới : 359032
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 22:08:29--------
+- Name : daikvip198
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Mặt nạ Jiraiya 
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 359032
+- Lượng Mới : 358932
+- Xu Cũ : 992000
+- Xu Mới : 992000
+----------Thời Gian : 2024-02-05 22:48:25--------
+- Name : nghich
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Hibashiri
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 271320
+- Lượng Mới : 270820
+- Xu Cũ : 856000
+- Xu Mới : 856000
+----------Thời Gian : 2024-02-05 22:48:28--------
+- Name : nghich
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Baaningufukiya
+- Số Lượng Mua : 1
+- Lượng Mua : -500
+- Xu Mua : 0
+- Lượng Cũ : 270820
+- Lượng Mới : 270320
+- Xu Cũ : 856000
+- Xu Mới : 856000
+----------Thời Gian : 2024-02-05 22:48:36--------
+- Name : nghich
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Choukou shuriken
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 270320
+- Lượng Mới : 270320
+- Xu Cũ : 856000
+- Xu Mới : 855000
+----------Thời Gian : 2024-02-05 22:48:38--------
+- Name : nghich
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Hijoukai
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 270320
+- Lượng Mới : 270320
+- Xu Cũ : 855000
+- Xu Mới : 854000
+----------Thời Gian : 2024-02-05 22:48:42--------
+- Name : nghich
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Sách võ công Hinotama
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -1000
+- Lượng Cũ : 270320
+- Lượng Mới : 270320
+- Xu Cũ : 854000
+- Xu Mới : 853000
+----------Thời Gian : 2024-02-05 22:49:15--------
+- Name : nghich
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Giấy phép tẩy kỹ năng
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 270320
+- Lượng Mới : 270220
+- Xu Cũ : 853000
+- Xu Mới : 853000
+----------Thời Gian : 2024-02-05 22:49:19--------
+- Name : nghich
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Giấy phép tẩy tiềm năng
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 270220
+- Lượng Mới : 270120
+- Xu Cũ : 853000
+- Xu Mới : 853000
+----------Thời Gian : 2024-02-05 22:54:10--------
+- Name : gametaolao
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Cổ lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -6000
+- Xu Mua : 0
+- Lượng Cũ : 55379
+- Lượng Mới : 49379
+- Xu Cũ : 886272
+- Xu Mới : 886272
+----------Thời Gian : 2024-02-05 22:54:28--------
+- Name : gamexamlon
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Cổ lệnh
+- Số Lượng Mua : 1
+- Lượng Mua : -6000
+- Xu Mua : 0
+- Lượng Cũ : 418376
+- Lượng Mới : 412376
+- Xu Cũ : 0
+- Xu Mới : 0
+----------Thời Gian : 2024-02-05 23:13:22--------
+- Name : helomn
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Nấm linh chi
+- Số Lượng Mua : 1
+- Lượng Mua : -50
+- Xu Mua : 0
+- Lượng Cũ : 387848
+- Lượng Mới : 387798
+- Xu Cũ : 995000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-05 23:16:01--------
+- Name : helomn
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phiếu may mắn
+- Số Lượng Mua : 100
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 387798
+- Lượng Mới : 386798
+- Xu Cũ : 995000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-05 23:19:44--------
+- Name : helomn
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phiếu may mắn
+- Số Lượng Mua : 100
+- Lượng Mua : -1000
+- Xu Mua : 0
+- Lượng Cũ : 386798
+- Lượng Mới : 385798
+- Xu Cũ : 995000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-05 23:24:53--------
+- Name : helomn
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Phiếu may mắn
+- Số Lượng Mua : 120
+- Lượng Mua : -1200
+- Xu Mua : 0
+- Lượng Cũ : 385798
+- Lượng Mới : 384598
+- Xu Cũ : 995000
+- Xu Mới : 995000
+----------Thời Gian : 2024-02-05 23:26:26--------
+- Name : vohocbipok
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP lớn
+- Số Lượng Mua : 19999
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 436682
+- Lượng Mới : 436682
+- Xu Cũ : 991000
+- Xu Mới : 991000
+----------Thời Gian : 2024-02-05 23:46:45--------
+- Name : keytee
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Thịt heo
+- Số Lượng Mua : 8000
+- Lượng Mua : -80000
+- Xu Mua : 0
+- Lượng Cũ : 1814565
+- Lượng Mới : 1734565
+- Xu Cũ : 1515941943
+- Xu Mới : 1515941943

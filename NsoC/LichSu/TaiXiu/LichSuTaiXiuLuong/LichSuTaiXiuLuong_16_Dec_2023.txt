@@ -1,0 +1,30 @@
+----------Thời Gian : 2023-12-16 17:27:29--------
+- Name : shiroyami
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 120326
+- Lượng Mới : 70326
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2023-12-16 17:28:29--------
+- Name : shiroyami
+- Nội Dung :  Đặt Tài Ăn 90000
+- Lượng Cũ : 70326
+- Lượng Mới : 160326
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2023-12-16 17:28:45--------
+- Name : shiroyami
+- Nội Dung :  Đặt Tài Trừ -50000
+- Lượng Cũ : 160326
+- Lượng Mới : 110326
+- Lượng Thay Đổi : -50000
+----------Thời Gian : 2023-12-16 17:29:43--------
+- Name : shiroyami
+- Nội Dung :  Đặt Tài Ăn 90000
+- Lượng Cũ : 110326
+- Lượng Mới : 200326
+- Lượng Thay Đổi : 90000
+----------Thời Gian : 2023-12-16 17:30:01--------
+- Name : shiroyami
+- Nội Dung :  Đặt Xỉu Trừ -100000
+- Lượng Cũ : 200326
+- Lượng Mới : 100326
+- Lượng Thay Đổi : -100000

@@ -1,0 +1,33 @@
+----------Thời Gian : 2024-07-01 11:32:26--------
+- Name : admin
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Linh Phong Quạt
+- Số Lượng Mua : 1
+- Lượng Mua : 0
+- Xu Mua : -5400000
+- Lượng Cũ : 1977223394
+- Lượng Mới : 1977223394
+- Xu Cũ : 2000000000
+- Xu Mới : 1994600000
+----------Thời Gian : 2024-07-01 11:33:31--------
+- Name : admin
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Giấy phép tẩy tiềm năng
+- Số Lượng Mua : 1
+- Lượng Mua : -100
+- Xu Mua : 0
+- Lượng Cũ : 1977223393
+- Lượng Mới : 1977223293
+- Xu Cũ : 1994600000
+- Xu Mới : 1994600000
+----------Thời Gian : 2024-07-01 11:35:31--------
+- Name : admin
+- Tên Giao Dịch :  Mua Vật Phẩm Ghoso 
+- Item Mua : Bình MP Cao Cấp
+- Số Lượng Mua : 200
+- Lượng Mua : 0
+- Xu Mua : 0
+- Lượng Cũ : 1977223293
+- Lượng Mới : 1977223293
+- Xu Cũ : 1994600000
+- Xu Mới : 1994600000

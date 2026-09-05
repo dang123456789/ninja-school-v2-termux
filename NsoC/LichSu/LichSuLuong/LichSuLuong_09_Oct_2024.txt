@@ -1,0 +1,5688 @@
+----------Thời Gian : 2024-10-09 00:02:13--------
+- Name : bluesky
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 20
+- Lượng Cũ : 3081400
+- Lượng Mới : 3088400
+- Lượng Thay Đổi :7000 Lượng 
+----------Thời Gian : 2024-10-09 00:02:23--------
+- Name : bluesky
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 60
+- Lượng Cũ : 3088400
+- Lượng Mới : 3094400
+- Lượng Thay Đổi :6000 Lượng 
+----------Thời Gian : 2024-10-09 00:02:32--------
+- Name : bluesky
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 50
+- Lượng Cũ : 3094400
+- Lượng Mới : 3099400
+- Lượng Thay Đổi :5000 Lượng 
+----------Thời Gian : 2024-10-09 00:02:42--------
+- Name : bluesky
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 40
+- Lượng Cũ : 3099400
+- Lượng Mới : 3103400
+- Lượng Thay Đổi :4000 Lượng 
+----------Thời Gian : 2024-10-09 00:02:46--------
+- Name : bluesky
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 30
+- Lượng Cũ : 3103400
+- Lượng Mới : 3106400
+- Lượng Thay Đổi :3000 Lượng 
+----------Thời Gian : 2024-10-09 00:02:57--------
+- Name : promax
+- Tên Giao Dịch :  Nhập GiftCode : daubuoi
+- Lượng Cũ : 601000
+- Lượng Mới : 621000
+- Lượng Thay Đổi :20000 Lượng 
+----------Thời Gian : 2024-10-09 00:03:02--------
+- Name : promax
+- Tên Giao Dịch :  Nhập GiftCode : trungthu
+- Lượng Cũ : 621000
+- Lượng Mới : 1121000
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 00:03:14--------
+- Name : bluesky
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 20
+- Lượng Cũ : 3106400
+- Lượng Mới : 3108400
+- Lượng Thay Đổi :2000 Lượng 
+----------Thời Gian : 2024-10-09 00:03:25--------
+- Name : bluesky
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 10
+- Lượng Cũ : 3108400
+- Lượng Mới : 3109400
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-10-09 00:04:04--------
+- Name : bluesky
+- Tên Giao Dịch :  Luyện Bí Kíp 
+- Lượng Cũ : 3109400
+- Lượng Mới : 3108400
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 00:04:30--------
+- Name : bluesky
+- Tên Giao Dịch :  Luyện pet 
+- Lượng Cũ : 3107900
+- Lượng Mới : 3106900
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 00:04:41--------
+- Name : bluesky
+- Tên Giao Dịch :  Luyện pet 
+- Lượng Cũ : 3106900
+- Lượng Mới : 3105900
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 00:04:51--------
+- Name : bluesky
+- Tên Giao Dịch :  Luyện pet 
+- Lượng Cũ : 3105900
+- Lượng Mới : 3104900
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 00:04:53--------
+- Name : promax
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 1121000
+- Lượng Mới : 1221000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 00:04:59--------
+- Name : bluesky
+- Tên Giao Dịch :  Luyện pet 
+- Lượng Cũ : 3104900
+- Lượng Mới : 3103900
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 00:05:04--------
+- Name : promax
+- Tên Giao Dịch :  Nhập GiftCode : sucdaubuoi
+- Lượng Cũ : 1221000
+- Lượng Mới : 1321000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 00:05:16--------
+- Name : promax
+- Tên Giao Dịch :  Nhập GiftCode : 2309
+- Lượng Cũ : 1321000
+- Lượng Mới : 1421000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 00:05:31--------
+- Name : promax
+- Tên Giao Dịch :  Nhập GiftCode : 2509
+- Lượng Cũ : 1421000
+- Lượng Mới : 1521000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 00:05:46--------
+- Name : promax
+- Tên Giao Dịch :  Nhập GiftCode : newupdate
+- Lượng Cũ : 1521000
+- Lượng Mới : 1721000
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 00:06:06--------
+- Name : promax
+- Tên Giao Dịch :  Nhập GiftCode : baotri2
+- Lượng Cũ : 1721000
+- Lượng Mới : 2221000
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 00:07:38--------
+- Name : conkiu2met
+- Tên Giao Dịch :  Nhập GiftCode : uplevel
+- Lượng Cũ : 1098870
+- Lượng Mới : 1198870
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 00:07:39--------
+- Name : nhanhvc
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 250000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 00:07:40--------
+- Name : nhanhvc
+- Tên Giao Dịch :  Điểm Danh Hằng Ngày
+- Lượng Cũ : 500000
+- Lượng Mới : 501000
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-10-09 00:07:44--------
+- Name : nhanhvc
+- Tên Giao Dịch :  Nhập GiftCode : uplevel
+- Lượng Cũ : 501000
+- Lượng Mới : 601000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 00:11:21--------
+- Name : conkiu1met
+- Tên Giao Dịch :  Nhập GiftCode : uplevel
+- Lượng Cũ : 1328124
+- Lượng Mới : 1428124
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 00:18:01--------
+- Name : promax
+- Tên Giao Dịch :  Nhập GiftCode : fancung
+- Lượng Cũ : 2207950
+- Lượng Mới : 2227950
+- Lượng Thay Đổi :20000 Lượng 
+----------Thời Gian : 2024-10-09 00:18:12--------
+- Name : promax
+- Tên Giao Dịch :  Nhập GiftCode : livegamenso
+- Lượng Cũ : 2227950
+- Lượng Mới : 2327950
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 00:18:24--------
+- Name : promax
+- Tên Giao Dịch :  Nhập GiftCode : tanthu
+- Lượng Cũ : 2327950
+- Lượng Mới : 2427950
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 00:18:45--------
+- Name : promax
+- Tên Giao Dịch :  Nhập GiftCode : sucdaubuoix2
+- Lượng Cũ : 2427950
+- Lượng Mới : 2527950
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 00:18:52--------
+- Name : promax
+- Tên Giao Dịch :  Nhập GiftCode : sucdaubuoix3
+- Lượng Cũ : 2527950
+- Lượng Mới : 2627950
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 00:19:26--------
+- Name : promax
+- Tên Giao Dịch :  Nhập GiftCode : chuyensinh
+- Lượng Cũ : 2627950
+- Lượng Mới : 2827950
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 00:19:33--------
+- Name : promax
+- Tên Giao Dịch :  Nhập GiftCode : codedaubuoi
+- Lượng Cũ : 2827950
+- Lượng Mới : 2877950
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 00:19:56--------
+- Name : promax
+- Tên Giao Dịch :  Nhập GiftCode : baotri
+- Lượng Cũ : 2877950
+- Lượng Mới : 3077950
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 00:21:29--------
+- Name : yeu1em
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 26841477
+- Lượng Mới : 26241477
+- Lượng Thay Đổi :-600000 Lượng 
+----------Thời Gian : 2024-10-09 00:27:24--------
+- Name : promax
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 3036900
+- Lượng Mới : 3031900
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 00:29:33--------
+- Name : kaizxje
+- Tên Giao Dịch :  Nhập GiftCode : baotri
+- Lượng Cũ : 2563530
+- Lượng Mới : 2763530
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 00:29:39--------
+- Name : kaizxje
+- Tên Giao Dịch :  Nhập GiftCode : baotri2
+- Lượng Cũ : 2763530
+- Lượng Mới : 3263530
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 00:29:46--------
+- Name : kaizxje
+- Tên Giao Dịch :  Nhập GiftCode : chuyensinh
+- Lượng Cũ : 3263530
+- Lượng Mới : 3463530
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 00:30:17--------
+- Name : kaizxje
+- Tên Giao Dịch :  Nhập GiftCode : codedaubuoi
+- Lượng Cũ : 3463530
+- Lượng Mới : 3513530
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 00:31:16--------
+- Name : promax
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 10
+- Lượng Cũ : 3031853
+- Lượng Mới : 3032853
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-10-09 00:31:17--------
+- Name : promax
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 20
+- Lượng Cũ : 3032853
+- Lượng Mới : 3034853
+- Lượng Thay Đổi :2000 Lượng 
+----------Thời Gian : 2024-10-09 00:31:18--------
+- Name : promax
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 30
+- Lượng Cũ : 3034853
+- Lượng Mới : 3037853
+- Lượng Thay Đổi :3000 Lượng 
+----------Thời Gian : 2024-10-09 00:31:19--------
+- Name : promax
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 40
+- Lượng Cũ : 3037853
+- Lượng Mới : 3041853
+- Lượng Thay Đổi :4000 Lượng 
+----------Thời Gian : 2024-10-09 00:31:21--------
+- Name : promax
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 50
+- Lượng Cũ : 3041853
+- Lượng Mới : 3046853
+- Lượng Thay Đổi :5000 Lượng 
+----------Thời Gian : 2024-10-09 00:31:23--------
+- Name : promax
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 60
+- Lượng Cũ : 3046853
+- Lượng Mới : 3052853
+- Lượng Thay Đổi :6000 Lượng 
+----------Thời Gian : 2024-10-09 00:31:24--------
+- Name : promax
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 20
+- Lượng Cũ : 3052853
+- Lượng Mới : 3059853
+- Lượng Thay Đổi :7000 Lượng 
+----------Thời Gian : 2024-10-09 00:31:37--------
+- Name : promax
+- Tên Giao Dịch :  Luyện Bí Kíp 
+- Lượng Cũ : 3059853
+- Lượng Mới : 3058853
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 00:32:01--------
+- Name : promax
+- Tên Giao Dịch :  Luyện Bí Kíp 
+- Lượng Cũ : 3058853
+- Lượng Mới : 3057853
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 00:32:08--------
+- Name : 2tay2em
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 10
+- Lượng Cũ : 1829500
+- Lượng Mới : 1830500
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-10-09 00:32:11--------
+- Name : 2tay2em
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 20
+- Lượng Cũ : 1830500
+- Lượng Mới : 1832500
+- Lượng Thay Đổi :2000 Lượng 
+----------Thời Gian : 2024-10-09 00:32:15--------
+- Name : 2tay2em
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 30
+- Lượng Cũ : 1832500
+- Lượng Mới : 1835500
+- Lượng Thay Đổi :3000 Lượng 
+----------Thời Gian : 2024-10-09 00:32:17--------
+- Name : 2tay2em
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 40
+- Lượng Cũ : 1835500
+- Lượng Mới : 1839500
+- Lượng Thay Đổi :4000 Lượng 
+----------Thời Gian : 2024-10-09 00:32:19--------
+- Name : promax
+- Tên Giao Dịch :  Luyện pet 
+- Lượng Cũ : 3056853
+- Lượng Mới : 3055853
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 00:32:20--------
+- Name : 2tay2em
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 50
+- Lượng Cũ : 1839500
+- Lượng Mới : 1844500
+- Lượng Thay Đổi :5000 Lượng 
+----------Thời Gian : 2024-10-09 00:32:23--------
+- Name : 2tay2em
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 60
+- Lượng Cũ : 1844500
+- Lượng Mới : 1850500
+- Lượng Thay Đổi :6000 Lượng 
+----------Thời Gian : 2024-10-09 00:32:26--------
+- Name : 2tay2em
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 20
+- Lượng Cũ : 1850500
+- Lượng Mới : 1857500
+- Lượng Thay Đổi :7000 Lượng 
+----------Thời Gian : 2024-10-09 00:32:26--------
+- Name : promax
+- Tên Giao Dịch :  Luyện pet 
+- Lượng Cũ : 3055853
+- Lượng Mới : 3054853
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 00:32:32--------
+- Name : promax
+- Tên Giao Dịch :  Luyện pet 
+- Lượng Cũ : 3054853
+- Lượng Mới : 3053853
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 00:32:45--------
+- Name : promax
+- Tên Giao Dịch :  Luyện pet 
+- Lượng Cũ : 3053853
+- Lượng Mới : 3052853
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 00:32:50--------
+- Name : promax
+- Tên Giao Dịch :  Luyện pet 
+- Lượng Cũ : 3052853
+- Lượng Mới : 3051853
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 00:32:56--------
+- Name : promax
+- Tên Giao Dịch :  Luyện pet 
+- Lượng Cũ : 3051853
+- Lượng Mới : 3050853
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 00:32:58--------
+- Name : 2tay2em
+- Tên Giao Dịch :  Luyện Bí Kíp 
+- Lượng Cũ : 1857500
+- Lượng Mới : 1856500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 00:33:21--------
+- Name : 2tay2em
+- Tên Giao Dịch :  Luyện Bí Kíp 
+- Lượng Cũ : 1856500
+- Lượng Mới : 1855500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 00:33:35--------
+- Name : 2tay2em
+- Tên Giao Dịch :  Luyện Bí Kíp 
+- Lượng Cũ : 1855500
+- Lượng Mới : 1854500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 00:33:50--------
+- Name : 2tay2em
+- Tên Giao Dịch :  Luyện Bí Kíp 
+- Lượng Cũ : 1854500
+- Lượng Mới : 1853500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 00:34:03--------
+- Name : 2tay2em
+- Tên Giao Dịch :  Luyện Bí Kíp 
+- Lượng Cũ : 1853500
+- Lượng Mới : 1852500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 00:34:10--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 26881
+- Lượng Mới : 19881
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 00:34:14--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 19881
+- Lượng Mới : 12881
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 00:34:18--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 12881
+- Lượng Mới : 5881
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 00:34:22--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 5881
+- Lượng Mới : -1119
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 00:34:25--------
+- Name : 2tay2em
+- Tên Giao Dịch :  Luyện Bí Kíp 
+- Lượng Cũ : 1852500
+- Lượng Mới : 1851500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 00:35:49--------
+- Name : gaovip
+- Tên Giao Dịch :  Nhập GiftCode : baotri2
+- Lượng Cũ : -1119
+- Lượng Mới : 498881
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 00:36:13--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 250000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 00:36:35--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 498881
+- Lượng Mới : 491881
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 00:36:38--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 491881
+- Lượng Mới : 484881
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 00:37:25--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 484881
+- Lượng Mới : 479881
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 00:37:27--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 479881
+- Lượng Mới : 474881
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 00:37:30--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 474881
+- Lượng Mới : 469881
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 00:37:35--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 469881
+- Lượng Mới : 464881
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 00:37:38--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 464881
+- Lượng Mới : 459881
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 00:37:40--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 459881
+- Lượng Mới : 454881
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 00:37:42--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 454881
+- Lượng Mới : 449881
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 00:37:44--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 449881
+- Lượng Mới : 444881
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 00:37:46--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 444881
+- Lượng Mới : 439881
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 00:37:48--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 439881
+- Lượng Mới : 434881
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 00:37:50--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 434881
+- Lượng Mới : 429881
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 00:37:54--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 429881
+- Lượng Mới : 424881
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 00:37:56--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 424881
+- Lượng Mới : 419881
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 00:37:58--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 419881
+- Lượng Mới : 414881
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 00:38:00--------
+- Name : 2tay2em
+- Tên Giao Dịch :  Luyện pet 
+- Lượng Cũ : 1850500
+- Lượng Mới : 1849500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 00:38:00--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 414881
+- Lượng Mới : 409881
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 00:38:02--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 409881
+- Lượng Mới : 404881
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 00:38:16--------
+- Name : 2tay2em
+- Tên Giao Dịch :  Luyện pet 
+- Lượng Cũ : 1849500
+- Lượng Mới : 1848500
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 00:38:32--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 404881
+- Lượng Mới : 399881
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 00:38:34--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 399881
+- Lượng Mới : 394881
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 00:38:37--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 394881
+- Lượng Mới : 389881
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 00:38:39--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 389881
+- Lượng Mới : 384881
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 00:38:42--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 384881
+- Lượng Mới : 379881
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 00:38:46--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 379881
+- Lượng Mới : 374881
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 00:38:49--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 374881
+- Lượng Mới : 369881
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 00:38:51--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 369881
+- Lượng Mới : 364881
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 00:38:53--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 364881
+- Lượng Mới : 359881
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 00:38:56--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 359881
+- Lượng Mới : 354881
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 00:38:58--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 354881
+- Lượng Mới : 349881
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 00:39:17--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 349881
+- Lượng Mới : 342881
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 00:39:19--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 342881
+- Lượng Mới : 335881
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 00:39:21--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 335881
+- Lượng Mới : 328881
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 00:39:23--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 328881
+- Lượng Mới : 321881
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 00:39:25--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 321881
+- Lượng Mới : 314881
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 00:39:28--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 314881
+- Lượng Mới : 307881
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 00:39:30--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 307881
+- Lượng Mới : 300881
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 00:39:32--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 300881
+- Lượng Mới : 293881
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 00:39:34--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 293881
+- Lượng Mới : 286881
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 00:39:37--------
+- Name : gaovip
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 286881
+- Lượng Mới : 279881
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 00:40:09--------
+- Name : gaovip
+- Tên Giao Dịch :  Điểm Danh Hằng Ngày
+- Lượng Cũ : 279881
+- Lượng Mới : 280881
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-10-09 00:42:49--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nhập GiftCode : daubuoi
+- Lượng Cũ : 495800
+- Lượng Mới : 515800
+- Lượng Thay Đổi :20000 Lượng 
+----------Thời Gian : 2024-10-09 00:43:20--------
+- Name : skibiditoilet
+- Tên Giao Dịch :  Nhập GiftCode : baotri2
+- Lượng Cũ : 564441
+- Lượng Mới : 1064441
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 00:43:46--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nhập GiftCode : fancung
+- Lượng Cũ : 515800
+- Lượng Mới : 535800
+- Lượng Thay Đổi :20000 Lượng 
+----------Thời Gian : 2024-10-09 00:44:08--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nhập GiftCode : livegamenso
+- Lượng Cũ : 535800
+- Lượng Mới : 635800
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 00:44:30--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nhập GiftCode : tanthu
+- Lượng Cũ : 635800
+- Lượng Mới : 735800
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 00:44:37--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nhập GiftCode : trungthu
+- Lượng Cũ : 735800
+- Lượng Mới : 1235800
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 00:44:48--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nhập GiftCode : uplevel
+- Lượng Cũ : 1235800
+- Lượng Mới : 1335800
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 00:45:06--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nhập GiftCode : sucdaubuoi
+- Lượng Cũ : 1335800
+- Lượng Mới : 1435800
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 00:45:17--------
+- Name : skibiditoilet
+- Tên Giao Dịch :  Nhập GiftCode : 2509
+- Lượng Cũ : 1064441
+- Lượng Mới : 1164441
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 00:45:17--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nhập GiftCode : sucdaubuoix2
+- Lượng Cũ : 1435800
+- Lượng Mới : 1535800
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 00:46:48--------
+- Name : skibiditoilet
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 1164441
+- Lượng Mới : 1159441
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 00:49:07--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nhập GiftCode : sucdaubuoix3
+- Lượng Cũ : 1535800
+- Lượng Mới : 1635800
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 00:49:17--------
+- Name : skibiditoilet
+- Tên Giao Dịch :  Nhập GiftCode : sucdaubuoix3
+- Lượng Cũ : 1159441
+- Lượng Mới : 1259441
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 00:49:25--------
+- Name : skibiditoilet
+- Tên Giao Dịch :  Nhập GiftCode : baotri
+- Lượng Cũ : 1259441
+- Lượng Mới : 1459441
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 00:49:27--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nhập GiftCode : 2309
+- Lượng Cũ : 1635800
+- Lượng Mới : 1735800
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 00:49:33--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nhập GiftCode : 2509
+- Lượng Cũ : 1735800
+- Lượng Mới : 1835800
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 00:49:46--------
+- Name : skibiditoilet
+- Tên Giao Dịch :  Nhập GiftCode : chuyensinh
+- Lượng Cũ : 1459441
+- Lượng Mới : 1659441
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 00:51:07--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nhập GiftCode : newupdate
+- Lượng Cũ : 1835800
+- Lượng Mới : 2035800
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 00:51:27--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 2035800
+- Lượng Mới : 2135800
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 00:52:00--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nhập GiftCode : codedaubuoi
+- Lượng Cũ : 2135800
+- Lượng Mới : 2185800
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 00:52:41--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nhập GiftCode : chuyensinh
+- Lượng Cũ : 2185800
+- Lượng Mới : 2385800
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 00:53:04--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nhập GiftCode : baotri
+- Lượng Cũ : 2385800
+- Lượng Mới : 2585800
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 00:53:13--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nhập GiftCode : baotri2
+- Lượng Cũ : 2585800
+- Lượng Mới : 3085800
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 00:59:40--------
+- Name : tuoilol
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 3074800
+- Lượng Mới : 3069800
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 00:59:51--------
+- Name : tuoilol
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 3069800
+- Lượng Mới : 3064800
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 01:00:04--------
+- Name : tuoilol
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 3064800
+- Lượng Mới : 3059800
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 01:00:16--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 3059800
+- Lượng Mới : 3054800
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 01:00:19--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 3054800
+- Lượng Mới : 3049800
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 01:00:25--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 3049800
+- Lượng Mới : 3044800
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 01:00:27--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 3044800
+- Lượng Mới : 3039800
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 01:00:30--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 3039800
+- Lượng Mới : 3034800
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 01:00:32--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 3034800
+- Lượng Mới : 3029800
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 01:00:34--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 3029800
+- Lượng Mới : 3024800
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 01:00:36--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 3024800
+- Lượng Mới : 3019800
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 01:00:38--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 3019800
+- Lượng Mới : 3014800
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 01:00:47--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 3014800
+- Lượng Mới : 3009800
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 01:00:50--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 3009800
+- Lượng Mới : 3004800
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 01:00:52--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 3004800
+- Lượng Mới : 2999800
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 01:01:01--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 2999800
+- Lượng Mới : 2994800
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 01:01:03--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 2994800
+- Lượng Mới : 2989800
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 01:01:54--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 2989800
+- Lượng Mới : 2984800
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 01:01:56--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 2984800
+- Lượng Mới : 2979800
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 01:01:58--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 2979800
+- Lượng Mới : 2974800
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 01:02:00--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 2974800
+- Lượng Mới : 2969800
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 01:03:17--------
+- Name : tuoilol
+- Tên Giao Dịch :  Điểm Danh Hằng Ngày
+- Lượng Cũ : 2969800
+- Lượng Mới : 2970800
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-10-09 01:03:44--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 10
+- Lượng Cũ : 2970800
+- Lượng Mới : 2971800
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-10-09 01:03:47--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 20
+- Lượng Cũ : 2971800
+- Lượng Mới : 2973800
+- Lượng Thay Đổi :2000 Lượng 
+----------Thời Gian : 2024-10-09 01:03:49--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 30
+- Lượng Cũ : 2973800
+- Lượng Mới : 2976800
+- Lượng Thay Đổi :3000 Lượng 
+----------Thời Gian : 2024-10-09 01:03:51--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 40
+- Lượng Cũ : 2976800
+- Lượng Mới : 2980800
+- Lượng Thay Đổi :4000 Lượng 
+----------Thời Gian : 2024-10-09 01:03:53--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 50
+- Lượng Cũ : 2980800
+- Lượng Mới : 2985800
+- Lượng Thay Đổi :5000 Lượng 
+----------Thời Gian : 2024-10-09 01:03:56--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 60
+- Lượng Cũ : 2985800
+- Lượng Mới : 2991800
+- Lượng Thay Đổi :6000 Lượng 
+----------Thời Gian : 2024-10-09 01:03:59--------
+- Name : tuoilol
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 20
+- Lượng Cũ : 2991800
+- Lượng Mới : 2998800
+- Lượng Thay Đổi :7000 Lượng 
+----------Thời Gian : 2024-10-09 01:04:25--------
+- Name : tuoilol
+- Tên Giao Dịch :  Luyện Bí Kíp 
+- Lượng Cũ : 2998800
+- Lượng Mới : 2997800
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 01:04:34--------
+- Name : tuoilol
+- Tên Giao Dịch :  Luyện Bí Kíp 
+- Lượng Cũ : 2997800
+- Lượng Mới : 2996800
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 01:04:46--------
+- Name : tuoilol
+- Tên Giao Dịch :  Luyện Bí Kíp 
+- Lượng Cũ : 2996800
+- Lượng Mới : 2995800
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 01:04:54--------
+- Name : tuoilol
+- Tên Giao Dịch :  Luyện Bí Kíp 
+- Lượng Cũ : 2995800
+- Lượng Mới : 2994800
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 01:05:01--------
+- Name : tuoilol
+- Tên Giao Dịch :  Luyện Bí Kíp 
+- Lượng Cũ : 2994800
+- Lượng Mới : 2993800
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 07:17:32--------
+- Name : yeu1em
+- Tên Giao Dịch :  Điểm Danh Hằng Ngày
+- Lượng Cũ : 26635677
+- Lượng Mới : 26636677
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-10-09 07:40:39--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 805134
+- Lượng Mới : 797134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:40:48--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 797134
+- Lượng Mới : 789134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:40:51--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 789134
+- Lượng Mới : 781134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:40:52--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 781134
+- Lượng Mới : 773134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:40:54--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 773134
+- Lượng Mới : 765134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:40:55--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 765134
+- Lượng Mới : 757134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:40:57--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 757134
+- Lượng Mới : 749134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:40:58--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 749134
+- Lượng Mới : 741134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:00--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 741134
+- Lượng Mới : 733134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:02--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 733134
+- Lượng Mới : 725134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:03--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 725134
+- Lượng Mới : 717134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:05--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 717134
+- Lượng Mới : 709134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:06--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 709134
+- Lượng Mới : 701134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:08--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 701134
+- Lượng Mới : 693134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:09--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 693134
+- Lượng Mới : 685134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:11--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 685134
+- Lượng Mới : 677134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:12--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 677134
+- Lượng Mới : 669134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:14--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 669134
+- Lượng Mới : 661134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:15--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 661134
+- Lượng Mới : 653134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:17--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 653134
+- Lượng Mới : 645134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:18--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 645134
+- Lượng Mới : 637134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:20--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 637134
+- Lượng Mới : 629134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:21--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 629134
+- Lượng Mới : 621134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:23--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 621134
+- Lượng Mới : 613134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:25--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 613134
+- Lượng Mới : 605134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:27--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 605134
+- Lượng Mới : 597134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:28--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 597134
+- Lượng Mới : 589134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:30--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 589134
+- Lượng Mới : 581134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:31--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 581134
+- Lượng Mới : 573134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:33--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 573134
+- Lượng Mới : 565134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:34--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 565134
+- Lượng Mới : 557134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:36--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 557134
+- Lượng Mới : 549134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:37--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 549134
+- Lượng Mới : 541134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:39--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 541134
+- Lượng Mới : 533134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:40--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 533134
+- Lượng Mới : 525134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:42--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 525134
+- Lượng Mới : 517134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:44--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 517134
+- Lượng Mới : 509134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:45--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 509134
+- Lượng Mới : 501134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:47--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 501134
+- Lượng Mới : 493134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:48--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 493134
+- Lượng Mới : 485134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:50--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 485134
+- Lượng Mới : 477134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:51--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 477134
+- Lượng Mới : 469134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:53--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 469134
+- Lượng Mới : 461134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:41:54--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 461134
+- Lượng Mới : 453134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:42:00--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 453134
+- Lượng Mới : 445134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:42:02--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 445134
+- Lượng Mới : 437134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:42:03--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 437134
+- Lượng Mới : 429134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:42:05--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 429134
+- Lượng Mới : 421134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:42:07--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 421134
+- Lượng Mới : 413134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:42:08--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 413134
+- Lượng Mới : 405134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:42:10--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 405134
+- Lượng Mới : 397134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:42:11--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 397134
+- Lượng Mới : 389134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:42:13--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 389134
+- Lượng Mới : 381134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:42:14--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 381134
+- Lượng Mới : 373134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:42:16--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 373134
+- Lượng Mới : 365134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:42:17--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 365134
+- Lượng Mới : 357134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:42:19--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 357134
+- Lượng Mới : 349134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:42:20--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 349134
+- Lượng Mới : 341134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:42:24--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 341134
+- Lượng Mới : 333134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:42:27--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 333134
+- Lượng Mới : 325134
+- Lượng Thay Đổi :-8000 Lượng 
+----------Thời Gian : 2024-10-09 07:43:57--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 325134
+- Lượng Mới : 321134
+- Lượng Thay Đổi :-4000 Lượng 
+----------Thời Gian : 2024-10-09 07:43:59--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 321134
+- Lượng Mới : 317134
+- Lượng Thay Đổi :-4000 Lượng 
+----------Thời Gian : 2024-10-09 07:44:01--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 317134
+- Lượng Mới : 313134
+- Lượng Thay Đổi :-4000 Lượng 
+----------Thời Gian : 2024-10-09 07:44:03--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 313134
+- Lượng Mới : 309134
+- Lượng Thay Đổi :-4000 Lượng 
+----------Thời Gian : 2024-10-09 07:44:13--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 309134
+- Lượng Mới : 304634
+- Lượng Thay Đổi :-4500 Lượng 
+----------Thời Gian : 2024-10-09 07:44:21--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 304634
+- Lượng Mới : 299634
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 07:44:22--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 299634
+- Lượng Mới : 294634
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 07:44:24--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 294634
+- Lượng Mới : 289634
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 07:44:33--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 289634
+- Lượng Mới : 284134
+- Lượng Thay Đổi :-5500 Lượng 
+----------Thời Gian : 2024-10-09 07:44:34--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 284134
+- Lượng Mới : 278634
+- Lượng Thay Đổi :-5500 Lượng 
+----------Thời Gian : 2024-10-09 07:44:36--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 278634
+- Lượng Mới : 273134
+- Lượng Thay Đổi :-5500 Lượng 
+----------Thời Gian : 2024-10-09 07:44:37--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 273134
+- Lượng Mới : 267634
+- Lượng Thay Đổi :-5500 Lượng 
+----------Thời Gian : 2024-10-09 07:44:45--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 267634
+- Lượng Mới : 261634
+- Lượng Thay Đổi :-6000 Lượng 
+----------Thời Gian : 2024-10-09 07:44:47--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 261634
+- Lượng Mới : 255634
+- Lượng Thay Đổi :-6000 Lượng 
+----------Thời Gian : 2024-10-09 07:44:48--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 255634
+- Lượng Mới : 249634
+- Lượng Thay Đổi :-6000 Lượng 
+----------Thời Gian : 2024-10-09 07:44:50--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 249634
+- Lượng Mới : 243634
+- Lượng Thay Đổi :-6000 Lượng 
+----------Thời Gian : 2024-10-09 07:44:52--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 243634
+- Lượng Mới : 237634
+- Lượng Thay Đổi :-6000 Lượng 
+----------Thời Gian : 2024-10-09 07:44:54--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 237634
+- Lượng Mới : 231634
+- Lượng Thay Đổi :-6000 Lượng 
+----------Thời Gian : 2024-10-09 07:44:55--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 231634
+- Lượng Mới : 225634
+- Lượng Thay Đổi :-6000 Lượng 
+----------Thời Gian : 2024-10-09 07:44:57--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 225634
+- Lượng Mới : 219634
+- Lượng Thay Đổi :-6000 Lượng 
+----------Thời Gian : 2024-10-09 07:44:58--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 219634
+- Lượng Mới : 213634
+- Lượng Thay Đổi :-6000 Lượng 
+----------Thời Gian : 2024-10-09 07:45:00--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 213634
+- Lượng Mới : 207634
+- Lượng Thay Đổi :-6000 Lượng 
+----------Thời Gian : 2024-10-09 07:45:01--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 207634
+- Lượng Mới : 201634
+- Lượng Thay Đổi :-6000 Lượng 
+----------Thời Gian : 2024-10-09 07:45:03--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 201634
+- Lượng Mới : 195634
+- Lượng Thay Đổi :-6000 Lượng 
+----------Thời Gian : 2024-10-09 07:45:05--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 195634
+- Lượng Mới : 189634
+- Lượng Thay Đổi :-6000 Lượng 
+----------Thời Gian : 2024-10-09 07:45:06--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 189634
+- Lượng Mới : 183634
+- Lượng Thay Đổi :-6000 Lượng 
+----------Thời Gian : 2024-10-09 07:45:11--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 183634
+- Lượng Mới : 177634
+- Lượng Thay Đổi :-6000 Lượng 
+----------Thời Gian : 2024-10-09 07:45:13--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 177634
+- Lượng Mới : 171634
+- Lượng Thay Đổi :-6000 Lượng 
+----------Thời Gian : 2024-10-09 07:45:14--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 171634
+- Lượng Mới : 165634
+- Lượng Thay Đổi :-6000 Lượng 
+----------Thời Gian : 2024-10-09 07:45:16--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 165634
+- Lượng Mới : 159634
+- Lượng Thay Đổi :-6000 Lượng 
+----------Thời Gian : 2024-10-09 07:45:17--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 159634
+- Lượng Mới : 153634
+- Lượng Thay Đổi :-6000 Lượng 
+----------Thời Gian : 2024-10-09 07:45:19--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 153634
+- Lượng Mới : 147634
+- Lượng Thay Đổi :-6000 Lượng 
+----------Thời Gian : 2024-10-09 07:45:27--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 147634
+- Lượng Mới : 141134
+- Lượng Thay Đổi :-6500 Lượng 
+----------Thời Gian : 2024-10-09 07:45:29--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 141134
+- Lượng Mới : 134634
+- Lượng Thay Đổi :-6500 Lượng 
+----------Thời Gian : 2024-10-09 07:45:31--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 134634
+- Lượng Mới : 128134
+- Lượng Thay Đổi :-6500 Lượng 
+----------Thời Gian : 2024-10-09 07:45:33--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 128134
+- Lượng Mới : 121634
+- Lượng Thay Đổi :-6500 Lượng 
+----------Thời Gian : 2024-10-09 07:45:34--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 121634
+- Lượng Mới : 115134
+- Lượng Thay Đổi :-6500 Lượng 
+----------Thời Gian : 2024-10-09 07:45:36--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 115134
+- Lượng Mới : 108634
+- Lượng Thay Đổi :-6500 Lượng 
+----------Thời Gian : 2024-10-09 07:45:37--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 108634
+- Lượng Mới : 102134
+- Lượng Thay Đổi :-6500 Lượng 
+----------Thời Gian : 2024-10-09 07:45:39--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 102134
+- Lượng Mới : 95634
+- Lượng Thay Đổi :-6500 Lượng 
+----------Thời Gian : 2024-10-09 07:45:40--------
+- Name : admen96
+- Tên Giao Dịch :  Nâng Bí Kíp 
+- Lượng Cũ : 95634
+- Lượng Mới : 89134
+- Lượng Thay Đổi :-6500 Lượng 
+----------Thời Gian : 2024-10-09 08:01:18--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 26683147
+- Lượng Mới : 26183147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:01:33--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 26183147
+- Lượng Mới : 25683147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:02:37--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 25683147
+- Lượng Mới : 25183147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:02:45--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 25183147
+- Lượng Mới : 24683147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:02:52--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 24683147
+- Lượng Mới : 24183147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:03:04--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 24183147
+- Lượng Mới : 23683147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:03:10--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 23683147
+- Lượng Mới : 23183147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:03:22--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 23183147
+- Lượng Mới : 22683147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:03:33--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 22683147
+- Lượng Mới : 22183147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:03:40--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 22183147
+- Lượng Mới : 21683147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:03:51--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 21683147
+- Lượng Mới : 21183147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:03:58--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 21183147
+- Lượng Mới : 20683147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:04:06--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 20683147
+- Lượng Mới : 20183147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:04:12--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 20183147
+- Lượng Mới : 19683147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:04:24--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 19683147
+- Lượng Mới : 19183147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:04:57--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 19183147
+- Lượng Mới : 18683147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:05:04--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 18683147
+- Lượng Mới : 18183147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:05:10--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 18183147
+- Lượng Mới : 17683147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:05:25--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 17683147
+- Lượng Mới : 17183147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:05:38--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 17183147
+- Lượng Mới : 16683147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:05:52--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 16683147
+- Lượng Mới : 16183147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:06:41--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 16183147
+- Lượng Mới : 15683147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:06:50--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 15683147
+- Lượng Mới : 15183147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:07:00--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 15183147
+- Lượng Mới : 14683147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:07:06--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 14683147
+- Lượng Mới : 14183147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:07:23--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 14183147
+- Lượng Mới : 13683147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:07:34--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 13683147
+- Lượng Mới : 13183147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:07:41--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 13183147
+- Lượng Mới : 12683147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:07:54--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 12683147
+- Lượng Mới : 12183147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:08:01--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 12183147
+- Lượng Mới : 11683147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:08:14--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 11683147
+- Lượng Mới : 11183147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:08:19--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 11183147
+- Lượng Mới : 10683147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:08:26--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 10683147
+- Lượng Mới : 10183147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:08:41--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 10183147
+- Lượng Mới : 9683147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:08:48--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 9683147
+- Lượng Mới : 9183147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:08:54--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 9183147
+- Lượng Mới : 8683147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:09:01--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 8683147
+- Lượng Mới : 8183147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:09:08--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 8183147
+- Lượng Mới : 7683147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:09:13--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 7683147
+- Lượng Mới : 7183147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:09:19--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 7183147
+- Lượng Mới : 6683147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:09:27--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 6683147
+- Lượng Mới : 6183147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:09:35--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 6183147
+- Lượng Mới : 5683147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:09:49--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 5683147
+- Lượng Mới : 5183147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:09:55--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 5183147
+- Lượng Mới : 4683147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:10:01--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 4683147
+- Lượng Mới : 4183147
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 08:10:22--------
+- Name : yeu1em
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 4183147
+- Lượng Mới : 4083147
+- Lượng Thay Đổi :-100000 Lượng 
+----------Thời Gian : 2024-10-09 08:10:25--------
+- Name : yeu1em
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 4083147
+- Lượng Mới : 3983147
+- Lượng Thay Đổi :-100000 Lượng 
+----------Thời Gian : 2024-10-09 08:10:27--------
+- Name : yeu1em
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 3983147
+- Lượng Mới : 3883147
+- Lượng Thay Đổi :-100000 Lượng 
+----------Thời Gian : 2024-10-09 08:10:28--------
+- Name : yeu1em
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 3883147
+- Lượng Mới : 3783147
+- Lượng Thay Đổi :-100000 Lượng 
+----------Thời Gian : 2024-10-09 08:10:30--------
+- Name : yeu1em
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 3783147
+- Lượng Mới : 3683147
+- Lượng Thay Đổi :-100000 Lượng 
+----------Thời Gian : 2024-10-09 08:10:32--------
+- Name : yeu1em
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 3683147
+- Lượng Mới : 3583147
+- Lượng Thay Đổi :-100000 Lượng 
+----------Thời Gian : 2024-10-09 08:10:33--------
+- Name : yeu1em
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 3583147
+- Lượng Mới : 3483147
+- Lượng Thay Đổi :-100000 Lượng 
+----------Thời Gian : 2024-10-09 08:10:34--------
+- Name : yeu1em
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 3483147
+- Lượng Mới : 3383147
+- Lượng Thay Đổi :-100000 Lượng 
+----------Thời Gian : 2024-10-09 08:10:40--------
+- Name : yeu1em
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 3383147
+- Lượng Mới : 3183147
+- Lượng Thay Đổi :-200000 Lượng 
+----------Thời Gian : 2024-10-09 08:10:58--------
+- Name : yeu1em
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 3183147
+- Lượng Mới : 2883147
+- Lượng Thay Đổi :-300000 Lượng 
+----------Thời Gian : 2024-10-09 08:11:00--------
+- Name : yeu1em
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 2883147
+- Lượng Mới : 2583147
+- Lượng Thay Đổi :-300000 Lượng 
+----------Thời Gian : 2024-10-09 08:11:02--------
+- Name : yeu1em
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 2583147
+- Lượng Mới : 2283147
+- Lượng Thay Đổi :-300000 Lượng 
+----------Thời Gian : 2024-10-09 08:11:03--------
+- Name : yeu1em
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 2283147
+- Lượng Mới : 1983147
+- Lượng Thay Đổi :-300000 Lượng 
+----------Thời Gian : 2024-10-09 08:11:04--------
+- Name : yeu1em
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 1983147
+- Lượng Mới : 1683147
+- Lượng Thay Đổi :-300000 Lượng 
+----------Thời Gian : 2024-10-09 08:11:06--------
+- Name : yeu1em
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 1683147
+- Lượng Mới : 1383147
+- Lượng Thay Đổi :-300000 Lượng 
+----------Thời Gian : 2024-10-09 08:11:07--------
+- Name : yeu1em
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 1383147
+- Lượng Mới : 1083147
+- Lượng Thay Đổi :-300000 Lượng 
+----------Thời Gian : 2024-10-09 08:47:20--------
+- Name : abczzz
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 250000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 08:47:22--------
+- Name : abczzz
+- Tên Giao Dịch :  Điểm Danh Hằng Ngày
+- Lượng Cũ : 500000
+- Lượng Mới : 501000
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-10-09 08:48:25--------
+- Name : abczzz
+- Tên Giao Dịch :  Nhập GiftCode : daubuoi
+- Lượng Cũ : 501000
+- Lượng Mới : 521000
+- Lượng Thay Đổi :20000 Lượng 
+----------Thời Gian : 2024-10-09 08:48:58--------
+- Name : abczzz
+- Tên Giao Dịch :  Nhập GiftCode : uplevel
+- Lượng Cũ : 521000
+- Lượng Mới : 621000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 08:49:09--------
+- Name : abczzz
+- Tên Giao Dịch :  Nhập GiftCode : trungthu
+- Lượng Cũ : 621000
+- Lượng Mới : 1121000
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 08:49:33--------
+- Name : abczzz
+- Tên Giao Dịch :  Nhập GiftCode : baotri2
+- Lượng Cũ : 1121000
+- Lượng Mới : 1621000
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 08:49:46--------
+- Name : abczzz
+- Tên Giao Dịch :  Nhập GiftCode : 2309
+- Lượng Cũ : 1621000
+- Lượng Mới : 1721000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 08:49:54--------
+- Name : abczzz
+- Tên Giao Dịch :  Nhập GiftCode : 2509
+- Lượng Cũ : 1721000
+- Lượng Mới : 1821000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 08:50:07--------
+- Name : abczzz
+- Tên Giao Dịch :  Nhập GiftCode : baotri
+- Lượng Cũ : 1821000
+- Lượng Mới : 2021000
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 08:52:20--------
+- Name : abczzz
+- Tên Giao Dịch :  Nhập GiftCode : chuyensinh
+- Lượng Cũ : 2021000
+- Lượng Mới : 2221000
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 08:52:30--------
+- Name : abczzz
+- Tên Giao Dịch :  Nhập GiftCode : codedaubuoi
+- Lượng Cũ : 2221000
+- Lượng Mới : 2271000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 08:52:44--------
+- Name : abczzz
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 2271000
+- Lượng Mới : 2371000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 08:53:47--------
+- Name : abczzz
+- Tên Giao Dịch :  Nhập GiftCode : tanthu
+- Lượng Cũ : 2371000
+- Lượng Mới : 2471000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 08:54:07--------
+- Name : abczzz
+- Tên Giao Dịch :  Nhập GiftCode : sucdaubuoix2
+- Lượng Cũ : 2471000
+- Lượng Mới : 2571000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 08:54:19--------
+- Name : abczzz
+- Tên Giao Dịch :  Nhập GiftCode : sucdaubuoix3
+- Lượng Cũ : 2571000
+- Lượng Mới : 2671000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 08:54:42--------
+- Name : abczzz
+- Tên Giao Dịch :  Nhập GiftCode : newupdate
+- Lượng Cũ : 2671000
+- Lượng Mới : 2871000
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 08:55:01--------
+- Name : abczzz
+- Tên Giao Dịch :  Nhập GiftCode : livegamenso
+- Lượng Cũ : 2871000
+- Lượng Mới : 2971000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 09:25:26--------
+- Name : knighterr
+- Tên Giao Dịch :  Điểm Danh Hằng Ngày
+- Lượng Cũ : 16555492
+- Lượng Mới : 16556492
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-10-09 10:02:09--------
+- Name : madara
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 1816400
+- Lượng Mới : 1811400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 10:02:23--------
+- Name : madara
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 1811400
+- Lượng Mới : 1806400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 10:02:34--------
+- Name : madara
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 1806400
+- Lượng Mới : 1801400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 10:02:47--------
+- Name : madara
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 1801400
+- Lượng Mới : 1796400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 10:02:59--------
+- Name : madara
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 1796400
+- Lượng Mới : 1791400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 10:03:10--------
+- Name : madara
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 1791400
+- Lượng Mới : 1786400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 10:03:20--------
+- Name : madara
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 1786400
+- Lượng Mới : 1781400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 10:03:31--------
+- Name : madara
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 1781400
+- Lượng Mới : 1776400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 10:03:53--------
+- Name : madara
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 1776400
+- Lượng Mới : 1771400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 10:04:06--------
+- Name : madara
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 1771400
+- Lượng Mới : 1766400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 10:04:10--------
+- Name : madara
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 1766400
+- Lượng Mới : 1761400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 10:17:39--------
+- Name : hentaihinata
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 250000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 10:17:59--------
+- Name : hentaihinata
+- Tên Giao Dịch :  Điểm Danh Hằng Ngày
+- Lượng Cũ : 500000
+- Lượng Mới : 501000
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-10-09 10:29:06--------
+- Name : hentaihinata
+- Tên Giao Dịch :  Nhập GiftCode : 2309
+- Lượng Cũ : 485950
+- Lượng Mới : 585950
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 10:29:23--------
+- Name : hentaihinata
+- Tên Giao Dịch :  Nhập GiftCode : 2509
+- Lượng Cũ : 585950
+- Lượng Mới : 685950
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 10:29:33--------
+- Name : hentaihinata
+- Tên Giao Dịch :  Nhập GiftCode : baotri
+- Lượng Cũ : 685950
+- Lượng Mới : 885950
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 10:29:51--------
+- Name : hentaihinata
+- Tên Giao Dịch :  Nhập GiftCode : baotri2
+- Lượng Cũ : 885950
+- Lượng Mới : 1385950
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 10:30:13--------
+- Name : hentaihinata
+- Tên Giao Dịch :  Nhập GiftCode : chuyensinh
+- Lượng Cũ : 1385950
+- Lượng Mới : 1585950
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 10:30:33--------
+- Name : hentaihinata
+- Tên Giao Dịch :  Nhập GiftCode : codedaubuoi
+- Lượng Cũ : 1585950
+- Lượng Mới : 1635950
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 10:30:47--------
+- Name : hentaihinata
+- Tên Giao Dịch :  Nhập GiftCode : daubuoi
+- Lượng Cũ : 1635950
+- Lượng Mới : 1655950
+- Lượng Thay Đổi :20000 Lượng 
+----------Thời Gian : 2024-10-09 10:30:59--------
+- Name : hentaihinata
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 1655950
+- Lượng Mới : 1755950
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 10:31:10--------
+- Name : hentaihinata
+- Tên Giao Dịch :  Nhập GiftCode : fancung
+- Lượng Cũ : 1755950
+- Lượng Mới : 1775950
+- Lượng Thay Đổi :20000 Lượng 
+----------Thời Gian : 2024-10-09 10:31:26--------
+- Name : hentaihinata
+- Tên Giao Dịch :  Nhập GiftCode : livegamenso
+- Lượng Cũ : 1775950
+- Lượng Mới : 1875950
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 10:31:39--------
+- Name : hentaihinata
+- Tên Giao Dịch :  Nhập GiftCode : newupdate
+- Lượng Cũ : 1875950
+- Lượng Mới : 2075950
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 10:31:48--------
+- Name : hentaihinata
+- Tên Giao Dịch :  Nhập GiftCode : sucdaubuoi
+- Lượng Cũ : 2075950
+- Lượng Mới : 2175950
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 10:32:20--------
+- Name : hentaihinata
+- Tên Giao Dịch :  Nhập GiftCode : tanthu
+- Lượng Cũ : 2175950
+- Lượng Mới : 2275950
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 10:32:28--------
+- Name : hentaihinata
+- Tên Giao Dịch :  Nhập GiftCode : trungthu
+- Lượng Cũ : 2275950
+- Lượng Mới : 2775950
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 10:32:38--------
+- Name : hentaihinata
+- Tên Giao Dịch :  Nhập GiftCode : uplevel
+- Lượng Cũ : 2775950
+- Lượng Mới : 2875950
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 10:37:19--------
+- Name : deptrai
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 250000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 10:37:40--------
+- Name : deptrai
+- Tên Giao Dịch :  Nhập GiftCode : baotri
+- Lượng Cũ : 500000
+- Lượng Mới : 700000
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 10:37:51--------
+- Name : deptrai
+- Tên Giao Dịch :  Nhập GiftCode : baotri2
+- Lượng Cũ : 700000
+- Lượng Mới : 1200000
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 10:38:15--------
+- Name : deptrai
+- Tên Giao Dịch :  Nhập GiftCode : 2309
+- Lượng Cũ : 1200000
+- Lượng Mới : 1300000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 10:38:33--------
+- Name : deptrai
+- Tên Giao Dịch :  Nhập GiftCode : 2509
+- Lượng Cũ : 1300000
+- Lượng Mới : 1400000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 10:50:29--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 1315417
+- Lượng Mới : 815417
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 10:50:46--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 815417
+- Lượng Mới : 315417
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 10:52:30--------
+- Name : deptrai
+- Tên Giao Dịch :  Nhập GiftCode : fancung
+- Lượng Cũ : 1400000
+- Lượng Mới : 1420000
+- Lượng Thay Đổi :20000 Lượng 
+----------Thời Gian : 2024-10-09 10:52:38--------
+- Name : deptrai
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 1420000
+- Lượng Mới : 1520000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 10:53:05--------
+- Name : deptrai
+- Tên Giao Dịch :  Nhập GiftCode : trungthu
+- Lượng Cũ : 1520000
+- Lượng Mới : 2020000
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 10:53:33--------
+- Name : deptrai
+- Tên Giao Dịch :  Nhập GiftCode : livegamenso
+- Lượng Cũ : 2020000
+- Lượng Mới : 2120000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 10:56:57--------
+- Name : deptrai
+- Tên Giao Dịch :  Nhập GiftCode : newupdate
+- Lượng Cũ : 2120000
+- Lượng Mới : 2320000
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 10:57:15--------
+- Name : deptrai
+- Tên Giao Dịch :  Nhập GiftCode : daubuoi
+- Lượng Cũ : 2320000
+- Lượng Mới : 2340000
+- Lượng Thay Đổi :20000 Lượng 
+----------Thời Gian : 2024-10-09 10:57:30--------
+- Name : deptrai
+- Tên Giao Dịch :  Nhập GiftCode : sucdaubuoi
+- Lượng Cũ : 2340000
+- Lượng Mới : 2440000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 10:58:05--------
+- Name : deptrai
+- Tên Giao Dịch :  Nhập GiftCode : sucdaubuoix2
+- Lượng Cũ : 2440000
+- Lượng Mới : 2540000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 10:58:24--------
+- Name : deptrai
+- Tên Giao Dịch :  Nhập GiftCode : tanthu
+- Lượng Cũ : 2540000
+- Lượng Mới : 2640000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 10:59:49--------
+- Name : deptrai
+- Tên Giao Dịch :  Nhập GiftCode : sucdaubuoix3
+- Lượng Cũ : 2640000
+- Lượng Mới : 2740000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 11:00:32--------
+- Name : deptrai
+- Tên Giao Dịch :  Nhập GiftCode : chuyensinh
+- Lượng Cũ : 2740000
+- Lượng Mới : 2940000
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 11:00:56--------
+- Name : deptrai
+- Tên Giao Dịch :  Nhập GiftCode : codedaubuoi
+- Lượng Cũ : 2940000
+- Lượng Mới : 2990000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 11:08:45--------
+- Name : trum1phat
+- Tên Giao Dịch :  Điểm Danh Hằng Ngày
+- Lượng Cũ : 3053650
+- Lượng Mới : 3054650
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-10-09 11:16:45--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 515417
+- Lượng Mới : 15417
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 11:51:59--------
+- Name : knighter
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 111122142
+- Lượng Mới : 110322142
+- Lượng Thay Đổi :-800000 Lượng 
+----------Thời Gian : 2024-10-09 11:52:20--------
+- Name : knighter
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 110322142
+- Lượng Mới : 109522142
+- Lượng Thay Đổi :-800000 Lượng 
+----------Thời Gian : 2024-10-09 11:52:25--------
+- Name : knighter
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 109522142
+- Lượng Mới : 108722142
+- Lượng Thay Đổi :-800000 Lượng 
+----------Thời Gian : 2024-10-09 11:52:30--------
+- Name : knighter
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 108722142
+- Lượng Mới : 107922142
+- Lượng Thay Đổi :-800000 Lượng 
+----------Thời Gian : 2024-10-09 11:52:36--------
+- Name : knighter
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 107922142
+- Lượng Mới : 107122142
+- Lượng Thay Đổi :-800000 Lượng 
+----------Thời Gian : 2024-10-09 11:52:40--------
+- Name : knighter
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 107122142
+- Lượng Mới : 106322142
+- Lượng Thay Đổi :-800000 Lượng 
+----------Thời Gian : 2024-10-09 11:52:44--------
+- Name : knighter
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 106322142
+- Lượng Mới : 105522142
+- Lượng Thay Đổi :-800000 Lượng 
+----------Thời Gian : 2024-10-09 11:52:48--------
+- Name : knighter
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 105522142
+- Lượng Mới : 104722142
+- Lượng Thay Đổi :-800000 Lượng 
+----------Thời Gian : 2024-10-09 11:52:54--------
+- Name : knighter
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 104722142
+- Lượng Mới : 103922142
+- Lượng Thay Đổi :-800000 Lượng 
+----------Thời Gian : 2024-10-09 11:52:59--------
+- Name : knighter
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 103922142
+- Lượng Mới : 103122142
+- Lượng Thay Đổi :-800000 Lượng 
+----------Thời Gian : 2024-10-09 11:53:05--------
+- Name : knighter
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 103122142
+- Lượng Mới : 102322142
+- Lượng Thay Đổi :-800000 Lượng 
+----------Thời Gian : 2024-10-09 12:33:58--------
+- Name : abczzz
+- Tên Giao Dịch :  Nhập GiftCode : fancung
+- Lượng Cũ : 2971000
+- Lượng Mới : 2991000
+- Lượng Thay Đổi :20000 Lượng 
+----------Thời Gian : 2024-10-09 12:34:47--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 27491996
+- Lượng Mới : 27486996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:35:00--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 27486996
+- Lượng Mới : 27481996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:35:18--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 27481996
+- Lượng Mới : 27476996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:35:31--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 27476996
+- Lượng Mới : 27471996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:35:46--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 27471996
+- Lượng Mới : 27466996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:36:05--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 27466996
+- Lượng Mới : 27461996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:36:15--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 27461996
+- Lượng Mới : 27456996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:36:26--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 27456996
+- Lượng Mới : 27451996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:36:45--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 27451996
+- Lượng Mới : 27446996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:36:59--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 27446996
+- Lượng Mới : 27441996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:37:08--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 27441996
+- Lượng Mới : 27436996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:37:23--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 27436996
+- Lượng Mới : 27431996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:37:44--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27431996
+- Lượng Mới : 27426996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:37:54--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27426996
+- Lượng Mới : 27421996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:37:56--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27421996
+- Lượng Mới : 27416996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:37:58--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27416996
+- Lượng Mới : 27411996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:38:00--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27411996
+- Lượng Mới : 27406996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:38:02--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27406996
+- Lượng Mới : 27401996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:38:04--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27401996
+- Lượng Mới : 27396996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:38:05--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27396996
+- Lượng Mới : 27391996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:38:07--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27391996
+- Lượng Mới : 27386996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:38:08--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27386996
+- Lượng Mới : 27381996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:38:10--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27381996
+- Lượng Mới : 27376996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:38:21--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27376996
+- Lượng Mới : 27371996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:38:29--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27371996
+- Lượng Mới : 27366996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:38:33--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27366996
+- Lượng Mới : 27361996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:38:51--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27361996
+- Lượng Mới : 27356996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:38:53--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27356996
+- Lượng Mới : 27351996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:39:02--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27351996
+- Lượng Mới : 27346996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:39:04--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27346996
+- Lượng Mới : 27341996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:39:13--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27341996
+- Lượng Mới : 27336996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:39:22--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27336996
+- Lượng Mới : 27331996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:39:30--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27331996
+- Lượng Mới : 27326996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:39:32--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27326996
+- Lượng Mới : 27321996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:39:34--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27321996
+- Lượng Mới : 27316996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:39:36--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27316996
+- Lượng Mới : 27311996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:39:44--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27311996
+- Lượng Mới : 27306996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:39:45--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27306996
+- Lượng Mới : 27301996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:39:47--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27301996
+- Lượng Mới : 27296996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:39:48--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27296996
+- Lượng Mới : 27291996
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 12:39:57--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27291996
+- Lượng Mới : 27284996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:39:59--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27284996
+- Lượng Mới : 27277996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:40:01--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27277996
+- Lượng Mới : 27270996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:40:02--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27270996
+- Lượng Mới : 27263996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:40:04--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27263996
+- Lượng Mới : 27256996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:40:06--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27256996
+- Lượng Mới : 27249996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:40:08--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27249996
+- Lượng Mới : 27242996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:40:09--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27242996
+- Lượng Mới : 27235996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:40:11--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27235996
+- Lượng Mới : 27228996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:40:12--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27228996
+- Lượng Mới : 27221996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:40:24--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27221996
+- Lượng Mới : 27214996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:40:26--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27214996
+- Lượng Mới : 27207996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:40:35--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27207996
+- Lượng Mới : 27200996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:40:37--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27200996
+- Lượng Mới : 27193996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:40:38--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27193996
+- Lượng Mới : 27186996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:40:40--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27186996
+- Lượng Mới : 27179996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:40:41--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27179996
+- Lượng Mới : 27172996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:40:43--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27172996
+- Lượng Mới : 27165996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:40:44--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27165996
+- Lượng Mới : 27158996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:40:54--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27158996
+- Lượng Mới : 27151996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:40:55--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27151996
+- Lượng Mới : 27144996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:40:57--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27144996
+- Lượng Mới : 27137996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:40:58--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27137996
+- Lượng Mới : 27130996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:41:00--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27130996
+- Lượng Mới : 27123996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:41:01--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27123996
+- Lượng Mới : 27116996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:41:02--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27116996
+- Lượng Mới : 27109996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:41:04--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27109996
+- Lượng Mới : 27102996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:41:05--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27102996
+- Lượng Mới : 27095996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:41:06--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27095996
+- Lượng Mới : 27088996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:41:08--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27088996
+- Lượng Mới : 27081996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:41:09--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27081996
+- Lượng Mới : 27074996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:41:37--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27074996
+- Lượng Mới : 27067996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:41:39--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27067996
+- Lượng Mới : 27060996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:41:40--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27060996
+- Lượng Mới : 27053996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:41:41--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27053996
+- Lượng Mới : 27046996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:41:43--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27046996
+- Lượng Mới : 27039996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:41:44--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27039996
+- Lượng Mới : 27032996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:41:46--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27032996
+- Lượng Mới : 27025996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:41:47--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27025996
+- Lượng Mới : 27018996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:41:50--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27018996
+- Lượng Mới : 27011996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:41:51--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27011996
+- Lượng Mới : 27004996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:41:53--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 27004996
+- Lượng Mới : 26997996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:41:54--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 26997996
+- Lượng Mới : 26990996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:41:55--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 26990996
+- Lượng Mới : 26983996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:41:57--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 26983996
+- Lượng Mới : 26976996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:41:59--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 26976996
+- Lượng Mới : 26969996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:42:00--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 26969996
+- Lượng Mới : 26962996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:42:01--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 26962996
+- Lượng Mới : 26955996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:42:02--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 26955996
+- Lượng Mới : 26948996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:42:04--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 26948996
+- Lượng Mới : 26941996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:42:05--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 26941996
+- Lượng Mới : 26934996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:42:07--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 26934996
+- Lượng Mới : 26927996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:42:08--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 26927996
+- Lượng Mới : 26920996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:42:10--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 26920996
+- Lượng Mới : 26913996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:42:11--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 26913996
+- Lượng Mới : 26906996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:42:16--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 26906996
+- Lượng Mới : 26899996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:42:18--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 26899996
+- Lượng Mới : 26892996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:42:19--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 26892996
+- Lượng Mới : 26885996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:42:21--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 26885996
+- Lượng Mới : 26878996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:42:23--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 26878996
+- Lượng Mới : 26871996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:42:24--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 26871996
+- Lượng Mới : 26864996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:42:26--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 26864996
+- Lượng Mới : 26857996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:42:27--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 26857996
+- Lượng Mới : 26850996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:42:28--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 26850996
+- Lượng Mới : 26843996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:42:33--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 26843996
+- Lượng Mới : 26836996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:42:34--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 26836996
+- Lượng Mới : 26829996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:42:56--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25829996
+- Lượng Mới : 25822996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:42:58--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25822996
+- Lượng Mới : 25815996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:42:59--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25815996
+- Lượng Mới : 25808996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:01--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25808996
+- Lượng Mới : 25801996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:03--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25801996
+- Lượng Mới : 25794996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:05--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25794996
+- Lượng Mới : 25787996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:06--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25787996
+- Lượng Mới : 25780996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:07--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25780996
+- Lượng Mới : 25773996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:09--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25773996
+- Lượng Mới : 25766996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:13--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25766996
+- Lượng Mới : 25759996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:15--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25759996
+- Lượng Mới : 25752996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:17--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25752996
+- Lượng Mới : 25745996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:18--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25745996
+- Lượng Mới : 25738996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:20--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25738996
+- Lượng Mới : 25731996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:21--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25731996
+- Lượng Mới : 25724996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:22--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25724996
+- Lượng Mới : 25717996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:24--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25717996
+- Lượng Mới : 25710996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:25--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25710996
+- Lượng Mới : 25703996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:27--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25703996
+- Lượng Mới : 25696996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:29--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25696996
+- Lượng Mới : 25689996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:30--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25689996
+- Lượng Mới : 25682996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:31--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25682996
+- Lượng Mới : 25675996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:33--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25675996
+- Lượng Mới : 25668996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:38--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25668996
+- Lượng Mới : 25661996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:39--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25661996
+- Lượng Mới : 25654996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:41--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25654996
+- Lượng Mới : 25647996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:42--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25647996
+- Lượng Mới : 25640996
+- Lượng Thay Đổi :-7000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:51--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25640996
+- Lượng Mới : 25630996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:52--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25630996
+- Lượng Mới : 25620996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:54--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25620996
+- Lượng Mới : 25610996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:55--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25610996
+- Lượng Mới : 25600996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:56--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25600996
+- Lượng Mới : 25590996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:58--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25590996
+- Lượng Mới : 25580996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:43:59--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25580996
+- Lượng Mới : 25570996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:44:00--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25570996
+- Lượng Mới : 25560996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:44:02--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25560996
+- Lượng Mới : 25550996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:44:03--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25550996
+- Lượng Mới : 25540996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:44:04--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25540996
+- Lượng Mới : 25530996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:44:06--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25530996
+- Lượng Mới : 25520996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:44:07--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25520996
+- Lượng Mới : 25510996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:44:08--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25510996
+- Lượng Mới : 25500996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:44:10--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25500996
+- Lượng Mới : 25490996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:08--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25490996
+- Lượng Mới : 25480996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:09--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25480996
+- Lượng Mới : 25470996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:12--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25470996
+- Lượng Mới : 25460996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:13--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25460996
+- Lượng Mới : 25450996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:14--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25450996
+- Lượng Mới : 25440996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:16--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25440996
+- Lượng Mới : 25430996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:17--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25430996
+- Lượng Mới : 25420996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:18--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25420996
+- Lượng Mới : 25410996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:19--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25410996
+- Lượng Mới : 25400996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:21--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25400996
+- Lượng Mới : 25390996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:25--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25390996
+- Lượng Mới : 25380996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:27--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25380996
+- Lượng Mới : 25370996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:28--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25370996
+- Lượng Mới : 25360996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:30--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25360996
+- Lượng Mới : 25350996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:32--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25350996
+- Lượng Mới : 25340996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:33--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25340996
+- Lượng Mới : 25330996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:35--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25330996
+- Lượng Mới : 25320996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:36--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25320996
+- Lượng Mới : 25310996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:38--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25310996
+- Lượng Mới : 25300996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:39--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25300996
+- Lượng Mới : 25290996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:41--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25290996
+- Lượng Mới : 25280996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:42--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25280996
+- Lượng Mới : 25270996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:44--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25270996
+- Lượng Mới : 25260996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:45--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25260996
+- Lượng Mới : 25250996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:46--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25250996
+- Lượng Mới : 25240996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:48--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25240996
+- Lượng Mới : 25230996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:49--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25230996
+- Lượng Mới : 25220996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:53--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25220996
+- Lượng Mới : 25210996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:54--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25210996
+- Lượng Mới : 25200996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:56--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25200996
+- Lượng Mới : 25190996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:57--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25190996
+- Lượng Mới : 25180996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:49:59--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25180996
+- Lượng Mới : 25170996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:00--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25170996
+- Lượng Mới : 25160996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:01--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25160996
+- Lượng Mới : 25150996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:03--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25150996
+- Lượng Mới : 25140996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:06--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25140996
+- Lượng Mới : 25130996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:07--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25130996
+- Lượng Mới : 25120996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:09--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25120996
+- Lượng Mới : 25110996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:11--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25110996
+- Lượng Mới : 25100996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:12--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25100996
+- Lượng Mới : 25090996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:13--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25090996
+- Lượng Mới : 25080996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:15--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25080996
+- Lượng Mới : 25070996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:16--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25070996
+- Lượng Mới : 25060996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:17--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25060996
+- Lượng Mới : 25050996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:19--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25050996
+- Lượng Mới : 25040996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:20--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25040996
+- Lượng Mới : 25030996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:22--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25030996
+- Lượng Mới : 25020996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:23--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25020996
+- Lượng Mới : 25010996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:25--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25010996
+- Lượng Mới : 25000996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:26--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 25000996
+- Lượng Mới : 24990996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:28--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24990996
+- Lượng Mới : 24980996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:29--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24980996
+- Lượng Mới : 24970996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:30--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24970996
+- Lượng Mới : 24960996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:32--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24960996
+- Lượng Mới : 24950996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:33--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24950996
+- Lượng Mới : 24940996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:34--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24940996
+- Lượng Mới : 24930996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:37--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24930996
+- Lượng Mới : 24920996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:39--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24920996
+- Lượng Mới : 24910996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:40--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24910996
+- Lượng Mới : 24900996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:43--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24900996
+- Lượng Mới : 24890996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:44--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24890996
+- Lượng Mới : 24880996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:49--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24880996
+- Lượng Mới : 24870996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:50--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24870996
+- Lượng Mới : 24860996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:51--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24860996
+- Lượng Mới : 24850996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:52--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24850996
+- Lượng Mới : 24840996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:54--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24840996
+- Lượng Mới : 24830996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:55--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24830996
+- Lượng Mới : 24820996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:57--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24820996
+- Lượng Mới : 24810996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:50:59--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24810996
+- Lượng Mới : 24800996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:00--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24800996
+- Lượng Mới : 24790996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:01--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24790996
+- Lượng Mới : 24780996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:05--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24780996
+- Lượng Mới : 24770996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:06--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24770996
+- Lượng Mới : 24760996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:08--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24760996
+- Lượng Mới : 24750996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:09--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24750996
+- Lượng Mới : 24740996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:11--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24740996
+- Lượng Mới : 24730996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:12--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24730996
+- Lượng Mới : 24720996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:13--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24720996
+- Lượng Mới : 24710996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:15--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24710996
+- Lượng Mới : 24700996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:16--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24700996
+- Lượng Mới : 24690996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:17--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24690996
+- Lượng Mới : 24680996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:19--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24680996
+- Lượng Mới : 24670996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:20--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24670996
+- Lượng Mới : 24660996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:21--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24660996
+- Lượng Mới : 24650996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:23--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24650996
+- Lượng Mới : 24640996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:24--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24640996
+- Lượng Mới : 24630996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:25--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24630996
+- Lượng Mới : 24620996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:27--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24620996
+- Lượng Mới : 24610996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:28--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24610996
+- Lượng Mới : 24600996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:29--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24600996
+- Lượng Mới : 24590996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:31--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24590996
+- Lượng Mới : 24580996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:32--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24580996
+- Lượng Mới : 24570996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:33--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24570996
+- Lượng Mới : 24560996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:35--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24560996
+- Lượng Mới : 24550996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:36--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24550996
+- Lượng Mới : 24540996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:38--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24540996
+- Lượng Mới : 24530996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:39--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24530996
+- Lượng Mới : 24520996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:41--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24520996
+- Lượng Mới : 24510996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:43--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24510996
+- Lượng Mới : 24500996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:44--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24500996
+- Lượng Mới : 24490996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:45--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24490996
+- Lượng Mới : 24480996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:47--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24480996
+- Lượng Mới : 24470996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:48--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24470996
+- Lượng Mới : 24460996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:50--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24460996
+- Lượng Mới : 24450996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:51--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24450996
+- Lượng Mới : 24440996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:51:53--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24440996
+- Lượng Mới : 24430996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:07--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24430996
+- Lượng Mới : 24420996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:08--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24420996
+- Lượng Mới : 24410996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:09--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24410996
+- Lượng Mới : 24400996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:11--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24400996
+- Lượng Mới : 24390996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:12--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24390996
+- Lượng Mới : 24380996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:17--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24380996
+- Lượng Mới : 24370996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:19--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24370996
+- Lượng Mới : 24360996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:21--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24360996
+- Lượng Mới : 24350996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:22--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24350996
+- Lượng Mới : 24340996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:24--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24340996
+- Lượng Mới : 24330996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:25--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24330996
+- Lượng Mới : 24320996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:26--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24320996
+- Lượng Mới : 24310996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:28--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24310996
+- Lượng Mới : 24300996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:29--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24300996
+- Lượng Mới : 24290996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:30--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24290996
+- Lượng Mới : 24280996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:32--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24280996
+- Lượng Mới : 24270996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:33--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24270996
+- Lượng Mới : 24260996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:34--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24260996
+- Lượng Mới : 24250996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:35--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24250996
+- Lượng Mới : 24240996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:37--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24240996
+- Lượng Mới : 24230996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:38--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24230996
+- Lượng Mới : 24220996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:39--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24220996
+- Lượng Mới : 24210996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:41--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24210996
+- Lượng Mới : 24200996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:42--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24200996
+- Lượng Mới : 24190996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:43--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24190996
+- Lượng Mới : 24180996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:45--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24180996
+- Lượng Mới : 24170996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:46--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24170996
+- Lượng Mới : 24160996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:47--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24160996
+- Lượng Mới : 24150996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:48--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24150996
+- Lượng Mới : 24140996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:50--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24140996
+- Lượng Mới : 24130996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:53--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24130996
+- Lượng Mới : 24120996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:54--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24120996
+- Lượng Mới : 24110996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:55--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24110996
+- Lượng Mới : 24100996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:57--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24100996
+- Lượng Mới : 24090996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:52:59--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24090996
+- Lượng Mới : 24080996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:53:00--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24080996
+- Lượng Mới : 24070996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:53:02--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24070996
+- Lượng Mới : 24060996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:53:03--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24060996
+- Lượng Mới : 24050996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:53:04--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24050996
+- Lượng Mới : 24040996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:53:06--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24040996
+- Lượng Mới : 24030996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:53:07--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24030996
+- Lượng Mới : 24020996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:53:08--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24020996
+- Lượng Mới : 24010996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:53:10--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24010996
+- Lượng Mới : 24000996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:53:11--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 24000996
+- Lượng Mới : 23990996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:53:13--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 23990996
+- Lượng Mới : 23980996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:53:14--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 23980996
+- Lượng Mới : 23970996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:53:16--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 23970996
+- Lượng Mới : 23960996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:53:17--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 23960996
+- Lượng Mới : 23950996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:53:18--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 23950996
+- Lượng Mới : 23940996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:53:20--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 23940996
+- Lượng Mới : 23930996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:53:25--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 23930996
+- Lượng Mới : 23920996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:53:26--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 23920996
+- Lượng Mới : 23910996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:53:27--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 23910996
+- Lượng Mới : 23900996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:53:28--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 23900996
+- Lượng Mới : 23890996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:53:31--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 23890996
+- Lượng Mới : 23880996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:53:33--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 23880996
+- Lượng Mới : 23870996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:53:35--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 23870996
+- Lượng Mới : 23860996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 12:53:36--------
+- Name : 1dapvelang
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 23860996
+- Lượng Mới : 23850996
+- Lượng Thay Đổi :-10000 Lượng 
+----------Thời Gian : 2024-10-09 13:05:26--------
+- Name : nhocconub
+- Tên Giao Dịch :  Nhập GiftCode : baotri2
+- Lượng Cũ : 1190280
+- Lượng Mới : 1690280
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 13:31:49--------
+- Name : chip113
+- Tên Giao Dịch :  Nhập GiftCode : baotri2
+- Lượng Cũ : 564104
+- Lượng Mới : 1064104
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 13:38:59--------
+- Name : tieulyphibuom
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 250000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 13:39:01--------
+- Name : tieulyphibuom
+- Tên Giao Dịch :  Điểm Danh Hằng Ngày
+- Lượng Cũ : 500000
+- Lượng Mới : 501000
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-10-09 13:39:45--------
+- Name : tieulyphibuom
+- Tên Giao Dịch :  Nhập GiftCode : chuyensinh
+- Lượng Cũ : 501000
+- Lượng Mới : 701000
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 13:40:29--------
+- Name : tieulyphibuom
+- Tên Giao Dịch :  Nhập GiftCode : 2309
+- Lượng Cũ : 701000
+- Lượng Mới : 801000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 13:40:38--------
+- Name : tieulyphibuom
+- Tên Giao Dịch :  Nhập GiftCode : 2509
+- Lượng Cũ : 801000
+- Lượng Mới : 901000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 13:40:50--------
+- Name : tieulyphibuom
+- Tên Giao Dịch :  Nhập GiftCode : baotri
+- Lượng Cũ : 901000
+- Lượng Mới : 1101000
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 13:40:57--------
+- Name : tieulyphibuom
+- Tên Giao Dịch :  Nhập GiftCode : baotri2
+- Lượng Cũ : 1101000
+- Lượng Mới : 1601000
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 13:41:10--------
+- Name : tieulyphibuom
+- Tên Giao Dịch :  Nhập GiftCode : codedaubuoi
+- Lượng Cũ : 1601000
+- Lượng Mới : 1651000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 13:41:22--------
+- Name : tieulyphibuom
+- Tên Giao Dịch :  Nhập GiftCode : daubuoi
+- Lượng Cũ : 1651000
+- Lượng Mới : 1671000
+- Lượng Thay Đổi :20000 Lượng 
+----------Thời Gian : 2024-10-09 13:41:29--------
+- Name : tieulyphibuom
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 1671000
+- Lượng Mới : 1771000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 13:41:45--------
+- Name : tieulyphibuom
+- Tên Giao Dịch :  Nhập GiftCode : fancung
+- Lượng Cũ : 1771000
+- Lượng Mới : 1791000
+- Lượng Thay Đổi :20000 Lượng 
+----------Thời Gian : 2024-10-09 13:42:03--------
+- Name : tieulyphibuom
+- Tên Giao Dịch :  Nhập GiftCode : livegamenso
+- Lượng Cũ : 1791000
+- Lượng Mới : 1891000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 13:42:36--------
+- Name : tuyen6789
+- Tên Giao Dịch :  Nhập GiftCode : baotri2
+- Lượng Cũ : 1415825
+- Lượng Mới : 1915825
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 13:42:41--------
+- Name : tieulyphibuom
+- Tên Giao Dịch :  Nhập GiftCode : newupdate
+- Lượng Cũ : 1891000
+- Lượng Mới : 2091000
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 13:42:59--------
+- Name : tieulyphibuom
+- Tên Giao Dịch :  Nhập GiftCode : sucdaubuoi
+- Lượng Cũ : 2091000
+- Lượng Mới : 2191000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 13:43:10--------
+- Name : tuyen6789
+- Tên Giao Dịch :  Nhập GiftCode : chuyensinh
+- Lượng Cũ : 1915825
+- Lượng Mới : 2115825
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 13:43:20--------
+- Name : tieulyphibuom
+- Tên Giao Dịch :  Nhập GiftCode : sucdaubuoix2
+- Lượng Cũ : 2191000
+- Lượng Mới : 2291000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 13:43:29--------
+- Name : tieulyphibuom
+- Tên Giao Dịch :  Nhập GiftCode : sucdaubuoix3
+- Lượng Cũ : 2291000
+- Lượng Mới : 2391000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 13:43:39--------
+- Name : tieulyphibuom
+- Tên Giao Dịch :  Nhập GiftCode : tanthu
+- Lượng Cũ : 2391000
+- Lượng Mới : 2491000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 13:43:47--------
+- Name : tieulyphibuom
+- Tên Giao Dịch :  Nhập GiftCode : trungthu
+- Lượng Cũ : 2491000
+- Lượng Mới : 2991000
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 13:44:01--------
+- Name : tieulyphibuom
+- Tên Giao Dịch :  Nhập GiftCode : uplevel
+- Lượng Cũ : 2991000
+- Lượng Mới : 3091000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 13:45:05--------
+- Name : tuyen6789
+- Tên Giao Dịch :  Nhập GiftCode : codedaubuoi
+- Lượng Cũ : 2115825
+- Lượng Mới : 2165825
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 14:03:38--------
+- Name : ngocmiu
+- Tên Giao Dịch :  Điểm Danh Hằng Ngày
+- Lượng Cũ : 3189917
+- Lượng Mới : 3190917
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-10-09 14:09:13--------
+- Name : hatieuvu03
+- Tên Giao Dịch :  Điểm Danh Hằng Ngày
+- Lượng Cũ : 224066
+- Lượng Mới : 225066
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-10-09 14:36:35--------
+- Name : danchoixom
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 5075345
+- Lượng Mới : 4275345
+- Lượng Thay Đổi :-800000 Lượng 
+----------Thời Gian : 2024-10-09 14:36:42--------
+- Name : danchoixom
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 4275345
+- Lượng Mới : 3475345
+- Lượng Thay Đổi :-800000 Lượng 
+----------Thời Gian : 2024-10-09 14:36:44--------
+- Name : danchoixom
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 3475345
+- Lượng Mới : 2675345
+- Lượng Thay Đổi :-800000 Lượng 
+----------Thời Gian : 2024-10-09 14:36:50--------
+- Name : danchoixom
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 2675345
+- Lượng Mới : 1875345
+- Lượng Thay Đổi :-800000 Lượng 
+----------Thời Gian : 2024-10-09 14:36:52--------
+- Name : danchoixom
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 1875345
+- Lượng Mới : 1075345
+- Lượng Thay Đổi :-800000 Lượng 
+----------Thời Gian : 2024-10-09 14:36:54--------
+- Name : danchoixom
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 1075345
+- Lượng Mới : 275345
+- Lượng Thay Đổi :-800000 Lượng 
+----------Thời Gian : 2024-10-09 15:50:40--------
+- Name : phitieu69
+- Tên Giao Dịch :  Nhập GiftCode : baotri2
+- Lượng Cũ : 1397819
+- Lượng Mới : 1897819
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 16:52:20--------
+- Name : hakoota
+- Tên Giao Dịch :  Nhập GiftCode : baotri2
+- Lượng Cũ : 2135666
+- Lượng Mới : 2635666
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 17:25:54--------
+- Name : truong34
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 250000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 17:26:12--------
+- Name : truong34
+- Tên Giao Dịch :  Điểm Danh Hằng Ngày
+- Lượng Cũ : 500000
+- Lượng Mới : 501000
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-10-09 17:33:54--------
+- Name : truong34
+- Tên Giao Dịch :  Nhập GiftCode : tanthu
+- Lượng Cũ : 495000
+- Lượng Mới : 595000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 17:35:18--------
+- Name : truong34
+- Tên Giao Dịch :  Nhập GiftCode : trungthu
+- Lượng Cũ : 595000
+- Lượng Mới : 1095000
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 17:35:34--------
+- Name : truong34
+- Tên Giao Dịch :  Nhập GiftCode : uplevel
+- Lượng Cũ : 1095000
+- Lượng Mới : 1195000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 17:38:25--------
+- Name : truong34
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 10
+- Lượng Cũ : 1195000
+- Lượng Mới : 1196000
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-10-09 17:38:27--------
+- Name : truong34
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 20
+- Lượng Cũ : 1196000
+- Lượng Mới : 1198000
+- Lượng Thay Đổi :2000 Lượng 
+----------Thời Gian : 2024-10-09 17:38:29--------
+- Name : truong34
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 30
+- Lượng Cũ : 1198000
+- Lượng Mới : 1201000
+- Lượng Thay Đổi :3000 Lượng 
+----------Thời Gian : 2024-10-09 17:38:31--------
+- Name : truong34
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 40
+- Lượng Cũ : 1201000
+- Lượng Mới : 1205000
+- Lượng Thay Đổi :4000 Lượng 
+----------Thời Gian : 2024-10-09 17:38:36--------
+- Name : truong34
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 50
+- Lượng Cũ : 1205000
+- Lượng Mới : 1210000
+- Lượng Thay Đổi :5000 Lượng 
+----------Thời Gian : 2024-10-09 17:38:57--------
+- Name : truong34
+- Tên Giao Dịch :  Nhập GiftCode : sucdaubuoix3
+- Lượng Cũ : 1210000
+- Lượng Mới : 1310000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 17:39:47--------
+- Name : truong34
+- Tên Giao Dịch :  Nhập GiftCode : sucdaubuoix2
+- Lượng Cũ : 1310000
+- Lượng Mới : 1410000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 17:39:55--------
+- Name : truong34
+- Tên Giao Dịch :  Nhập GiftCode : sucdaubuoi
+- Lượng Cũ : 1410000
+- Lượng Mới : 1510000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 17:40:09--------
+- Name : truong34
+- Tên Giao Dịch :  Nhập GiftCode : newupdate
+- Lượng Cũ : 1510000
+- Lượng Mới : 1710000
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 17:40:20--------
+- Name : truong34
+- Tên Giao Dịch :  Nhập GiftCode : livegamenso
+- Lượng Cũ : 1710000
+- Lượng Mới : 1810000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 17:40:45--------
+- Name : truong34
+- Tên Giao Dịch :  Nhập GiftCode : fancung
+- Lượng Cũ : 1810000
+- Lượng Mới : 1830000
+- Lượng Thay Đổi :20000 Lượng 
+----------Thời Gian : 2024-10-09 17:41:11--------
+- Name : truong34
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 1830000
+- Lượng Mới : 1930000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 17:44:05--------
+- Name : truong34
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 60
+- Lượng Cũ : 1930000
+- Lượng Mới : 1936000
+- Lượng Thay Đổi :6000 Lượng 
+----------Thời Gian : 2024-10-09 17:44:08--------
+- Name : truong34
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 20
+- Lượng Cũ : 1936000
+- Lượng Mới : 1943000
+- Lượng Thay Đổi :7000 Lượng 
+----------Thời Gian : 2024-10-09 17:45:15--------
+- Name : truong34
+- Tên Giao Dịch :  Nhập GiftCode : daubuoi
+- Lượng Cũ : 1943000
+- Lượng Mới : 1963000
+- Lượng Thay Đổi :20000 Lượng 
+----------Thời Gian : 2024-10-09 17:45:26--------
+- Name : truong34
+- Tên Giao Dịch :  Nhập GiftCode : codedaubuoi
+- Lượng Cũ : 1963000
+- Lượng Mới : 2013000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 17:57:09--------
+- Name : truong34
+- Tên Giao Dịch :  Nhập GiftCode : chuyensinh
+- Lượng Cũ : 2013000
+- Lượng Mới : 2213000
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 17:57:23--------
+- Name : truong34
+- Tên Giao Dịch :  Nhập GiftCode : baotri2
+- Lượng Cũ : 2213000
+- Lượng Mới : 2713000
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 17:57:28--------
+- Name : truong34
+- Tên Giao Dịch :  Nhập GiftCode : baotri
+- Lượng Cũ : 2713000
+- Lượng Mới : 2913000
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 17:57:37--------
+- Name : truong34
+- Tên Giao Dịch :  Nhập GiftCode : 2509
+- Lượng Cũ : 2913000
+- Lượng Mới : 3013000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 17:57:45--------
+- Name : truong34
+- Tên Giao Dịch :  Nhập GiftCode : 2309
+- Lượng Cũ : 3013000
+- Lượng Mới : 3113000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 18:17:36--------
+- Name : nhinconcac
+- Tên Giao Dịch :  Điểm Danh Hằng Ngày
+- Lượng Cũ : 3792250
+- Lượng Mới : 3793250
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-10-09 18:36:42--------
+- Name : truong34
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 3083400
+- Lượng Mới : 3078400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 18:37:06--------
+- Name : truong34
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 3078400
+- Lượng Mới : 3073400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 18:37:36--------
+- Name : truong34
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 3073400
+- Lượng Mới : 3068400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 18:37:44--------
+- Name : truong34
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 3068400
+- Lượng Mới : 3063400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 18:37:55--------
+- Name : truong34
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 3063400
+- Lượng Mới : 3058400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 18:38:06--------
+- Name : truong34
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 3058400
+- Lượng Mới : 3053400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 18:38:20--------
+- Name : truong34
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 3053400
+- Lượng Mới : 3048400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 18:38:50--------
+- Name : truong34
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 3038400
+- Lượng Mới : 3033400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 18:39:04--------
+- Name : truong34
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 3033400
+- Lượng Mới : 3028400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 18:39:36--------
+- Name : truong34
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 3028400
+- Lượng Mới : 3023400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 18:39:48--------
+- Name : truong34
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 3023400
+- Lượng Mới : 3018400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 18:39:57--------
+- Name : truong34
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 3018400
+- Lượng Mới : 3013400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 18:40:00--------
+- Name : truong34
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 3013400
+- Lượng Mới : 3008400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 18:40:03--------
+- Name : truong34
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 3008400
+- Lượng Mới : 3003400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 18:40:05--------
+- Name : truong34
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 3003400
+- Lượng Mới : 2998400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 18:40:21--------
+- Name : truong34
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 2998400
+- Lượng Mới : 2993400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 18:40:25--------
+- Name : truong34
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 2993400
+- Lượng Mới : 2988400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 18:40:28--------
+- Name : truong34
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 2988400
+- Lượng Mới : 2983400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 18:40:31--------
+- Name : truong34
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 2983400
+- Lượng Mới : 2978400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 18:40:34--------
+- Name : truong34
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 2978400
+- Lượng Mới : 2973400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 18:40:38--------
+- Name : truong34
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 2973400
+- Lượng Mới : 2968400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 18:40:41--------
+- Name : truong34
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 2968400
+- Lượng Mới : 2963400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 18:40:44--------
+- Name : truong34
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 2963400
+- Lượng Mới : 2958400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 18:40:47--------
+- Name : truong34
+- Tên Giao Dịch :  Nâng Tờ 500k 
+- Lượng Cũ : 2958400
+- Lượng Mới : 2953400
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 18:45:29--------
+- Name : truong34
+- Tên Giao Dịch :  Luyện Bí Kíp 
+- Lượng Cũ : 2952400
+- Lượng Mới : 2951400
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 18:45:52--------
+- Name : truong34
+- Tên Giao Dịch :  Luyện Bí Kíp 
+- Lượng Cũ : 2951400
+- Lượng Mới : 2950400
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 18:46:08--------
+- Name : truong34
+- Tên Giao Dịch :  Luyện Bí Kíp 
+- Lượng Cũ : 2950400
+- Lượng Mới : 2949400
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 18:46:19--------
+- Name : truong34
+- Tên Giao Dịch :  Luyện Bí Kíp 
+- Lượng Cũ : 2949400
+- Lượng Mới : 2948400
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 18:48:31--------
+- Name : anmayluon
+- Tên Giao Dịch :  Điểm Danh Hằng Ngày
+- Lượng Cũ : 476453
+- Lượng Mới : 477453
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-10-09 19:49:20--------
+- Name : napgan1ty
+- Tên Giao Dịch :  Nhập GiftCode : baotri2
+- Lượng Cũ : 1731671
+- Lượng Mới : 2231671
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 20:04:31--------
+- Name : thangchonay
+- Tên Giao Dịch :  Nhập GiftCode : baotri2
+- Lượng Cũ : 2236370
+- Lượng Mới : 2736370
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 20:10:29--------
+- Name : moiduamotdap14
+- Tên Giao Dịch :  Điểm Danh Hằng Ngày
+- Lượng Cũ : 1435500
+- Lượng Mới : 1436500
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-10-09 20:45:22--------
+- Name : 112344
+- Tên Giao Dịch :  Nhập GiftCode : baotri2
+- Lượng Cũ : 812819
+- Lượng Mới : 1312819
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 21:12:34--------
+- Name : acquydianguc
+- Tên Giao Dịch :  Nhập GiftCode : newupdate
+- Lượng Cũ : 1155637
+- Lượng Mới : 1355637
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 21:12:53--------
+- Name : acquydianguc
+- Tên Giao Dịch :  Nhập GiftCode : baotri2
+- Lượng Cũ : 1355637
+- Lượng Mới : 1855637
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 21:14:00--------
+- Name : kingdrag
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 18315248
+- Lượng Mới : 17515248
+- Lượng Thay Đổi :-800000 Lượng 
+----------Thời Gian : 2024-10-09 21:14:03--------
+- Name : kingdrag
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 17515248
+- Lượng Mới : 16715248
+- Lượng Thay Đổi :-800000 Lượng 
+----------Thời Gian : 2024-10-09 21:14:08--------
+- Name : kingdrag
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 16715248
+- Lượng Mới : 15915248
+- Lượng Thay Đổi :-800000 Lượng 
+----------Thời Gian : 2024-10-09 21:14:11--------
+- Name : kingdrag
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 15915248
+- Lượng Mới : 15115248
+- Lượng Thay Đổi :-800000 Lượng 
+----------Thời Gian : 2024-10-09 21:14:15--------
+- Name : kingdrag
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 15115248
+- Lượng Mới : 14315248
+- Lượng Thay Đổi :-800000 Lượng 
+----------Thời Gian : 2024-10-09 21:14:16--------
+- Name : kingdrag
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 14315248
+- Lượng Mới : 13515248
+- Lượng Thay Đổi :-800000 Lượng 
+----------Thời Gian : 2024-10-09 21:14:18--------
+- Name : kingdrag
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 13515248
+- Lượng Mới : 12715248
+- Lượng Thay Đổi :-800000 Lượng 
+----------Thời Gian : 2024-10-09 21:14:23--------
+- Name : kingdrag
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 12715248
+- Lượng Mới : 11915248
+- Lượng Thay Đổi :-800000 Lượng 
+----------Thời Gian : 2024-10-09 21:14:27--------
+- Name : kingdrag
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 11915248
+- Lượng Mới : 11115248
+- Lượng Thay Đổi :-800000 Lượng 
+----------Thời Gian : 2024-10-09 21:14:35--------
+- Name : kingdrag
+- Tên Giao Dịch :  Nâng pet 
+- Lượng Cũ : 11115248
+- Lượng Mới : 10315248
+- Lượng Thay Đổi :-800000 Lượng 
+----------Thời Gian : 2024-10-09 21:28:52--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 1011327
+- Lượng Mới : 511327
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 21:31:09--------
+- Name : yeu1em
+- Tên Giao Dịch :  Luyện Ngọc Lưu Ly 
+- Lượng Cũ : 511327
+- Lượng Mới : 11327
+- Lượng Thay Đổi :-500000 Lượng 
+----------Thời Gian : 2024-10-09 21:31:17--------
+- Name : tpakja
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 250000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 21:31:44--------
+- Name : tpakja
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 500000
+- Lượng Mới : 600000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 21:33:07--------
+- Name : tpakjajg
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 250000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 21:33:19--------
+- Name : tpakjajg
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 500000
+- Lượng Mới : 600000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 21:33:59--------
+- Name : tpakjajgp
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 250000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 21:34:08--------
+- Name : tpakjajgp
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 500000
+- Lượng Mới : 600000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 21:35:18--------
+- Name : tpakjajgpt
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 250000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 21:35:27--------
+- Name : tpakjajgpt
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 500000
+- Lượng Mới : 600000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 21:38:09--------
+- Name : ngocmiu
+- Tên Giao Dịch :  Nhập GiftCode : baotri2
+- Lượng Cũ : 2792437
+- Lượng Mới : 3292437
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 21:38:36--------
+- Name : ngocmiu
+- Tên Giao Dịch :  Nhập GiftCode : chuyensinh
+- Lượng Cũ : 3292437
+- Lượng Mới : 3492437
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 21:40:47--------
+- Name : ngocmiu
+- Tên Giao Dịch :  Nhập GiftCode : codedaubuoi
+- Lượng Cũ : 3492437
+- Lượng Mới : 3542437
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 21:46:05--------
+- Name : tpakjajgptj
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 250000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 21:46:16--------
+- Name : tpakjajgptj
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 500000
+- Lượng Mới : 600000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 21:47:01--------
+- Name : tpakjajgptjg
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 250000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 21:47:11--------
+- Name : tpakjajgptjg
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 500000
+- Lượng Mới : 600000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 21:47:53--------
+- Name : tpakjajgptjgt
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 250000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 21:48:05--------
+- Name : tpakjajgptjgt
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 500000
+- Lượng Mới : 600000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 21:48:11--------
+- Name : trumtieutoichoi
+- Tên Giao Dịch :  Nhập GiftCode : baotri2
+- Lượng Cũ : 590845
+- Lượng Mới : 1090845
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 21:48:48--------
+- Name : tpakjajgptjgtp
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 250000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 21:48:58--------
+- Name : tpakjajgptjgtp
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 500000
+- Lượng Mới : 600000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 21:49:38--------
+- Name : tpakjajgptjgtpp
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 250000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 21:49:54--------
+- Name : tpakjajgptjgtpp
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 500000
+- Lượng Mới : 600000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 21:52:05--------
+- Name : tpakag
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 250000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 21:52:22--------
+- Name : tpakag
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 500000
+- Lượng Mới : 600000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 21:53:39--------
+- Name : tpakagp
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 250000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 21:53:48--------
+- Name : tpakagp
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 500000
+- Lượng Mới : 600000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 21:55:12--------
+- Name : tpakagpg
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 250000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 21:55:41--------
+- Name : tpakagpg
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 500000
+- Lượng Mới : 600000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 21:56:23--------
+- Name : tpakagpgg
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 250000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 21:56:36--------
+- Name : tpakagpgg
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 500000
+- Lượng Mới : 600000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 21:57:34--------
+- Name : tpakagpggp
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 250000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 21:57:47--------
+- Name : tpakagpggp
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 500000
+- Lượng Mới : 600000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 21:58:37--------
+- Name : tpakagpggpp
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 250000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 21:58:48--------
+- Name : tpakagpggpp
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 500000
+- Lượng Mới : 600000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 21:59:42--------
+- Name : tpakagpggppg
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 250000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 21:59:51--------
+- Name : tpakagpggppg
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 500000
+- Lượng Mới : 600000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 22:00:44--------
+- Name : tpakagpggppgp
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 250000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 22:00:54--------
+- Name : tpakagpggppgp
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 500000
+- Lượng Mới : 600000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 22:01:35--------
+- Name : tpakagpggppp
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 250000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 22:01:43--------
+- Name : tpakagpggppp
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 500000
+- Lượng Mới : 600000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 22:02:46--------
+- Name : tpakagpggpppp
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 250000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 22:02:54--------
+- Name : tpakagpggpppp
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 500000
+- Lượng Mới : 600000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 22:03:50--------
+- Name : tpakagpggppppp
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 250000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 22:04:00--------
+- Name : tpakagpggppppp
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 500000
+- Lượng Mới : 600000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 22:04:47--------
+- Name : tpakagpggpppppt
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 250000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 22:04:56--------
+- Name : tpakagpggpppppt
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 500000
+- Lượng Mới : 600000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 22:05:50--------
+- Name : tpakaga
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 250000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 22:06:00--------
+- Name : tpakaga
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 500000
+- Lượng Mới : 600000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 22:06:57--------
+- Name : tpakagap
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 0
+- Lượng Mới : 250000
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 22:07:09--------
+- Name : tpakagap
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 500000
+- Lượng Mới : 600000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 22:10:40--------
+- Name : minmattroi
+- Tên Giao Dịch :  Nhập GiftCode : daubuoi
+- Lượng Cũ : 0
+- Lượng Mới : 20000
+- Lượng Thay Đổi :20000 Lượng 
+----------Thời Gian : 2024-10-09 22:11:13--------
+- Name : minmattroi
+- Tên Giao Dịch :  Nhập GiftCode : fancung
+- Lượng Cũ : 20000
+- Lượng Mới : 40000
+- Lượng Thay Đổi :20000 Lượng 
+----------Thời Gian : 2024-10-09 22:11:23--------
+- Name : bimbiim
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 217552505
+- Lượng Mới : 217547505
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 22:11:30--------
+- Name : bimbiim
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 217547505
+- Lượng Mới : 217542505
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 22:11:38--------
+- Name : bimbiim
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 217542505
+- Lượng Mới : 217537505
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 22:11:44--------
+- Name : minmattroi
+- Tên Giao Dịch :  Nhập GiftCode : livegamenso
+- Lượng Cũ : 40000
+- Lượng Mới : 140000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 22:11:44--------
+- Name : bimbiim
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 217537505
+- Lượng Mới : 217532505
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 22:11:56--------
+- Name : bimbiim
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 217532505
+- Lượng Mới : 217527505
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 22:11:57--------
+- Name : minmattroi
+- Tên Giao Dịch :  Nhập GiftCode : tanthu
+- Lượng Cũ : 140000
+- Lượng Mới : 240000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 22:12:03--------
+- Name : bimbiim
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 217527505
+- Lượng Mới : 217522505
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 22:12:09--------
+- Name : minmattroi
+- Tên Giao Dịch :  Nhập GiftCode : trungthu
+- Lượng Cũ : 240000
+- Lượng Mới : 740000
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 22:12:13--------
+- Name : bimbiim
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 217522505
+- Lượng Mới : 217517505
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 22:12:23--------
+- Name : minmattroi
+- Tên Giao Dịch :  Nhập GiftCode : uplevel
+- Lượng Cũ : 740000
+- Lượng Mới : 840000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 22:12:26--------
+- Name : bimbiim
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 217517505
+- Lượng Mới : 217512505
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 22:12:33--------
+- Name : bimbiim
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 217512505
+- Lượng Mới : 217507505
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 22:12:40--------
+- Name : bimbiim
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 217507505
+- Lượng Mới : 217502505
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 22:12:40--------
+- Name : minmattroi
+- Tên Giao Dịch :  Nhập GiftCode : sucdaubuoi
+- Lượng Cũ : 840000
+- Lượng Mới : 940000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 22:12:46--------
+- Name : bimbiim
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 217502505
+- Lượng Mới : 217497505
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 22:12:56--------
+- Name : minmattroi
+- Tên Giao Dịch :  Nhập GiftCode : sucdaubuoix2
+- Lượng Cũ : 940000
+- Lượng Mới : 1040000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 22:12:59--------
+- Name : bimbiim
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 217497505
+- Lượng Mới : 217492505
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 22:13:07--------
+- Name : minmattroi
+- Tên Giao Dịch :  Nhập GiftCode : sucdaubuoix3
+- Lượng Cũ : 1040000
+- Lượng Mới : 1140000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 22:13:15--------
+- Name : minmattroi
+- Tên Giao Dịch :  Nhập GiftCode : 2309
+- Lượng Cũ : 1140000
+- Lượng Mới : 1240000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 22:13:16--------
+- Name : bimbiim
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 217492505
+- Lượng Mới : 217487505
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 22:13:23--------
+- Name : bimbiim
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 217487505
+- Lượng Mới : 217482505
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 22:13:24--------
+- Name : minmattroi
+- Tên Giao Dịch :  Nhập GiftCode : 2509
+- Lượng Cũ : 1240000
+- Lượng Mới : 1340000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 22:13:30--------
+- Name : bimbiim
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 217482505
+- Lượng Mới : 217477505
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 22:13:36--------
+- Name : bimbiim
+- Tên Giao Dịch :  Luyện Tờ 500k 
+- Lượng Cũ : 217477505
+- Lượng Mới : 217472505
+- Lượng Thay Đổi :-5000 Lượng 
+----------Thời Gian : 2024-10-09 22:14:14--------
+- Name : minmattroi
+- Tên Giao Dịch :  Nhập GiftCode : baotri
+- Lượng Cũ : 1340000
+- Lượng Mới : 1540000
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 22:14:26--------
+- Name : minmattroi
+- Tên Giao Dịch :  Nhập GiftCode : baotri2
+- Lượng Cũ : 1540000
+- Lượng Mới : 2040000
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 22:14:42--------
+- Name : minmattroi
+- Tên Giao Dịch :  Nhập GiftCode : chuyensinh
+- Lượng Cũ : 2040000
+- Lượng Mới : 2240000
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 22:14:52--------
+- Name : minmattroi
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 2240000
+- Lượng Mới : 2340000
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 22:15:10--------
+- Name : minmattroi
+- Tên Giao Dịch :  Nhập GiftCode : newupdate
+- Lượng Cũ : 2340000
+- Lượng Mới : 2540000
+- Lượng Thay Đổi :200000 Lượng 
+----------Thời Gian : 2024-10-09 22:31:25--------
+- Name : minmattroi
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 10
+- Lượng Cũ : 2529874
+- Lượng Mới : 2530874
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-10-09 22:31:28--------
+- Name : minmattroi
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 20
+- Lượng Cũ : 2530874
+- Lượng Mới : 2532874
+- Lượng Thay Đổi :2000 Lượng 
+----------Thời Gian : 2024-10-09 22:31:30--------
+- Name : minmattroi
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 30
+- Lượng Cũ : 2532874
+- Lượng Mới : 2535874
+- Lượng Thay Đổi :3000 Lượng 
+----------Thời Gian : 2024-10-09 22:31:33--------
+- Name : minmattroi
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 40
+- Lượng Cũ : 2535874
+- Lượng Mới : 2539874
+- Lượng Thay Đổi :4000 Lượng 
+----------Thời Gian : 2024-10-09 22:33:03--------
+- Name : minmattroi
+- Tên Giao Dịch :  Nhận Qùa Tân Thủ
+- Lượng Cũ : 2539824
+- Lượng Mới : 2789824
+- Lượng Thay Đổi :50000 Lượng 
+----------Thời Gian : 2024-10-09 22:33:09--------
+- Name : minmattroi
+- Tên Giao Dịch :  Điểm Danh Hằng Ngày
+- Lượng Cũ : 3039824
+- Lượng Mới : 3040824
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-10-09 22:52:48--------
+- Name : kingdrag
+- Tên Giao Dịch :  Nhập GiftCode : denbu
+- Lượng Cũ : 10699308
+- Lượng Mới : 10799308
+- Lượng Thay Đổi :100000 Lượng 
+----------Thời Gian : 2024-10-09 22:53:02--------
+- Name : kingdrag
+- Tên Giao Dịch :  Nhập GiftCode : daubuoi
+- Lượng Cũ : 10799308
+- Lượng Mới : 10819308
+- Lượng Thay Đổi :20000 Lượng 
+----------Thời Gian : 2024-10-09 22:54:19--------
+- Name : kingdrag
+- Tên Giao Dịch :  Nhập GiftCode : fancung
+- Lượng Cũ : 10819308
+- Lượng Mới : 10839308
+- Lượng Thay Đổi :20000 Lượng 
+----------Thời Gian : 2024-10-09 22:58:05--------
+- Name : minmattroi
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 50
+- Lượng Cũ : 3035824
+- Lượng Mới : 3040824
+- Lượng Thay Đổi :5000 Lượng 
+----------Thời Gian : 2024-10-09 22:58:08--------
+- Name : minmattroi
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 60
+- Lượng Cũ : 3040824
+- Lượng Mới : 3046824
+- Lượng Thay Đổi :6000 Lượng 
+----------Thời Gian : 2024-10-09 22:58:10--------
+- Name : minmattroi
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 20
+- Lượng Cũ : 3046824
+- Lượng Mới : 3053824
+- Lượng Thay Đổi :7000 Lượng 
+----------Thời Gian : 2024-10-09 23:00:22--------
+- Name : kiem1st
+- Tên Giao Dịch :  Nhập GiftCode : baotri2
+- Lượng Cũ : 2881003
+- Lượng Mới : 3381003
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 23:01:04--------
+- Name : nhimxu
+- Tên Giao Dịch :  Nhập GiftCode : baotri2
+- Lượng Cũ : 2473348
+- Lượng Mới : 2973348
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 23:06:59--------
+- Name : minmattroi
+- Tên Giao Dịch :  Luyện Bí Kíp 
+- Lượng Cũ : 3053824
+- Lượng Mới : 3052824
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 23:18:44--------
+- Name : 2tay2em
+- Tên Giao Dịch :  Điểm Danh Hằng Ngày
+- Lượng Cũ : 1848500
+- Lượng Mới : 1849500
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-10-09 23:21:29--------
+- Name : minmattroi
+- Tên Giao Dịch :  Luyện Bí Kíp 
+- Lượng Cũ : 3049772
+- Lượng Mới : 3048772
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 23:50:45--------
+- Name : bigboi
+- Tên Giao Dịch :  Nhập GiftCode : baotri2
+- Lượng Cũ : 2124507
+- Lượng Mới : 2624507
+- Lượng Thay Đổi :500000 Lượng 
+----------Thời Gian : 2024-10-09 23:55:40--------
+- Name : abczzz
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 10
+- Lượng Cũ : 2976950
+- Lượng Mới : 2977950
+- Lượng Thay Đổi :1000 Lượng 
+----------Thời Gian : 2024-10-09 23:55:43--------
+- Name : abczzz
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 20
+- Lượng Cũ : 2977950
+- Lượng Mới : 2979950
+- Lượng Thay Đổi :2000 Lượng 
+----------Thời Gian : 2024-10-09 23:55:46--------
+- Name : abczzz
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 30
+- Lượng Cũ : 2979950
+- Lượng Mới : 2982950
+- Lượng Thay Đổi :3000 Lượng 
+----------Thời Gian : 2024-10-09 23:55:49--------
+- Name : abczzz
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 20
+- Lượng Cũ : 2982950
+- Lượng Mới : 2989950
+- Lượng Thay Đổi :7000 Lượng 
+----------Thời Gian : 2024-10-09 23:55:52--------
+- Name : abczzz
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 60
+- Lượng Cũ : 2989950
+- Lượng Mới : 2995950
+- Lượng Thay Đổi :6000 Lượng 
+----------Thời Gian : 2024-10-09 23:55:55--------
+- Name : abczzz
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 50
+- Lượng Cũ : 2995950
+- Lượng Mới : 3000950
+- Lượng Thay Đổi :5000 Lượng 
+----------Thời Gian : 2024-10-09 23:55:58--------
+- Name : abczzz
+- Tên Giao Dịch :  Nhận Qùa Thăng Cấp Level 40
+- Lượng Cũ : 3000950
+- Lượng Mới : 3004950
+- Lượng Thay Đổi :4000 Lượng 
+----------Thời Gian : 2024-10-09 23:56:40--------
+- Name : abczzz
+- Tên Giao Dịch :  Luyện pet 
+- Lượng Cũ : 3004950
+- Lượng Mới : 3003950
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 23:57:05--------
+- Name : abczzz
+- Tên Giao Dịch :  Luyện pet 
+- Lượng Cũ : 3003950
+- Lượng Mới : 3002950
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 23:57:17--------
+- Name : abczzz
+- Tên Giao Dịch :  Luyện pet 
+- Lượng Cũ : 3002950
+- Lượng Mới : 3001950
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 23:57:27--------
+- Name : abczzz
+- Tên Giao Dịch :  Luyện pet 
+- Lượng Cũ : 3001950
+- Lượng Mới : 3000950
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 23:57:41--------
+- Name : abczzz
+- Tên Giao Dịch :  Luyện pet 
+- Lượng Cũ : 3000950
+- Lượng Mới : 2999950
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 23:57:52--------
+- Name : abczzz
+- Tên Giao Dịch :  Luyện pet 
+- Lượng Cũ : 2999950
+- Lượng Mới : 2998950
+- Lượng Thay Đổi :-1000 Lượng 
+----------Thời Gian : 2024-10-09 23:58:04--------
+- Name : abczzz
+- Tên Giao Dịch :  Luyện pet 
+- Lượng Cũ : 2998950
+- Lượng Mới : 2997950
+- Lượng Thay Đổi :-1000 Lượng 

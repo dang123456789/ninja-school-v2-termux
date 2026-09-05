@@ -1,0 +1,10 @@
+build/
+dist/
+*.log
+*.class
+ninja.conf.bak
+.idea/
+.vscode/
+
+# Large archive
+res/assets.rar
