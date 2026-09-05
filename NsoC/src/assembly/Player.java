@@ -86,6 +86,9 @@ public class Player extends User {
                         return null;
                     } else {
                         JSONArray jarr = (JSONArray) JSONValue.parse(red.getString("ninja"));
+                        if (jarr == null) {
+                            jarr = new JSONArray();
+                        }
                         Player p = Client.gI().getPlayer(user);
                         if (p != null) {
                             if (p.c != null && p.c.tileMap != null) {

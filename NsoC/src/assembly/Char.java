@@ -763,8 +763,13 @@ public class Char extends Body {
                     if (jar != null) {
                         for (j = 0; j < jar.size(); ++j) {
                             job2 = (JSONObject) jar.get(j);
+                            if (job2 == null || job2.get("index") == null) {
+                                continue;
+                            }
                             index = Byte.parseByte(job2.get("index").toString());
-                            nja.ItemBag[index] = ItemTemplate.parseItem(jar.get(j).toString());
+                            if (index >= 0 && index < nja.ItemBag.length) {
+                                nja.ItemBag[index] = ItemTemplate.parseItem(jar.get(j).toString());
+                            }
                             job2.clear();
                         }
                     }
